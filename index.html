@@ -1,0 +1,2721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="An archive of curated evidence, reconstruction, and court records pertaining to the Russell v. Walsh litigation and constitutional stakes.">
+  <meta property="og:title" content="Chappaqua Poison">
+  <meta property="og:description" content="Archive of evidence and court records">
+  <meta property="og:image" content="./images/og-banner.png">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#0F1116">
+  <meta name="color-scheme" content="dark">
+
+  <title>Home | Chappaqua Poison</title>
+
+  <!-- Canonical URL -->
+<link rel="canonical" href="https://chappaquapoison.com">
+  <!-- Favicon -->
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+
+  <!-- Feed (disabled until feed.xml generation is implemented) -->
+  <!-- <link rel="alternate" type="application/atom+xml" title="Chappaqua Poison Feed" href="./feed.xml"> -->
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;600&family=Source+Serif+4:wght@400;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+
+  <!-- Design Tokens CSS -->
+  <link rel="stylesheet" href="./css/tokens.css">
+
+  <!-- Print Stylesheet -->
+  <link rel="stylesheet" href="./css/print.css" media="print">
+
+  <!-- Extra head content (JSON-LD, etc.) -->
+
+  <!-- Minimal Critical CSS for above-the-fold -->
+  <style>
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--color-deep-charcoal);
+      color: var(--color-body-text-dark);
+      font-family: var(--font-body);
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: var(--color-link-default);
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
+      transition: color 0.2s ease-in-out;
+    }
+
+    a:hover {
+      color: var(--color-link-hover);
+    }
+
+    a:visited {
+      color: var(--color-link-visited);
+    }
+
+    /* Skip to Content Link */
+    .skip-to-content {
+      position: absolute;
+      top: -40px;
+      left: 0;
+      background: var(--color-muted-amber);
+      color: var(--color-deep-charcoal);
+      padding: 8px 16px;
+      text-decoration: none;
+      border: none;
+      z-index: 100;
+    }
+
+    .skip-to-content:focus {
+      top: 0;
+    }
+
+    /* Header */
+    header {
+      background-color: var(--color-deep-charcoal);
+      border-bottom: 1px solid var(--color-slate-blue-gray);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      padding: 16px 0;
+      isolation: isolate;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .site-title {
+      font-family: var(--font-heading);
+      font-size: 20px;
+      font-weight: 700;
+      margin: 0;
+      color: var(--color-body-text-dark);
+    }
+
+    .site-title a {
+      color: inherit;
+      border: none;
+    }
+
+    .header-nav {
+      display: flex;
+      gap: 32px;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header-nav a {
+      font-family: var(--font-ui);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .header-nav a.nav-active {
+      color: var(--color-muted-amber);
+      border-bottom: 2px solid var(--color-muted-amber);
+      padding-bottom: 2px;
+    }
+
+    /* Main Content */
+    main {
+      min-height: calc(100vh - 200px);
+      padding: 40px 20px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .content-wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 var(--layout-padding);
+    }
+
+    /* Footer */
+    footer {
+      background-color: var(--color-slate-blue-gray);
+      border-top: 1px solid var(--color-phase-divider);
+      padding: 40px 20px;
+      margin-top: 64px;
+      color: var(--color-muted-caption);
+      font-family: var(--font-ui);
+      font-size: 13px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+
+    .footer-content {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 32px;
+      margin-bottom: 32px;
+    }
+
+    .footer-section h3 {
+      font-family: var(--font-ui);
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin: 0 0 16px 0;
+      color: var(--color-body-text-dark);
+    }
+
+    .footer-section ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-section li {
+      margin-bottom: 8px;
+    }
+
+    .footer-section a {
+      font-size: 13px;
+    }
+
+    .footer-bottom {
+      border-top: 1px solid var(--color-phase-divider);
+      padding-top: 24px;
+      font-size: 12px;
+      text-align: center;
+    }
+
+    /* Mobile Menu Toggle */
+    .mobile-menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 8px;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .hamburger-line {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background-color: var(--color-body-text-dark);
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(2) {
+      opacity: 0;
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-inner {
+        padding: 0 20px;
+        flex-wrap: wrap;
+      }
+
+      .mobile-menu-toggle {
+        display: flex;
+      }
+
+      .header-nav {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        gap: 0;
+        padding: 12px 0 4px;
+      }
+
+      .header-nav.is-open {
+        display: flex;
+      }
+
+      .header-nav li {
+        list-style: none;
+      }
+
+      .header-nav a {
+        display: block;
+        padding: 12px 0;
+        font-size: 14px;
+        border-bottom: 1px solid var(--color-phase-divider);
+      }
+
+      .header-nav li:last-child a {
+        border-bottom: none;
+      }
+
+      .content-wrapper {
+        padding: 0 16px;
+      }
+
+      main {
+        padding: 24px 0;
+      }
+
+      .footer-inner {
+        padding: 0 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a href="#main-content" class="skip-to-content">Skip to content</a>
+
+  <header>
+    <div class="header-inner">
+      <h1 class="site-title">
+        <a href="./index.html">Chappaqua Poison</a>
+      </h1>
+      <nav>
+        <ul class="header-nav">
+          <li><a href="./about.html">About</a></li>
+          <li><a href="./timeline.html">Timeline</a></li>
+          <li><a href="./evidence.html">Evidence</a></li>
+          <li><a href="./book.html">Book</a></li>
+          <li><a href="./legal.html">Legal</a></li>
+          <li><a href="./search.html">Search</a></li>
+        </ul>
+      </nav>
+      <button class="mobile-menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main-content">
+<div class="homepage">
+  <!-- Hero Banner with Integrated Purpose Statement -->
+  <section class="banner-statement">
+    <div class="hero-image-container">
+      <img src="./images/CP_Hero_Book.jpg" alt="Chappaqua Poison — An American Tragedy. A hardcover book on a dark wood table with a compass bookmark." class="hero-image">
+      <div class="hero-overlay">
+        <div class="content-wrapper">
+          <h1 class="banner-title">Chappaqua Poison</h1>
+          <p class="banner-description">
+            A documentary archive reconstructed from court filings, sworn testimony, discovery materials, and public records. Every claim is sourced. Every document is linkable. The archive is accountable in a way litigation cannot always be.
+          </p>
+          <div class="banner-meta">
+            <span class="meta-item">53 Chapters</span>
+            <span class="meta-divider">&middot;</span>
+            <span class="meta-item">1990s&ndash;2026</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Posts Feed -->
+  <section class="post-feed">
+    <div class="content-wrapper">
+      <div class="feed-header">
+        <h2 class="section-title">Chapters</h2>
+        <button class="order-btn" id="order-toggle" aria-label="Reverse chapter order">
+          <span class="order-btn-label">Chapter 1 First</span>
+          <span class="order-btn-arrow">&#9660;</span>
+        </button>
+      </div>
+
+      <div class="post-grid" id="post-grid">
+        <article class="post-card">
+          <a href="./posts/B00.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B00_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Prelude</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B00.html">Someone at the Gate</a>
+            </h3>
+            <p class="post-card-summary">A court-ordered exchange at dusk. A blacked-out SUV. Two men in camouflage. A child in the back seat. A court supervisor who filed an affidavit and was removed from the case.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2019</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B01.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B01_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 1</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B01.html">The Fool</a>
+            </h3>
+            <p class="post-card-summary">A man walks into the Kremlin without credentials during Victory Day. No one stops him. The digital record survived.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">May 2010</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B02.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B02_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 2</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B02.html">The Girl on the Boat</a>
+            </h3>
+            <p class="post-card-summary">A boat on the Hudson. A girl in a red-and-white dress holding a chihuahua and a vape pen. She runs a handbag company and a marketing agency. Her clients are all in construction. Her friend got hit by a wrecking ball. So did she.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2014–2017</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B03.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B03_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 3</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B03.html">The Bite</a>
+            </h3>
+            <p class="post-card-summary">A weekend in the Hamptons. A dinner in white. A dog bite that became a fourth date. Riley the chihuahua was there — packed, planned, present. Three years later, the abuse journal would move Riley back to the city and rewrite every detail of this weekend. The photograph proves otherwise.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2013–2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B04.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B04_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 4</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B04.html">Tara Knoll</a>
+            </h3>
+            <p class="post-card-summary">Easter dinner at a house called Tara Knoll — Steve&#39;s only visit to the Walsh compound in Chappaqua. Walsh Sr. performs the patriarch. Michael counts change at the table. The sisters wear matching outfits. Brienne watches from a chair. Something about the family is off. He never went back.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2015–2017</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B05.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B05_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 5</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B05.html">Nothing Stolen</a>
+            </h3>
+            <p class="post-card-summary">Power cut to one unit. Neighbors still have theirs. The electrical closet forced open, hinges removed. Drill holes in the walls. Nothing stolen. The intrusion itself was the point.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2015–2017</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B06.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B06_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 6</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B06.html">The Illness</a>
+            </h3>
+            <p class="post-card-summary">Something is wrong with Steve. Conflicting diagnoses. Tara moves in to take care of him. The symptoms don&#39;t match any single explanation. Neither does her attentiveness.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">Pre-2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B07.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B07_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 7</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B07.html">The Wine Bottle</a>
+            </h3>
+            <p class="post-card-summary">She threw a wine bottle at his head. The relationship ends. Or it should have. The breakup has the shape of a Gone Girl exit — perfect victim, perfect villain, nothing quite adding up.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2017–2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B08.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B08_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 8</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B08.html">The Ultrasound</a>
+            </h3>
+            <p class="post-card-summary">She calls months after the breakup. She&#39;s pregnant. The baby changes everything — or is supposed to. The reconciliation has the architecture of a con: create the crisis, offer the solution, own the outcome.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">May–December 2017</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B09.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B09_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 9</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B09.html">The Brooklyn Apartment</a>
+            </h3>
+            <p class="post-card-summary">Tara finds an apartment in a mob neighborhood down the street from her sister. She asks Steve to come help look at places for the baby. He goes to the hospital instead. The door closes behind him.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2016–2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B10.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B10_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 10</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B10.html">The Builder</a>
+            </h3>
+            <p class="post-card-summary">He leaves New York. Gets a driver. Returns to work. Ring is growing — Kleiner money, Ukraine team producing, Amazon watching. Jamie wants more than Steve can give. Prism gets caught in the middle. He meets a woman named Kelly at a ranch that used to belong to the painter of cottages. For a while, life is normal. Then two catastrophes collide.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2017</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B11.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B11_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 11</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B11.html">Eleven O&#39;Clock</a>
+            </h3>
+            <p class="post-card-summary">Steve flies to New York with his security team ahead of Evie&#39;s birth. Tamper screws set to eleven o&#39;clock. NYPD drivers on shift. The birth of his daughter is being planned alongside logistics that have nothing to do with joy.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">January 2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B12.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B12_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 12</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B12.html">January 27, 2018</a>
+            </h3>
+            <p class="post-card-summary">Evie is born by emergency C-section. Steve sleeps in a chair for four days. The Walsh family fills the corridors. Then Tara gives him Adderall, and the fog returns.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2017–2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B14.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B14_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 13</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B14.html">The Morning After</a>
+            </h3>
+            <p class="post-card-summary">He returns to the Brooklyn apartment after four days in a hospital chair. The tamper screws have moved. The air smells wrong. Something adhesive settles on his face. Then Tara and her father arrive and tell him to leave.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">January 2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B15.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B15_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 14</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B15.html">The Sheraton</a>
+            </h3>
+            <p class="post-card-summary">A chaotic sequence of locations after leaving the Brooklyn apartment. Motel 6. A rest stop meeting. An evidence box with items missing. A local officer&#39;s warning: don&#39;t trust anyone.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">February 2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B16.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B16_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 15</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B16.html">Terms</a>
+            </h3>
+            <p class="post-card-summary">Weeks of phone calls from San Francisco to New York. Tara blames her parents. Tara promises cooperation. Tara asks about finances. Then she asks for a private jet.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">July 2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B17.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B17_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 16</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B17.html">The Jet</a>
+            </h3>
+            <p class="post-card-summary">A private jet carries Evie from Teterboro to San Francisco. Steve waits at the other end. What he cannot see — what is happening simultaneously in text threads with Jesse, Matan, and Walsh Sr. — is that Tara has planned the exit before the arrival.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B18.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B18_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 17</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B18.html">Save This, I&#39;ve Got Him</a>
+            </h3>
+            <p class="post-card-summary">A three-level townhouse. A nanny. Steve&#39;s mother helping with the baby. For a brief period it feels almost ordinary. Then Tara smashes a phone against the wall and photographs a bruise.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B19.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B19_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 18</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B19.html">The Leaning Tower</a>
+            </h3>
+            <p class="post-card-summary">Steve moves into a sinking building and goes to the police. The building absorbs its lean internally. So does the investigation.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2018</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B20.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B20_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 19</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B20.html">The Niacin Flush</a>
+            </h3>
+            <p class="post-card-summary">A wine-and-art event. Two women who walk past the table too many times. Fifteen minutes later, his skin turns red and his body heats up. Tara records the entire episode. He recognizes the feeling from exercise supplements: niacin.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2018–2019</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B21.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B21_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 20</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B21.html">She Asked Me to Put Drugs in Your Wine</a>
+            </h3>
+            <p class="post-card-summary">The nanny approaches Steve in the kitchen: &#39;This will probably get me fired.&#39; She has a brother in the FBI. Her brother told her to tell Steve immediately. Tara has been putting Seroquel in Steve&#39;s wine. Her response: &#39;I do it all the time.&#39; Then &#39;We all do it.&#39; Then &#39;They did it.&#39; In her text to Dr. Gopal that night, Tara buries the admission inside a complaint about the nanny. In her sworn court filing, the number becomes two. The confession shrank. The witness chose silence a year later.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2018–2020</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B22.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B22_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 21</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B22.html">&#34;You Almost Made Me Abandon Our Daughter&#34;</a>
+            </h3>
+            <p class="post-card-summary">A message arrives from Tara. Dramatic, accusatory, the kind of thing she sends often enough that it reads like noise. The phrase about abandoning their daughter is a warning. Steve doesn&#39;t recognize it yet.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2019–2020</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B23.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B23_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 22</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B23.html">The Uber</a>
+            </h3>
+            <p class="post-card-summary">Three months before the departure, Tara texts a friend asking to be kidnapped. On June 4, 2018, she walks out with Evie and calls an Uber to a bus zone. Bryan Crutcher jumps in the back seat. The recording captures everything — including Tara telling her father that police will arrest her for poisoning Steve. Walsh Sr. tells her to come home. Then agrees to conditions he later admits, under oath, he was never genuine about. Tara flies to New York and never returns.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2019</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B24.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B24_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 23</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B24.html">Crabtree&#39;s Kittle House</a>
+            </h3>
+            <p class="post-card-summary">The first supervised visit after the emergency order. Steve surrenders California jurisdiction to see his daughter. The grandparents bring Evie to a parking lot in Chappaqua. Maura refuses to let go. Walsh Sr. intervenes. The child calms in her father&#39;s arms and cries when she sees her grandmother.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2019–2020</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B25.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B25_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 24</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B25.html">A Special Relationship</a>
+            </h3>
+            <p class="post-card-summary">The court appoints a supervisor who promises integrity and transparency. She meets privately with Tara before the first visit, invites her to attend in violation of the court order, dismisses Steve&#39;s concerns about being poisoned, and tells him she has a special relationship with the judge. She charges $250 an hour. The judge who appointed her later admits she wanted Steve to die on his own sword.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2019</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B26.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B26_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 25</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B26.html">Sixteen Visits</a>
+            </h3>
+            <p class="post-card-summary">Sixteen visits. Five supervisors. Every observer reports the same thing: Steve is attentive, Evie is happy. The supervisors keep changing. The reports keep disappearing. The visits stop for five months. The court grants sole custody anyway.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2019–2020</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B27.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B27_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 26</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B27.html">The Bruises</a>
+            </h3>
+            <p class="post-card-summary">During Visit 15, Steve and two other adults discover bruises on Evie consistent with deliberate injury. Both parents report the bruises as concerning. Tara tells the Attorney for the Child. Steve tells his attorneys, and then the police. Within ten days, the story migrates three times — from concerning to normal to nonexistent — and the court accepts the final version. Months later, Tara&#39;s own attorney recuses from the case.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2020–2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B28.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B28_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 27</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B28.html">The Ambush</a>
+            </h3>
+            <p class="post-card-summary">The last supervised visit ends at dusk. At the gate, a blacked-out SUV. Two men in camouflage. The supervisor who documents what she saw is removed from the case. The judge recuses herself without comment. Steve never sees his daughter again.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2020–2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B29.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B29_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 28</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B29.html">The Memo</a>
+            </h3>
+            <p class="post-card-summary">Steve files a detailed memorandum describing the ambush, the supervision manipulation, and the historical abuse inside the Walsh household. The court destabilizes. The judge recuses. The case is reassigned.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B30.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B30_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 29</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B30.html">Aunt K</a>
+            </h3>
+            <p class="post-card-summary">Kelly Turnure is known through the record. She built the blog, compiled the evidence books, and wrote letters to three judges in three months. She helped Steve win the Ring case. She met Evie and became Aunt K. The system that ignored justice also ignored her. She lost a baby to Chappaqua poison.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B31.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B31_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 30</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B31.html">The Reno Bottle</a>
+            </h3>
+            <p class="post-card-summary">They open a bottle of wine from the Potrero Hill years. Both become extremely ill. Kelly is pregnant. She loses the baby. Testing reveals mycophenolic acid — an immunosuppressant for organ transplants — at seven times the normal range. Kelly&#39;s levels spike to fourteen times normal, then fall to zero. A single acute poisoning from a bottle that waited on a shelf for months.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B32.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B32_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 31</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B32.html">Five O&#39;Clock</a>
+            </h3>
+            <p class="post-card-summary">Kelly undergoes surgery. Steve&#39;s attorneys request remote appearance at a visitation conference. At five o&#39;clock the evening before, the court denies the request. He boards an overnight flight. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a five-year order of protection at what was scheduled as a status conference.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2021–2022</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B33.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B33_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 32</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B33.html">Two Defaults</a>
+            </h3>
+            <p class="post-card-summary">Steve seeks a Temporary Order of Protection in New York. The TOP is granted. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. A second default is entered. Judge Humphreys recuses himself.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2022</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B34.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B34_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 33</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B34.html">Four Discoveries</a>
+            </h3>
+            <p class="post-card-summary">The four poisoning discoveries placed side by side. Lithium in March 2017 — six times normal, no prescription. The Brooklyn night — dissociation, tampered medication, no sample preserved. Abby Tedla&#39;s confession — &#39;she did it all the time.&#39; The Reno bottle — mycophenolic acid at seven times the upper bound, in wine that had been sitting on a shelf for years. What looked like separate incidents becomes a single line drawn across four years and four substances.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2022</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B35.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B35_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 34</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B35.html">Equal Threats</a>
+            </h3>
+            <p class="post-card-summary">The case passes to a fourth judge. Schauer vacates the Horowitz default and issues two temporary orders of protection — one against each party. The poisoner and the poisoned are treated as symmetrical threats. Steve tells the court a permanent temporary order does not give him a chance to face his accuser. The court tells him he is muddying the record.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2022–2023</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B36.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B36_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 35</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B36.html">Grandma&#39;s Letter</a>
+            </h3>
+            <p class="post-card-summary">Steve asks the court to let his mother visit Evie instead. Linda Russell — a retired nurse who raised two sons who attended Stanford — drives thirteen hours round trip to Chappaqua. Walsh Sr. turns her away at the door. She persists. She gets the visits. She writes a letter to Judge Schauer documenting what she sees. Kelly publishes it on StevieLovesEvie.com.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2023</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B37.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B37_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 36</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B37.html">Erase, Deactivate, and Delete</a>
+            </h3>
+            <p class="post-card-summary">Jennifer Jackman resigns as Attorney for the Child without explanation. Her replacement files a motion to suppress all blog content. A visitation conference is converted into a gag order hearing. Steve is declared in default. Judge Schauer orders the blog removed — every post, every photograph, every grandmother&#39;s letter. The words are precise. Erase. Deactivate. Delete.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2023</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B38.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B38_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 37</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B38.html">Bora Bora</a>
+            </h3>
+            <p class="post-card-summary">His attorney was in the courtroom. He was not. The phone rang after. The voice on the other end sounded beaten. &#39;Well, that didn&#39;t go well.&#39; The orders were final.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2024–2025</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B39.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B39_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 38</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B39.html">Orders as Weapons</a>
+            </h3>
+            <p class="post-card-summary">The court orders leave the courthouse. Tara and the Walsh family circulate them to employers, friends, and journalists — presenting them as proof Steve is dangerous. Reporter Michaelanne Petrella receives a direct threat seventeen days before the gag order exists. Walsh Sr. threatens Steve&#39;s attorney by voicemail. The SFPD detective investigating the poisoning is neutralized by a court order hand-delivered by a party to the case.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2024–2026</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B40.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B40_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 39</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B40.html">We Were Hit</a>
+            </h3>
+            <p class="post-card-summary">Brienne Walsh had been writing about the household for years. Her deposition was taken September 29, 2020. Under oath, she confirmed the abuse. She confirmed the CPS calls. The family screamed at her for testifying. Her testimony was admitted at trial without objection.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2025–2026</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B41.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B41_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 40</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B41.html">Less Than Genuine</a>
+            </h3>
+            <p class="post-card-summary">Three years to arrange. Three days to conduct. Four depositions with one attorney. Coached amnesia, privacy walls, prepared performances — and one unguarded moment from the man who married in. &#34;They were aware of it. They were encouraging it, yeah.&#34;</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B42.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B42_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 41</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B42.html">The Kidnapping Case</a>
+            </h3>
+            <p class="post-card-summary">CGC-20-588105. Eight causes of action. Eighty-nine register entries. Three rejected defaults. One family gets the benefit of every procedural doubt. The other gets sanctioned four hundred dollars at a time.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2020–2025</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B43.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B43_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 42</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B43.html">The Remnant</a>
+            </h3>
+            <p class="post-card-summary">The Appellate Division, Second Department rules: the default did not occur. The blanket deletion order was not tailored as precisely as possible to the exact needs of the case. 214 A.D.3d 890. Two holdings that dismantle the foundation. The Family Court does not act.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2023</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B44.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B44_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 43</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B44.html">What Twelve People Saw</a>
+            </h3>
+            <p class="post-card-summary">The civil battery case reaches trial in San Francisco Superior Court. A different courtroom. Twelve neutral citizens. Abby Tedla testifies. Brienne&#39;s deposition is admitted without objection. The jury hears the full story for the first time.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2024–2026</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B45.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B45_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 44</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B45.html">What the Jury Found</a>
+            </h3>
+            <p class="post-card-summary">The verdict: battery, fraud, intentional infliction of emotional distress, domestic violence — with a finding of malice. Eleven to one. Approximately three hundred thousand dollars. The vote was not close.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2022</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B46.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B46_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 45</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B46.html">Affirmed</a>
+            </h3>
+            <p class="post-card-summary">Tara appeals the battery verdict. Three arguments. The appellate court finds none of them persuasive. The jury&#39;s findings survive review. The judgment is domesticated in the same county where the family court orders remain in effect.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2023</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B47.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B47_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 46</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B47.html">The Record Is Open</a>
+            </h3>
+            <p class="post-card-summary">After the verdict, after the appeal, the story becomes what institutions could not hold — a permanent archive. Five independent archives survived every silencing attempt. In December 2025, a motion arrived in Westchester asking a single question: were the orders that govern a child&#39;s life ever lawfully entered?</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2026</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B48.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B48_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 48</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B48.html">The Trap</a>
+            </h3>
+            <p class="post-card-summary">The mechanism that has operated across forty-seven chapters is named. A sleeping photograph sent at midnight with conditions attached. Three layers of the same grammar — court-built, physical, ambient — each converting fatherhood into evidence against the father.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2025</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B49.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B49_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 49</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B49.html">The Coward</a>
+            </h3>
+            <p class="post-card-summary">A portrait of Stephen Walsh Sr. built from scenes, not diagnosis. The man who confronted a father in a public roadway but retreated from a five-foot-one nanny. Who arranged the ambush but was not in the car. Whose stammer under oath arrived whenever the questioning approached the truth.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2021</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B50.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B50_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 50</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B50.html">The Demand</a>
+            </h3>
+            <p class="post-card-summary">After the verdict and the appeal, Tara communicates a new condition — drop the judgment, put money in escrow, stop filing court actions. Contact with Evie becomes conditional on surrendering the legal outcome. When Steve declines, the scheme adapts: forged filings, frozen accounts, threats, displacement.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2025</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <a href="./posts/B51.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="./images/banners/v3/banner_B51_banner.png" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Chapter 51</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B51.html">For Evie</a>
+            </h3>
+            <p class="post-card-summary">Afterword. A house in the United States. A room that is ready. A brother who knows her name. The door is open.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">Present</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Afterword</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B52.html">Where Are They Now</a>
+            </h3>
+            <p class="post-card-summary">The system that failed Evie did not dismantle itself. The people who built it were promoted. The institutions that enabled it continued. A note about Bonnie. A note about Steve and Simon.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">2025–2026</span>
+            </div>
+          </div>
+        </article>
+        <article class="post-card">
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">Back Cover</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="./posts/B53.html">Back Cover</a>
+            </h3>
+            <p class="post-card-summary">Four discoveries. Three substances. Three laboratories. Three years. Every person who saw something was removed. A jury heard the evidence. The child is still in Chappaqua.</p>
+            <div class="post-card-footer">
+              <span class="post-card-date"></span>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tag Cloud -->
+  <section class="tag-cloud-section">
+    <div class="content-wrapper">
+      <h2 class="section-title">Browse by Tag</h2>
+      <div class="tag-cloud">
+        <a href="./tags/2010.html" class="tag-cloud-item" data-count="1">
+          2010
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/2014-2015.html" class="tag-cloud-item" data-count="3">
+          2014-2015
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/2016.html" class="tag-cloud-item" data-count="3">
+          2016
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/2017.html" class="tag-cloud-item" data-count="4">
+          2017
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/2017-2021.html" class="tag-cloud-item" data-count="1">
+          2017-2021
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/2018.html" class="tag-cloud-item" data-count="16">
+          2018
+          <span class="tag-count">(16)</span>
+        </a>
+        <a href="./tags/2019.html" class="tag-cloud-item" data-count="8">
+          2019
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/2019-2020.html" class="tag-cloud-item" data-count="1">
+          2019-2020
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/2020.html" class="tag-cloud-item" data-count="4">
+          2020
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/2020-2021.html" class="tag-cloud-item" data-count="1">
+          2020-2021
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/2021.html" class="tag-cloud-item" data-count="8">
+          2021
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/2022.html" class="tag-cloud-item" data-count="4">
+          2022
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/2023.html" class="tag-cloud-item" data-count="4">
+          2023
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/2024.html" class="tag-cloud-item" data-count="2">
+          2024
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/2025.html" class="tag-cloud-item" data-count="4">
+          2025
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/2026.html" class="tag-cloud-item" data-count="3">
+          2026
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/abriegrowsinbrooklyn.html" class="tag-cloud-item" data-count="1">
+          ABrieGrowsInBrooklyn
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/abby-tedla.html" class="tag-cloud-item" data-count="8">
+          Abby Tedla
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/accusation-reversal.html" class="tag-cloud-item" data-count="2">
+          Accusation-Reversal
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/acute-exposure.html" class="tag-cloud-item" data-count="2">
+          Acute Exposure
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/adderall.html" class="tag-cloud-item" data-count="1">
+          Adderall
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/afterword.html" class="tag-cloud-item" data-count="1">
+          Afterword
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/albert.html" class="tag-cloud-item" data-count="1">
+          Albert
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/archive.html" class="tag-cloud-item" data-count="1">
+          Archive
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/attorney-destruction.html" class="tag-cloud-item" data-count="2">
+          Attorney Destruction
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/aunt-k.html" class="tag-cloud-item" data-count="1">
+          Aunt K
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/back-cover.html" class="tag-cloud-item" data-count="1">
+          Back Cover
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/battery-trial.html" class="tag-cloud-item" data-count="1">
+          Battery Trial
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/blog---stevielovesevie.html" class="tag-cloud-item" data-count="1">
+          Blog / StevieLovesEvie
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/body-speaks.html" class="tag-cloud-item" data-count="2">
+          Body Speaks
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/bora-bora.html" class="tag-cloud-item" data-count="1">
+          Bora Bora
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/bowman.html" class="tag-cloud-item" data-count="1">
+          Bowman
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/brendan-deposition.html" class="tag-cloud-item" data-count="1">
+          Brendan Deposition
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/brendan-walsh.html" class="tag-cloud-item" data-count="5">
+          Brendan Walsh
+          <span class="tag-count">(5)</span>
+        </a>
+        <a href="./tags/brian-d.-waller.html" class="tag-cloud-item" data-count="1">
+          Brian D. Waller
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/brian-meenan.html" class="tag-cloud-item" data-count="1">
+          Brian Meenan
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/brienne-walsh.html" class="tag-cloud-item" data-count="4">
+          Brienne Walsh
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/brooklyn.html" class="tag-cloud-item" data-count="4">
+          Brooklyn
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/bruise-photograph.html" class="tag-cloud-item" data-count="1">
+          Bruise Photograph
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/bruises.html" class="tag-cloud-item" data-count="2">
+          Bruises
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/bryan-crutcher.html" class="tag-cloud-item" data-count="4">
+          Bryan Crutcher
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/casac.html" class="tag-cloud-item" data-count="1">
+          CASAC
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/covid-19.html" class="tag-cloud-item" data-count="1">
+          COVID-19
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/cps.html" class="tag-cloud-item" data-count="1">
+          CPS
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/california-court-of-appeal.html" class="tag-cloud-item" data-count="1">
+          California Court of Appeal
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/cambareri.html" class="tag-cloud-item" data-count="1">
+          Cambareri
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/caraway.html" class="tag-cloud-item" data-count="1">
+          Caraway
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/chappaqua.html" class="tag-cloud-item" data-count="10">
+          Chappaqua
+          <span class="tag-count">(10)</span>
+        </a>
+        <a href="./tags/chappaquapoison.html" class="tag-cloud-item" data-count="2">
+          ChappaquaPoison
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/chris-ochoa.html" class="tag-cloud-item" data-count="2">
+          Chris Ochoa
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/claudette-lamelle.html" class="tag-cloud-item" data-count="2">
+          Claudette LaMelle
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/closing.html" class="tag-cloud-item" data-count="1">
+          Closing
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/coached-denial.html" class="tag-cloud-item" data-count="1">
+          Coached Denial
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/columbia.html" class="tag-cloud-item" data-count="1">
+          Columbia
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/columbia-presbyterian.html" class="tag-cloud-item" data-count="1">
+          Columbia Presbyterian
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/corruption.html" class="tag-cloud-item" data-count="2">
+          Corruption
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/county-attorney.html" class="tag-cloud-item" data-count="1">
+          County Attorney
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/court-transcript.html" class="tag-cloud-item" data-count="1">
+          Court Transcript
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/cowardice.html" class="tag-cloud-item" data-count="1">
+          Cowardice
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/crabtree&#39;s-kittle-house.html" class="tag-cloud-item" data-count="3">
+          Crabtree&#39;s Kittle House
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/criminalization-architecture.html" class="tag-cloud-item" data-count="2">
+          Criminalization Architecture
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/custody.html" class="tag-cloud-item" data-count="8">
+          Custody
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/d-31.html" class="tag-cloud-item" data-count="1">
+          D-31
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/damages.html" class="tag-cloud-item" data-count="1">
+          Damages
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/dan-ochoa.html" class="tag-cloud-item" data-count="2">
+          Dan Ochoa
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/deception.html" class="tag-cloud-item" data-count="1">
+          Deception
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/default.html" class="tag-cloud-item" data-count="2">
+          Default
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/default-order.html" class="tag-cloud-item" data-count="1">
+          Default Order
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/delia-farquharson.html" class="tag-cloud-item" data-count="3">
+          Delia Farquharson
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/deposition.html" class="tag-cloud-item" data-count="2">
+          Deposition
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/difabio.html" class="tag-cloud-item" data-count="3">
+          DiFabio
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/disappearing-record.html" class="tag-cloud-item" data-count="2">
+          Disappearing Record
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/discovery.html" class="tag-cloud-item" data-count="4">
+          Discovery
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/discovery-4.html" class="tag-cloud-item" data-count="1">
+          Discovery 4
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/discovery-pattern.html" class="tag-cloud-item" data-count="1">
+          Discovery Pattern
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/documentation.html" class="tag-cloud-item" data-count="7">
+          Documentation
+          <span class="tag-count">(7)</span>
+        </a>
+        <a href="./tags/documentation-as-survival.html" class="tag-cloud-item" data-count="1">
+          Documentation as Survival
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/don-ackerman.html" class="tag-cloud-item" data-count="2">
+          Don Ackerman
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/donna-genovese.html" class="tag-cloud-item" data-count="1">
+          Donna Genovese
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/dr.-faedda.html" class="tag-cloud-item" data-count="1">
+          Dr. Faedda
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/dr.-gopal.html" class="tag-cloud-item" data-count="1">
+          Dr. Gopal
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/drexel-burnham-lambert.html" class="tag-cloud-item" data-count="1">
+          Drexel Burnham Lambert
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/elias-gootzeit.html" class="tag-cloud-item" data-count="2">
+          Elias Gootzeit
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/escalation.html" class="tag-cloud-item" data-count="5">
+          Escalation
+          <span class="tag-count">(5)</span>
+        </a>
+        <a href="./tags/evidence-books.html" class="tag-cloud-item" data-count="2">
+          Evidence Books
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/evie.html" class="tag-cloud-item" data-count="14">
+          Evie
+          <span class="tag-count">(14)</span>
+        </a>
+        <a href="./tags/extortion.html" class="tag-cloud-item" data-count="1">
+          Extortion
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/fake-crying-video.html" class="tag-cloud-item" data-count="1">
+          Fake Crying Video
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/family-system.html" class="tag-cloud-item" data-count="8">
+          Family System
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/first-amendment.html" class="tag-cloud-item" data-count="1">
+          First Amendment
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/first-appellate-district.html" class="tag-cloud-item" data-count="1">
+          First Appellate District
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/first-steps.html" class="tag-cloud-item" data-count="1">
+          First Steps
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/five-archives.html" class="tag-cloud-item" data-count="1">
+          Five Archives
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/five-month-gap.html" class="tag-cloud-item" data-count="1">
+          Five-Month Gap
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/forced-choice.html" class="tag-cloud-item" data-count="1">
+          Forced Choice
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/forensic-fraud.html" class="tag-cloud-item" data-count="1">
+          Forensic Fraud
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/forward-evidence.html" class="tag-cloud-item" data-count="2">
+          Forward Evidence
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/franceska-anilus.html" class="tag-cloud-item" data-count="2">
+          Franceska Anilus
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/frank-s.-moore.html" class="tag-cloud-item" data-count="1">
+          Frank S. Moore
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/full-faith-and-credit.html" class="tag-cloud-item" data-count="1">
+          Full Faith and Credit
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/gag-order.html" class="tag-cloud-item" data-count="5">
+          Gag Order
+          <span class="tag-count">(5)</span>
+        </a>
+        <a href="./tags/garrett-l.-wong.html" class="tag-cloud-item" data-count="2">
+          Garrett L. Wong
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/gavish.html" class="tag-cloud-item" data-count="1">
+          Gavish
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/geiger-counter.html" class="tag-cloud-item" data-count="1">
+          Geiger Counter
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/genovese.html" class="tag-cloud-item" data-count="1">
+          Genovese
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/gordon-oliver.html" class="tag-cloud-item" data-count="2">
+          Gordon-Oliver
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/griffin.html" class="tag-cloud-item" data-count="1">
+          Griffin
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/guttridge.html" class="tag-cloud-item" data-count="2">
+          Guttridge
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/horowitz.html" class="tag-cloud-item" data-count="3">
+          Horowitz
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/hudson-river.html" class="tag-cloud-item" data-count="1">
+          Hudson River
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/hugh-jasne.html" class="tag-cloud-item" data-count="1">
+          Hugh Jasne
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/humphrey.html" class="tag-cloud-item" data-count="2">
+          Humphrey
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/iatrogenic.html" class="tag-cloud-item" data-count="1">
+          Iatrogenic
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/institutional.html" class="tag-cloud-item" data-count="7">
+          Institutional
+          <span class="tag-count">(7)</span>
+        </a>
+        <a href="./tags/institutional-amplification.html" class="tag-cloud-item" data-count="1">
+          Institutional Amplification
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/institutional-failure.html" class="tag-cloud-item" data-count="1">
+          Institutional Failure
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/interior-moment.html" class="tag-cloud-item" data-count="4">
+          Interior Moment
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/jamie-siminoff.html" class="tag-cloud-item" data-count="3">
+          Jamie Siminoff
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/jason-advocate.html" class="tag-cloud-item" data-count="4">
+          Jason Advocate
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/jennifer-jackman.html" class="tag-cloud-item" data-count="4">
+          Jennifer Jackman
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/jesse.html" class="tag-cloud-item" data-count="2">
+          Jesse
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/joe-prendergast.html" class="tag-cloud-item" data-count="2">
+          Joe Prendergast
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/john-guttridge.html" class="tag-cloud-item" data-count="1">
+          John Guttridge
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/joy-llaguno.html" class="tag-cloud-item" data-count="1">
+          Joy Llaguno
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/judge-davidson.html" class="tag-cloud-item" data-count="1">
+          Judge Davidson
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/judge-egitto.html" class="tag-cloud-item" data-count="1">
+          Judge Egitto
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/judge-furman.html" class="tag-cloud-item" data-count="1">
+          Judge Furman
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/judge-gordon-oliver.html" class="tag-cloud-item" data-count="3">
+          Judge Gordon-Oliver
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/judge-humphreys.html" class="tag-cloud-item" data-count="1">
+          Judge Humphreys
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/judge-morales-horowitz.html" class="tag-cloud-item" data-count="1">
+          Judge Morales-Horowitz
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/judge-schauer.html" class="tag-cloud-item" data-count="3">
+          Judge Schauer
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/katherine-chestnut.html" class="tag-cloud-item" data-count="2">
+          Katherine Chestnut
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/kelly-turnure.html" class="tag-cloud-item" data-count="13">
+          Kelly Turnure
+          <span class="tag-count">(13)</span>
+        </a>
+        <a href="./tags/kidnapping-case.html" class="tag-cloud-item" data-count="1">
+          Kidnapping Case
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/kinkade-ranch.html" class="tag-cloud-item" data-count="1">
+          Kinkade Ranch
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/la-melle.html" class="tag-cloud-item" data-count="2">
+          La Melle
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/lab-reports.html" class="tag-cloud-item" data-count="3">
+          Lab Reports
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/legacy-protection.html" class="tag-cloud-item" data-count="7">
+          Legacy Protection
+          <span class="tag-count">(7)</span>
+        </a>
+        <a href="./tags/letters-to-judges.html" class="tag-cloud-item" data-count="1">
+          Letters to Judges
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/linda-russell.html" class="tag-cloud-item" data-count="5">
+          Linda Russell
+          <span class="tag-count">(5)</span>
+        </a>
+        <a href="./tags/lithium.html" class="tag-cloud-item" data-count="2">
+          Lithium
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/lucio-bini-center.html" class="tag-cloud-item" data-count="1">
+          Lucio Bini Center
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/malice.html" class="tag-cloud-item" data-count="1">
+          Malice
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/manufacturing-absence.html" class="tag-cloud-item" data-count="1">
+          Manufacturing Absence
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/matan-gavish.html" class="tag-cloud-item" data-count="4">
+          Matan Gavish
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/maura-deposition.html" class="tag-cloud-item" data-count="1">
+          Maura Deposition
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/maura-walsh.html" class="tag-cloud-item" data-count="9">
+          Maura Walsh
+          <span class="tag-count">(9)</span>
+        </a>
+        <a href="./tags/max-di-fabio.html" class="tag-cloud-item" data-count="1">
+          Max Di Fabio
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/medication-genealogy.html" class="tag-cloud-item" data-count="1">
+          Medication Genealogy
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/michaela-davies.html" class="tag-cloud-item" data-count="1">
+          Michaela Davies
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/millennium-tower.html" class="tag-cloud-item" data-count="5">
+          Millennium Tower
+          <span class="tag-count">(5)</span>
+        </a>
+        <a href="./tags/miller-zeiderman.html" class="tag-cloud-item" data-count="1">
+          Miller Zeiderman
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/miscarriage.html" class="tag-cloud-item" data-count="1">
+          Miscarriage
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/misguided-rescue.html" class="tag-cloud-item" data-count="1">
+          Misguided Rescue
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/moore.html" class="tag-cloud-item" data-count="1">
+          Moore
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/morales-horowitz.html" class="tag-cloud-item" data-count="1">
+          Morales-Horowitz
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/moscow.html" class="tag-cloud-item" data-count="1">
+          Moscow
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/motel-6.html" class="tag-cloud-item" data-count="1">
+          Motel 6
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/motion-to-vacate.html" class="tag-cloud-item" data-count="1">
+          Motion to Vacate
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/mount-vernon.html" class="tag-cloud-item" data-count="2">
+          Mount Vernon
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/multi-register.html" class="tag-cloud-item" data-count="1">
+          Multi-Register
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/multigenerational.html" class="tag-cloud-item" data-count="2">
+          Multigenerational
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/munchausen-mechanism.html" class="tag-cloud-item" data-count="1">
+          Munchausen Mechanism
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/mycophenolic-acid.html" class="tag-cloud-item" data-count="2">
+          Mycophenolic Acid
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/ny-appellate-division.html" class="tag-cloud-item" data-count="1">
+          NY Appellate Division
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/ny-family-court.html" class="tag-cloud-item" data-count="7">
+          NY Family Court
+          <span class="tag-count">(7)</span>
+        </a>
+        <a href="./tags/nanny-ashley.html" class="tag-cloud-item" data-count="1">
+          Nanny Ashley
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/nanny-nicole.html" class="tag-cloud-item" data-count="1">
+          Nanny Nicole
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/nantucket.html" class="tag-cloud-item" data-count="1">
+          Nantucket
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/narrative-inversion.html" class="tag-cloud-item" data-count="6">
+          Narrative Inversion
+          <span class="tag-count">(6)</span>
+        </a>
+        <a href="./tags/niacin-flush.html" class="tag-cloud-item" data-count="1">
+          Niacin Flush
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/nolita.html" class="tag-cloud-item" data-count="1">
+          Nolita
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/north-beach.html" class="tag-cloud-item" data-count="2">
+          North Beach
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/oasas.html" class="tag-cloud-item" data-count="1">
+          OASAS
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/obstruction.html" class="tag-cloud-item" data-count="1">
+          Obstruction
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/ochoa.html" class="tag-cloud-item" data-count="1">
+          Ochoa
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/origin.html" class="tag-cloud-item" data-count="4">
+          Origin
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/petrella.html" class="tag-cloud-item" data-count="2">
+          Petrella
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/poisoning.html" class="tag-cloud-item" data-count="9">
+          Poisoning
+          <span class="tag-count">(9)</span>
+        </a>
+        <a href="./tags/pontius-pilate.html" class="tag-cloud-item" data-count="8">
+          Pontius Pilate
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/potrero-hill.html" class="tag-cloud-item" data-count="5">
+          Potrero Hill
+          <span class="tag-count">(5)</span>
+        </a>
+        <a href="./tags/pre-planning.html" class="tag-cloud-item" data-count="1">
+          Pre-Planning
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/prelude.html" class="tag-cloud-item" data-count="1">
+          Prelude
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/present.html" class="tag-cloud-item" data-count="1">
+          Present
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/prior-restraint.html" class="tag-cloud-item" data-count="2">
+          Prior Restraint
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/privacy-architecture.html" class="tag-cloud-item" data-count="4">
+          Privacy Architecture
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/privacy-inversion.html" class="tag-cloud-item" data-count="4">
+          Privacy Inversion
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/pro-se.html" class="tag-cloud-item" data-count="1">
+          Pro Se
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/procedural-reset.html" class="tag-cloud-item" data-count="1">
+          Procedural Reset
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/procedural-supremacy.html" class="tag-cloud-item" data-count="1">
+          Procedural Supremacy
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/punxsutawney.html" class="tag-cloud-item" data-count="1">
+          Punxsutawney
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/rssb.html" class="tag-cloud-item" data-count="1">
+          RSSB
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/rashmi.html" class="tag-cloud-item" data-count="1">
+          Rashmi
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/reno.html" class="tag-cloud-item" data-count="2">
+          Reno
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/resolution.html" class="tag-cloud-item" data-count="3">
+          Resolution
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/reversal.html" class="tag-cloud-item" data-count="1">
+          Reversal
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/revolving-judges.html" class="tag-cloud-item" data-count="1">
+          Revolving Judges
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/ring.html" class="tag-cloud-item" data-count="1">
+          Ring
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/sec.html" class="tag-cloud-item" data-count="1">
+          SEC
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/sf-superior-court.html" class="tag-cloud-item" data-count="2">
+          SF Superior Court
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/sfpd.html" class="tag-cloud-item" data-count="1">
+          SFPD
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/san-francisco.html" class="tag-cloud-item" data-count="9">
+          San Francisco
+          <span class="tag-count">(9)</span>
+        </a>
+        <a href="./tags/saoira.html" class="tag-cloud-item" data-count="1">
+          Saoira
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/schauer.html" class="tag-cloud-item" data-count="2">
+          Schauer
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/scheme.html" class="tag-cloud-item" data-count="1">
+          Scheme
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/sean-snyder.html" class="tag-cloud-item" data-count="1">
+          Sean Snyder
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/second-theater.html" class="tag-cloud-item" data-count="1">
+          Second Theater
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/seroquel.html" class="tag-cloud-item" data-count="3">
+          Seroquel
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/service-evasion.html" class="tag-cloud-item" data-count="1">
+          Service Evasion
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/sgt.-caraway.html" class="tag-cloud-item" data-count="1">
+          Sgt. Caraway
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/simon.html" class="tag-cloud-item" data-count="1">
+          Simon
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/steve-walsh-sr..html" class="tag-cloud-item" data-count="1">
+          Steve Walsh Sr.
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/stevielovesevie.html" class="tag-cloud-item" data-count="3">
+          StevieLovesEvie
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/supervised-visitation.html" class="tag-cloud-item" data-count="4">
+          Supervised Visitation
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/sworn-declaration.html" class="tag-cloud-item" data-count="3">
+          Sworn Declaration
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/synthesis.html" class="tag-cloud-item" data-count="1">
+          Synthesis
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/talia-kleiman.html" class="tag-cloud-item" data-count="1">
+          Talia Kleiman
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/tamper-screws.html" class="tag-cloud-item" data-count="2">
+          Tamper Screws
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/tara.html" class="tag-cloud-item" data-count="1">
+          Tara
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/tara-knoll.html" class="tag-cloud-item" data-count="4">
+          Tara Knoll
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/tara-walsh.html" class="tag-cloud-item" data-count="23">
+          Tara Walsh
+          <span class="tag-count">(23)</span>
+        </a>
+        <a href="./tags/teterboro.html" class="tag-cloud-item" data-count="1">
+          Teterboro
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/text-messages.html" class="tag-cloud-item" data-count="4">
+          Text Messages
+          <span class="tag-count">(4)</span>
+        </a>
+        <a href="./tags/the-battery.html" class="tag-cloud-item" data-count="1">
+          The Battery
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/the-fool.html" class="tag-cloud-item" data-count="3">
+          The Fool
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/the-hamptons.html" class="tag-cloud-item" data-count="1">
+          The Hamptons
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/the-proper-hotel.html" class="tag-cloud-item" data-count="1">
+          The Proper Hotel
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/the-sheraton.html" class="tag-cloud-item" data-count="1">
+          The Sheraton
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/the-trap.html" class="tag-cloud-item" data-count="1">
+          The Trap
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/tom-lafreniere.html" class="tag-cloud-item" data-count="2">
+          Tom LaFreniere
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/toxicology.html" class="tag-cloud-item" data-count="3">
+          Toxicology
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/trial.html" class="tag-cloud-item" data-count="3">
+          Trial
+          <span class="tag-count">(3)</span>
+        </a>
+        <a href="./tags/triangulation.html" class="tag-cloud-item" data-count="2">
+          Triangulation
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/two-court-systems.html" class="tag-cloud-item" data-count="8">
+          Two Court Systems
+          <span class="tag-count">(8)</span>
+        </a>
+        <a href="./tags/two-track-system.html" class="tag-cloud-item" data-count="1">
+          Two-Track System
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/uber-recording.html" class="tag-cloud-item" data-count="1">
+          Uber Recording
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/verdict.html" class="tag-cloud-item" data-count="1">
+          Verdict
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/vermont-street.html" class="tag-cloud-item" data-count="2">
+          Vermont Street
+          <span class="tag-count">(2)</span>
+        </a>
+        <a href="./tags/visit-15.html" class="tag-cloud-item" data-count="1">
+          Visit 15
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/visitation-denial.html" class="tag-cloud-item" data-count="1">
+          Visitation Denial
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/walsh-sr..html" class="tag-cloud-item" data-count="18">
+          Walsh Sr.
+          <span class="tag-count">(18)</span>
+        </a>
+        <a href="./tags/weaponization.html" class="tag-cloud-item" data-count="1">
+          Weaponization
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/westchester.html" class="tag-cloud-item" data-count="12">
+          Westchester
+          <span class="tag-count">(12)</span>
+        </a>
+        <a href="./tags/wine.html" class="tag-cloud-item" data-count="1">
+          Wine
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/witness-tampering.html" class="tag-cloud-item" data-count="1">
+          Witness Tampering
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/ymca.html" class="tag-cloud-item" data-count="1">
+          YMCA
+          <span class="tag-count">(1)</span>
+        </a>
+        <a href="./tags/yonkers.html" class="tag-cloud-item" data-count="2">
+          Yonkers
+          <span class="tag-count">(2)</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<style>
+  .homepage {
+    background-color: var(--color-deep-charcoal);
+  }
+
+  /* Banner Statement with Hero Image */
+  .banner-statement {
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-image-container {
+    position: relative;
+    overflow: hidden;
+    max-height: 860px;
+  }
+
+  .hero-image-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+      linear-gradient(to bottom, rgba(15, 17, 22, 0.6) 0%, rgba(15, 17, 22, 0) 15%),
+      linear-gradient(to left, rgba(15, 17, 22, 0.7) 0%, rgba(15, 17, 22, 0) 15%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-image-container::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30%;
+    background: linear-gradient(to bottom, rgba(15, 17, 22, 0) 0%, rgba(15, 17, 22, 1) 100%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 60%;
+    padding: 40px 40px 40px 40px;
+    background: linear-gradient(to right, rgba(15, 17, 22, 0.85) 0%, rgba(15, 17, 22, 0.5) 70%, rgba(15, 17, 22, 0) 100%);
+  }
+
+  .banner-title {
+    font-family: var(--font-heading);
+    font-size: clamp(40px, 8vw, 56px);
+    font-weight: 700;
+    margin: 0 0 24px 0;
+    color: var(--color-muted-amber);
+  }
+
+  .banner-description {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 640px;
+    margin: 0 0 24px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .banner-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: var(--font-ui);
+    font-size: 14px;
+    color: var(--color-muted-caption);
+  }
+
+  .meta-divider {
+    color: var(--color-steel);
+  }
+
+  /* Section Title */
+  .section-title {
+    font-family: var(--font-heading);
+    font-size: clamp(28px, 5vw, 36px);
+    font-weight: 600;
+    margin: 0 0 32px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  /* Feed Header with Order Toggle */
+  .feed-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+  }
+
+  .feed-header .section-title {
+    margin: 0;
+  }
+
+  .order-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-muted-caption);
+    background: transparent;
+    border: 1px solid var(--color-phase-divider);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .order-btn:hover {
+    color: var(--color-body-text-dark);
+    border-color: var(--color-muted-amber);
+  }
+
+  .order-btn-arrow {
+    font-size: 10px;
+    transition: transform 0.2s ease;
+  }
+
+  .order-btn.is-ascending .order-btn-arrow {
+    transform: rotate(180deg);
+  }
+
+  /* Post Feed */
+  .post-feed {
+    padding: 64px 20px;
+    background-color: var(--color-deep-charcoal);
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+  }
+
+  /* Post Card */
+  .post-card {
+    padding: 0;
+    background-color: var(--color-slate-blue-gray);
+    border: 1px solid var(--color-phase-divider);
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.2s ease-in-out;
+    overflow: hidden;
+  }
+
+  .post-card:hover {
+    border-color: var(--color-muted-amber);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Post Card Banner / Tile Image */
+  .post-card-banner-link {
+    display: block;
+    border: none;
+    text-decoration: none;
+  }
+
+  .post-card-banner {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background-color: var(--color-deep-charcoal);
+  }
+
+  .post-card-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: opacity 0.2s ease;
+  }
+
+  .post-card:hover .post-card-banner img {
+    opacity: 0.85;
+  }
+
+  .post-card-body {
+    padding: 20px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .post-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+
+  .post-card-number {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--color-muted-caption);
+  }
+
+  .post-card-phase {
+    font-size: 20px;
+    line-height: 1;
+  }
+
+  .post-card-title {
+    margin: 0 0 12px 0;
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .post-card-title a {
+    color: var(--color-body-text-dark);
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .post-card-title a:hover {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  .post-card-summary {
+    margin: 0 0 auto 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-muted-caption);
+  }
+
+  .post-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--color-phase-divider);
+    font-size: 12px;
+  }
+
+  .post-card-date {
+    color: var(--color-muted-caption);
+  }
+
+  /* Tag Cloud */
+  .tag-cloud-section {
+    padding: 64px 20px;
+    background-color: var(--color-slate-blue-gray);
+  }
+
+  .tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 32px;
+  }
+
+  .tag-cloud-item {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: var(--color-deep-charcoal);
+    color: var(--color-body-text-dark);
+    font-family: var(--font-ui);
+    font-size: 14px;
+    border-radius: 2px;
+    border: 1px solid var(--color-phase-divider);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+  }
+
+  .tag-cloud-item:hover {
+    background-color: var(--color-muted-amber);
+    color: var(--color-deep-charcoal);
+    border-color: var(--color-muted-amber);
+  }
+
+  .tag-count {
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .post-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Order toggle — reverse post grid
+    var orderBtn = document.getElementById('order-toggle');
+    var postGrid = document.getElementById('post-grid');
+    var isAscending = true; // starts Chapter 1 first
+
+    if (orderBtn && postGrid) {
+      orderBtn.addEventListener('click', function() {
+        var cards = Array.from(postGrid.children);
+        cards.reverse();
+        cards.forEach(function(card) { postGrid.appendChild(card); });
+        isAscending = !isAscending;
+        orderBtn.querySelector('.order-btn-label').textContent = isAscending ? 'Chapter 1 First' : 'Last Chapter First';
+        orderBtn.classList.toggle('is-ascending', isAscending);
+      });
+    }
+
+  });
+</script>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>Navigate</h3>
+          <ul>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./evidence.html">Evidence</a></li>
+            <li><a href="./methodology.html">Methodology</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Transparency</h3>
+          <ul>
+            <li><a href="./public-record-notice.html">Public Record Notice</a></li>
+            <li><a href="./falsifiability.html">Falsifiability</a></li>
+            <li><a href="./how-to-read.html">How to Read This Archive</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>This archive contains only materials derived from public records, filed court documents, previously published content, and documents disclosed during litigation. All source materials are cited with their provenance.</p>
+        <p>Chappaqua Poison &middot; 2026 &middot; Public Record</p>
+      </div>
+    </div>
+  </footer>
+  <script>
+    (function() {
+      var toggle = document.querySelector('.mobile-menu-toggle');
+      var nav = document.querySelector('.header-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', function() {
+          var expanded = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', !expanded);
+          nav.classList.toggle('is-open');
+        });
+      }
+    })();
+  </script>
+</body>
+</html>

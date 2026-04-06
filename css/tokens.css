@@ -1,0 +1,665 @@
+/**
+ * ChappaquaPoison v2 — Design Tokens
+ * v1.0
+ * Updated: 2026-02-15
+ *
+ * This file is auto-generated from tokens.json
+ * DO NOT edit directly — regenerate via build_css.py
+ */
+
+
+:root {
+  /* ========================================
+     PALETTE: CORE COLORS
+     ======================================== */
+  --color-deep-charcoal: #0F1116;
+  --color-slate-blue-gray: #1E2633;
+  --color-steel: #6C7A89;
+  --color-muted-amber: #D4A35F;
+  --color-restrained-red: #B44C4C;
+  --color-aged-document: #E8E2D5;
+
+  /* Semantic */
+  --color-body-text-dark: #C8C4BC;
+  --color-body-text-light: #2A2A2A;
+  --color-muted-caption: #8A8680;
+  --color-link-default: #D4A35F;
+  --color-link-hover: #E8B96A;
+  --color-link-visited: #A67C3D;
+  --color-phase-divider: #2D3748;
+  --color-code-docket: #3A3F4B;
+
+  /* ECS Ratings */
+  --ecs-verified: #4A7C59;
+  --ecs-caution: #C49A3C;
+  --ecs-limited: #8A7260;
+  --ecs-minimal: #7A7A7A;
+
+  /* Phase Colors */
+  --phase-i: #A69070; /* Before Tara */
+  --phase-ii: #D4A35F; /* Meeting Tara */
+  --phase-iii: #B44C4C; /* The Crime */
+  --phase-iv: #7A8C9A; /* The Flight */
+  --phase-v: #4A5568; /* The Cover */
+  --phase-vi: #2D3748; /* The Silencing */
+  --phase-vii: #6B7F5A; /* The Jury */
+  --phase-viii: #8B6F4E; /* Civil Rights */
+  --phase-ix: #C8C4BC; /* The Silence */
+
+  /* Badge Colors */
+  --badge-cp: #D4A35F; /* ChappaquaPoison */
+  --badge-sle: #D4A35F; /* StevieLovesEvie */
+  --badge-abgib: #D4A35F; /* ABrieGrowsInBrooklyn */
+  --badge-pcr: #6C7A89; /* Public Court Record */
+  --badge-disc: #8A8680; /* Discovery Materials */
+  --badge-media: #6C7A89; /* Published Media */
+  --badge-sworn: #6C7A89; /* Sworn Testimony */
+
+  /* ========================================
+     TYPOGRAPHY: FONT FAMILIES
+     ======================================== */
+  --font-body: Source Serif 4, Georgia, serif;
+  --font-heading: Playfair Display, Georgia, serif;
+  --font-ui: Inter, -apple-system, sans-serif;
+  --font-mono: JetBrains Mono, Courier New, monospace;
+
+  /* ========================================
+     SPACING: SCALE
+     ======================================== */
+  --space-unit: 8px;
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 32px;
+  --space-xl: 40px;
+  --space-xxl: 48px;
+  --space-xxxl: 64px;
+
+  /* ========================================
+     LAYOUT: DIMENSIONS
+     ======================================== */
+  --layout-max-width: 1200px;
+  --layout-padding: 40px;
+}
+
+/* ========================================
+   TYPOGRAPHY: BASE CLASSES
+   ======================================== */
+
+h1, .display {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: clamp(32px, 5vw, 40px);
+  margin: 0;
+  color: var(--color-body-text-dark);
+}
+
+h2, .section-header {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: clamp(24px, 4vw, 28px);
+  margin: var(--space-lg) 0 var(--space-md) 0;
+  color: var(--color-body-text-dark);
+}
+
+body, p, .body-text {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: clamp(17px, 2.5vw, 18px);
+  line-height: 1.7;
+  color: var(--color-body-text-dark);
+}
+
+.caption, caption, figcaption {
+  font-family: var(--font-ui);
+  font-weight: 400;
+  font-size: 13px;
+  color: var(--color-muted-caption);
+}
+
+code, .docket, .case-number {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-size: 14px;
+  background-color: var(--color-code-docket);
+  color: var(--color-body-text-dark);
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 2px;
+}
+
+blockquote, .blockquote {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 17px;
+  margin: var(--space-md) 0;
+  padding-left: var(--space-md);
+  border-left: 3px solid var(--color-steel);
+  color: var(--color-body-text-dark);
+}
+
+.phase-tag, .phase-label {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.evidence-heading, h3.evidence {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 15px;
+  color: var(--color-body-text-dark);
+  margin: var(--space-md) 0 var(--space-sm) 0;
+}
+
+.reconstruction-notice, .editor-note {
+  font-family: var(--font-ui);
+  font-weight: 400;
+  font-size: 11px;
+  color: var(--color-muted-caption);
+  font-style: italic;
+}
+
+
+/* ========================================
+   PHASE COLORS: UTILITIES
+   ======================================== */
+
+/* Phase I: Before Tara */
+.phase-i {
+  background-color: var(--phase-i);
+  color: white;
+}
+
+.phase-i-text {
+  color: var(--phase-i);
+}
+
+.phase-i-bg {
+  background-color: var(--phase-i);
+}
+
+.phase-i-border {
+  border-color: var(--phase-i);
+}
+
+/* Phase II: Meeting Tara */
+.phase-ii {
+  background-color: var(--phase-ii);
+  color: white;
+}
+
+.phase-ii-text {
+  color: var(--phase-ii);
+}
+
+.phase-ii-bg {
+  background-color: var(--phase-ii);
+}
+
+.phase-ii-border {
+  border-color: var(--phase-ii);
+}
+
+/* Phase III: The Crime */
+.phase-iii {
+  background-color: var(--phase-iii);
+  color: white;
+}
+
+.phase-iii-text {
+  color: var(--phase-iii);
+}
+
+.phase-iii-bg {
+  background-color: var(--phase-iii);
+}
+
+.phase-iii-border {
+  border-color: var(--phase-iii);
+}
+
+/* Phase IV: The Flight */
+.phase-iv {
+  background-color: var(--phase-iv);
+  color: white;
+}
+
+.phase-iv-text {
+  color: var(--phase-iv);
+}
+
+.phase-iv-bg {
+  background-color: var(--phase-iv);
+}
+
+.phase-iv-border {
+  border-color: var(--phase-iv);
+}
+
+/* Phase V: The Cover */
+.phase-v {
+  background-color: var(--phase-v);
+  color: white;
+}
+
+.phase-v-text {
+  color: var(--phase-v);
+}
+
+.phase-v-bg {
+  background-color: var(--phase-v);
+}
+
+.phase-v-border {
+  border-color: var(--phase-v);
+}
+
+/* Phase VI: The Silencing */
+.phase-vi {
+  background-color: var(--phase-vi);
+  color: white;
+}
+
+.phase-vi-text {
+  color: var(--phase-vi);
+}
+
+.phase-vi-bg {
+  background-color: var(--phase-vi);
+}
+
+.phase-vi-border {
+  border-color: var(--phase-vi);
+}
+
+/* Phase VII: The Jury */
+.phase-vii {
+  background-color: var(--phase-vii);
+  color: white;
+}
+
+.phase-vii-text {
+  color: var(--phase-vii);
+}
+
+.phase-vii-bg {
+  background-color: var(--phase-vii);
+}
+
+.phase-vii-border {
+  border-color: var(--phase-vii);
+}
+
+/* Phase VIII: Civil Rights */
+.phase-viii {
+  background-color: var(--phase-viii);
+  color: white;
+}
+
+.phase-viii-text {
+  color: var(--phase-viii);
+}
+
+.phase-viii-bg {
+  background-color: var(--phase-viii);
+}
+
+.phase-viii-border {
+  border-color: var(--phase-viii);
+}
+
+/* Phase IX: The Silence */
+.phase-ix {
+  background-color: var(--phase-ix);
+  color: white;
+}
+
+.phase-ix-text {
+  color: var(--phase-ix);
+}
+
+.phase-ix-bg {
+  background-color: var(--phase-ix);
+}
+
+.phase-ix-border {
+  border-color: var(--phase-ix);
+}
+
+
+/* ========================================
+   ECS RATINGS: BADGE STYLES
+   ======================================== */
+
+/* ECS Verified: green (90-100) */
+.ecs-verified {
+  background-color: var(--ecs-verified);
+  color: white;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.ecs-verified-text {
+  color: var(--ecs-verified);
+  font-weight: 600;
+}
+
+.ecs-verified-border {
+  border: 1px solid var(--ecs-verified);
+}
+
+/* ECS Caution: gold (75-89) */
+.ecs-caution {
+  background-color: var(--ecs-caution);
+  color: white;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.ecs-caution-text {
+  color: var(--ecs-caution);
+  font-weight: 600;
+}
+
+.ecs-caution-border {
+  border: 1px solid var(--ecs-caution);
+}
+
+/* ECS Limited: warm gray-brown (60-74) */
+.ecs-limited {
+  background-color: var(--ecs-limited);
+  color: white;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.ecs-limited-text {
+  color: var(--ecs-limited);
+  font-weight: 600;
+}
+
+.ecs-limited-border {
+  border: 1px solid var(--ecs-limited);
+}
+
+/* ECS Minimal: neutral gray (50-59) */
+.ecs-minimal {
+  background-color: var(--ecs-minimal);
+  color: white;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.ecs-minimal-text {
+  color: var(--ecs-minimal);
+  font-weight: 600;
+}
+
+.ecs-minimal-border {
+  border: 1px solid var(--ecs-minimal);
+}
+
+
+/* ========================================
+   EVIDENCE: BLOCK STYLES
+   ======================================== */
+
+/* Evidence Block: Paper-like appearance */
+.evidence-block, .document-excerpt {
+  background-color: var(--color-aged-document);
+  color: var(--color-body-text-light);
+  padding: var(--space-lg);
+  border: 1px solid var(--color-steel);
+  border-radius: 2px;
+  margin: var(--space-md) 0;
+  font-family: var(--font-body);
+}
+
+/* Reconstruction notice: Editorial insertion */
+.reconstruction-notice {
+  background-color: rgba(169, 169, 169, 0.1);
+  border-left: 3px solid var(--color-muted-caption);
+  padding: var(--space-sm) var(--space-md);
+  margin: var(--space-md) 0;
+  font-style: italic;
+  color: var(--color-muted-caption);
+}
+
+/* Source badge: Provenance indicator */
+.source-badge {
+  display: inline-block;
+  background-color: var(--color-steel);
+  color: white;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 2px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: var(--space-xs);
+}
+
+/* Redaction: Obscured content */
+.redaction, .redacted {
+  background-color: var(--color-deep-charcoal);
+  color: var(--color-deep-charcoal);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+.redaction:hover {
+  cursor: not-allowed;
+}
+
+/* Highlighted evidence */
+.highlight-evidence {
+  background-color: var(--color-muted-amber);
+  color: var(--color-body-text-light);
+  padding: 2px 4px;
+  border-radius: 1px;
+}
+
+
+/* ========================================
+   LAYOUT: UTILITIES
+   ======================================== */
+
+/* Container: Constrained width content */
+.container, .content-container {
+  max-width: var(--layout-max-width);
+  margin: 0 auto;
+  padding: 0 var(--layout-padding);
+}
+
+/* Content: Reading measure */
+.content, main {
+  max-width: var(--layout-max-width);
+  margin: 0 auto;
+}
+
+/* Spacing utilities */
+.m-xs { margin: var(--space-xs); }
+.mt-xs { margin-top: var(--space-xs); }
+.mb-xs { margin-bottom: var(--space-xs); }
+.ml-xs { margin-left: var(--space-xs); }
+.mr-xs { margin-right: var(--space-xs); }
+.p-xs { padding: var(--space-xs); }
+.pt-xs { padding-top: var(--space-xs); }
+.pb-xs { padding-bottom: var(--space-xs); }
+.pl-xs { padding-left: var(--space-xs); }
+.pr-xs { padding-right: var(--space-xs); }
+
+.m-sm { margin: var(--space-sm); }
+.mt-sm { margin-top: var(--space-sm); }
+.mb-sm { margin-bottom: var(--space-sm); }
+.ml-sm { margin-left: var(--space-sm); }
+.mr-sm { margin-right: var(--space-sm); }
+.p-sm { padding: var(--space-sm); }
+.pt-sm { padding-top: var(--space-sm); }
+.pb-sm { padding-bottom: var(--space-sm); }
+.pl-sm { padding-left: var(--space-sm); }
+.pr-sm { padding-right: var(--space-sm); }
+
+.m-md { margin: var(--space-md); }
+.mt-md { margin-top: var(--space-md); }
+.mb-md { margin-bottom: var(--space-md); }
+.ml-md { margin-left: var(--space-md); }
+.mr-md { margin-right: var(--space-md); }
+.p-md { padding: var(--space-md); }
+.pt-md { padding-top: var(--space-md); }
+.pb-md { padding-bottom: var(--space-md); }
+.pl-md { padding-left: var(--space-md); }
+.pr-md { padding-right: var(--space-md); }
+
+.m-lg { margin: var(--space-lg); }
+.mt-lg { margin-top: var(--space-lg); }
+.mb-lg { margin-bottom: var(--space-lg); }
+.ml-lg { margin-left: var(--space-lg); }
+.mr-lg { margin-right: var(--space-lg); }
+.p-lg { padding: var(--space-lg); }
+.pt-lg { padding-top: var(--space-lg); }
+.pb-lg { padding-bottom: var(--space-lg); }
+.pl-lg { padding-left: var(--space-lg); }
+.pr-lg { padding-right: var(--space-lg); }
+
+.m-xl { margin: var(--space-xl); }
+.mt-xl { margin-top: var(--space-xl); }
+.mb-xl { margin-bottom: var(--space-xl); }
+.ml-xl { margin-left: var(--space-xl); }
+.mr-xl { margin-right: var(--space-xl); }
+.p-xl { padding: var(--space-xl); }
+.pt-xl { padding-top: var(--space-xl); }
+.pb-xl { padding-bottom: var(--space-xl); }
+.pl-xl { padding-left: var(--space-xl); }
+.pr-xl { padding-right: var(--space-xl); }
+
+.m-xxl { margin: var(--space-xxl); }
+.mt-xxl { margin-top: var(--space-xxl); }
+.mb-xxl { margin-bottom: var(--space-xxl); }
+.ml-xxl { margin-left: var(--space-xxl); }
+.mr-xxl { margin-right: var(--space-xxl); }
+.p-xxl { padding: var(--space-xxl); }
+.pt-xxl { padding-top: var(--space-xxl); }
+.pb-xxl { padding-bottom: var(--space-xxl); }
+.pl-xxl { padding-left: var(--space-xxl); }
+.pr-xxl { padding-right: var(--space-xxl); }
+
+.m-xxxl { margin: var(--space-xxxl); }
+.mt-xxxl { margin-top: var(--space-xxxl); }
+.mb-xxxl { margin-bottom: var(--space-xxxl); }
+.ml-xxxl { margin-left: var(--space-xxxl); }
+.mr-xxxl { margin-right: var(--space-xxxl); }
+.p-xxxl { padding: var(--space-xxxl); }
+.pt-xxxl { padding-top: var(--space-xxxl); }
+.pb-xxxl { padding-bottom: var(--space-xxxl); }
+.pl-xxxl { padding-left: var(--space-xxxl); }
+.pr-xxxl { padding-right: var(--space-xxxl); }
+
+/* Flexbox utilities */
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.flex-row { flex-direction: row; }
+.flex-center { justify-content: center; align-items: center; }
+.flex-between { justify-content: space-between; }
+.flex-around { justify-content: space-around; }
+
+/* Grid utilities */
+.grid { display: grid; }
+.grid-2 { grid-template-columns: repeat(2, 1fr); }
+.grid-3 { grid-template-columns: repeat(3, 1fr); }
+.grid-gap-sm { gap: var(--space-sm); }
+.grid-gap-md { gap: var(--space-md); }
+.grid-gap-lg { gap: var(--space-lg); }
+
+/* Text utilities */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.text-justify { text-align: justify; }
+
+/* Link utilities */
+a, .link {
+  color: var(--color-link-default);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover, .link:hover {
+  color: var(--color-link-hover);
+  border-bottom-color: var(--color-link-hover);
+}
+
+a:visited, .link:visited {
+  color: var(--color-link-visited);
+}
+
+
+/* ========================================
+   PRINT: STYLES
+   ======================================== */
+
+@media print {
+  /* Light background for printing */
+  body {
+    background-color: white;
+    color: black;
+  }
+
+  /* Override dark mode colors */
+  .evidence-block, .document-excerpt {
+    background-color: #FAFAF8;
+    color: #1A1A1A;
+    border: 1px solid #CCC;
+  }
+
+  /* Hide navigation and controls */
+  nav, .navigation, [role='navigation'] {
+    display: none;
+  }
+
+  /* Optimize heading colors */
+  h1, h2, h3, h4, h5, h6 {
+    color: black;
+    page-break-after: avoid;
+  }
+
+  /* Keep together */
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  /* Print badges with borders */
+  .source-badge, .ecs-verified, .ecs-caution, .ecs-limited, .ecs-minimal {
+    border: 1px solid #333;
+    background-color: transparent;
+    color: black;
+  }
+}
+
+/* ========================================
+   END OF GENERATED CSS
+   ======================================== */

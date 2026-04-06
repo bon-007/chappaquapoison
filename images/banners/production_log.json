@@ -1,0 +1,55 @@
+{
+  "created": "2026-03-28T19:06:10.352236",
+  "entries": {
+    "B00": {
+      "attempts": [
+        {
+          "timestamp": "2026-03-28T19:06:10.353238",
+          "backend": "dry-run",
+          "images": [],
+          "validation": {
+            "dry_run": true
+          },
+          "prompt_hash": 3582566
+        }
+      ],
+      "status": "review_queued"
+    },
+    "B02": {
+      "attempts": [
+        {
+          "timestamp": "2026-03-28T19:06:10.354115",
+          "backend": "dry-run",
+          "images": [],
+          "validation": {
+            "dry_run": true
+          },
+          "prompt_hash": 88200298
+        }
+      ],
+      "status": "review_queued"
+    },
+    "B04": {
+      "attempts": [
+        {
+          "timestamp": "2026-03-28T19:06:10.354730",
+          "backend": "dry-run",
+          "images": [],
+          "validation": {
+            "dry_run": true
+          },
+          "prompt_hash": 62886273
+        }
+      ],
+      "status": "review_queued"
+    }
+  },
+  "review_queue": [
+    "B00",
+    "B02",
+    "B04"
+  ],
+  "accepted": [],
+  "rejected": [],
+  "last_updated": "2026-03-28T19:06:10.354825"
+}

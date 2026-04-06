@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Layout Test — Photo Card, Document Card, Galleries</title>
+<style>
+  :root {
+    --color-bg: #111318;
+    --color-text: #e8e0d4;
+    --color-muted-amber: #c9a84c;
+    --color-muted-caption: #888;
+    --font-mono: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+    --font-ui: -apple-system, 'SF Pro Text', 'Helvetica Neue', sans-serif;
+  }
+
+  body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: 'Freight Text Pro', Georgia, 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 1.7;
+    margin: 0;
+    padding: 40px 20px;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-family: 'Freight Display Pro', Georgia, serif;
+    color: var(--color-muted-amber);
+    font-size: 24px;
+    margin: 60px 0 10px;
+    font-weight: 400;
+  }
+
+  h2:first-child { margin-top: 0; }
+
+  p.note {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+
+  p.prose {
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--color-text);
+    max-width: 720px;
+    margin: 1.5rem auto;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid rgba(255,255,255,0.08);
+    margin: 60px 0;
+  }
+
+  /* ═══ PHOTO CARD ═══ */
+
+  .photo-card {
+    margin: 2.5rem auto;
+    max-width: 720px;
+    text-align: center;
+  }
+
+  .photo-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+  }
+
+  .photo-card-caption {
+    margin-top: 0.75rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+
+  .photo-card-caption .embed-exhibit-id {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-muted-amber);
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+
+  .photo-card-caption .embed-caption-text {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--color-muted-caption);
+    font-style: italic;
+  }
+
+  /* Wide variant */
+  .photo-card.photo-wide {
+    max-width: 960px;
+  }
+
+  /* Narrow variant */
+  .photo-card.photo-narrow {
+    max-width: 480px;
+  }
+
+  /* ═══ DOCUMENT CARD ═══ */
+
+  .document-card {
+    margin: 2.5rem auto;
+    max-width: 560px;
+    text-align: center;
+  }
+
+  .document-card img {
+    width: 100%;
+    height: auto;
+    border: 1px solid rgba(200, 200, 200, 0.12);
+    border-radius: 2px;
+    box-shadow:
+      0 8px 28px rgba(0, 0, 0, 0.5),
+      0 2px 6px rgba(0, 0, 0, 0.3);
+  }
+
+  .document-card-caption {
+    margin-top: 0.75rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+
+  .document-card-caption .embed-exhibit-id {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-muted-amber);
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+
+  .document-card-caption .embed-caption-text {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--color-muted-caption);
+    font-style: italic;
+  }
+
+  /* ═══ PHOTO GALLERY ═══ */
+
+  .photo-gallery {
+    margin: 2.5rem auto;
+    max-width: 960px;
+    display: grid;
+    gap: 6px;
+  }
+
+  .photo-gallery.gallery-2up {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .photo-gallery.gallery-3up {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .photo-gallery.gallery-4up {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .photo-gallery.gallery-9up {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .photo-gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 2px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Gallery caption inside grid */
+  .photo-gallery-caption {
+    grid-column: 1 / -1;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+
+  /* Gallery caption outside grid (per EVIDENCE_EMBED_STANDARDS) */
+  .photo-gallery + .photo-card-caption,
+  .photo-gallery ~ .photo-card-caption {
+    max-width: 960px;
+    margin: 0.5rem auto 2.5rem;
+    text-align: center;
+  }
+
+  .photo-gallery-caption .embed-exhibit-id {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-muted-amber);
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+
+  .photo-gallery-caption .embed-caption-text {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--color-muted-caption);
+    font-style: italic;
+  }
+
+  @media (max-width: 600px) {
+    .photo-gallery.gallery-2up,
+    .photo-gallery.gallery-3up {
+      grid-template-columns: 1fr;
+    }
+    .photo-gallery.gallery-4up {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Photo Card — Standard (720px)</h2>
+<p class="note">Default photo-card. Magazine-quality image centered in reading column. No dark container — just the image, shadow, caption.</p>
+
+<p class="prose">The Walsh estate in Chappaqua sat on a wooded lot at the end of a cul-de-sac. To visitors it looked like any other Westchester colonial. But the house contained evidence of something else entirely.</p>
+
+<div class="photo-card" data-exhibit="D-18">
+  <img src="Evidence/D-18_046_10) Walsh Chappaqua Estate 2.jpeg" alt="Walsh estate in Chappaqua, New York" loading="lazy">
+  <div class="photo-card-caption">
+    <span class="embed-exhibit-id">D-18 — Walsh Family Estate, Chappaqua NY</span>
+    <span class="embed-caption-text">Property photograph. Discovery production, Walsh family archive.</span>
+  </div>
+</div>
+
+<p class="prose">Inside, the dynamics were already deteriorating. What looked stable from the outside was fracturing in ways the children would carry forward for decades.</p>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Photo Card — Wide (960px)</h2>
+<p class="note">photo-card photo-wide. Full reading-width for panoramic or high-impact images.</p>
+
+<div class="photo-card photo-wide" data-exhibit="G-26">
+  <img src="Evidence/G-26_114_site-area-analysis 123114.jpg" alt="Site area analysis document" loading="lazy">
+  <div class="photo-card-caption">
+    <span class="embed-exhibit-id">G-26 — Site Area Analysis, December 2014</span>
+    <span class="embed-caption-text">Planning document. Source: municipal records.</span>
+  </div>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Photo Card — Narrow (480px)</h2>
+<p class="note">photo-card photo-narrow. For portrait photos, small objects, phone screenshots.</p>
+
+<div class="photo-card photo-narrow" data-exhibit="K-26">
+  <img src="Evidence/K-26_197_abuse-Journal copy 2.jpg" alt="Journal page" loading="lazy">
+  <div class="photo-card-caption">
+    <span class="embed-exhibit-id">K-26 — Journal Entry</span>
+    <span class="embed-caption-text">Personal archive. Handwritten document.</span>
+  </div>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Document Card (560px)</h2>
+<p class="note">document-card. Paper-like elevation for court filings, affidavits, legal documents. Narrower, heavier shadow, subtle border.</p>
+
+<div class="document-card" data-exhibit="H-4">
+  <img src="Evidence/H-4_149_52) Gordon-Oliver Filing Oct 2018 3.jpeg" alt="Gordon-Oliver court filing, October 2018" loading="lazy">
+  <div class="document-card-caption">
+    <span class="embed-exhibit-id">H-4 — Gordon-Oliver Filing, October 2018</span>
+    <span class="embed-caption-text">Family Court filing. Westchester County Supreme Court records.</span>
+  </div>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Document Card — Second Example</h2>
+<p class="note">Another document-card to show consistency across different document types.</p>
+
+<div class="document-card" data-exhibit="H-3">
+  <img src="Evidence/H-3_148_0572 B Exhibit A copy.jpg" alt="Exhibit A filing" loading="lazy">
+  <div class="document-card-caption">
+    <span class="embed-exhibit-id">H-3 — Exhibit A, Court Filing 0572-B</span>
+    <span class="embed-caption-text">Exhibit filed in support of motion. Discovery production.</span>
+  </div>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Gallery — 2-Up</h2>
+<p class="note">gallery-2up. Side-by-side comparison. Good for before/after, diptych, contrast pairs.</p>
+
+<div class="photo-gallery gallery-2up" data-exhibit="DEMO-GAL-2UP">
+  <img src="Evidence/H-4_149_52) Gordon-Oliver Filing Oct 2018 3.jpeg" alt="Gordon-Oliver filing page 1" loading="lazy">
+  <img src="Evidence/H-4_150_52) Gordon-Oliver Filing Oct 2018 copy.jpeg" alt="Gordon-Oliver filing page 2" loading="lazy">
+</div>
+<div class="photo-card-caption">
+  <span class="embed-exhibit-id">DEMO — 2-UP Gallery: Gordon-Oliver Filing Pages</span>
+  <span class="embed-caption-text">Two pages from the same filing, side by side. Caption outside the grid (per standards doc pattern).</span>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Gallery — 3-Up</h2>
+<p class="note">gallery-3up. Triptych layout. Three related images in a row.</p>
+
+<div class="photo-gallery gallery-3up" data-exhibit="DEMO-GAL-3UP">
+  <img src="Evidence/H-4_149_52) Gordon-Oliver Filing Oct 2018 3.jpeg" alt="Filing page 1" loading="lazy">
+  <img src="Evidence/H-5_151_52) Gordon-Oliver Filing Oct 2018 3.jpeg" alt="Filing page 2" loading="lazy">
+  <img src="Evidence/H-5_152_52) Gordon-Oliver Filing Oct 2018 copy.jpeg" alt="Filing page 3" loading="lazy">
+</div>
+<div class="photo-card-caption">
+  <span class="embed-exhibit-id">DEMO — 3-UP Gallery: Three Filing Pages</span>
+  <span class="embed-caption-text">Sequential pages from a multi-page court document. Triptych view.</span>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Gallery — 4-Up</h2>
+<p class="note">gallery-4up. 2×2 grid. For evidence series, four related items.</p>
+
+<div class="photo-gallery gallery-4up" data-exhibit="DEMO-GAL-4UP">
+  <img src="Evidence/imports/DeliaBribery.png" alt="Delia evidence 1" loading="lazy">
+  <img src="Evidence/imports/CouncilWomanDelia.png" alt="Delia evidence 2" loading="lazy">
+  <img src="Evidence/imports/DeliaCorruptionProbe.png" alt="Delia evidence 3" loading="lazy">
+  <img src="Evidence/imports/DeliaMissingMoney.png" alt="Delia evidence 4" loading="lazy">
+</div>
+<div class="photo-card-caption">
+  <span class="embed-exhibit-id">DEMO — 4-UP Gallery: Delia Evidence Series</span>
+  <span class="embed-caption-text">Four related evidence items in a 2×2 grid. News coverage and public records.</span>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Gallery — 9-Up</h2>
+<p class="note">gallery-9up. 3×3 contact sheet. For surveillance stills, large series, montages.</p>
+
+<div class="photo-gallery gallery-9up" data-exhibit="DEMO-GAL-9UP">
+  <img src="Evidence/photos/extracted_pages/MSG-BRENDAN-004.png" alt="Message screenshot 1" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-BRENDAN-006.png" alt="Message screenshot 2" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-BRENDAN-007.png" alt="Message screenshot 3" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-BRENDAN-010.png" alt="Message screenshot 4" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-BRENDAN-012.png" alt="Message screenshot 5" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-BRENDAN-013.png" alt="Message screenshot 6" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-LINDA-004.png" alt="Message screenshot 7" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-LINDA-005.png" alt="Message screenshot 8" loading="lazy">
+  <img src="Evidence/photos/extracted_pages/MSG-LINDA-006.png" alt="Message screenshot 9" loading="lazy">
+</div>
+<div class="photo-card-caption">
+  <span class="embed-exhibit-id">DEMO — 9-UP Gallery: Message Evidence Contact Sheet</span>
+  <span class="embed-caption-text">Nine message evidence screenshots in a contact-sheet layout. 3×3 grid for rapid visual scanning.</span>
+</div>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Inline Flow Test — Photo Card in Prose</h2>
+<p class="note">How a standard photo-card sits between paragraphs of narrative text. This is the most common usage.</p>
+
+<p class="prose">The letter from Dr. Swagel arrived in the mail on a Tuesday. It was unremarkable in every way that mattered — standard letterhead, professional tone, the kind of correspondence that lands in a stack with utility bills and catalogs. But what it contained would become central to everything that followed.</p>
+
+<div class="photo-card" data-exhibit="G-13">
+  <img src="Evidence/G-13_086_1_swagel_letter 2.jpg" alt="Dr. Swagel letter" loading="lazy">
+  <div class="photo-card-caption">
+    <span class="embed-exhibit-id">G-13 — Dr. Swagel Correspondence</span>
+    <span class="embed-caption-text">Original letter. Personal archive, Steve Russell collection.</span>
+  </div>
+</div>
+
+<p class="prose">Reading it now, years later, the language is striking for its restraint. There is no alarm in the prose, no urgency. It reads like a formality — which, in retrospect, is exactly what made it so dangerous.</p>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Inline Flow Test — Document Card in Prose</h2>
+<p class="note">A document-card between narrative paragraphs. Narrower than photo-card, heavier shadow. The reader should instinctively know this is a legal artifact.</p>
+
+<p class="prose">On October 15, 2018, a blog post appeared on Brienne Walsh's website. It referenced Tara's threat to sue — a threat that had been communicated privately but was now, suddenly, public. The post was brief but its implications were not.</p>
+
+<div class="document-card" data-exhibit="G-14">
+  <img src="Evidence/G-14_088_Brienne Walsh Blog Re Tara Threat to Sue October 15 2018.jpeg" alt="Brienne Walsh blog post screenshot, October 15, 2018" loading="lazy">
+  <div class="document-card-caption">
+    <span class="embed-exhibit-id">G-14 — Brienne Walsh Blog Post, October 15, 2018</span>
+    <span class="embed-caption-text">Web archive screenshot. Blog post regarding threat to sue.</span>
+  </div>
+</div>
+
+<p class="prose">The timing was not coincidental. Three days earlier, the custody filing had been amended. Two days before that, the deposition had gone badly. Everything was converging.</p>
+
+<hr>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Inline Flow Test — Gallery Between Paragraphs</h2>
+<p class="note">A 2-up gallery between narrative paragraphs, showing how it flows with text.</p>
+
+<p class="prose">The text messages between Steve Russell and Steve Walsh told two different stories depending on which ones you read. Read one way, they showed a father trying to maintain contact with his daughter. Read another way, they showed an escalating pattern of interference.</p>
+
+<div class="photo-gallery gallery-2up" data-exhibit="C-12">
+  <img src="Evidence/C-12_173_31) Steve Russell Steve Walsh  copy 2.jpeg" alt="Russell-Walsh text exchange page 1" loading="lazy">
+  <img src="Evidence/C-12_174_31) Steve Russell Steve Walsh  copy.jpeg" alt="Russell-Walsh text exchange page 2" loading="lazy">
+</div>
+<div class="photo-card-caption">
+  <span class="embed-exhibit-id">C-12 — Steve Russell / Steve Walsh Text Messages</span>
+  <span class="embed-caption-text">Message screenshots. Discovery production, Walsh family phone records.</span>
+</div>
+
+<p class="prose">Both readings were correct. That was the problem.</p>
+
+</div>
+</body>
+</html>

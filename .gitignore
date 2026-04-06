@@ -1,0 +1,10 @@
+# Large media — too big for GitHub, not served by Pages
+Evidence/sorted_movies/
+Evidence/pdf/
+Evidence/_removed_*/
+Previous/
+ChappaquaPoison_BOOK_*.pdf
+*.mp4
+*.mov
+*.mp3
+.DS_Store

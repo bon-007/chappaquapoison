@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A father. A poison. A record that survived. What this archive contains, where it came from, and the story it tells.">
+  <meta property="og:title" content="About | Chappaqua Poison">
+  <meta property="og:description" content="Five independent archives survived every attempt to silence them. This is the story they tell.">
+  <meta property="og:image" content="./images/og-banner.png">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#0F1116">
+  <meta name="color-scheme" content="dark">
+
+  <title>About | Chappaqua Poison</title>
+
+  <!-- Canonical URL -->
+<link rel="canonical" href="https://chappaquapoison.com/about">
+  <!-- Favicon -->
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+
+  <!-- Feed (disabled until feed.xml generation is implemented) -->
+  <!-- <link rel="alternate" type="application/atom+xml" title="Chappaqua Poison Feed" href="./feed.xml"> -->
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;600&family=Source+Serif+4:wght@400;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+
+  <!-- Design Tokens CSS -->
+  <link rel="stylesheet" href="./css/tokens.css">
+
+  <!-- Print Stylesheet -->
+  <link rel="stylesheet" href="./css/print.css" media="print">
+
+  <!-- Extra head content (JSON-LD, etc.) -->
+
+  <!-- Minimal Critical CSS for above-the-fold -->
+  <style>
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--color-deep-charcoal);
+      color: var(--color-body-text-dark);
+      font-family: var(--font-body);
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: var(--color-link-default);
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
+      transition: color 0.2s ease-in-out;
+    }
+
+    a:hover {
+      color: var(--color-link-hover);
+    }
+
+    a:visited {
+      color: var(--color-link-visited);
+    }
+
+    /* Skip to Content Link */
+    .skip-to-content {
+      position: absolute;
+      top: -40px;
+      left: 0;
+      background: var(--color-muted-amber);
+      color: var(--color-deep-charcoal);
+      padding: 8px 16px;
+      text-decoration: none;
+      border: none;
+      z-index: 100;
+    }
+
+    .skip-to-content:focus {
+      top: 0;
+    }
+
+    /* Header */
+    header {
+      background-color: var(--color-deep-charcoal);
+      border-bottom: 1px solid var(--color-slate-blue-gray);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      padding: 16px 0;
+      isolation: isolate;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .site-title {
+      font-family: var(--font-heading);
+      font-size: 20px;
+      font-weight: 700;
+      margin: 0;
+      color: var(--color-body-text-dark);
+    }
+
+    .site-title a {
+      color: inherit;
+      border: none;
+    }
+
+    .header-nav {
+      display: flex;
+      gap: 32px;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header-nav a {
+      font-family: var(--font-ui);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .header-nav a.nav-active {
+      color: var(--color-muted-amber);
+      border-bottom: 2px solid var(--color-muted-amber);
+      padding-bottom: 2px;
+    }
+
+    /* Main Content */
+    main {
+      min-height: calc(100vh - 200px);
+      padding: 40px 20px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .content-wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 var(--layout-padding);
+    }
+
+    /* Footer */
+    footer {
+      background-color: var(--color-slate-blue-gray);
+      border-top: 1px solid var(--color-phase-divider);
+      padding: 40px 20px;
+      margin-top: 64px;
+      color: var(--color-muted-caption);
+      font-family: var(--font-ui);
+      font-size: 13px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+
+    .footer-content {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 32px;
+      margin-bottom: 32px;
+    }
+
+    .footer-section h3 {
+      font-family: var(--font-ui);
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin: 0 0 16px 0;
+      color: var(--color-body-text-dark);
+    }
+
+    .footer-section ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-section li {
+      margin-bottom: 8px;
+    }
+
+    .footer-section a {
+      font-size: 13px;
+    }
+
+    .footer-bottom {
+      border-top: 1px solid var(--color-phase-divider);
+      padding-top: 24px;
+      font-size: 12px;
+      text-align: center;
+    }
+
+    /* Mobile Menu Toggle */
+    .mobile-menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 8px;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .hamburger-line {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background-color: var(--color-body-text-dark);
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(2) {
+      opacity: 0;
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-inner {
+        padding: 0 20px;
+        flex-wrap: wrap;
+      }
+
+      .mobile-menu-toggle {
+        display: flex;
+      }
+
+      .header-nav {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        gap: 0;
+        padding: 12px 0 4px;
+      }
+
+      .header-nav.is-open {
+        display: flex;
+      }
+
+      .header-nav li {
+        list-style: none;
+      }
+
+      .header-nav a {
+        display: block;
+        padding: 12px 0;
+        font-size: 14px;
+        border-bottom: 1px solid var(--color-phase-divider);
+      }
+
+      .header-nav li:last-child a {
+        border-bottom: none;
+      }
+
+      .content-wrapper {
+        padding: 0 16px;
+      }
+
+      main {
+        padding: 24px 0;
+      }
+
+      .footer-inner {
+        padding: 0 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a href="#main-content" class="skip-to-content">Skip to content</a>
+
+  <header>
+    <div class="header-inner">
+      <h1 class="site-title">
+        <a href="./index.html">Chappaqua Poison</a>
+      </h1>
+      <nav>
+        <ul class="header-nav">
+          <li><a href="./about.html" class="nav-active">About</a></li>
+          <li><a href="./timeline.html">Timeline</a></li>
+          <li><a href="./evidence.html">Evidence</a></li>
+          <li><a href="./book.html">Book</a></li>
+          <li><a href="./legal.html">Legal</a></li>
+          <li><a href="./search.html">Search</a></li>
+        </ul>
+      </nav>
+      <button class="mobile-menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main-content">
+<article class="about-page">
+  <div class="content-wrapper">
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION 1: OVERVIEW                                 -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="about-section about-overview">
+
+      <header class="about-header">
+        <h1 class="about-title">About This Archive</h1>
+      </header>
+
+      <blockquote class="spine-question">
+        <p>If the evidence is undeniable — if the fabrications are confessed, the poisoning is proven, and a jury validates the truth — why does the custody order remain?</p>
+      </blockquote>
+
+      <div class="overview-prose">
+        <p>A man walks into a relationship with a woman from one of the wealthiest families in Chappaqua, New York. Within a year, he is sick with an illness no doctor can name. Within two, his nanny tells him his partner has been putting drugs in his wine. Within three, his daughter is taken across the country. Within four, a court orders him to erase his own record of what happened.</p>
+
+        <p>A jury in San Francisco heard the evidence. Eleven of twelve found the mother liable for battery, fraud, and malice. The appellate court affirmed. The judgment was domesticated in New York.</p>
+
+        <p>The child is still in Chappaqua.</p>
+
+        <p>This archive documents how that happened — not through argument or accusation, but through the record itself. Court filings, sworn testimony, discovery materials, forensic extractions, and published media. Every factual claim traces to a source document. Where reconstruction bridges gaps between documents, those passages are marked and scored with an <a href="./methodology.html">Evidence Confidence Score</a> indicating the strength of the documentary basis.</p>
+
+        <p>A court order attempted to make these records disappear. They did not disappear. They were organized.</p>
+      </div>
+
+      <div class="overview-nav">
+        <a href="./index.html" class="overview-nav-item">
+          <span class="nav-label">Archive</span>
+          <span class="nav-desc">46 posts across 10 acts</span>
+        </a>
+        <a href="./timeline.html" class="overview-nav-item">
+          <span class="nav-label">Timeline</span>
+          <span class="nav-desc">Chronological overview</span>
+        </a>
+        <a href="./evidence.html" class="overview-nav-item">
+          <span class="nav-label">Evidence</span>
+          <span class="nav-desc">1,200+ indexed exhibits</span>
+        </a>
+        <a href="./search.html" class="overview-nav-item">
+          <span class="nav-label">Search</span>
+          <span class="nav-desc">Full-text discovery</span>
+        </a>
+      </div>
+
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION 2: THE ARCHIVES & SOURCES                   -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="about-section about-archives">
+
+      <h2 class="section-heading">The Five Archives</h2>
+
+      <p class="section-intro">Five independent evidence archives survived every attempt to silence them. Each has its own origin story, its own chain of custody, and its own silencing attempt. Each survived. Together they are both the evidence and the story — who tried to preserve the truth, who tried to destroy it, and what happened to them.</p>
+
+      <div class="five-archives">
+
+        <div class="archive-character">
+          <h3>The Backup</h3>
+          <p>In 2018, Tara Walsh used Russell's Mac to charge and back up her iPhone. iTunes created a forensic-quality archive — .DB files that index every message, photo, and search in a structure nearly impossible to fabricate. A criminal investigation opened in San Francisco. It was stopped by an illegal order. Years later, Walsh's own attorney produced many of the same messages as bates-stamped discovery, independently authenticating the archive he sought to suppress. The backup survived because it was built by Apple, not by anyone with an interest in the outcome.</p>
+        </div>
+
+        <div class="archive-character">
+          <h3>The Books</h3>
+          <p>Kelly Turnure — Aunt K — compiled hundreds of pages of evidence into physical books. Her faith was simple: if they could just see the evidence, they would do the right thing. She brought the books to every hearing, every meeting, every conversation where someone in authority might listen. The books became a blog — <em>Stevie Loves Evie</em>. The court wanted to gag it. The court failed. A jury listened. Aunt K was right.</p>
+        </div>
+
+        <div class="archive-character">
+          <h3>The Family Blog</h3>
+          <p>Brienne Walsh kept <em>A Brie Grows in Brooklyn</em> — a blog chronicling the Walsh family dysfunction in her own words, openly, for years. She documented what the family later denied under oath. Then Brienne fled to Savannah. The blog was taken down. We preserve it here in full.</p>
+        </div>
+
+        <div class="archive-character">
+          <h3>The Podcast</h3>
+          <p>Reporter Michaelanne Petrella investigated the case and began a podcast called <em>Chappaqua Poison</em>. Tara Walsh emailed Petrella directly, invoking the gag order, naming Petrella's sister, and attaching a restraining order — weaponizing a judicial instrument to silence independent journalism. Petrella couldn't continue. She sold back the rights to the story. The evidence she gathered survived.</p>
+        </div>
+
+        <div class="archive-character">
+          <h3>The Court Record</h3>
+          <p>Affidavits, depositions, discovery — the cases are the ultimate public record. Sworn testimony given under penalty of perjury. Evidence produced under legal compulsion. Six depositions of Walsh family members contradicting their own private admissions. Three contradictory versions of the same court order. Every claim in this archive traces to source. The record is open.</p>
+        </div>
+
+      </div>
+
+      <div class="source-categories">
+        <h3>Source Material</h3>
+        <p>This archive draws from six categories of primary source material: court filings, sworn declarations, and discovery materials from proceedings in San Francisco Superior Court, New York Supreme Court (Westchester County), and the appellate courts of both states. Forensic extractions from electronic devices, including the Walsh iMessage archive. Medical records and toxicology reports documenting the presence of lithium, quetiapine, mycophenolic acid, and niacin at concentrations inconsistent with therapeutic use. Published media, including the blogs and podcast investigation. Interviews with key individuals. And publicly available records, including corporate filings and professional licensing records.</p>
+      </div>
+
+      <div class="archive-links">
+        <h3>Previous Editions</h3>
+        <p class="archive-links-intro">This is the third iteration of a documentary effort that began in 2017. The prior editions are preserved as original source material.</p>
+        <div class="archive-links-grid">
+          <div class="archive-links-col">
+            <h4>Evie's Story — Evidence Index</h4>
+            <ul>
+              <li><a href="./Previous/EvieStoryVol_1.pdf">Volume 1</a></li>
+              <li><a href="./Previous/EvieStoryVol_2.pdf">Volume 2</a></li>
+              <li><a href="./Previous/EvieStoryVol_3.pdf">Volume 3</a></li>
+              <li><a href="./Previous/EvieStoryVol_4.pdf">Volume 4</a></li>
+            </ul>
+          </div>
+          <div class="archive-links-col">
+            <h4>Blog Archives</h4>
+            <ul>
+              <li><a href="./Previous/ChappaquaPoisonPrevious.pdf">Chappaqua Poison (Original)</a></li>
+              <li><a href="./Previous/StevieLovesEvieArchive.pdf">Stevie Loves Evie</a></li>
+              <li><a href="./Previous/ABrieGrowsInBrooklyn_Archive_vol1.pdf">A Brie Grows in Brooklyn Vol. 1</a></li>
+              <li><a href="./Previous/ABrieGrowsInBrooklyn_Archive_vol2.pdf">A Brie Grows in Brooklyn Vol. 2</a></li>
+              <li><a href="./Previous/ABrieGrowsInBrooklyn_Archive_vol3.pdf">A Brie Grows in Brooklyn Vol. 3</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- SECTION 3: THE STORY (Reader's Digest / Front Flap) -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="about-section about-story">
+
+      <h2 class="section-heading">The Story</h2>
+
+      <p class="section-intro">Forty-six posts across ten acts. Below is the compressed arc — the key turns, the evidence that proves them, and the links that take you inside.</p>
+
+      <!-- ACT I: The Fool -->
+      <div class="story-act">
+        <div class="act-marker">Act I</div>
+        <h3 class="act-title">The Fool</h3>
+        <div class="story-beat">
+          <p>A systems architect who built surveillance platforms for the FBI and NCMEC meets a woman from a fiercely private family in Chappaqua, New York. He moves in. He gets sick — cognitive fog, tremors, collapses. No doctor can explain it. Then a lab report arrives: <strong>lithium at six times normal</strong>.</p>
+          <div class="story-evidence">
+            <a href="./posts/B06.html" class="story-link post-link">
+              <span class="link-type">Post</span> The Illness
+            </a>
+            <a href="./posts/B05.html" class="story-link post-link">
+              <span class="link-type">Post</span> Nothing Stolen
+            </a>
+            <a href="./evidence.html?q=lithium" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> Lithium lab reports
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT II: The Birth -->
+      <div class="story-act">
+        <div class="act-marker">Act II</div>
+        <h3 class="act-title">The Birth</h3>
+        <div class="story-beat">
+          <p>Evie is born by emergency C-section in Brooklyn. Steve sleeps in a hospital chair for four days. When he returns to the apartment, tamper screws on the security system have moved. The gas line emits a hiss. <strong>A video captures gas venting from a light fixture</strong> — a fixture that had been sealed the day before.</p>
+          <div class="story-evidence">
+            <a href="./posts/B12.html" class="story-link post-link">
+              <span class="link-type">Post</span> January 27, 2018
+            </a>
+            <a href="./posts/B14.html" class="story-link post-link">
+              <span class="link-type">Post</span> The Morning After
+            </a>
+            <a href="./evidence.html?q=ExMM_10" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> Gas fixture video
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT III: The Poisoning -->
+      <div class="story-act">
+        <div class="act-marker">Act III</div>
+        <h3 class="act-title">The Poisoning Revealed</h3>
+        <div class="story-beat">
+          <p>They move to San Francisco. At a wine-and-art event, his skin flushes scarlet — niacin, not an allergy. Then the nanny approaches him in the kitchen. Her words end everything that came before: <strong>"She asked me to put drugs in your wine."</strong> The nanny has a brother in the DEA. She knows what she saw.</p>
+          <div class="story-evidence">
+            <a href="./posts/B20.html" class="story-link post-link">
+              <span class="link-type">Post</span> The Niacin Flush
+            </a>
+            <a href="./posts/B21.html" class="story-link post-link">
+              <span class="link-type">Post</span> She Asked Me to Put Drugs in Your Wine
+            </a>
+            <a href="./evidence.html?q=Tedla" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> Tedla declaration
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT IV: The Kidnapping -->
+      <div class="story-act">
+        <div class="act-marker">Act IV</div>
+        <h3 class="act-title">The Uber</h3>
+        <div class="story-beat">
+          <p>Tara takes Evie and gets into an Uber. Bryan Crutcher, a security specialist, jumps in. <strong>The Uber driver's recording captures the conversation</strong> — Tara directing the flight, Crutcher coordinating logistics. The child is taken to New York. Steve flies east. A new phase begins.</p>
+          <div class="story-evidence">
+            <a href="./posts/B23.html" class="story-link post-link">
+              <span class="link-type">Post</span> The Uber
+            </a>
+            <a href="./evidence.html?q=ExMM_UBER" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> Uber audio recording
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT V: Supervised Visits -->
+      <div class="story-act">
+        <div class="act-marker">Act V</div>
+        <h3 class="act-title">Supervised Visits</h3>
+        <div class="story-beat">
+          <p>Sixteen visits over multiple months with six different supervisors. Every visit follows the same arc: positive reports, then the supervisor is replaced. <strong>Bruises appear on Evie. They are documented. No investigation follows.</strong> The last visit ends with two men in camouflage waiting in a blacked-out SUV at the Walsh compound gate. The court supervisor files an affidavit. She is removed from the case.</p>
+          <div class="story-evidence">
+            <a href="./posts/B26.html" class="story-link post-link">
+              <span class="link-type">Post</span> Sixteen Visits
+            </a>
+            <a href="./posts/B28.html" class="story-link post-link">
+              <span class="link-type">Post</span> The Ambush
+            </a>
+            <a href="./evidence.html?q=ExMM_07" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> 911 call recording
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT VI-VII: The Courts -->
+      <div class="story-act">
+        <div class="act-marker">Acts VI–VII</div>
+        <h3 class="act-title">The Courts</h3>
+        <div class="story-beat">
+          <p>The New York Family Court becomes the second arena. Steve seeks a protective order. It is granted. At the evidentiary hearing, <strong>the court enters a default against Tara — a default the appellate court will later rule never legally occurred</strong>. A new judge assumes control. She vacates the protective order. She issues a gag order demanding Russell "Erase, Deactivate, and Delete" his evidence. The order is unconstitutional. The appellate court will say so. But first, years pass.</p>
+          <div class="story-evidence">
+            <a href="./posts/B33.html" class="story-link post-link">
+              <span class="link-type">Post</span> Two Defaults
+            </a>
+            <a href="./posts/B37.html" class="story-link post-link">
+              <span class="link-type">Post</span> Erase, Deactivate, and Delete
+            </a>
+            <a href="./posts/B39.html" class="story-link post-link">
+              <span class="link-type">Post</span> Orders as Weapons
+            </a>
+            <a href="./evidence.html?q=voicemail+threat" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> Walsh voicemail threat
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT VIII: The Trial -->
+      <div class="story-act">
+        <div class="act-marker">Act VIII</div>
+        <h3 class="act-title">The Trial</h3>
+        <div class="story-beat">
+          <p>A different courtroom. San Francisco Superior Court. Twelve jurors hear the evidence the family court never examined. <strong>Brienne Walsh's deposition describes the household from inside — physical violence, fear, silence.</strong> The toxicology. The nanny's testimony. The confession texts. Eleven of twelve find Tara liable for battery, domestic violence, and intentional infliction of emotional distress — with malice, oppression, or fraud. The appellate court affirms.</p>
+          <div class="story-evidence">
+            <a href="./posts/B40.html" class="story-link post-link">
+              <span class="link-type">Post</span> We Were Hit
+            </a>
+            <a href="./posts/B42.html" class="story-link post-link">
+              <span class="link-type">Post</span> What Twelve People Saw
+            </a>
+            <a href="./posts/B43.html" class="story-link post-link">
+              <span class="link-type">Post</span> What the Jury Found
+            </a>
+            <a href="./posts/B44.html" class="story-link post-link">
+              <span class="link-type">Post</span> Affirmed
+            </a>
+            <a href="./evidence.html?q=verdict" class="story-link evidence-link">
+              <span class="link-type">Evidence</span> Jury verdict form
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ACT IX-X: The Archive -->
+      <div class="story-act">
+        <div class="act-marker">Acts IX–X</div>
+        <h3 class="act-title">The Record</h3>
+        <div class="story-beat">
+          <p>The appellate division rules the gag order unconstitutional. The battery verdict stands. The judgment is domesticated in New York. Every legal avenue has confirmed the same truth. And still — a father cannot see his daughter. <strong>The demand arrives: if Steve wants to see Evie again, he must delete the archive.</strong> He declines. He builds this instead.</p>
+          <div class="story-evidence">
+            <a href="./posts/B41.html" class="story-link post-link">
+              <span class="link-type">Post</span> 214 A.D.3d 890
+            </a>
+            <a href="./posts/B46.html" class="story-link post-link">
+              <span class="link-type">Post</span> The Demand
+            </a>
+            <a href="./posts/B47.html" class="story-link post-link">
+              <span class="link-type">Post</span> For Evie
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Closing / CTA -->
+      <div class="story-enter">
+        <p>The archive is organized into forty-six narrative beats. Each carries an Evidence Confidence Score, cross-references to related beats, and links directly to source evidence. Start at <a href="./posts/B01.html">the beginning</a>, or enter anywhere.</p>
+      </div>
+
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- FOR EVIE (closing)                                  -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="about-section for-evie-section">
+      <h2 class="section-heading">For Evie</h2>
+
+      <p>This archive is for Evie.</p>
+
+      <p>It exists so that if a father and daughter never meet, she will know who he was. Not what he was accused of. Who he was. An inventor who built things. A man who tried to protect her — and her mother — at extraordinary cost. There is no malice here. No brokenness. Just an exercise in truth-telling by a father who believed the documented record should survive, even when a court ordered it erased.</p>
+
+      <p>Every institution involved in this story presented the same proposition: accept the loss quietly, or lose more. Comply with the erasure, or be erased yourself. That is the no-win scenario.</p>
+
+      <p>This archive is the answer to the no-win scenario: change the conditions of the test. Tell the truth. Source every claim. Cite every document. Let the record speak. Leave it for her.</p>
+    </section>
+
+  </div>
+</article>
+
+<style>
+  /* ── Page Layout ── */
+  .about-page {
+    padding: 40px 0;
+  }
+
+  .about-section {
+    margin-bottom: 64px;
+    padding-bottom: 48px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .about-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  /* ── Section 1: Overview ── */
+  .about-header {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .about-title {
+    font-family: var(--font-heading);
+    font-size: clamp(32px, 5vw, 44px);
+    font-weight: 700;
+    margin: 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .spine-question {
+    margin: 0 0 32px 0;
+    padding: 24px 28px;
+    background: rgba(212, 163, 95, 0.08);
+    border-left: 4px solid var(--color-muted-amber);
+    border-radius: 0 4px 4px 0;
+    font-size: 18px;
+    line-height: 1.7;
+    font-style: italic;
+    color: var(--color-muted-amber);
+  }
+
+  .spine-question p {
+    margin: 0;
+  }
+
+  .overview-prose {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .overview-prose p {
+    margin: 0 0 1.2em 0;
+  }
+
+  .overview-prose a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  /* Navigation cards */
+  .overview-nav {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-top: 32px;
+  }
+
+  .overview-nav-item {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: rgba(212, 163, 95, 0.04);
+    border: 1px solid rgba(212, 163, 95, 0.15);
+    border-radius: 4px;
+    text-decoration: none;
+    border-bottom: none;
+    transition: background 0.2s ease, border-color 0.2s ease;
+  }
+
+  .overview-nav-item:hover {
+    background: rgba(212, 163, 95, 0.10);
+    border-color: rgba(212, 163, 95, 0.4);
+  }
+
+  .overview-nav-item .nav-label {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-muted-amber);
+    margin-bottom: 6px;
+  }
+
+  .overview-nav-item .nav-desc {
+    font-size: 14px;
+    color: var(--color-body-text-dark);
+    opacity: 0.7;
+  }
+
+  @media (max-width: 640px) {
+    .overview-nav {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  /* ── Section 2: Archives & Sources ── */
+  .section-heading {
+    font-family: var(--font-heading);
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .section-intro {
+    font-size: 17px;
+    line-height: 1.7;
+    margin: 0 0 28px 0;
+  }
+
+  .five-archives {
+    margin: 0 0 40px 0;
+  }
+
+  .archive-character {
+    margin: 0 0 24px 0;
+    padding: 24px 28px;
+    background: rgba(212, 163, 95, 0.04);
+    border-left: 3px solid var(--color-muted-amber);
+    border-radius: 0 4px 4px 0;
+  }
+
+  .archive-character h3 {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--color-muted-amber);
+    margin: 0 0 10px 0;
+    letter-spacing: 0.02em;
+  }
+
+  .archive-character p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .archive-character em {
+    font-style: italic;
+  }
+
+  .source-categories {
+    margin: 0 0 32px 0;
+    padding: 24px 28px;
+    background: rgba(212, 163, 95, 0.04);
+    border-radius: 4px;
+  }
+
+  .source-categories h3 {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-muted-amber);
+    margin: 0 0 12px 0;
+  }
+
+  .source-categories p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .archive-links {
+    margin: 0;
+    padding: 24px 28px;
+    background: rgba(212, 163, 95, 0.06);
+    border: 1px solid rgba(212, 163, 95, 0.2);
+    border-radius: 4px;
+  }
+
+  .archive-links h3 {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-muted-amber);
+    margin: 0 0 8px 0;
+  }
+
+  .archive-links-intro {
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0 0 16px 0;
+    opacity: 0.8;
+  }
+
+  .archive-links-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+
+  @media (max-width: 640px) {
+    .archive-links-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .archive-links-col h4 {
+    font-family: var(--font-heading);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--color-muted-amber);
+    margin: 0 0 8px 0;
+    opacity: 0.85;
+  }
+
+  .archive-links-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .archive-links-col li {
+    padding: 4px 0;
+  }
+
+  .archive-links-col a {
+    color: var(--color-muted-amber);
+    border-bottom-color: rgba(212, 163, 95, 0.4);
+    font-size: 15px;
+  }
+
+  .archive-links-col a:hover {
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  /* ── Section 3: The Story ── */
+  .about-story .section-intro {
+    margin-bottom: 40px;
+  }
+
+  .story-act {
+    position: relative;
+    margin: 0 0 40px 0;
+    padding: 0 0 0 28px;
+    border-left: 2px solid rgba(212, 163, 95, 0.2);
+  }
+
+  .act-marker {
+    font-family: var(--font-heading);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-muted-amber);
+    opacity: 0.7;
+    margin-bottom: 4px;
+  }
+
+  .act-title {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--color-body-text-dark);
+    margin: 0 0 12px 0;
+  }
+
+  .story-beat p {
+    font-size: 16px;
+    line-height: 1.7;
+    margin: 0 0 16px 0;
+  }
+
+  .story-beat strong {
+    color: var(--color-muted-amber);
+    font-weight: 600;
+  }
+
+  .story-evidence {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .story-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    font-size: 13px;
+    border-radius: 3px;
+    border-bottom: none;
+    text-decoration: none;
+    transition: background 0.2s ease;
+  }
+
+  .story-link .link-type {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.7;
+  }
+
+  .story-link.post-link {
+    background: rgba(212, 163, 95, 0.08);
+    color: var(--color-muted-amber);
+  }
+
+  .story-link.post-link:hover {
+    background: rgba(212, 163, 95, 0.16);
+  }
+
+  .story-link.evidence-link {
+    background: rgba(120, 160, 200, 0.08);
+    color: rgba(160, 190, 220, 0.9);
+  }
+
+  .story-link.evidence-link:hover {
+    background: rgba(120, 160, 200, 0.16);
+  }
+
+  @media (max-width: 640px) {
+    .story-evidence {
+      flex-direction: column;
+    }
+  }
+
+  /* Enter the archive CTA */
+  .story-enter {
+    margin-top: 48px;
+    padding: 28px;
+    background: rgba(212, 163, 95, 0.06);
+    border: 1px solid rgba(212, 163, 95, 0.2);
+    border-radius: 4px;
+    text-align: center;
+  }
+
+  .story-enter p {
+    margin: 0;
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .story-enter a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  /* ── For Evie (closing) ── */
+  .for-evie-section {
+    border-top: 2px solid var(--color-muted-amber);
+    padding-top: 32px;
+    border-bottom: none !important;
+  }
+
+  .for-evie-section .section-heading {
+    color: var(--color-muted-amber);
+  }
+
+  .for-evie-section p {
+    font-size: 17px;
+    line-height: 1.7;
+    margin: 0 0 1.2em 0;
+  }
+
+  .for-evie-section p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* General link styling within about */
+  .about-section a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+</style>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>Navigate</h3>
+          <ul>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./evidence.html">Evidence</a></li>
+            <li><a href="./methodology.html">Methodology</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Transparency</h3>
+          <ul>
+            <li><a href="./public-record-notice.html">Public Record Notice</a></li>
+            <li><a href="./falsifiability.html">Falsifiability</a></li>
+            <li><a href="./how-to-read.html">How to Read This Archive</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>This archive contains only materials derived from public records, filed court documents, previously published content, and documents disclosed during litigation. All source materials are cited with their provenance.</p>
+        <p>Chappaqua Poison &middot; 2026 &middot; Public Record</p>
+      </div>
+    </div>
+  </footer>
+  <script>
+    (function() {
+      var toggle = document.querySelector('.mobile-menu-toggle');
+      var nav = document.querySelector('.header-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', function() {
+          var expanded = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', !expanded);
+          nav.classList.toggle('is-open');
+        });
+      }
+    })();
+  </script>
+</body>
+</html>
