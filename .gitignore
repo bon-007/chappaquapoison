@@ -2,9 +2,11 @@
 Evidence/sorted_movies/
 Evidence/pdf/
 Evidence/_removed_*/
+Evidence/media/video/
 Previous/
 ChappaquaPoison_BOOK_*.pdf
-*.mp4
 *.mov
-*.mp3
 .DS_Store
+
+# Allow deposition clips and audio evidence
+# (clips are small curated cuts, not full depositions)
