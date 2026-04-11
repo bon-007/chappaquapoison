@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chappaquapoison.com/sitemap.xml
