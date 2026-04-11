@@ -1,0 +1,37 @@
+# B32: Five O'Clock
+
+## Identity
+id: B32
+number: 32
+title: Five O'Clock
+phase: VII — The Verdict
+date_context: 2021–2022
+canonical_url: https://chappaquapoison.com/posts/B32
+
+## Summary
+Kelly undergoes surgery. Steve's attorneys request remote appearance at a visitation conference. At five o'clock the evening before, the court denies the request. He boards an overnight flight. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a five-year order of protection at what was scheduled as a status conference.
+
+## Evidence Confidence
+ecs: 85/100
+
+## Evidence
+
+## Tags
+  - 2020
+  - COVID-19
+  - Custody
+  - Default Order
+  - DiFabio
+  - Horowitz
+  - Humphrey
+  - Institutional Failure
+  - Kelly Turnure
+  - Manufacturing Absence
+  - NY Family Court
+  - Pontius Pilate
+  - Revolving Judges
+  - Tara Walsh
+  - Westchester
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

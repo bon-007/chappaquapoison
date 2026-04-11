@@ -1,0 +1,33 @@
+# B18: Save This, I've Got Him
+
+## Identity
+id: B18
+number: 18
+title: Save This, I've Got Him
+phase: III — The System
+date_context: 2018
+canonical_url: https://chappaquapoison.com/posts/B18
+
+## Summary
+A three-level townhouse. A nanny. Steve's mother helping with the baby. For a brief period it feels almost ordinary. Then Tara smashes a phone against the wall and photographs a bruise.
+
+## Evidence Confidence
+ecs: 85/100
+
+## Evidence
+
+## Tags
+  - 2018
+  - Abby Tedla
+  - Bruise Photograph
+  - Narrative Inversion
+  - North Beach
+  - San Francisco
+  - Tara Walsh
+  - Dr. Faedda
+  - Iatrogenic
+  - Lucio Bini Center
+  - Medication Genealogy
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

@@ -1,0 +1,38 @@
+# B35: Equal Threats
+
+## Identity
+id: B35
+number: 35
+title: Equal Threats
+phase: VII — The Verdict
+date_context: 2022–2023
+canonical_url: https://chappaquapoison.com/posts/B35
+
+## Summary
+The case passes to a fourth judge. Schauer vacates the Horowitz default and issues two temporary orders of protection — one against each party. The poisoner and the poisoned are treated as symmetrical threats. Steve tells the court a permanent temporary order does not give him a chance to face his accuser. The court tells him he is muddying the record.
+
+## Evidence Confidence
+ecs: 78/100
+
+## Evidence
+
+## Tags
+  - 2021
+  - Battery Trial
+  - Chappaqua
+  - DiFabio
+  - Family System
+  - Humphrey
+  - Institutional
+  - Judge Schauer
+  - Kelly Turnure
+  - Linda Russell
+  - NY Family Court
+  - Procedural Reset
+  - Two Court Systems
+  - Walsh Sr.
+  - Westchester
+  - Yonkers
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

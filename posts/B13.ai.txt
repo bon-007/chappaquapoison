@@ -1,0 +1,30 @@
+# B13: The Painter of Cottages
+
+## Identity
+id: B13
+number: 13
+title: The Painter of Cottages
+phase: II — The Evidence
+date_context: 2017-2019
+canonical_url: https://chappaquapoison.com/posts/B13
+
+## Summary
+Kelly comes back. A ranch that belonged to the painter of cottages. Light on the hills. Then Amazon buys Ring, Jamie deletes the options, and Steve files a fourteen-count complaint. Kelly helps him win.
+
+## Evidence Confidence
+ecs: 78/100
+
+## Evidence
+
+## Tags
+  - 2017
+  - 2018
+  - Amazon
+  - Jamie Siminoff
+  - Kelly Turnure
+  - Kinkade Ranch
+  - Ring
+  - San Francisco
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

@@ -1,0 +1,31 @@
+# B33: Two Defaults
+
+## Identity
+id: B33
+number: 33
+title: Two Defaults
+phase: VII — The Verdict
+date_context: 2022
+canonical_url: https://chappaquapoison.com/posts/B33
+
+## Summary
+Steve seeks a Temporary Order of Protection in New York. The TOP is granted. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. A second default is entered. Judge Humphreys recuses himself.
+
+## Evidence Confidence
+ecs: 82/100
+
+## Evidence
+
+## Tags
+  - 2019-2020
+  - Custody
+  - Institutional
+  - Judge Humphreys
+  - Kelly Turnure
+  - Max Di Fabio
+  - NY Family Court
+  - Two Court Systems
+  - Pontius Pilate
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

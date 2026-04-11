@@ -1,0 +1,43 @@
+# B28: The Ambush
+
+## Identity
+id: B28
+number: 28
+title: The Ambush
+phase: V — The Reckoning Begins
+date_context: 2020–2021
+canonical_url: https://chappaquapoison.com/posts/B28
+
+## Summary
+The last supervised visit ends at dusk. At the gate, a blacked-out SUV. Two men in camouflage. The supervisor who documents what she saw is removed from the case. The judge recuses herself without comment. Steve never sees his daughter again.
+
+## Evidence Confidence
+ecs: 88/100
+
+## Evidence
+
+## Tags
+  - 2019
+  - Brendan Walsh
+  - Brian Meenan
+  - Chappaqua
+  - Claudette LaMelle
+  - Documentation
+  - Escalation
+  - Family System
+  - Gordon-Oliver
+  - Guttridge
+  - La Melle
+  - Legacy Protection
+  - Privacy Architecture
+  - Supervised Visitation
+  - Sworn Declaration
+  - Tara Knoll
+  - Walsh Sr.
+  - Westchester
+  - Brendan Deposition
+  - Forward Evidence
+  - Moore
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

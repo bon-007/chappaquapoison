@@ -1,0 +1,24 @@
+# B52: Where Are They Now
+
+## Identity
+id: B52
+number: 52
+title: Where Are They Now
+phase: Afterword — Afterword
+date_context: 2025–2026
+canonical_url: https://chappaquapoison.com/posts/B52
+
+## Summary
+The system that failed Evie did not dismantle itself. The people who built it were promoted. The institutions that enabled it continued. A note about Bonnie. A note about Steve and Simon.
+
+## Evidence Confidence
+ecs: 70/100
+
+## Evidence
+
+## Tags
+  - Afterword
+
+## Uncertainty & Gaps
+This post has a below-threshold ECS score, indicating gaps in corroboration.
+No direct evidence artifacts are linked to this post.

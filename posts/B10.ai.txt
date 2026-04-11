@@ -1,0 +1,31 @@
+# B10: The Builder
+
+## Identity
+id: B10
+number: 10
+title: The Builder
+phase: I — The Evidence
+date_context: 2017
+canonical_url: https://chappaquapoison.com/posts/B10
+
+## Summary
+He leaves New York. Gets a driver. Returns to work. Ring is growing — Kleiner money, Ukraine team producing, Amazon watching. Jamie wants more than Steve can give. Prism gets caught in the middle. He meets a woman named Kelly at a ranch that used to belong to the painter of cottages. For a while, life is normal. Then two catastrophes collide.
+
+## Evidence Confidence
+ecs: 75/100
+
+## Evidence
+
+## Tags
+  - 2017
+  - Bryan Crutcher
+  - Jamie Siminoff
+  - Kelly Turnure
+  - Kinkade Ranch
+  - Privacy Inversion
+  - San Francisco
+  - The Fool
+  - Tom LaFreniere
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

@@ -1,0 +1,28 @@
+# B51: For Evie
+
+## Identity
+id: B51
+number: 51
+title: For Evie
+phase: IX — IX
+date_context: Present
+canonical_url: https://chappaquapoison.com/posts/B51
+
+## Summary
+Afterword. A house in the United States. A room that is ready. A brother who knows her name. The door is open.
+
+## Evidence Confidence
+ecs: 95/100
+
+## Evidence
+
+## Tags
+  - Closing
+  - Evie
+  - Kelly Turnure
+  - Present
+  - Simon
+  - The Fool
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

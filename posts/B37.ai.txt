@@ -1,0 +1,38 @@
+# B37: Erase, Deactivate, and Delete
+
+## Identity
+id: B37
+number: 37
+title: Erase, Deactivate, and Delete
+phase: VII — The Reckoning
+date_context: 2023
+canonical_url: https://chappaquapoison.com/posts/B37
+
+## Summary
+Jennifer Jackman resigns as Attorney for the Child without explanation. Her replacement files a motion to suppress all blog content. A visitation conference is converted into a gag order hearing. Steve is declared in default. Judge Schauer orders the blog removed — every post, every photograph, every grandmother's letter. The words are precise. Erase. Deactivate. Delete.
+
+## Evidence Confidence
+ecs: 90/100
+
+## Evidence
+
+## Tags
+  - 2021
+  - StevieLovesEvie
+  - ChappaquaPoison
+  - DiFabio
+  - Documentation
+  - Donna Genovese
+  - Gag Order
+  - Institutional
+  - Jennifer Jackman
+  - Judge Schauer
+  - Kelly Turnure
+  - Linda Russell
+  - NY Family Court
+  - Privacy Inversion
+  - Prior Restraint
+  - Yonkers
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

@@ -1,0 +1,31 @@
+# B45: What the Jury Found
+
+## Identity
+id: B45
+number: 45
+title: What the Jury Found
+phase: VIII — The Record
+date_context: 2022
+canonical_url: https://chappaquapoison.com/posts/B45
+
+## Summary
+The verdict: battery, fraud, intentional infliction of emotional distress, domestic violence — with a finding of malice. Eleven to one. Approximately three hundred thousand dollars. The vote was not close.
+
+## Evidence Confidence
+ecs: 95/100
+
+## Evidence
+
+## Tags
+  - 2022
+  - SF Superior Court
+  - Tara Walsh
+  - Trial
+  - Two Court Systems
+  - Garrett L. Wong
+  - Verdict
+  - Malice
+  - Damages
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

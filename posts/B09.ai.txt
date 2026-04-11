@@ -1,0 +1,33 @@
+# B09: The Brooklyn Apartment
+
+## Identity
+id: B09
+number: 9
+title: The Brooklyn Apartment
+phase: I — The Evidence
+date_context: 2016–2018
+canonical_url: https://chappaquapoison.com/posts/B09
+
+## Summary
+Tara finds an apartment in a mob neighborhood down the street from her sister. She asks Steve to come help look at places for the baby. He goes to the hospital instead. The door closes behind him.
+
+## Evidence Confidence
+ecs: 80/100
+
+## Evidence
+
+## Tags
+  - 2017
+  - Adderall
+  - Brooklyn
+  - Chris Ochoa
+  - Discovery
+  - Don Ackerman
+  - Geiger Counter
+  - Legacy Protection
+  - Narrative Inversion
+  - Poisoning
+  - Tara Walsh
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

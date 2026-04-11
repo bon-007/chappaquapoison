@@ -1,0 +1,28 @@
+# B02: The Girl on the Boat
+
+## Identity
+id: B02
+number: 2
+title: The Girl on the Boat
+phase: I — The Fool
+date_context: 2014–2017
+canonical_url: https://chappaquapoison.com/posts/B02
+
+## Summary
+A boat on the Hudson. A girl in a red-and-white dress holding a chihuahua and a vape pen. She runs a handbag company and a marketing agency. Her clients are all in construction. Her friend got hit by a wrecking ball. So did she.
+
+## Evidence Confidence
+ecs: 82/100
+
+## Evidence
+
+## Tags
+  - 2014-2015
+  - Hudson River
+  - Ochoa
+  - Origin
+  - Tara Walsh
+  - Nolita
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

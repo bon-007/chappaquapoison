@@ -1,0 +1,24 @@
+# B53: Back Cover
+
+## Identity
+id: B53
+number: 53
+title: Back Cover
+phase: Back Cover — Back Cover
+date_context: 
+canonical_url: https://chappaquapoison.com/posts/B53
+
+## Summary
+Four discoveries. Three substances. Three laboratories. Three years. Every person who saw something was removed. A jury heard the evidence. The child is still in Chappaqua.
+
+## Evidence Confidence
+ecs: 70/100
+
+## Evidence
+
+## Tags
+  - Back Cover
+
+## Uncertainty & Gaps
+This post has a below-threshold ECS score, indicating gaps in corroboration.
+No direct evidence artifacts are linked to this post.

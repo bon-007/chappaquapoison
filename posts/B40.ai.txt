@@ -1,0 +1,36 @@
+# B40: We Were Hit
+
+## Identity
+id: B40
+number: 40
+title: We Were Hit
+phase: VIII — The Reckoning
+date_context: 2025–2026
+canonical_url: https://chappaquapoison.com/posts/B40
+
+## Summary
+Brienne Walsh had been writing about the household for years. Her deposition was taken September 29, 2020. Under oath, she confirmed the abuse. She confirmed the CPS calls. The family screamed at her for testifying. Her testimony was admitted at trial without objection.
+
+## Evidence Confidence
+ecs: 92/100
+
+## Evidence
+
+## Tags
+  - 2020
+  - 2022
+  - Brienne Walsh
+  - Maura Walsh
+  - Walsh Sr.
+  - Tara Walsh
+  - CPS
+  - Deposition
+  - ABrieGrowsInBrooklyn
+  - Sworn Declaration
+  - Witness Tampering
+  - Trial
+  - Two Court Systems
+  - Multigenerational
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.

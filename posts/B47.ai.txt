@@ -1,0 +1,42 @@
+# B47: The Record Is Open
+
+## Identity
+id: B47
+number: 47
+title: The Record Is Open
+phase: IX — The Record
+date_context: 2026
+canonical_url: https://chappaquapoison.com/posts/B47
+
+## Summary
+After the verdict, after the appeal, the story becomes what institutions could not hold — a permanent archive. Five independent archives survived every silencing attempt. In December 2025, a motion arrived in Westchester asking a single question: were the orders that govern a child's life ever lawfully entered?
+
+## Evidence Confidence
+ecs: 90/100
+
+## Evidence
+
+## Tags
+  - 2023
+  - 2024
+  - 2025
+  - 2026
+  - Archive
+  - Blog / StevieLovesEvie
+  - Bowman
+  - Documentation
+  - Evidence Books
+  - Five Archives
+  - Griffin
+  - Hugh Jasne
+  - Motion to Vacate
+  - Procedural Supremacy
+  - Resolution
+  - Schauer
+  - Westchester
+  - CASAC
+  - OASAS
+  - Forensic Fraud
+
+## Uncertainty & Gaps
+No direct evidence artifacts are linked to this post.
