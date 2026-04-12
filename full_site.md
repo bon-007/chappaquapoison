@@ -1,6 +1,6 @@
 # CHAPPAQUA POISON — Full Site Markdown
 
-Generated: 2026-04-10 16:13
+Generated: 2026-04-12 07:07
 
 ---
 
@@ -2188,6 +2188,104 @@ At 10:54 that night, six feet from the bassinet where Evie slept, Tara sat in th
 >, Tara Walsh, iMessage (January 27, 2018, 10:54 PM)
 
 Steve was in the room. The recliner. The monitor beeping. His daughter's fingers curling and uncurling in her sleep. And Tara, on her phone, managing the other life, the pharmaceutical one, that ran parallel to the one they were supposed to be sharing.
+
+---
+
+# [B13] The Painter of Cottages
+
+> Kelly comes back. A ranch that belonged to the painter of cottages. Light on the hills. Then Amazon buys Ring, Jamie deletes the options, and Steve files a fourteen-count complaint. Kelly helps him win.
+
+**Phase II | The Evidence | Late 2017 – February 2019 | ECS 78**
+
+Tags: 2017, 2018, Amazon, Jamie Siminoff, Kelly Turnure, Kinkade Ranch, Ring, San Francisco
+
+Evidence: 3 exhibits
+  - hero
+  - primary
+  - secondary
+
+The days got longer and then shorter and the fog kept its schedule and the house on Vermont Street stopped feeling like a place where something bad was happening and started feeling like a house again.
+
+Kelly came back.
+
+Or he came back to Kelly. The sequence was gentle enough that the distinction no longer mattered. He saw her at a tech event — one of the gatherings where San Francisco's industry reconvenes periodically to remind itself that it exists. She was there. He was there. The ghosting had left a gap, but the gap had the quality of something unfinished rather than something broken.
+
+They talked.
+
+He told her about the hospital. He told her about the doctor. He told her about the distance to New York. Kelly did not tell him he was right, and she did not tell him he was crazy. She listened without rushing to fill the silences, without offering the kind of advice that is really just a person trying to fix something so they don't have to sit with it.
+
+They started seeing each other again.
+
+On weekends they drove out of the city. North, usually — past Marin, past the vineyards, up into the hills where the land opened up and the houses got further apart and the air thinned out the way air does at elevation.
+
+There was a ranch.
+
+It had belonged to Thomas Kinkade — the painter of cottages, the man who had made a fortune painting light. Kinkade had died years earlier and the ranch had passed through hands and become a place where people could stay, a retreat with horses and quiet and the particular emptiness of a property that had been built to hold one man's vision of what beauty looked like.
+
+Steve and Kelly went there on a Saturday.
+
+The land was gold and green in long, quiet slopes. The hills rolled in long curves toward a horizon that was just blue sky and more hills. Horses stood motionless in the fields. The barn was old and clean and smelled like hay and leather.
+
+They walked the property in the late afternoon. Kelly's hand was in his. The light was the kind of light that Kinkade had painted — warm, specific, landing on surfaces the way light lands when you're paying attention to it.
+
+"This is nice," Kelly said.
+
+It was.
+
+---
+
+In February 2018, Amazon acquired Ring for more than a billion dollars.
+
+Jamie Siminoff personally netted roughly three hundred million.
+
+Steve's 205,308 stock options were now worth real money. On paper. In early April, his financial advisor contacted Ring to exercise the options. Ring's general counsel, Leila Rouhi, refused. The options, she wrote, had been forfeited — thirty days after Steve's offer to resign from the board on October 31, 2016.
+
+This was the same Leila Rouhi who, on November 3, 2017 — more than a year after the board resignation — had emailed Steve to "send the patent stuff." He had complied, executing the patent assignments in March 2018, weeks before the Amazon acquisition closed. He had done so believing what Ring's conduct had represented: that he was still earning option rights for his ongoing service.
+
+Ring had asked for his patents. Ring had gotten his patents. Then Ring said the options were gone.
+
+The transmittal documents from Amazon required a general release of all claims. Sign here, release everything, and you get paid. Steve's advisors asked for a carve-out — a way to preserve his claims while accepting the acquisition payout.
+
+Ring's outside counsel, Roxana Azizi, wrote back: "The transmittal documentation is required by the merger agreement and cannot be modified. Even if the documents could be modified, we are not willing to carve out or exclude any claims."
+
+Sign everything.
+Or get nothing.
+
+He didn't sign.
+
+On July 6, 2018, Steve wrote Jamie a short email.
+
+"J — Sorry I didn't call you but I have been a little busy. Tara took the baby and ran off to NY after it was discovered she had done something very bad for which there is now a criminal investigation underway in SF."
+
+To a man sitting inside a billion-dollar Amazon acquisition, the email did not read like a plea from a partner. It read like a liability.
+
+But it should have stopped him. *No matter how much you love your wife, you will love your son a million times more.* Jamie had said that on a porch in Nantucket, and he had meant it, and it was true. If he had read this email through the lens of that belief — a father whose baby had just been taken, a man living the nightmare that Jamie himself had told him was the worst thing imaginable — the email would have changed everything. It would have explained the years of difficulty, the refusal to join Ring, the impossible behavior that Jamie had been forced to reinterpret as betrayal.
+
+But the pressure of the acquisition, the money, the frustration — all of it had already done its work. Jamie had already converted Steve from friend to obstacle. And the email from a father whose child had been kidnapped arrived at the desk of a man who could no longer afford to see it for what it was.
+
+He told Jamie he was prioritizing Evie.
+
+On August 27, Steve wrote to his advisor Sean Snyder: "this is exactly what we needed. We are going ahead with the law suit against Jamie now."
+
+On November 1, 2018, Steve filed a complaint in Los Angeles Superior Court. Case number 18SMC00162. Russell v. Ring LLC and Jamie Siminoff. Fourteen counts. Breach of written contract. Breach of oral contract. Fraud. Patent rescission. Unjust enrichment.
+
+The complaint noted that some of Ring's misconduct was "the result of personal animus ... in retaliation for Russell raising concerns about Ring's conduct, including ... Ring's failure to properly protect its customers' privacy."
+
+Steve had warned Jamie about sending all video feeds to Ukraine without adequate privacy protections. Jamie hadn't listened. Years later, the FTC would investigate Ring for those exact failures. But by then Jamie had the money and the company and the Amazon deal, and Steve had a complaint and a settlement and the knowledge that the architecture he'd designed to protect privacy had been gutted by the man he'd helped build it for.
+
+Kelly helped with the case.
+
+This was new. This was different from what had come before. Tara had been the source of legal crisis — the poisoning, the hospitalization, the custody emergency. Kelly was the opposite. She helped organize, she helped fight, she helped Steve see the Ring case through to settlement in February 2019. Winning anything against Amazon was itself a thing. The settlement preserved Prism's claims.
+
+It was the first legal win. It would not be the last. And the fact that Kelly was there for it — that the productive relationship started here, with this fight, with this win — would matter for everything that came after.
+
+But that was later.
+
+On that Saturday at the Kinkade ranch, none of it had happened yet. The options hadn't been deleted. The baby hadn't been kidnapped. The complaint hadn't been filed. The settlement hadn't been reached.
+
+The light on the hills was real.
+The horses were real.
+Kelly's hand in his was real. The painter of cottages was dead but the ranch was still there and the light was still the same light and Steve stood in it and let it be enough for that moment.
 
 ---
 
@@ -6456,7 +6554,7 @@ That left the case without an attorney for the child. The court noted that "limi
 
 The case had been reset. The procedural error was undone. But the reset did not return the visits that had been lost. It did not address the poisoning. It did not examine the supervision manipulation or the ambush or the bruises or the disappeared reports. It did not give Steve a hearing on the temporary order that restrained him. It corrected procedure and left everything else exactly where it had been.
 
-The case had been reset. The clock returned to zero. Evie was five now — old enough to ask questions, old enough to notice who came to the door and who did not. Every procedural reset consumed months. Every month was time that could not be recovered. The file got thicker. The child got older. And each new judge started from scratch with a case she described as the largest she had ever seen, in a courtroom where the only acceptable form of participation was silence.
+The case had been reset. The clock returned to zero. Evie was three now — old enough to ask questions, old enough to notice who came to the door and who did not. Every procedural reset consumed months. Every month was time that could not be recovered. The file got thicker. The child got older. And each new judge started from scratch with a case she described as the largest she had ever seen, in a courtroom where the only acceptable form of participation was silence.
 
 Kelly walked out of the Yonkers courthouse that afternoon. She carried the legal pad she brought to every hearing — the notes she would type into a letter that evening, addressed to yet another judge, CC'd to yet another supervising justice, with the same evidence attached that every previous letter had attached and every previous recipient had declined to examine. Four judges. Four courtrooms. The same outcome: nothing changed for Evie.
 
@@ -6491,7 +6589,7 @@ Punxsutawney to Chappaqua was six and a half hours — Interstate 80 across the 
 
 The iPad was waiting on the hotel room bed, already charged, the videos cued and ready to play. She had made the videos herself from the clips she had collected — Evie laughing, Steve's voice off-camera: "Look at me, Ev. I love you." A grandmother who drove six hours was not the same as a father, but a grandmother who showed up mattered. The miles were becoming the argument. She drove.
 
-She rented a hotel room near the town and set it up for the visit. An iPad loaded with videos of Evie and her father — bath time, park walks, the supervised visits that had been documented before the visits stopped. A room where a grandmother could show a five-year-old that her father existed and loved her and had not chosen to disappear.
+She rented a hotel room near the town and set it up for the visit. An iPad loaded with videos of Evie and her father — bath time, park walks, the supervised visits that had been documented before the visits stopped. A room where a grandmother could show a three-year-old that her father existed and loved her and had not chosen to disappear.
 
 On her first trip, she drove to the Walsh compound on Whippoorwill Road. The driveway was long. The house sat back from the road on several wooded acres.
 
@@ -6536,7 +6634,7 @@ What Linda saw during the visit was not ordinary.
 
 Evie arrived unfed. She was tired. She was crying. Walsh Sr. attributed the crying to Evie not wanting to see her grandmother. The actual cause, Linda observed, was that the child had not been fed.
 
-Evie was not potty trained. She was five. Linda made significant progress in a single day, progress that should have been made a year earlier.
+Evie was not potty trained. She was three. Linda made significant progress in a single day, progress that should have been made a year earlier.
 
 Her shoes were too small. She was not getting regular exercise. She had a facial injury. Walsh said she had fallen.
 
@@ -7377,7 +7475,7 @@ Maura's diagnostic authority came from a single credential. "I have a training a
 
 She confirmed she had no knowledge of anything, no part in anything, had never been in San Francisco. She confirmed this from inside the house where the coordination had been planned, from the address she was not supposed to live at, on the same day her brother had smiled his way through three hours of coached amnesia one building over.
 
-Above them, in the finished attic of the same house, Evie was six. The compound had five buildings and a gated road that climbed a quarter mile through woods. She had lived in the attic with Tara since she was a toddler. Four adults would testify in the rooms below her and across the driveway over the course of three days, and none of them would mention her by name except as a case caption. The girl in the attic had not seen her father since she was one and a half. She had started school. She had learned to read. She had six more years ahead of her in that compound before she would have any say in whether the women testifying in the rooms below her told the truth or lied.
+Above them, in the finished attic of the same house, Evie was three. The compound had five buildings and a gated road that climbed a quarter mile through woods. She had lived in the attic with Tara since she was a toddler. Four adults would testify in the rooms below her and across the driveway over the course of three days, and none of them would mention her by name except as a case caption. The girl in the attic had not seen her father since she was one and a half. She was learning to talk in full sentences. She had nine more years ahead of her in that compound before she would have any say in whether the women testifying in the rooms below her told the truth or lied.
 
 <div class="court-facsimile" data-exhibit="ExQQ_03">
   <div class="court-header">
@@ -7921,7 +8019,7 @@ Walsh Sr. watches from Chappaqua. Successfully quashed. No longer a party. But s
 
 The case that named the family — not just Tara, but the parents, the system, the coordination — dies not from a ruling on its merits but from the procedural weight accumulated on a pro se litigant whose attorneys keep leaving because the man who left the case first keeps threatening them.
 
-The child visible through the storm door in February 2021 — at two, in Tara's arms — was four years old when the third default rejection came in December 2024. She was behind the gate. The two-year-old who retreated from view is now four, reading books, in first grade somewhere in Westchester. The same compound, the same driveway, the same door. The year the case was dismissed, she was going to school and coming home. The year the jury rendered its verdict, she was seven. The case that would have named her family had lost her childhood accumulating procedural rejections. Not to a ruling. To a clerk's error on complaint dates.
+The child visible through the storm door in February 2021 — at three, in Tara's arms — was six years old when the third default rejection came in December 2024. She was behind the gate. The three-year-old who retreated from view is now six, in first grade somewhere in Westchester. The same compound, the same driveway, the same door. The year the case was dismissed, she was going to school and coming home. The year the jury rendered its verdict, she was seven. The case that would have named her family had lost her childhood accumulating procedural rejections. Not to a ruling. To a clerk's error on complaint dates.
 
 In ten months, a jury will hear the evidence this case never reached. But the jury's verdict will apply only to Tara, the person who carried out the scheme. The parents who conceived it, funded it, directed it, and destroyed every attorney who tried to hold them accountable will not be named in the verdict. They will not be named in any verdict. That is what the eighty-nine entries accomplished. Not innocence. Absence.
 
@@ -8011,7 +8109,7 @@ Steve was in a room when the decision arrived. A computer on a table. March 22, 
 
 He read it. The language was technical: modification, substitution, affirmance in part, but the substance was not. The formula was "modified and affirmed," but the substance was simpler: the false default was gone, the backward-looking deletion regime was gone, and only a much smaller future-facing remainder was left in place. The default that the Family Court had relied upon did not exist. The blanket deletion order was unconstitutional. Two holdings, each removing a piece of the foundation on which the custody order and the gag order had been built.
 
-Evie was six years old. She had been living in the Walsh household, the household Brienne had described under oath, the household where CPS had been called, the household where a California jury had found the mother liable for battery with malice — for the entire duration of the appellate process. She was in first grade. She had lost her baby teeth. She had started reading. Every milestone Steve had missed was a milestone the system's delay had taken from him — not through a single act but through the accumulation of recusals and reassignments and the particular patience of a process designed to outlast the people inside it.
+Evie was five years old. She had been living in the Walsh household, the household Brienne had described under oath, the household where CPS had been called, the household where a California jury had found the mother liable for battery with malice — for the entire duration of the appellate process. She was in preschool. She had started reading. Every milestone Steve had missed was a milestone the system's delay had taken from him — not through a single act but through the accumulation of recusals and reassignments and the particular patience of a process designed to outlast the people inside it.
 
 ---
 
@@ -8524,7 +8622,7 @@ Critically, vacatur would not disrupt Evie's day-to-day life. She would remain i
 
 The child's daily life would not be disrupted. The legal fiction propping up that life would be replaced with lawful authority.
 
-Evie was ten. She was born January 27, 2018. The last time she had seen her father she was one and a half — carried by a court-appointed supervisor down a driveway in darkness, toward a car parked behind bushes. Between one and a half and ten lay the entire record of this book. Eight years of gates, orders, silence, documentation, trials, appeals, and still the gate held.
+Evie was eight. She was born January 27, 2018. The last time she had seen her father she was one and a half — carried by a court-appointed supervisor down a driveway in darkness, toward a car parked behind bushes. Between one and a half and eight lay the entire record of this book. Eight years of gates, orders, silence, documentation, trials, appeals, and still the gate held.
 
 ---
 
@@ -9056,21 +9154,15 @@ A man moves in with a woman from one of the wealthiest families in Chappaqua, Ne
 
 The laboratory results show lithium at six times the reference range. Seroquel in his blood. Mycophenolic acid — a kidney transplant drug he was never prescribed — at thirteen times the upper bound. Four discoveries. Three substances. Three laboratories. Three years.
 
-Every person who saw something and reported it was removed from the case.
+Every person who saw something and reported it was removed from the case. The nanny who disclosed the drugging was fired. The court supervisor who documented an armed ambush at the family compound was reassigned. The father's custody was terminated by a default the appellate court later ruled never occurred.
 
-The nanny who disclosed the drugging was fired. The court supervisor who documented an armed ambush at the family compound was reassigned. The father's custody was terminated by a default the appellate court later ruled never occurred.
+A jury in San Francisco heard the evidence. Eleven of twelve found the mother liable for battery, fraud, and malice. The family court that was supposed to protect the child has not acted on the verdict.
 
-A jury in San Francisco heard the evidence. Eleven of twelve found the mother liable for battery, fraud, and malice.
-
-The child is still in Chappaqua.
-
-A father documents his own poisoning with the same precision he once built surveillance systems, and the institutions that should have protected his daughter used that precision as evidence of his instability — until a jury of twelve saw what the courts would not.
-
-The evidence is in the record. The record is open.
+This is the Evidence Archive Edition — the documentary record in its entirety, with all its evidence. The book it stands behind arrives fall 2026. Early supporters who purchase the evidence edition fund the federal case and the people this system failed. The child is still in Chappaqua. The father cannot fight this alone. The record can. The door is open.
 
 
 ---
 
 ## Generation Stats
-- Posts included: 53/53
-- Content hash: 02cc5fa4696d
+- Posts included: 54/54
+- Content hash: 5088b975949f
