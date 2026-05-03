@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 Sitemap: https://chappaquapoison.com/sitemap.xml
+
+# AI crawlers: see also https://chappaquapoison.com/llms.txt
