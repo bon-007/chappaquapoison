@@ -1,0 +1,303 @@
+{% extends "base.html" %}
+
+{% block title %}How to Read This Archive | {{ site_title }}{% endblock %}
+
+{% block meta_description %}A reader's guide to navigating the Chappaqua Poison archive — understanding acts, evidence scores, reconstruction notices, and source tiers.{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block og_title %}How to Read This Archive | {{ site_title }}{% endblock %}
+
+{% block og_description %}Reader orientation for the Chappaqua Poison archive — ECS scoring, source tiers, and suggested reading paths.{% endblock %}
+
+{% block content %}
+<article class="static-page">
+  <div class="content-wrapper">
+
+    <header class="page-header">
+      <h1 class="page-title">How to Read This Archive</h1>
+    </header>
+
+    <div class="page-body">
+
+      <p>This archive contains forty-five beats organized into nine acts, spanning from 2010 through 2026. It is not a blog — it is a structured documentary record. Here is what you need to know to read it.</p>
+
+      <h2>Three Ways In</h2>
+
+      <p>There is no single correct reading order. Choose the path that matches your interest:</p>
+
+      <div class="reading-paths">
+        <div class="path-card">
+          <div class="path-label">Chronological</div>
+          <div class="path-desc">Start with <a href="./posts/B01.html">Beat 1: "Moscow, 2010"</a> and read forward through the nine acts. This is the full documentary experience — the story as it unfolded.</div>
+        </div>
+        <div class="path-card">
+          <div class="path-label">The Verdict First</div>
+          <div class="path-desc">Start with <a href="./posts/B42.html">Beat 42: "What the Jury Found"</a>, then read backward to understand what led there. Begin with the outcome, then trace the record.</div>
+        </div>
+        <div class="path-card">
+          <div class="path-label">The Reason</div>
+          <div class="path-desc">Start with <a href="./posts/B46.html">Beat 46: "For Evie"</a> — the only chapter written in the first person. Then read <a href="./about.html">About This Archive</a> to understand the framework.</div>
+        </div>
+      </div>
+
+      <h2>What You'll See in Each Chapter</h2>
+
+      <p>Every chapter includes several elements designed to maintain transparency:</p>
+
+      <div class="element-guide">
+        <div class="element-row">
+          <div class="element-name">Act tag</div>
+          <div class="element-desc">Each chapter belongs to one of nine chronological acts, color-coded throughout the archive. The act tells you where you are in the timeline.</div>
+        </div>
+        <div class="element-row">
+          <div class="element-name">Tags</div>
+          <div class="element-desc">Thematic categories linking related chapters across acts. Click any tag to see all chapters sharing that theme.</div>
+        </div>
+        <div class="element-row">
+          <div class="element-name">Evidence &amp; Context</div>
+          <div class="element-desc">The block at the bottom of each chapter citing the specific documents, testimony, and evidence underlying that chapter's claims. This is where verification begins.</div>
+        </div>
+        <div class="element-row">
+          <div class="element-name">Cross-links</div>
+          <div class="element-desc">Related chapters that connect thematically or chronologically. The archive is a web, not a line.</div>
+        </div>
+      </div>
+
+      <h2>Evidence Confidence Score (ECS)</h2>
+
+      <p>Each chapter carries an Evidence Confidence Score indicating the strength of its documentary basis. The score is not a measure of truth — it is a measure of how well-documented the claim is.</p>
+
+      <div class="ecs-guide">
+        <div class="ecs-tier">
+          <span class="ecs-badge ecs-verified">90–100</span>
+          <span class="ecs-label">Filed court records, sworn testimony, regulatory findings. The strongest documentary basis.</span>
+        </div>
+        <div class="ecs-tier">
+          <span class="ecs-badge ecs-caution">75–89</span>
+          <span class="ecs-label">Discovery materials or independently corroborated communications. Strong, with minor verification gaps.</span>
+        </div>
+        <div class="ecs-tier">
+          <span class="ecs-badge ecs-limited">60–74</span>
+          <span class="ecs-label">Previously published materials supported by documentary context. Reliable, but relying on prior publication rather than sworn record.</span>
+        </div>
+        <div class="ecs-tier">
+          <span class="ecs-badge ecs-minimal">50–59</span>
+          <span class="ecs-label">Reconstruction based on multiple consistent sources, clearly labeled. The archive is transparent about its limits.</span>
+        </div>
+      </div>
+
+      <h2>Source Badges</h2>
+
+      <p>Chapters display small badges indicating their primary source provenance:</p>
+
+      <div class="badges-guide">
+        <span class="source-badge badge-cp">CP</span> ChappaquaPoison (original investigative project) &middot;
+        <span class="source-badge badge-sle">SLE</span> StevieLovesEvie (family archive) &middot;
+        <span class="source-badge badge-abgib">ABGIB</span> ABrieGrowsInBrooklyn (Walsh's own blog) &middot;
+        <span class="source-badge badge-pcr">PCR</span> Public Court Record &middot;
+        <span class="source-badge badge-disc">DISC</span> Discovery Materials &middot;
+        <span class="source-badge badge-media">MEDIA</span> Published Media &middot;
+        <span class="source-badge badge-sworn">SWORN</span> Sworn Testimony
+      </div>
+
+      <h2>Reconstruction Notices</h2>
+
+      <p>Some chapters reconstruct sequences from multiple documents. These passages are marked with a Reconstruction Notice explaining the source type and any limitations. The notice appears above the chapter body and looks like this:</p>
+
+      <div class="reconstruction-example">
+        <strong>Reconstruction Notice:</strong> This post is reconstructed from discovery materials and deposition testimony. Direct quotations are verbatim; sequence is inferred from document timestamps.
+      </div>
+
+      <p>The notice is a transparency measure. It tells you where the archive is working from strong ground and where it is bridging gaps.</p>
+
+      <h2>Key Resources</h2>
+
+      <p>The <a href="./methodology.html">Methodology</a> page provides the full technical framework. The <a href="./evidence.html">Evidence Index</a> catalogs every artifact referenced in the archive. The <a href="./timeline.html">Timeline</a> provides a compressed chronological overview of all nine acts. The <a href="./falsifiability.html">Falsifiability</a> page identifies what would disprove the archive's core claims.</p>
+
+    </div>
+  </div>
+</article>
+
+<style>
+  .static-page {
+    padding: 40px 0;
+  }
+
+  .page-header {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .page-title {
+    font-family: var(--font-heading);
+    font-size: clamp(32px, 5vw, 44px);
+    font-weight: 700;
+    margin: 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .page-body {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .page-body p {
+    margin: 0 0 1.2em 0;
+  }
+
+  .page-body h2 {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    font-weight: 600;
+    margin: 40px 0 16px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .page-body a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  /* Reading paths */
+  .reading-paths {
+    display: grid;
+    gap: 16px;
+    margin: 24px 0 32px;
+  }
+
+  .path-card {
+    background: var(--color-slate-blue-gray);
+    border-left: 3px solid var(--color-muted-amber);
+    padding: 16px 20px;
+    border-radius: 2px;
+  }
+
+  .path-label {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-muted-amber);
+    margin-bottom: 6px;
+  }
+
+  .path-desc {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* Element guide */
+  .element-guide {
+    margin: 24px 0 32px;
+  }
+
+  .element-row {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 16px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .element-row:last-child {
+    border-bottom: none;
+  }
+
+  .element-name {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-muted-caption);
+    padding-top: 3px;
+  }
+
+  .element-desc {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* ECS guide */
+  .ecs-guide {
+    margin: 24px 0 32px;
+  }
+
+  .ecs-tier {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+
+  .ecs-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 2px;
+    white-space: nowrap;
+    min-width: 60px;
+    text-align: center;
+  }
+
+  .ecs-verified { background: #4A7C59; color: #fff; }
+  .ecs-caution { background: #C49A3C; color: #0F1116; }
+  .ecs-limited { background: #8A7260; color: #fff; }
+  .ecs-minimal { background: #7A7A7A; color: #fff; }
+
+  .ecs-label {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  /* Badges guide */
+  .badges-guide {
+    background: var(--color-slate-blue-gray);
+    padding: 16px 20px;
+    border-radius: 2px;
+    margin: 16px 0 32px;
+    font-size: 14px;
+    line-height: 2;
+  }
+
+  .source-badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 2px;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+  }
+
+  .badge-cp, .badge-sle, .badge-abgib { background: #D4A35F; color: #0F1116; }
+  .badge-pcr, .badge-media, .badge-sworn { background: #6C7A89; color: #fff; }
+  .badge-disc { background: #8A8680; color: #0F1116; }
+
+  /* Reconstruction example */
+  .reconstruction-example {
+    font-family: var(--font-ui);
+    font-size: 14px;
+    color: var(--color-muted-caption);
+    border-top: 1px solid var(--color-institutional-steel);
+    padding: 12px 0;
+    margin: 16px 0 24px;
+  }
+
+  @media (max-width: 600px) {
+    .element-row {
+      grid-template-columns: 1fr;
+      gap: 4px;
+    }
+
+    .ecs-tier {
+      flex-direction: column;
+      gap: 4px;
+    }
+  }
+</style>
+{% endblock %}

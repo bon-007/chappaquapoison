@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+
+{% block title %}Public Record Notice | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Standing notice regarding source materials, privacy protections, court order acknowledgment, and corrections policy for the Chappaqua Poison archive.{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block og_title %}Public Record Notice | {{ site_title }}{% endblock %}
+
+{% block og_description %}What this archive publishes, what it does not, and the legal framework governing its existence.{% endblock %}
+
+{% block content %}
+<article class="static-page">
+  <div class="content-wrapper">
+
+    <header class="page-header">
+      <h1 class="page-title">Public Record Notice</h1>
+    </header>
+
+    <div class="page-body">
+
+      <p>This archive is compiled from publicly available court filings, published media, documents disclosed during litigation, and content that existed in the public domain before any court order was entered. All source materials are cited with their provenance.</p>
+
+      <h2>What This Archive Publishes</h2>
+
+      <p>Every substantive factual claim in this archive traces to at least one of the following independent source categories:</p>
+
+      <ol>
+        <li><strong>Pre-existing published content</strong> — the investigative project ChappaquaPoison, the family archive StevieLovesEvie (compiled by Aunt K), and the personal blog ABrieGrowsInBrooklyn (authored by Brienne Walsh). All were published independently before any court order was entered.</li>
+        <li><strong>Public court record</strong> — filed documents, judicial orders, appellate rulings, and docket entries from proceedings in four jurisdictions.</li>
+        <li><strong>Sworn testimony</strong> — declarations, depositions, and trial testimony filed in open court proceedings.</li>
+        <li><strong>Discovery materials</strong> — Bates-stamped documents produced during litigation, cited by exhibit number.</li>
+        <li><strong>Published media</strong> — independent journalism and third-party reporting.</li>
+      </ol>
+
+      <p>Chapters that rely solely on a single discovery document carry a Reconstruction Notice and an Evidence Confidence Score reflecting the limitation.</p>
+
+      <h2>What This Archive Does Not Publish</h2>
+
+      <p>This archive does not publish sealed court records. It does not publish the medical records of minor children. It does not disclose private residential addresses, personal phone numbers, Social Security numbers, or financial account information. It does not identify minor children by name or publish photographs in which minors are identifiable.</p>
+
+      <p>Where redaction is necessary, it is applied — black bars in PDFs, [REDACTED] markers in HTML — and the fact and reason for redaction are documented in the evidence metadata.</p>
+
+      <h2>A Note on the Court Order</h2>
+
+      <p>In the course of custody proceedings in Westchester County Family Court (File No. 154703), a gag order was issued restricting speech related to the litigation. Portions of that order were subsequently struck by the Appellate Division, Second Department, which found them to constitute an impermissible prior restraint. The constitutional questions raised by the remaining provisions are the subject of pending federal civil rights proceedings.</p>
+
+      <p>This archive was not created in violation of any court order. The content published here is drawn entirely from sources that existed in the public domain before any order was entered: the investigative journalism project ChappaquaPoison, the family archive StevieLovesEvie (compiled by Aunt K), the personal blog ABrieGrowsInBrooklyn (authored by Brienne Walsh herself), the public court record, published media coverage, and sworn testimony filed in open proceedings.</p>
+
+      <p>A court order that purports to require the deletion of material already published by independent journalists, family members, and the litigant's own former spouse raises questions that this archive does not need to answer. The public record answers them.</p>
+
+      <h2>Corrections and Challenges</h2>
+
+      <p>If any factual claim in this archive is incorrect, the correction process is straightforward: identify the claim, cite the document that contradicts it, and the archive will be updated. The <a href="./falsifiability.html">Falsifiability</a> page identifies specific documents that would, if produced, contradict core claims. None have been produced.</p>
+
+      <p>The <a href="./methodology.html">Methodology</a> page explains the Evidence Confidence Score, the reconstruction protocol, and the editorial standards that govern this archive.</p>
+
+      <h2>Contact</h2>
+
+      <p>Inquiries regarding this archive, including requests for corrections, may be directed to the author through the contact information provided in the court record.</p>
+
+    </div>
+  </div>
+</article>
+
+<style>
+  .static-page {
+    padding: 40px 0;
+  }
+
+  .page-header {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .page-title {
+    font-family: var(--font-heading);
+    font-size: clamp(32px, 5vw, 44px);
+    font-weight: 700;
+    margin: 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .page-body {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .page-body p {
+    margin: 0 0 1.2em 0;
+  }
+
+  .page-body h2 {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    font-weight: 600;
+    margin: 40px 0 16px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .page-body ol, .page-body ul {
+    margin: 0 0 1.2em 0;
+    padding-left: 24px;
+  }
+
+  .page-body li {
+    margin-bottom: 8px;
+  }
+
+  .page-body a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+</style>
+{% endblock %}

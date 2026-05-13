@@ -1,0 +1,416 @@
+{% extends "base.html" %}
+
+{% block title %}Home | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Chappaqua Poison — A documentary narrative in 54 chapters, built on 2,185 authenticated exhibits, reconstructing a poisoning, a custody abduction, and the institutions that punished everyone who tried to stop it.{% endblock %}
+
+{% block canonical %}{% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}{% endblock %}
+
+{% block content %}
+<div class="homepage">
+  <!-- Hero Banner with Integrated Purpose Statement -->
+  <section class="banner-statement">
+    <div class="hero-image-container">
+      <img src="{{ base_path }}/images/CP_Hero_Book.jpg" alt="Chappaqua Poison — An American Tragedy. A hardcover book on a dark wood table with a compass bookmark." class="hero-image">
+      <div class="hero-overlay">
+        <div class="content-wrapper">
+          <h1 class="banner-title">Chappaqua Poison</h1>
+          <p class="banner-description">
+            A documentary narrative in {{ post_count }} chapters, built on authenticated exhibits from five independent archives. Court documents, laboratory analyses, sworn testimony, text messages, and photographs. Every claim is sourced. Every source is verifiable.
+          </p>
+          <div class="banner-meta">
+            <span class="meta-item">{{ post_count }} Chapters</span>
+            <span class="meta-divider">&middot;</span>
+            <span class="meta-item">1990s&ndash;2026</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Posts Feed -->
+  <section class="post-feed">
+    <div class="content-wrapper">
+      <div class="feed-header">
+        <h2 class="section-title">Chapters</h2>
+        <button class="order-btn" id="order-toggle" aria-label="Reverse chapter order">
+          <span class="order-btn-label">Chapter 1 First</span>
+          <span class="order-btn-arrow">&#9660;</span>
+        </button>
+      </div>
+
+      <div class="post-grid" id="post-grid">
+        {% for post in all_posts_flat %}
+        <article class="post-card">
+          {% if post.banner_image %}
+          <a href="{{ base_path }}/posts/{{ post.id }}.html" class="post-card-banner-link">
+            <div class="post-card-banner">
+              <img src="{{ post.banner_image }}" alt="" loading="lazy" width="400" height="225">
+            </div>
+          </a>
+          {% endif %}
+          <div class="post-card-body">
+            <div class="post-card-header">
+              <span class="post-card-number">{% if post.phase == 'Preface' %}Prelude{% elif post.phase == 'Afterword' %}Afterword{% elif post.phase == 'Back Cover' %}Back Cover{% else %}Chapter {{ post.number }}{% endif %}</span>
+            </div>
+            <h3 class="post-card-title">
+              <a href="{{ base_path }}/posts/{{ post.id }}.html">{{ post.title }}</a>
+            </h3>
+            <p class="post-card-summary">{{ post.summary }}</p>
+            <div class="post-card-footer">
+              <span class="post-card-date">{{ post.date_context }}</span>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- Tag Cloud -->
+  <section class="tag-cloud-section">
+    <div class="content-wrapper">
+      <h2 class="section-title">Browse by Tag</h2>
+      <div class="tag-cloud">
+        {% for tag, count, slug in tags %}
+        <a href="{{ base_path }}/tags/{{ slug }}.html" class="tag-cloud-item" data-count="{{ count }}">
+          {{ tag }}
+          <span class="tag-count">({{ count }})</span>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<style>
+  .homepage {
+    background-color: var(--color-deep-charcoal);
+  }
+
+  /* Banner Statement with Hero Image */
+  .banner-statement {
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-image-container {
+    position: relative;
+    overflow: hidden;
+    max-height: 860px;
+  }
+
+  .hero-image-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+      linear-gradient(to bottom, rgba(15, 17, 22, 0.6) 0%, rgba(15, 17, 22, 0) 15%),
+      linear-gradient(to left, rgba(15, 17, 22, 0.7) 0%, rgba(15, 17, 22, 0) 15%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-image-container::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30%;
+    background: linear-gradient(to bottom, rgba(15, 17, 22, 0) 0%, rgba(15, 17, 22, 1) 100%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 60%;
+    padding: 40px 40px 40px 40px;
+    background: linear-gradient(to right, rgba(15, 17, 22, 0.85) 0%, rgba(15, 17, 22, 0.5) 70%, rgba(15, 17, 22, 0) 100%);
+  }
+
+  .banner-title {
+    font-family: var(--font-heading);
+    font-size: clamp(40px, 8vw, 56px);
+    font-weight: 700;
+    margin: 0 0 24px 0;
+    color: var(--color-muted-amber);
+  }
+
+  .banner-description {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 640px;
+    margin: 0 0 24px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .banner-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: var(--font-ui);
+    font-size: 14px;
+    color: var(--color-muted-caption);
+  }
+
+  .meta-divider {
+    color: var(--color-steel);
+  }
+
+  /* Section Title */
+  .section-title {
+    font-family: var(--font-heading);
+    font-size: clamp(28px, 5vw, 36px);
+    font-weight: 600;
+    margin: 0 0 32px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  /* Feed Header with Order Toggle */
+  .feed-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+  }
+
+  .feed-header .section-title {
+    margin: 0;
+  }
+
+  .order-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-muted-caption);
+    background: transparent;
+    border: 1px solid var(--color-phase-divider);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .order-btn:hover {
+    color: var(--color-body-text-dark);
+    border-color: var(--color-muted-amber);
+  }
+
+  .order-btn-arrow {
+    font-size: 10px;
+    transition: transform 0.2s ease;
+  }
+
+  .order-btn.is-ascending .order-btn-arrow {
+    transform: rotate(180deg);
+  }
+
+  /* Post Feed */
+  .post-feed {
+    padding: 64px 20px;
+    background-color: var(--color-deep-charcoal);
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+  }
+
+  /* Post Card */
+  .post-card {
+    padding: 0;
+    background-color: var(--color-slate-blue-gray);
+    border: 1px solid var(--color-phase-divider);
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.2s ease-in-out;
+    overflow: hidden;
+  }
+
+  .post-card:hover {
+    border-color: var(--color-muted-amber);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Post Card Banner / Tile Image */
+  .post-card-banner-link {
+    display: block;
+    border: none;
+    text-decoration: none;
+  }
+
+  .post-card-banner {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background-color: var(--color-deep-charcoal);
+  }
+
+  .post-card-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: opacity 0.2s ease;
+  }
+
+  .post-card:hover .post-card-banner img {
+    opacity: 0.85;
+  }
+
+  .post-card-body {
+    padding: 20px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .post-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+
+  .post-card-number {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--color-muted-caption);
+  }
+
+  .post-card-phase {
+    font-size: 20px;
+    line-height: 1;
+  }
+
+  .post-card-title {
+    margin: 0 0 12px 0;
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .post-card-title a {
+    color: var(--color-body-text-dark);
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .post-card-title a:hover {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  .post-card-summary {
+    margin: 0 0 auto 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-muted-caption);
+  }
+
+  .post-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--color-phase-divider);
+    font-size: 12px;
+  }
+
+  .post-card-date {
+    color: var(--color-muted-caption);
+  }
+
+  /* Tag Cloud */
+  .tag-cloud-section {
+    padding: 64px 20px;
+    background-color: var(--color-slate-blue-gray);
+  }
+
+  .tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 32px;
+  }
+
+  .tag-cloud-item {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: var(--color-deep-charcoal);
+    color: var(--color-body-text-dark);
+    font-family: var(--font-ui);
+    font-size: 14px;
+    border-radius: 2px;
+    border: 1px solid var(--color-phase-divider);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+  }
+
+  .tag-cloud-item:hover {
+    background-color: var(--color-muted-amber);
+    color: var(--color-deep-charcoal);
+    border-color: var(--color-muted-amber);
+  }
+
+  .tag-count {
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .post-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Order toggle — reverse post grid
+    var orderBtn = document.getElementById('order-toggle');
+    var postGrid = document.getElementById('post-grid');
+    var isAscending = true; // starts Chapter 1 first
+
+    if (orderBtn && postGrid) {
+      orderBtn.addEventListener('click', function() {
+        var cards = Array.from(postGrid.children);
+        cards.reverse();
+        cards.forEach(function(card) { postGrid.appendChild(card); });
+        isAscending = !isAscending;
+        orderBtn.querySelector('.order-btn-label').textContent = isAscending ? 'Chapter 1 First' : 'Last Chapter First';
+        orderBtn.classList.toggle('is-ascending', isAscending);
+      });
+    }
+
+  });
+</script>
+{% endblock %}

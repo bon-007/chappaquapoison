@@ -1,0 +1,64 @@
+# Secrets and SSH keys
+.keys/
+.env
+deploy_key_new
+deploy_key_new.pub
+*.pem
+
+# Build outputs (these live in _deploy git separately)
+_site/
+_build/
+_deploy/
+
+# Heavy media kept out of source git (referenced from disk only)
+Evidence/sorted_movies/
+Evidence/pdf/depositions/
+Evidence/media/video/
+Evidence/media/clips/
+*.mp4
+*.mov
+*.mp3
+*.m4a
+
+# Generated bundles
+GumroadBundle/
+GumroadBundle 2/
+GumroadBundle_Ultimate/
+
+# Backups and archives
+.backup/
+Backups/
+Archive/
+Previous/
+
+# macOS
+.DS_Store
+.~lock.*
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated book PDFs (large binary artifacts)
+ChappaquaPoison_BOOK_*.pdf
+ChappaquaPoison_BOOK_*.docx
+
+# Banner work-in-progress directories
+Images/banners/candidates/
+Images/banners/kontext_test/
+Images/banners/kontext_batch/
+Images/banners/kontext_final/
+Images/banners/v3_pre_swap_backup/
+Images/banners/v3_orphans/
+
+# Generated audit and search files
+B40c_*.json
+B40c_*.csv
+B47_Evidence_Search_Results.txt
+
+# Misc
+*.zip
+*.tar.gz

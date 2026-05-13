@@ -1,0 +1,323 @@
+{% extends "base.html" %}
+
+{% block title %}Search | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Search the Chappaqua Poison archive — full-text search across all chapters, evidence, and timeline entries.{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block og_title %}Search | {{ site_title }}{% endblock %}
+
+{% block og_description %}Search across all chapters, evidence, and timeline entries in the Chappaqua Poison archive.{% endblock %}
+
+{% block head_extra %}
+<!-- Lunr.js from CDN -->
+<script src="https://unpkg.com/lunr@2.3.9/lunr.js"></script>
+{% endblock %}
+
+{% block content %}
+<div class="content-wrapper">
+  <div class="search-header">
+    <h1>Search Archive</h1>
+    <p>Search across all chapters, evidence, and timeline entries.</p>
+  </div>
+
+  <form class="search-form" id="search-form">
+    <div class="search-input-group">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Search chapters, dates, names, evidence..."
+        autocomplete="off"
+      >
+    </div>
+  </form>
+
+  <div id="search-container" class="search-results">
+    <div class="no-results">
+      <p>Enter a search term to begin.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .search-header {
+    margin-bottom: 48px;
+  }
+
+  .search-header h1 {
+    font-family: var(--font-heading);
+    font-size: 42px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .search-header p {
+    font-size: 17px;
+    color: var(--color-muted-caption);
+    margin: 0;
+  }
+
+  /* Search Form */
+  .search-form {
+    margin-bottom: 48px;
+  }
+
+  .search-input-group {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .search-form input[type="text"] {
+    width: 100%;
+    padding: 12px 16px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    background-color: var(--color-slate-blue-gray);
+    color: var(--color-body-text-dark);
+    border: 1px solid var(--color-steel);
+    border-radius: 4px;
+    transition: border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  }
+
+  .search-form input[type="text"]:focus {
+    outline: none;
+    border-color: var(--color-muted-amber);
+    background-color: #252E3B;
+  }
+
+  .search-form input[type="text"]::placeholder {
+    color: var(--color-steel);
+  }
+
+  /* Results */
+  .search-results {
+    margin-bottom: 40px;
+  }
+
+  .results-header {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-muted-caption);
+    margin: 0 0 24px 0;
+  }
+
+  .search-result {
+    padding: 20px;
+    margin-bottom: 16px;
+    background-color: var(--color-slate-blue-gray);
+    border-left: 4px solid var(--color-muted-amber);
+    border-radius: 2px;
+    transition: background-color 0.2s ease-in-out;
+  }
+
+  .search-result:hover {
+    background-color: #252E3B;
+  }
+
+  .search-result-title {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 8px 0;
+  }
+
+  .search-result-title a {
+    border: none;
+  }
+
+  .search-result-meta {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-steel);
+    margin-bottom: 12px;
+  }
+
+  .search-result-summary {
+    font-size: 15px;
+    color: var(--color-body-text-dark);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .no-results {
+    padding: 40px;
+    text-align: center;
+    background-color: var(--color-slate-blue-gray);
+    border-radius: 4px;
+  }
+
+  .no-results p {
+    color: var(--color-muted-caption);
+    margin: 0;
+  }
+
+  .search-result-summary mark {
+    background-color: rgba(200, 160, 80, 0.25);
+    color: inherit;
+    padding: 1px 2px;
+    border-radius: 2px;
+  }
+
+  @media (max-width: 768px) {
+    .search-header h1 {
+      font-size: 32px;
+    }
+  }
+</style>
+
+<script>
+  let searchIndex;
+  let docMap = {};
+
+  // Load documents and build Lunr index client-side
+  async function initializeSearch() {
+    try {
+      const response = await fetch('{{ base_path }}/search_index.json');
+      const data = await response.json();
+      const documents = data.documents;
+
+      // Build lookup map by id
+      documents.forEach(doc => { docMap[doc.id] = doc; });
+
+      // Build Lunr index from documents
+      searchIndex = lunr(function() {
+        this.ref('id');
+        this.field('title', { boost: 10 });
+        this.field('tags', { boost: 5 });
+        this.field('phase_name', { boost: 3 });
+        this.field('summary');
+        this.field('date_context');
+
+        documents.forEach(doc => { this.add(doc); });
+      });
+
+      // Check for ?q= parameter in URL
+      const params = new URLSearchParams(window.location.search);
+      const q = params.get('q');
+      if (q) {
+        document.getElementById('search-input').value = q;
+        performSearch();
+      }
+    } catch (error) {
+      console.error('Error loading search index:', error);
+      document.getElementById('search-container').innerHTML =
+        '<div class="no-results"><p>Error loading search index.</p></div>';
+    }
+  }
+
+  // Search handler
+  document.getElementById('search-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    performSearch();
+  });
+
+  let debounceTimer;
+  document.getElementById('search-input').addEventListener('input', function() {
+    clearTimeout(debounceTimer);
+    const val = this.value.trim();
+    if (val.length >= 2) {
+      debounceTimer = setTimeout(performSearch, 150);
+    } else if (val.length === 0) {
+      document.getElementById('search-container').innerHTML =
+        '<div class="no-results"><p>Enter a search term to begin.</p></div>';
+    }
+  });
+
+  function performSearch() {
+    const query = document.getElementById('search-input').value.trim();
+    if (!searchIndex || query.length < 2) return;
+
+    // Update URL without reload
+    const url = new URL(window.location);
+    url.searchParams.set('q', query);
+    history.replaceState(null, '', url);
+
+    let results;
+    try {
+      // Try Lunr query first; if special chars cause parse error, use wildcard
+      results = searchIndex.search(query);
+      if (results.length === 0 && query.length >= 3) {
+        results = searchIndex.search(query + '*');
+      }
+    } catch (e) {
+      // Lunr parse error — fall back to wildcard
+      try {
+        results = searchIndex.search(query.replace(/[:\-~^+]/g, ' ') + '*');
+      } catch (e2) {
+        results = [];
+      }
+    }
+
+    const container = document.getElementById('search-container');
+
+    if (results.length === 0) {
+      container.innerHTML = '<div class="no-results"><p>No results found for \u201c' +
+        escapeHtml(query) + '\u201d</p></div>';
+      return;
+    }
+
+    let html = '<div class="results-header">' + results.length + ' result' +
+      (results.length !== 1 ? 's' : '') + '</div>';
+
+    results.slice(0, 20).forEach(result => {
+      const doc = docMap[result.ref];
+      if (!doc) return;
+
+      const url = doc.url || ('./posts/' + doc.id + '.html');
+
+      html += '<div class="search-result">';
+      html += '<h3 class="search-result-title"><a href="' +
+        escapeHtml(url) + '">' + escapeHtml(doc.title) + '</a></h3>';
+
+      // Meta line: phase + date
+      const meta = [];
+      if (doc.phase_name) meta.push('Act ' + escapeHtml(doc.phase) + ': ' + escapeHtml(doc.phase_name));
+      if (doc.date_context) meta.push(escapeHtml(doc.date_context));
+      if (meta.length) {
+        html += '<div class="search-result-meta">' + meta.join(' · ') + '</div>';
+      }
+
+      if (doc.summary) {
+        html += '<p class="search-result-summary">' +
+          highlightMatch(doc.summary.substring(0, 250), query) + '</p>';
+      }
+      html += '</div>';
+    });
+
+    container.innerHTML = html;
+  }
+
+  function highlightMatch(text, query) {
+    const escaped = escapeHtml(text);
+    const words = query.toLowerCase().split(/\s+/).filter(w => w.length >= 2);
+    if (words.length === 0) return escaped;
+
+    const pattern = new RegExp('(' + words.map(w =>
+      w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    ).join('|') + ')', 'gi');
+
+    return escaped.replace(pattern, '<mark>$1</mark>');
+  }
+
+  function escapeHtml(text) {
+    const map = {
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#039;'
+    };
+    return text.replace(/[&<>"']/g, m => map[m]);
+  }
+
+  // Initialize on page load
+  document.addEventListener('DOMContentLoaded', initializeSearch);
+</script>
+{% endblock %}

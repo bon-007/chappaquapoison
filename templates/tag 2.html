@@ -1,0 +1,256 @@
+{% extends "base.html" %}
+
+{% block title %}Chapters tagged with "{{ tag }}" | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Chapters tagged with '{{ tag }}' ({{ posts_count }} chapter{{ 's' if posts_count != 1 else '' }}){% endblock %}
+
+{% block og_title %}Tag: {{ tag }} | {{ site_title }}{% endblock %}
+
+{% block og_description %}All chapters tagged with '{{ tag }}'{% endblock %}
+
+{% block og_type %}website{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block content %}
+<div class="tag-page">
+  <div class="content-wrapper">
+    <!-- Tag Header -->
+    <header class="tag-header">
+      <h1 class="tag-title">{{ tag }}</h1>
+      <p class="tag-count">{{ posts_count }} chapter{{ 's' if posts_count != 1 else '' }}</p>
+      <p class="tag-description">
+        All chapters tagged with <strong>{{ tag }}</strong>
+      </p>
+    </header>
+
+    <!-- Posts by Phase -->
+    {% for phase_group in grouped_posts %}
+    <section class="phase-group">
+      <header class="phase-group-header">
+        <div class="phase-divider" style="background-color: {{ phase_group.color }}"></div>
+        <h2 class="phase-group-title" style="color: {{ phase_group.color }}">
+          Act {{ phase_group.phase }}
+        </h2>
+      </header>
+
+      <div class="post-grid">
+        {% for post in phase_group.posts %}
+        <article class="post-card">
+          <div class="post-card-header">
+            <span class="post-card-number">Chapter {{ post.number }}</span>
+            <span class="post-card-phase" style="color: {{ phase_group.color }}" title="Act {{ post.phase }}">●</span>
+          </div>
+          <h3 class="post-card-title">
+            <a href="{{ base_path }}/posts/{{ post.id }}.html">{{ post.title }}</a>
+          </h3>
+          <p class="post-card-summary">{{ post.summary }}</p>
+          <div class="post-card-footer">
+            <span class="post-card-date">{{ post.date_context }}</span>
+            {% if post.ecs %}
+            <span class="post-card-ecs" data-score="{{ post.ecs }}">ECS {{ post.ecs }}</span>
+            {% endif %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+    {% endfor %}
+
+    <!-- Back to Browse -->
+    <nav class="tag-nav">
+      <a href="{{ base_path }}/index.html" class="back-link">← Back to all chapters</a>
+    </nav>
+  </div>
+</div>
+
+<style>
+  /* Tag Page Header */
+  .tag-header {
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .tag-title {
+    font-family: var(--font-heading);
+    font-size: clamp(32px, 5vw, 48px);
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 12px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .tag-count {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--color-muted-caption);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0 0 16px 0;
+  }
+
+  .tag-description {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-body-text-dark);
+    margin: 0;
+  }
+
+  /* Phase Group */
+  .phase-group {
+    margin-bottom: 56px;
+  }
+
+  .phase-group-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 32px;
+  }
+
+  .phase-divider {
+    width: 4px;
+    height: 32px;
+    border-radius: 2px;
+  }
+
+  .phase-group-title {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  /* Post Grid */
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+  }
+
+  /* Post Card */
+  .post-card {
+    background-color: var(--color-slate-blue-gray);
+    border: 1px solid var(--color-phase-divider);
+    border-radius: 2px;
+    padding: 24px;
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post-card:hover {
+    border-color: var(--color-muted-amber);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .post-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+
+  .post-card-number {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    color: var(--color-muted-caption);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .post-card-phase {
+    font-size: 16px;
+  }
+
+  .post-card-title {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 12px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .post-card-title a {
+    color: inherit;
+    border-bottom: 1px solid var(--color-muted-amber);
+    transition: color 0.2s ease-in-out;
+  }
+
+  .post-card-title a:hover {
+    color: var(--color-muted-amber);
+  }
+
+  .post-card-summary {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-body-text-dark);
+    margin: 0 0 16px 0;
+    flex-grow: 1;
+  }
+
+  .post-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+    border-top: 1px solid var(--color-phase-divider);
+    font-size: 12px;
+  }
+
+  .post-card-date {
+    font-family: var(--font-ui);
+    color: var(--color-muted-caption);
+  }
+
+  .post-card-ecs {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    padding: 4px 8px;
+    background-color: var(--color-code-docket);
+    border-radius: 2px;
+    color: var(--color-body-text-dark);
+  }
+
+  /* Navigation */
+  .tag-nav {
+    margin-top: 48px;
+    padding-top: 32px;
+    border-top: 1px solid var(--color-phase-divider);
+  }
+
+  .back-link {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-link-default);
+    border-bottom: 1px solid currentColor;
+    transition: color 0.2s ease-in-out;
+  }
+
+  .back-link:hover {
+    color: var(--color-link-hover);
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .tag-title {
+      font-size: 28px;
+    }
+
+    .post-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .phase-group-header {
+      margin-bottom: 24px;
+    }
+
+    .post-card {
+      padding: 20px;
+    }
+  }
+</style>
+{% endblock %}

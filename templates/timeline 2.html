@@ -1,0 +1,351 @@
+{% extends "base.html" %}
+
+{% block title %}Timeline | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Chronological timeline of key events in the Russell v. Walsh litigation — dates, actions, and linked evidence spanning 1993 through 2026.{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block og_title %}Timeline | {{ site_title }}{% endblock %}
+
+{% block og_description %}Key events spanning three decades of litigation, institutional failure, and constitutional stakes.{% endblock %}
+
+{% block content %}
+<article class="timeline-page">
+  <div class="content-wrapper">
+
+    <header class="timeline-header">
+      <h1 class="timeline-title">Timeline</h1>
+      <p class="timeline-subtitle">Key events — dates, actions, and the documents that record them. Each entry links to its full chapter in the archive.</p>
+      <div class="timeline-stats">{{ total_events }} events &middot; 1993–2026</div>
+    </header>
+
+    <!-- Phase Quick Nav -->
+    <nav class="phase-nav" aria-label="Jump to phase">
+      {% for phase in timeline_phases %}
+      <a href="#phase-{{ phase.phase }}" class="phase-nav-item" style="border-left-color: {{ phase.color }}">
+        <span class="phase-nav-name">{{ phase.name }}</span>
+      </a>
+      {% endfor %}
+    </nav>
+
+    <div class="timeline-body">
+      {% for phase in timeline_phases %}
+      <section class="timeline-phase" id="phase-{{ phase.phase }}">
+        <div class="phase-header" style="border-left-color: {{ phase.color }}">
+          <h2 class="phase-name">{{ phase.name }}</h2>
+          <div class="phase-date">{{ phase.date_range }}</div>
+          <p class="phase-description">{{ phase.description }}</p>
+        </div>
+
+        {% if phase.events %}
+        <div class="phase-events">
+          {% for event in phase.events %}
+          <div class="timeline-event-row">
+            <div class="event-date-col">
+              <span class="event-date-display">{{ event.date_display }}</span>
+            </div>
+            <div class="event-dot" style="background-color: {{ phase.color }}"></div>
+            <div class="event-content-col">
+              {% if event.posts and event.posts[0] in post_lookup %}
+              <h3 class="event-title"><a href="{{ post_lookup[event.posts[0]].url }}">{{ event.event }}</a></h3>
+              {% if post_lookup[event.posts[0]].summary %}
+              <p class="event-summary">{{ post_lookup[event.posts[0]].summary[:180] }}{% if post_lookup[event.posts[0]].summary|length > 180 %}…{% endif %}</p>
+              {% endif %}
+              {% if event.posts|length > 1 %}
+              <div class="event-related">
+                Related: {% for pid in event.posts[1:] %}{% if pid in post_lookup %}<a href="{{ post_lookup[pid].url }}">{{ post_lookup[pid].title }}</a>{% if not loop.last %}, {% endif %}{% endif %}{% endfor %}
+              </div>
+              {% endif %}
+              {% else %}
+              <h3 class="event-title">{{ event.event }}</h3>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </section>
+      {% endfor %}
+    </div>
+
+    <div class="timeline-footer">
+      <p>This timeline draws from a 234-entry master chronology compiled from court filings, sworn testimony, discovery materials, and published records. Browse the full <a href="{{ base_path }}/index.html">Archive</a> or use <a href="{{ base_path }}/search.html">Search</a> to find specific events, people, or documents.</p>
+    </div>
+
+  </div>
+</article>
+
+<style>
+  .timeline-page {
+    padding: 40px 0;
+  }
+
+  .timeline-header {
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .timeline-title {
+    font-family: var(--font-heading);
+    font-size: clamp(32px, 5vw, 44px);
+    font-weight: 700;
+    margin: 0 0 16px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .timeline-subtitle {
+    font-size: 17px;
+    line-height: 1.6;
+    color: var(--color-muted-caption);
+    margin: 0 0 12px 0;
+    max-width: 600px;
+  }
+
+  .timeline-stats {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-steel);
+  }
+
+  /* Phase Quick Nav */
+  .phase-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 48px;
+  }
+
+  .phase-nav-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    background-color: var(--color-slate-blue-gray);
+    border-left: 3px solid;
+    border-bottom: none;
+    font-family: var(--font-ui);
+    font-size: 12px;
+    color: var(--color-muted-caption);
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+  }
+
+  .phase-nav-item:hover {
+    background-color: var(--color-phase-divider);
+    color: var(--color-body-text-dark);
+  }
+
+  .phase-nav-name {
+    white-space: nowrap;
+  }
+
+  /* Timeline Body */
+  .timeline-body {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+  }
+
+  /* Phase Section */
+  .timeline-phase {
+    scroll-margin-top: 80px;
+  }
+
+  .phase-header {
+    padding: 20px 24px;
+    border-left: 4px solid;
+    background-color: var(--color-slate-blue-gray);
+    margin-bottom: 24px;
+  }
+
+  .phase-name {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 4px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .phase-date {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--color-steel);
+    margin-bottom: 12px;
+  }
+
+  .phase-description {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--color-muted-caption);
+  }
+
+  /* Events */
+  .phase-events {
+    padding-left: 0;
+  }
+
+  .timeline-event-row {
+    display: grid;
+    grid-template-columns: 140px 20px 1fr;
+    gap: 12px;
+    align-items: start;
+    padding: 16px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+
+  .timeline-event-row:last-child {
+    border-bottom: none;
+  }
+
+  .event-date-col {
+    text-align: right;
+    padding-top: 2px;
+  }
+
+  .event-date-display {
+    display: block;
+    font-family: var(--font-ui);
+    font-size: 12px;
+    color: var(--color-steel);
+    line-height: 1.4;
+  }
+
+  /* Timeline Dot */
+  .event-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top: 6px;
+    flex-shrink: 0;
+    position: relative;
+  }
+
+  /* Vertical connector line between dots */
+  .timeline-event-row:not(:last-child) .event-dot::after {
+    content: '';
+    position: absolute;
+    top: 12px;
+    left: 4px;
+    width: 2px;
+    height: calc(100% + 24px);
+    background-color: rgba(255,255,255,0.06);
+  }
+
+  .event-content-col {
+    min-width: 0;
+  }
+
+  .event-title {
+    font-family: var(--font-heading);
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0 0 6px 0;
+    line-height: 1.3;
+    color: var(--color-body-text-dark);
+  }
+
+  .event-title a {
+    border-bottom: none;
+    color: inherit;
+    transition: color 0.2s ease;
+  }
+
+  .event-title a:hover {
+    color: var(--color-muted-amber);
+  }
+
+  .event-summary {
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--color-muted-caption);
+    margin: 0;
+  }
+
+  .event-related {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    color: var(--color-steel);
+    margin-top: 6px;
+  }
+
+  .event-related a {
+    color: var(--color-muted-amber);
+    font-size: 12px;
+    border-bottom: none;
+  }
+
+  .event-related a:hover {
+    border-bottom: 1px solid var(--color-muted-amber);
+  }
+
+  /* Footer */
+  .timeline-footer {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--color-phase-divider);
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--color-muted-caption);
+  }
+
+  .timeline-footer a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .phase-nav {
+      gap: 4px;
+    }
+
+    .phase-nav-item {
+      padding: 4px 8px;
+      font-size: 11px;
+    }
+
+    .phase-nav-name {
+      font-size: 10px;
+    }
+
+    .timeline-event-row {
+      grid-template-columns: 1fr;
+      gap: 4px;
+      padding: 12px 0 12px 20px;
+      position: relative;
+    }
+
+    .event-date-col {
+      text-align: left;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .event-dot {
+      position: absolute;
+      left: 0;
+      top: 18px;
+      width: 8px;
+      height: 8px;
+    }
+
+    .event-dot::after {
+      display: none;
+    }
+
+    .event-date-display {
+      font-size: 11px;
+    }
+
+    .event-title {
+      font-size: 16px;
+    }
+  }
+</style>
+{% endblock %}

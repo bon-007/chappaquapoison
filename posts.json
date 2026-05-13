@@ -1,0 +1,3733 @@
+{
+  "static_pages": [
+    {
+      "id": "S-1",
+      "title": "Homepage / Index",
+      "purpose": "Reverse-chronological post feed with phase navigation, tag cloud, search"
+    },
+    {
+      "id": "S-2",
+      "title": "About This Archive",
+      "purpose": "What this site is, what it is not, source provenance"
+    },
+    {
+      "id": "S-3",
+      "title": "How to Read This Archive",
+      "purpose": "Reader orientation: ECS scoring explained, reconstruction notices, source tiers"
+    },
+    {
+      "id": "S-4",
+      "title": "Methodology & Sources",
+      "purpose": "ECS framework explanation, source tiers, reconstruction transparency"
+    },
+    {
+      "id": "S-5",
+      "title": "Master Timeline",
+      "purpose": "Interactive chronological timeline (234 entries, 1993–2026)"
+    },
+    {
+      "id": "S-6",
+      "title": "Evidence Index",
+      "purpose": "Searchable catalog of all referenced evidence artifacts"
+    },
+    {
+      "id": "S-7",
+      "title": "Person Index",
+      "purpose": "Linked directory of all named individuals and their roles"
+    },
+    {
+      "id": "S-8",
+      "title": "Court Case Index",
+      "purpose": "All dockets: FPT-18-377425, CGC-18-570137, 3:18-cv-06691, File No. 154703, etc."
+    },
+    {
+      "id": "S-9",
+      "title": "Patterns",
+      "purpose": "Cross-cutting synthesis: defaults, supervisor replacements, police incidents, Griffin reliance, recusals, speech restrictions"
+    },
+    {
+      "id": "S-10",
+      "title": "If This Archive Is Wrong",
+      "purpose": "Falsifiability page: what documents would disprove key claims"
+    },
+    {
+      "id": "S-11",
+      "title": "Public Record Notice",
+      "purpose": "Standing disclaimer, source provenance shield"
+    },
+    {
+      "id": "S-12",
+      "title": "Audit Log",
+      "purpose": "Transparent versioning: launch date, major updates, artifact counts"
+    },
+    {
+      "id": "S-13",
+      "title": "The Case in 10 Documents",
+      "purpose": "Ten one-page document excerpts, no commentary"
+    },
+    {
+      "id": "S-14",
+      "title": "Public Record Inventory",
+      "purpose": "Checkable inventory of every document category with public-record status"
+    },
+    {
+      "id": "S-15",
+      "title": "Search",
+      "slug": "search"
+    },
+    {
+      "id": "S-16",
+      "title": "Timeline Guide",
+      "purpose": "Canonical chronological timeline with descriptions — compiled from court filings, sworn testimony, and published records"
+    },
+    {
+      "id": "S-17",
+      "title": "Character Guide",
+      "purpose": "Reference guide to all named individuals and institutions documented in the narrative"
+    },
+    {
+      "id": "S-18",
+      "title": "Legal",
+      "purpose": "Publication framework, court order history, and the legal basis for this book"
+    },
+    {
+      "id": "S-19",
+      "title": "Book",
+      "purpose": "Download the complete book as PDF or ePub"
+    }
+  ],
+  "posts": [
+    {
+      "id": "B00",
+      "number": 0,
+      "title": "Someone at the Gate",
+      "summary": "A court-ordered exchange at dusk. A blacked-out SUV. Two men in camouflage. A child in the back seat. A court supervisor who filed an affidavit and was removed from the case.",
+      "slug": "someone-at-the-gate",
+      "date": "2019",
+      "act": "Preface",
+      "act_name": "Preface",
+      "tags": [
+        "Chappaqua",
+        "Crabtree's Kittle House",
+        "La Melle",
+        "Prelude",
+        "Sworn Declaration"
+      ],
+      "ecs": 70,
+      "provenance": [],
+      "evidence": {
+        "hero": [],
+        "primary": [
+          "ExT_01",
+          "DOC_NY_DEMAND_PROSECUTION",
+          "PHOTO_WALSH_COMPOUND_DRIVEWAY",
+          "PHOTO_FUNERAL_ECARD_THREAT",
+          "SLE-053",
+          "EX_35_FIRST_VISIT_CHAPPAQUA"
+        ],
+        "secondary": [],
+        "tertiary": []
+      },
+      "hidden": false,
+      "phase": "Preface",
+      "date_context": "2019"
+    },
+    {
+      "id": "B01",
+      "number": 1,
+      "title": "The Fool",
+      "summary": "A man walks into the Kremlin without credentials during Victory Day. No one stops him. The digital record survived.",
+      "slug": "the-fool",
+      "date": "May 2010",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2010",
+        "Moscow",
+        "Origin",
+        "Privacy Inversion",
+        "The Fool"
+      ],
+      "ecs": 72,
+      "provenance": [
+        "PHOTOS",
+        "FOURSQUARE",
+        "DIGITAL ARTIFACTS"
+      ],
+      "evidence": {
+        "hero": [
+          "PHOTO_MOSCOW_SUBWAY"
+        ],
+        "primary": [],
+        "secondary": [
+          "DOCX_RISKS_GETTING_RICH",
+          "PHOTO_TECHCRUNCH_WIN"
+        ],
+        "tertiary": [
+          "INT-002",
+          "INT-003_03"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Fool",
+      "date_context": "May 2010",
+      "source_posts": [
+        "P0"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B02",
+      "number": 2,
+      "title": "The Girl on the Boat",
+      "summary": "A boat on the Hudson. A girl in a red-and-white dress holding a chihuahua and a vape pen. She runs a handbag company and a marketing agency. Her clients are all in construction. Her friend got hit by a wrecking ball. So did she.",
+      "slug": "the-girl-on-the-boat",
+      "date": "Summer 2015",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2014-2015",
+        "Hudson River",
+        "Ochoa",
+        "Origin",
+        "Tara Walsh",
+        "Nolita"
+      ],
+      "ecs": 82,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "PHOTO_TARA_BOAT_RILEY_RED_DRESS",
+          "SLE-131",
+          "SLE-129"
+        ],
+        "primary": [
+          "BLOG-034",
+          "BR-17",
+          "MSG-JESSE"
+        ],
+        "secondary": [
+          "IMESSAGE_DB_TARA_2017_2018"
+        ],
+        "tertiary": [
+          "INT-003"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Fool",
+      "date_context": "2014–2017",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "new"
+    },
+    {
+      "id": "B03",
+      "number": 3,
+      "title": "The Bite",
+      "summary": "A weekend in the Hamptons. A dinner in white. A dog bite that became a fourth date. Riley the chihuahua was there — packed, planned, present. Three years later, the abuse journal would move Riley back to the city and rewrite every detail of this weekend. The photograph proves otherwise.",
+      "slug": "the-hamptons",
+      "date": "Summer 2015",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2014-2015",
+        "Chris Ochoa",
+        "Origin",
+        "Tara Walsh",
+        "The Hamptons"
+      ],
+      "ecs": 70,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "INT-002"
+        ],
+        "primary": [
+          "EB1_P037",
+          "SLE-131"
+        ],
+        "secondary": [
+          "BADACTS",
+          "FRAUD-1",
+          "SLE-097",
+          "BLOG-034",
+          "PDF_FOLLOW_THE_MONEY",
+          "IMESSAGE_DB_TARA_2017_2018"
+        ],
+        "tertiary": [
+          "INT-003",
+          "INT-003_02",
+          "INT-003_03",
+          "INT-003_04",
+          "INT-003_05",
+          "INT-003_06",
+          "INT-003_07",
+          "INT-003_08",
+          "INT-003_09",
+          "INT-003_10",
+          "INT-003_11",
+          "INT-003_12"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Fool",
+      "date_context": "2013–2018",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "new"
+    },
+    {
+      "id": "B04",
+      "number": 4,
+      "title": "Tara Knoll",
+      "summary": "Easter dinner at a house called Tara Knoll — Steve's only visit to the Walsh compound in Chappaqua. Walsh Sr. performs the patriarch. Michael counts change at the table. The sisters wear matching outfits. Brienne watches from a chair. Something about the family is off. He never went back.",
+      "slug": "tara-knoll",
+      "date": "Spring 2016",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2014-2015",
+        "Brendan Walsh",
+        "Brienne Walsh",
+        "Chappaqua",
+        "Family System",
+        "Interior Moment",
+        "Maura Walsh",
+        "Origin",
+        "Privacy Architecture",
+        "Tara Knoll",
+        "Tara Walsh",
+        "Walsh Sr.",
+        "SEC",
+        "Drexel Burnham Lambert"
+      ],
+      "ecs": 70,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "EB3_MASTER_024",
+          "ExQQ_06"
+        ],
+        "primary": [
+          "FRAUD-1",
+          "QUOTE-TARA-LEAVE-COMPOUND",
+          "BLOG-034",
+          "PDF_BRIENNE_COURT_LETTER",
+          "VIDEO_DEPO_BRENDAN_WALSH",
+          "VIDEO_DEPO_MAURA_WALSH",
+          "EX_18_PHYSICAL_FIGHTS",
+          "EX_24_TARA_CANT_STAND_LIVING",
+          "EMAIL_6432",
+          "SCREENSHOT_BRIENNE_THREAT_TO_SUE",
+          "SLE-113"
+        ],
+        "secondary": [
+          "Adm_04",
+          "BADACTS",
+          "DEPO_STILLS_BRENDAN_WALSH",
+          "DEPO_STILLS_MAURA_WALSH",
+          "DEPO_TARA_SEROQUEL_SWORN",
+          "EMAIL_TARA_DEATH_WARRANT",
+          "EX_21_BPD_TEXTS",
+          "EX_23_LINDA_TEXT_JULY2018",
+          "EX_27_ATTIC_TESTIMONY",
+          "EX_34_DROPPED_BABY",
+          "EX_35_FIRST_VISIT_CHAPPAQUA",
+          "EX_43_FLAT_TIRE",
+          "EX_52_GORDON_OLIVER_FILING",
+          "ExQQ_06_02",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "MSG-BRIENNE-010",
+          "MSG-BRIENNE-011",
+          "MSG-BRIENNE-014",
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_TARA_DECLARATION_071018",
+          "PHOTO_EASTER_CHAPPAQUA",
+          "PHOTO_FUNERAL_ECARD_THREAT",
+          "PHOTO_SLEEPY_EVIE_VALENTINE",
+          "PHOTO_TARA_KNIFE_SELFIE",
+          "PHOTO_TARA_SECRET_FILMING",
+          "PHOTO_ZIPERER_EVIE_CUSTODY",
+          "SCREENSHOT_POLICE_TIRES",
+          "SCREENSHOT_TARA_AFRAID_LOSING_EVIE",
+          "SCREENSHOT_TARA_BEGGING",
+          "SCREENSHOT_TARA_FAKE_CRYING_ZAR",
+          "SCREENSHOT_TARA_SIBLING",
+          "VIDEO_FAKE_CRYING",
+          "VIDEO_JOE_TELLING_LEAVE"
+        ],
+        "tertiary": [
+          "INT-002",
+          "INT-003",
+          "INT-003_02",
+          "INT-003_03",
+          "INT-003_04",
+          "INT-003_05",
+          "INT-003_06",
+          "INT-003_07",
+          "INT-003_08",
+          "INT-003_09",
+          "INT-003_10",
+          "INT-003_11",
+          "INT-003_12"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Fool",
+      "date_context": "2015–2017",
+      "source_posts": [
+        "P16"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "character-pass-1",
+      "merge_type": "new-fold"
+    },
+    {
+      "id": "B05",
+      "number": 5,
+      "title": "Nothing Stolen",
+      "summary": "Power cut to one unit. Neighbors still have theirs. The electrical closet forced open, hinges removed. Drill holes in the walls. Nothing stolen. The intrusion itself was the point.",
+      "slug": "nothing-stolen",
+      "date": "Late 2016",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2016",
+        "Documentation",
+        "Potrero Hill",
+        "San Francisco"
+      ],
+      "ecs": 75,
+      "provenance": [],
+      "evidence": {
+        "hero": [],
+        "primary": [],
+        "secondary": [
+          "ExN_02",
+          "WA_22",
+          "Anal_05",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "G-36",
+          "G-36_02",
+          "G-36_03",
+          "G-36_05",
+          "HYMOWITZ-2EX",
+          "HYMOWITZ-LTR",
+          "HYMOWITZ-v3",
+          "Filing_07",
+          "Filing_10",
+          "G-36_04",
+          "Decl_11",
+          "Decl_12",
+          "ExA_03"
+        ],
+        "tertiary": [
+          "INT-003",
+          "INT-003_02",
+          "INT-003_03",
+          "INT-003_04",
+          "INT-003_05",
+          "INT-003_06",
+          "INT-003_07",
+          "INT-003_08",
+          "INT-003_09",
+          "INT-003_10",
+          "INT-003_11",
+          "INT-003_12"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Fool",
+      "date_context": "2015–2017",
+      "source_posts": [
+        "P3",
+        "P4",
+        "P4B"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B06",
+      "number": 6,
+      "title": "The Illness",
+      "summary": "Something is wrong with Steve. Conflicting diagnoses. Tara moves in to take care of him. The symptoms don't match any single explanation. Neither does her attentiveness.",
+      "slug": "the-illness",
+      "date": "Late 2016 – Early 2017",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2016",
+        "Discovery",
+        "Jamie Siminoff",
+        "Lab Reports",
+        "Lithium",
+        "Nantucket",
+        "Petrella",
+        "Poisoning",
+        "Potrero Hill",
+        "San Francisco",
+        "Tom LaFreniere",
+        "Toxicology"
+      ],
+      "ecs": 75,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "D-12_02",
+          "A-1",
+          "ExI_02"
+        ],
+        "primary": [
+          "G-34",
+          "A-1_02",
+          "A-1_06",
+          "PHOTO_BATTERY_DYSKINESIA",
+          "PHOTO_BLOODIED_HEAD_CLOSEUP",
+          "ExJ_01",
+          "HERO-1",
+          "EMAIL_9243",
+          "DOC_DECLARATION_STEPHEN_RUSSELL",
+          "Adm_03",
+          "Decl_03"
+        ],
+        "secondary": [
+          "A-1_03",
+          "A-1_04",
+          "A-1_05",
+          "Adm_01",
+          "Adm_02",
+          "Adm_06",
+          "Anal_02",
+          "Anal_03",
+          "Anal_07",
+          "Anal_09",
+          "D-12",
+          "D-12_02",
+          "D-12_03",
+          "D-12_04",
+          "D-12_05",
+          "D-12_06",
+          "DEPO_STILL_MATAN_GAVISH",
+          "DOCX_RECORD_RELATIONSHIP",
+          "DOCX_RISKS_GETTING_RICH",
+          "DOC_RUSSELL_AFFIDAVIT_AUG2018",
+          "DOC_RUSSELL_REPLY_AFFIDAVIT_V3",
+          "DOC_WALSH_COMPLAINT_V3_FINAL",
+          "Decl_04",
+          "Decl_05",
+          "Decl_06",
+          "E-5",
+          "E-5_02",
+          "EMAIL_1424",
+          "EMAIL_2611",
+          "EMAIL_6432",
+          "EMAIL_9330",
+          "EMAIL_9755",
+          "EMAIL_9768",
+          "ExOO_39",
+          "ExTR_19",
+          "ExTR_19_02",
+          "ExTR_19_03",
+          "ExTR_19_04",
+          "ExTR_19_05",
+          "ExTR_19_06",
+          "ExTR_19_07",
+          "ExTR_19_08",
+          "ExTR_19_09",
+          "ExTR_19_10",
+          "ExTR_19_11",
+          "ExTR_19b",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "PDF_BRIENNE_COURT_LETTER",
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_NARRATIVE_TIMELINE",
+          "PHOTO_ZIPERER_EVIE_CUSTODY",
+          "SCREENSHOT_BRIENNE_THREAT_TO_SUE",
+          "SCREENSHOT_MATAN_MANIPULATION",
+          "SLE-120",
+          "VIDEO_DEPO_MATAN_GAVISH",
+          "WA_19",
+          "WA_20",
+          "WA_23",
+          "WA_26",
+          "WA_27",
+          "WA_32",
+          "WA_34"
+        ],
+        "tertiary": [
+          "INT-002"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Fool",
+      "date_context": "Pre-2018",
+      "source_posts": [
+        "P6"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B07",
+      "number": 7,
+      "title": "The Wine Bottle",
+      "summary": "She threw a wine bottle at his head. The relationship ends. Or it should have. The breakup has the shape of a Gone Girl exit — perfect victim, perfect villain, nothing quite adding up.",
+      "slug": "the-wine-bottle",
+      "date": "Early 2017",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2016",
+        "Escalation",
+        "Narrative Inversion",
+        "Poisoning",
+        "Potrero Hill",
+        "Tara Walsh"
+      ],
+      "ecs": 75,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "C-6",
+          "ExMM_UBER_04"
+        ],
+        "primary": [
+          "B-7",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "DEPO_TARA_WINE_BOTTLE_THROWN",
+          "PHOTO_TARA_KNIFE_SELFIE",
+          "EX_21_BPD_TEXTS",
+          "DEPO_TARA_SEROQUEL_SWORN",
+          "Adm_01",
+          "ExO_06",
+          "EX_34_DROPPED_BABY",
+          "ExTR_19",
+          "SCREENSHOT_TARA_FAKE_CRYING_ZAR"
+        ],
+        "secondary": [
+          "ExN_02",
+          "D-33",
+          "A-4",
+          "Adm_02",
+          "Adm_03",
+          "Adm_06",
+          "Anal_02",
+          "Anal_03",
+          "Anal_09",
+          "DEPO_TARA_LITHIUM_BLOOD",
+          "DEPO_TARA_NANNY_COMPLICIT",
+          "DEPO_TARA_SEROQUEL_WILLINGLY",
+          "DOC_DECLARATION_STEPHEN_RUSSELL_V2",
+          "DOC_RUSSELL_AFFIDAVIT_AUG2018",
+          "DOC_RUSSELL_AFFIDAVIT_AUG2018_V2",
+          "DOC_RUSSELL_REPLY_AFFIDAVIT_V3",
+          "Decl_03",
+          "Decl_04",
+          "Decl_05",
+          "EMAIL_1424",
+          "EMAIL_1921",
+          "EMAIL_2611",
+          "EMAIL_6432",
+          "EMAIL_9755",
+          "EMAIL_9768",
+          "EX_29_DROPPING_THERAPY",
+          "EX_31_STEVE_TO_WALSH_FIRED_DOCTOR",
+          "ExJ_01",
+          "ExOO_39",
+          "ExTR_19_02",
+          "ExTR_19_03",
+          "ExTR_19_04",
+          "ExTR_19_05",
+          "ExTR_19_06",
+          "ExTR_19_07",
+          "ExTR_19_08",
+          "ExTR_19_09",
+          "ExTR_19_10",
+          "ExTR_19_11",
+          "ExTR_19a",
+          "ExTR_19b",
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_INCIDENT_REPORT_180415167",
+          "PDF_RITA_MERCANTE_LETTERS",
+          "PDF_TARA_DECLARATION_071018",
+          "PDF_TARA_MENTAL_HEALTH_JOURNAL",
+          "PHOTO_BATTERY_DYSKINESIA",
+          "SCREENSHOT_BPD_DEPO",
+          "WA_19",
+          "WA_20",
+          "WA_26",
+          "WA_32"
+        ],
+        "tertiary": [
+          "INT-002"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Evidence",
+      "date_context": "2017–2018",
+      "source_posts": [
+        "P7"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "none"
+    },
+    {
+      "id": "B08",
+      "number": 8,
+      "title": "The Ultrasound",
+      "summary": "She calls months after the breakup. She's pregnant. The baby changes everything — or is supposed to. The reconciliation has the architecture of a con: create the crisis, offer the solution, own the outcome.",
+      "slug": "the-pregnancy-claim",
+      "date": "2017",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2017",
+        "Evie",
+        "Fake Crying Video",
+        "Narrative Inversion",
+        "Tara Walsh",
+        "The Battery"
+      ],
+      "ecs": 90,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "D-7"
+        ],
+        "primary": [
+          "D-2_03",
+          "SLE-031",
+          "MSG-JESSE-006",
+          "MSG-RASHMI-003",
+          "TARA-JOURNAL"
+        ],
+        "secondary": [
+          "IMESSAGE_DB_TARA_2017_2018",
+          "MATAN-2",
+          "ABUSE-1",
+          "D-2",
+          "D-2_02",
+          "D-7_02",
+          "D-7_03",
+          "EMAIL_1424",
+          "SLE-109",
+          "SUM-1",
+          "MSG-JESSE-003"
+        ],
+        "tertiary": [
+          "INT-003",
+          "INT-003_02",
+          "INT-003_03",
+          "INT-003_04",
+          "INT-003_05",
+          "INT-003_06",
+          "INT-003_07",
+          "INT-003_08",
+          "INT-003_09",
+          "INT-003_10",
+          "INT-003_11",
+          "INT-003_12"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Evidence",
+      "date_context": "May–December 2017",
+      "source_posts": [
+        "P8",
+        "P9",
+        "P10"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B09",
+      "number": 9,
+      "title": "The Brooklyn Apartment",
+      "summary": "Tara finds an apartment in a mob neighborhood down the street from her sister. She asks Steve to come help look at places for the baby. He goes to the hospital instead. The door closes behind him.",
+      "slug": "the-brooklyn-apartment",
+      "date": "Summer 2017",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2017",
+        "Adderall",
+        "Brooklyn",
+        "Chris Ochoa",
+        "Discovery",
+        "Don Ackerman",
+        "Geiger Counter",
+        "Legacy Protection",
+        "Narrative Inversion",
+        "Poisoning",
+        "Tara Walsh"
+      ],
+      "ecs": 80,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "G-20",
+          "EMAIL_TARA_DEATH_WARRANT",
+          "SCREENSHOT_TARA_FAKE_CRYING_ZAR",
+          "VIDEO_FAKE_CRYING",
+          "MSG-MATAN-006"
+        ],
+        "primary": [
+          "G-20_02",
+          "E-5_02",
+          "MSG-JESSE-004",
+          "MSG-BRIENNE-010",
+          "MSG-BRIENNE-011",
+          "MSG-JESSE-007",
+          "DEPO_STILL_MATAN_GAVISH",
+          "SCREENSHOT_MATAN_MANIPULATION",
+          "EX_24_TARA_CANT_STAND_LIVING",
+          "PDF_SF_DVRO_JUL2018"
+        ],
+        "secondary": [
+          "Anal_05",
+          "BADACTS",
+          "DOCX_RECORD_RELATIONSHIP",
+          "DOCX_RISKS_GETTING_RICH",
+          "Decl_11",
+          "Decl_12",
+          "E-5",
+          "EX_35_FIRST_VISIT_CHAPPAQUA",
+          "EX_36_FEB2019_EMAIL_TO_COURT",
+          "EX_42_NANNY_TALIA_STATEMENT",
+          "EX_44_MEDICAL_EXCUSE_EMAIL",
+          "ExA_03",
+          "ExOO_39",
+          "FRAUD-1",
+          "Filing_07",
+          "Filing_10",
+          "G-36_04",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "MSG-BRIENNE-012",
+          "MSG-BRIENNE-014",
+          "MSG-JESSE-005",
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_NARRATIVE_TIMELINE",
+          "PHOTO_FUNERAL_ECARD_THREAT",
+          "SCREENSHOT_TARA_AFRAID_LOSING_EVIE",
+          "SCREENSHOT_TARA_MATAN_FAKE_CRYING_EMAIL",
+          "SUM-1",
+          "VIDEO_DEPO_MATAN_GAVISH",
+          "VIDEO_EVIE_FIRST_VISIT",
+          "WA_22",
+          "MSG-BRIENNE-001",
+          "MSG-BRIENNE-005",
+          "MSG-BRENDAN-001"
+        ],
+        "tertiary": [
+          "INT-002",
+          "INT-003",
+          "INT-003_02",
+          "INT-003_03",
+          "INT-003_04",
+          "INT-003_05",
+          "INT-003_06",
+          "INT-003_07",
+          "INT-003_08",
+          "INT-003_09",
+          "INT-003_10",
+          "INT-003_11",
+          "INT-003_12"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Evidence",
+      "date_context": "2016–2018",
+      "source_posts": [
+        "P13",
+        "P81",
+        "P83",
+        "P11",
+        "P13B"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B10",
+      "number": 10,
+      "title": "The Builder",
+      "summary": "He leaves New York. Gets a driver. Returns to work. Ring is growing — Kleiner money, Ukraine team producing, Amazon watching. Jamie wants more than Steve can give. Prism gets caught in the middle. He meets a woman named Kelly at a ranch that used to belong to the painter of cottages. For a while, life is normal. Then two catastrophes collide.",
+      "slug": "the-builder",
+      "date": "Late Summer 2017 – Summer 2018",
+      "act": "I",
+      "act_name": "The Fool",
+      "tags": [
+        "2017",
+        "Bryan Crutcher",
+        "Jamie Siminoff",
+        "Kelly Turnure",
+        "Kinkade Ranch",
+        "Privacy Inversion",
+        "San Francisco",
+        "The Fool",
+        "Tom LaFreniere"
+      ],
+      "ecs": 75,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "Clip11",
+          "VID-012",
+          "MSG-WALSHSR-002"
+        ],
+        "primary": [
+          "EMAIL_19536"
+        ],
+        "secondary": [
+          "PDF_FOLLOW_THE_MONEY",
+          "IMESSAGE_DB_TARA_2017_2018"
+        ],
+        "tertiary": [
+          "INT-002"
+        ]
+      },
+      "phase": "I",
+      "phase_name": "The Evidence",
+      "date_context": "2017",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "new"
+    },
+    {
+      "id": "B11",
+      "number": 11,
+      "title": "Eleven O'Clock",
+      "summary": "Steve flies to New York with his security team ahead of Evie's birth. Tamper screws set to eleven o'clock. NYPD drivers on shift. The birth of his daughter is being planned alongside logistics that have nothing to do with joy.",
+      "slug": "the-security-detail",
+      "date": "January 2018",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2018",
+        "Brooklyn",
+        "Bryan Crutcher",
+        "Documentation",
+        "Joe Prendergast",
+        "Legacy Protection",
+        "Tamper Screws"
+      ],
+      "ecs": 82,
+      "provenance": [
+        "AUTHOR",
+        "SWORN",
+        "DISCOVERY"
+      ],
+      "evidence": {
+        "hero": [
+          "G-34",
+          "MSG-BRIENNE-013"
+        ],
+        "primary": [
+          "D-31",
+          "EB1_P065",
+          "EB1_P129"
+        ],
+        "secondary": [
+          "G-34_02",
+          "HYMOWITZ-2EX",
+          "HYMOWITZ-LTR",
+          "HYMOWITZ-v3",
+          "SCREENSHOT_TARA_MATAN_FAKE_CRYING_EMAIL",
+          "MSG-BRIENNE-010",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "MSG-BRIENNE-012",
+          "SLE-101"
+        ],
+        "tertiary": []
+      },
+      "phase": "II",
+      "phase_name": "The Evidence",
+      "date_context": "January 2018",
+      "source_posts": [
+        "P14",
+        "P15"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "light"
+    },
+    {
+      "id": "B12",
+      "number": 12,
+      "title": "January 27, 2018",
+      "summary": "Evie is born by emergency C-section. Steve sleeps in a chair for four days. The Walsh family fills the corridors. Then Tara gives him Adderall, and the fog returns.",
+      "slug": "january-27-2018",
+      "date": "January 27, 2018",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2018",
+        "Columbia Presbyterian",
+        "Evie",
+        "Family System",
+        "Joe Prendergast",
+        "Legacy Protection",
+        "Linda Russell",
+        "Maura Walsh",
+        "Privacy Architecture",
+        "Walsh Sr."
+      ],
+      "ecs": 95,
+      "provenance": [
+        "AUTHOR",
+        "MEDICAL",
+        "SWORN",
+        "CHAT.DB"
+      ],
+      "evidence": {
+        "hero": [
+          "D-13_05",
+          "EMAIL_9755",
+          "SLE-109",
+          "MSG-BRIENNE-013"
+        ],
+        "primary": [
+          "MSG-MATAN-007",
+          "MSG-MATAN-003",
+          "MSG-WALSHSR-001",
+          "MSG-BRENDAN-006",
+          "MSG-RHODES-002"
+        ],
+        "secondary": [
+          "IMESSAGE_DB_TARA_2017_2018",
+          "MSG-JESSE-004",
+          "D-13",
+          "D-13_02",
+          "D-13_03",
+          "D-13_04",
+          "D-13_05",
+          "D-13_06",
+          "EMAIL_1424",
+          "K-24",
+          "K-24_02",
+          "K-53",
+          "K-53_02",
+          "Clip14_02"
+        ],
+        "tertiary": []
+      },
+      "phase": "II",
+      "phase_name": "The Evidence",
+      "date_context": "2017–2018",
+      "source_posts": [
+        "P12",
+        "P22",
+        "P22B",
+        "P22C"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B13",
+      "number": 13,
+      "title": "The Painter of Cottages",
+      "summary": "Kelly comes back. A ranch that belonged to the painter of cottages. Light on the hills. Then Amazon buys Ring, Jamie deletes the options, and Steve files a fourteen-count complaint. Kelly helps him win.",
+      "slug": "the-painter-of-cottages",
+      "date": "Late 2017 – February 2019",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2017",
+        "2018",
+        "Amazon",
+        "Jamie Siminoff",
+        "Kelly Turnure",
+        "Kinkade Ranch",
+        "Ring",
+        "San Francisco"
+      ],
+      "ecs": 78,
+      "provenance": [
+        "AUTHOR",
+        "CASE_FILES"
+      ],
+      "evidence": {
+        "hero": [],
+        "primary": [],
+        "secondary": [],
+        "tertiary": []
+      },
+      "phase": "II",
+      "phase_name": "The Evidence",
+      "date_context": "2017-2019",
+      "source_posts": [
+        "B10"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "original"
+    },
+    {
+      "id": "B14",
+      "number": 14,
+      "title": "The Morning After",
+      "summary": "He returns to the Brooklyn apartment after four days in a hospital chair. The tamper screws have moved. The air smells wrong. Something adhesive settles on his face. Then Tara and her father arrive and tell him to leave.",
+      "slug": "the-morning-after",
+      "date": "Late January 2018",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2018",
+        "Brooklyn",
+        "Don Ackerman",
+        "Escalation",
+        "Legacy Protection",
+        "Misguided Rescue",
+        "Tamper Screws",
+        "Triangulation",
+        "Walsh Sr."
+      ],
+      "ecs": 90,
+      "provenance": [
+        "AUTHOR",
+        "SWORN",
+        "PHOTOS"
+      ],
+      "evidence": {
+        "hero": [
+          "ExMM_10",
+          "D-11",
+          "D-31"
+        ],
+        "primary": [
+          "MSG-WALSHSR-002",
+          "C-4",
+          "DOCX_RUSSELL_AFFIDAVIT",
+          "ExI_03",
+          "LEGAL-CRUTCHER-DECL"
+        ],
+        "secondary": [
+          "ExC_03",
+          "C-4_02",
+          "D-11_02",
+          "D-11_03",
+          "DOCX_CHILD_ENDANGERMENT",
+          "DOCX_RECORD_RELATIONSHIP",
+          "DOC_RUSSELL_REPLY_AFFIDAVIT_V3",
+          "EMAIL_9243",
+          "EMAIL_9330",
+          "EMAIL_9755",
+          "EMAIL_6432",
+          "PDF_DV100_NO_EXHIBITS",
+          "PDF_SF_DVRO",
+          "PDF_SUPPLEMENTAL_DVRO",
+          "ExPP_09",
+          "ExPP_10",
+          "PDF_DVRO_W_EXHIBITS",
+          "PDF_WALSH_ABUSE_MOTION_02",
+          "DOC_DECLARATION_STEPHEN_RUSSELL",
+          "PDF_TARA_WALSH_DECLARATION",
+          "SCREENSHOT_TARA_MATAN_FAKE_CRYING_EMAIL",
+          "SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP",
+          "ExC_02",
+          "DOCX_WALSH_ABUSE_MOTION_V5",
+          "ExOO_03",
+          "ExOO_25",
+          "ExOO_27",
+          "ExOO_29",
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_NARRATIVE_TIMELINE",
+          "DOCX_RISKS_GETTING_RICH",
+          "PDF_DV_TRIAL_TRANSCRIPT",
+          "IMESSAGE_DB_TARA_2017_2018"
+        ],
+        "tertiary": [
+          "INT-B14-001",
+          "INT-B14-002"
+        ]
+      },
+      "phase": "II",
+      "phase_name": "The Pivot",
+      "date_context": "January 2018",
+      "source_posts": [
+        "P18"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B15",
+      "number": 15,
+      "title": "The Sheraton",
+      "summary": "A chaotic sequence of locations after leaving the Brooklyn apartment. Motel 6. A rest stop meeting. An evidence box with items missing. A local officer's warning: don't trust anyone.",
+      "slug": "the-sheraton",
+      "date": "February 2018",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2018",
+        "Albert",
+        "Accusation-Reversal",
+        "Disappearing Record",
+        "Don Ackerman",
+        "Legacy Protection",
+        "Motel 6",
+        "The Sheraton",
+        "Tara"
+      ],
+      "ecs": 82,
+      "provenance": [
+        "AUTHOR",
+        "SWORN"
+      ],
+      "evidence": {
+        "hero": [
+          "ExI_03",
+          "PDF_TARA_WALSH_DECLARATION",
+          "D-31"
+        ],
+        "primary": [],
+        "secondary": [
+          "IMESSAGE_DB_TARA_2017_2018",
+          "SLE-113",
+          "C-4",
+          "C-4_02",
+          "MSG-WALSHSR-002",
+          "MSG-BRIENNE-012"
+        ],
+        "tertiary": [
+          "INT-002",
+          "INT-B14-002"
+        ]
+      },
+      "phase": "II",
+      "phase_name": "The Pivot",
+      "date_context": "February 2018",
+      "source_posts": [
+        "P23"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B16",
+      "number": 16,
+      "title": "Terms",
+      "summary": "Weeks of phone calls from San Francisco to New York. Tara blames her parents. Tara promises cooperation. Tara asks about finances. Then she asks for a private jet.",
+      "slug": "terms",
+      "date": "February–March 2018",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2018",
+        "San Francisco",
+        "Tara Walsh",
+        "Triangulation"
+      ],
+      "ecs": 75,
+      "provenance": [
+        "AUTHOR",
+        "CHAT.DB"
+      ],
+      "evidence": {
+        "hero": [
+          "SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE",
+          "TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL",
+          "MSG-JESSE-001",
+          "MSG-MATAN-006"
+        ],
+        "primary": [
+          "ExA_01",
+          "F-047",
+          "MSG-JESSE-005",
+          "MSG-WALSHSR-004"
+        ],
+        "secondary": [
+          "IMESSAGE_DB_TARA_2017_2018",
+          "SLE-094",
+          "TEXT_TARA_HINDSIGHT_ADMISSION",
+          "MSG-BRIENNE-008"
+        ],
+        "tertiary": []
+      },
+      "phase": "II",
+      "phase_name": "The Pivot",
+      "date_context": "July 2018",
+      "source_posts": [
+        "P20",
+        "P21"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "light"
+    },
+    {
+      "id": "B17",
+      "number": 17,
+      "title": "The Jet",
+      "summary": "A private jet carries Evie from Teterboro to San Francisco. Steve waits at the other end. What he cannot see — what is happening simultaneously in text threads with Jesse, Matan, and Walsh Sr. — is that Tara has planned the exit before the arrival.",
+      "slug": "the-jet",
+      "date": "March 2018",
+      "act": "II",
+      "act_name": "The Evidence",
+      "tags": [
+        "2018",
+        "Evie",
+        "Saoira",
+        "Tara Walsh",
+        "Teterboro",
+        "Jesse",
+        "Matan Gavish",
+        "Walsh Sr.",
+        "San Francisco",
+        "Millennium Tower",
+        "Scheme",
+        "Multi-Register"
+      ],
+      "ecs": 78,
+      "provenance": [
+        "AUTHOR",
+        "DISCOVERY"
+      ],
+      "evidence": {
+        "hero": [
+          "MSG-JESSE-001",
+          "MSG-MATAN-006",
+          "QUOTE-TARA-LEAVE-COMPOUND",
+          "MSG-MATAN-005",
+          "MSG-JESSE-002",
+          "MSG-WALSHSR-003",
+          "SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP",
+          "TEXT_TARA_HINDSIGHT_ADMISSION"
+        ],
+        "primary": [],
+        "secondary": [
+          "ExI_03",
+          "ExPP_09",
+          "ExPP_09_02",
+          "ExPP_10",
+          "PDF_TARA_WALSH_DECLARATION",
+          "ExOO_03",
+          "ExOO_25",
+          "ExOO_27",
+          "ExOO_29",
+          "IMESSAGE_DB_TARA_2017_2018",
+          "ExC_02",
+          "ExC_03"
+        ],
+        "tertiary": [
+          "INT-003",
+          "INT-003_02",
+          "INT-003_03",
+          "INT-003_04",
+          "INT-003_05",
+          "INT-003_06",
+          "INT-003_07",
+          "INT-003_08",
+          "INT-003_09",
+          "INT-003_10",
+          "INT-003_11",
+          "INT-003_12",
+          "INT-B17-001"
+        ]
+      },
+      "phase": "II",
+      "phase_name": "The Pivot",
+      "date_context": "2018",
+      "source_posts": [
+        "P24"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "none"
+    },
+    {
+      "id": "B18",
+      "number": 18,
+      "title": "Save This, I've Got Him",
+      "summary": "A three-level townhouse. A nanny. Steve's mother helping with the baby. For a brief period it feels almost ordinary. Then Tara smashes a phone against the wall and photographs a bruise.",
+      "slug": "save-this-ive-got-him",
+      "date": "March–April 2018",
+      "act": "III",
+      "act_name": "The Household",
+      "tags": [
+        "2018",
+        "Abby Tedla",
+        "Bruise Photograph",
+        "Narrative Inversion",
+        "North Beach",
+        "San Francisco",
+        "Tara Walsh",
+        "Dr. Faedda",
+        "Iatrogenic",
+        "Lucio Bini Center",
+        "Medication Genealogy"
+      ],
+      "ecs": 85,
+      "provenance": [
+        "SWORN",
+        "AUTHOR",
+        "CHAT.DB"
+      ],
+      "evidence": {
+        "hero": [
+          "EB1_P107",
+          "TRIAL-BATTERY-PHONE-STABBING",
+          "MSG-JESSE-008",
+          "EB1_P105"
+        ],
+        "primary": [
+          "C-11",
+          "C-11_02",
+          "C-4",
+          "EB1_P111",
+          "PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018",
+          "ExI_03"
+        ],
+        "secondary": [
+          "IMESSAGE_DB_TARA_2017_2018",
+          "EB1_P097",
+          "EB1_P119",
+          "EB1_P121",
+          "C-4_02",
+          "EMAIL_6432",
+          "MSG-STEVE-001"
+        ],
+        "tertiary": [
+          "INT-002",
+          "Tedla"
+        ]
+      },
+      "phase": "III",
+      "phase_name": "The System",
+      "date_context": "2018",
+      "source_posts": [
+        "P25",
+        "P27",
+        "P27B"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B19",
+      "number": 19,
+      "title": "The Leaning Tower",
+      "summary": "Steve moves into a sinking building and goes to the police. The building absorbs its lean internally. So does the investigation.",
+      "slug": "the-leaning-tower",
+      "date": "Spring–Fall 2018",
+      "act": "III",
+      "act_name": "The Household",
+      "tags": [
+        "2018",
+        "Millennium Tower",
+        "San Francisco",
+        "SFPD",
+        "Caraway",
+        "Poisoning",
+        "Pontius Pilate"
+      ],
+      "ecs": 75,
+      "provenance": [
+        "AUTHOR",
+        "BACKUP",
+        "COURT_RECORD"
+      ],
+      "evidence": {
+        "hero": [
+          "EMAIL_9330",
+          "PDF_DEMAND_PROSECUTION",
+          "QUOTE-GOOD-VICTIM"
+        ],
+        "primary": [
+          "SCREENSHOT_SGT_CARAWAY_COURT_ORDER",
+          "PDF_SUPPLEMENTAL_MEMORANDUM"
+        ],
+        "secondary": [
+          "PDF_CARAWAY_OUTLINE",
+          "EB1_P123",
+          "PDF_SF_DVRO_JUL2018",
+          "C-11_02",
+          "PHOTO_BLOODIED_HEAD_CLOSEUP"
+        ],
+        "tertiary": []
+      },
+      "phase": "III",
+      "phase_name": "The System",
+      "date_context": "2018",
+      "source_posts": [
+        "P26"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B20",
+      "number": 20,
+      "title": "The Niacin Flush",
+      "summary": "A wine-and-art event. Two women who walk past the table too many times. Fifteen minutes later, his skin turns red and his body heats up. Tara records the entire episode. He recognizes the feeling from exercise supplements: niacin.",
+      "slug": "the-niacin-flush",
+      "date": "Spring 2018",
+      "act": "III",
+      "act_name": "The Household",
+      "tags": [
+        "2018",
+        "Abby Tedla",
+        "Discovery",
+        "Narrative Inversion",
+        "Niacin Flush",
+        "Poisoning",
+        "San Francisco",
+        "Sean Snyder",
+        "Tara Walsh"
+      ],
+      "ecs": 88,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "EMAIL_9330",
+          "ExI_03"
+        ],
+        "primary": [
+          "EMAIL_9755",
+          "EMAIL_9243",
+          "SLE-096"
+        ],
+        "secondary": [],
+        "tertiary": [
+          "INT-002",
+          "INT-B20-001"
+        ]
+      },
+      "phase": "III",
+      "phase_name": "The System",
+      "date_context": "2018–2019",
+      "source_posts": [
+        "P28",
+        "P28B",
+        "P78",
+        "P79",
+        "P80"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B21",
+      "number": 21,
+      "title": "She Asked Me to Put Drugs in Your Wine",
+      "summary": "The nanny approaches Steve in the kitchen: 'This will probably get me fired.' She has a brother in the FBI. Her brother told her to tell Steve immediately. Tara has been putting Seroquel in Steve's wine. Her response: 'I do it all the time.' Then 'We all do it.' Then 'They did it.' In her text to Dr. Gopal that night, Tara buries the admission inside a complaint about the nanny. In her sworn court filing, the number becomes two. The confession shrank. The witness chose silence a year later.",
+      "slug": "she-asked-me-to-put-drugs-in-your-wine",
+      "date": "May 2018",
+      "act": "III",
+      "act_name": "The Household",
+      "tags": [
+        "2018",
+        "Abby Tedla",
+        "Bryan Crutcher",
+        "Dan Ochoa",
+        "Discovery",
+        "Dr. Gopal",
+        "Interior Moment",
+        "Millennium Tower",
+        "North Beach",
+        "Poisoning",
+        "Seroquel",
+        "Tara Walsh",
+        "Text Messages"
+      ],
+      "ecs": 95,
+      "provenance": [
+        "SWORN",
+        "AUTHOR"
+      ],
+      "evidence": {
+        "hero": [
+          "C-6_03",
+          "C-11",
+          "QUOTE-TARA-CRAZY-TOO-TOGETHER",
+          "LEGAL-DVRO-GOPAL-TEXT",
+          "C-6",
+          "ExQQ_05"
+        ],
+        "primary": [
+          "G-20",
+          "C-11_02",
+          "DOC_RUSSELL_AFFIDAVIT_AUG2018",
+          "EMAIL_1921"
+        ],
+        "secondary": [
+          "Adm_01",
+          "Anal_02",
+          "Anal_09",
+          "C-4",
+          "C-4_02",
+          "C-6_02",
+          "DOC_DECLARATION_STEPHEN_RUSSELL",
+          "DOC_DECLARATION_STEPHEN_RUSSELL_V2",
+          "DOC_RUSSELL_AFFIDAVIT_AUG2018_V2",
+          "DOC_RUSSELL_REPLY_AFFIDAVIT_V3",
+          "DOC_WALSH_COMPLAINT_V3_FINAL",
+          "Decl_03",
+          "EB2_MASTER_007",
+          "EMAIL_2611",
+          "EMAIL_6432",
+          "EMAIL_9755",
+          "ExI_03",
+          "ExQQ_05_02",
+          "G-20_02",
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_SF_DVRO",
+          "PHOTO_EVIE_BATH_INSTAGRAM",
+          "EMAIL_9768"
+        ]
+      },
+      "phase": "III",
+      "phase_name": "The System",
+      "date_context": "2018–2020",
+      "source_posts": [
+        "P29",
+        "P30",
+        "P31",
+        "P32",
+        "P33",
+        "P41B",
+        "P41H"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B22",
+      "number": 22,
+      "title": "\"You Almost Made Me Abandon Our Daughter\"",
+      "summary": "A message arrives from Tara. Dramatic, accusatory, the kind of thing she sends often enough that it reads like noise. The phrase about abandoning their daughter is a warning. Steve doesn't recognize it yet.",
+      "slug": "you-almost-made-me-abandon-our-daughter",
+      "date": "May 2018",
+      "act": "III",
+      "act_name": "The Household",
+      "tags": [
+        "2018",
+        "Abby Tedla",
+        "Accusation-Reversal",
+        "Bruises",
+        "Escalation",
+        "Evie",
+        "Matan Gavish",
+        "Millennium Tower",
+        "Poisoning",
+        "Seroquel",
+        "Tara Walsh",
+        "Text Messages"
+      ],
+      "ecs": 75,
+      "provenance": [
+        "AUTHOR",
+        "CHAT.DB",
+        "SWORN"
+      ],
+      "evidence": {
+        "hero": [
+          "SLE-094",
+          "LEGAL-DVRO-TEDLA-NAMES-QUIET",
+          "LEGAL-DVRO-WILLIAMS-EYEWITNESS",
+          "LEGAL-INQUEST-VIOLENCE-ACCUSATION",
+          "EB1_P049"
+        ],
+        "primary": [
+          "LEGAL-DVRO-APPEASE-LYING",
+          "LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS",
+          "LEGAL-INQUEST-NO-POLICE-REPORT",
+          "PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018",
+          "ExA_01"
+        ],
+        "secondary": [
+          "TEXT_TARA_HINDSIGHT_ADMISSION",
+          "TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL",
+          "TEXT_THREAD_TARA_2025_JUN_DEC",
+          "TEXT_TARA_DEC2025_MATAN_ADMISSION",
+          "SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP"
+        ],
+        "tertiary": []
+      },
+      "phase": "III",
+      "phase_name": "The Obstruction",
+      "date_context": "2019–2020",
+      "source_posts": [
+        "P41C",
+        "P41D",
+        "P41E"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B23",
+      "number": 23,
+      "title": "The Uber",
+      "summary": "Three months before the departure, Tara texts a friend asking to be kidnapped. On June 4, 2018, she walks out with Evie and calls an Uber to a bus zone. Bryan Crutcher jumps in the back seat. The recording captures everything — including Tara telling her father that police will arrest her for poisoning Steve. Walsh Sr. tells her to come home. Then agrees to conditions he later admits, under oath, he was never genuine about. Tara flies to New York and never returns.",
+      "slug": "the-airport",
+      "date": "June 4, 2018",
+      "act": "IV",
+      "act_name": "The Kidnapping",
+      "tags": [
+        "2018",
+        "Bryan Crutcher",
+        "Custody",
+        "Deception",
+        "Escalation",
+        "Evie",
+        "Family System",
+        "Gavish",
+        "Jesse",
+        "Matan Gavish",
+        "Maura Walsh",
+        "Millennium Tower",
+        "Pre-Planning",
+        "Tara Walsh",
+        "Text Messages",
+        "Uber Recording",
+        "Walsh Sr."
+      ],
+      "ecs": 92,
+      "provenance": [
+        "SWORN",
+        "RECORDINGS",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "ExMM_UBER_04",
+          "LEGAL-CRUTCHER-UBER-SFPD",
+          "DOCX_HYMOWITZ_DISCREPANCIES",
+          "ExA_01",
+          "ExF_01",
+          "ExQQ_01c",
+          "INT-002",
+          "MSG-JESSE-002",
+          "MSG-MATAN-005"
+        ],
+        "primary": [
+          "F-013"
+        ],
+        "secondary": [
+          "ExB_02",
+          "ExMM_UBER_03",
+          "ExMM_UBER_05",
+          "ExTR_19e",
+          "FRAUD-1",
+          "LEGAL-CRUTCHER-DECL",
+          "LEGAL-DVRO-DV100",
+          "MSG-JESSE-001",
+          "MSG-WALSHSR-003",
+          "G-34"
+        ],
+        "tertiary": []
+      },
+      "phase": "IV",
+      "phase_name": "The Kidnapping",
+      "date_context": "2019",
+      "source_posts": [
+        "P35",
+        "P35B",
+        "P36",
+        "P37",
+        "P37B"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B24",
+      "number": 24,
+      "title": "Crabtree's Kittle House",
+      "summary": "The first supervised visit after the emergency order. Steve surrenders California jurisdiction to see his daughter. The grandparents bring Evie to a parking lot in Chappaqua. Maura refuses to let go. Walsh Sr. intervenes. The child calms in her father's arms and cries when she sees her grandmother.",
+      "slug": "crabtrees-kittle-house",
+      "date": "August–September 2018",
+      "act": "V",
+      "act_name": "The Courts",
+      "tags": [
+        "2018",
+        "Abby Tedla",
+        "Chappaqua",
+        "Crabtree's Kittle House",
+        "Custody",
+        "Delia Farquharson",
+        "Evie",
+        "Family System",
+        "Interior Moment",
+        "Jason Advocate",
+        "Jennifer Jackman",
+        "Judge Gordon-Oliver",
+        "Katherine Chestnut",
+        "Kelly Turnure",
+        "Legacy Protection",
+        "Maura Walsh",
+        "Privacy Architecture",
+        "Supervised Visitation",
+        "Tara Knoll",
+        "Walsh Sr.",
+        "Westchester",
+        "Miller Zeiderman"
+      ],
+      "ecs": 88,
+      "provenance": [
+        "AUTHOR",
+        "SWORN",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "EB2_MASTER_019",
+          "EB2_MASTER_020",
+          "EB2_MASTER_001"
+        ],
+        "primary": [
+          "EB2_MASTER_002",
+          "EB2_MASTER_075",
+          "ExL_04",
+          "ExTR_08",
+          "SLE-069",
+          "PHOTO_WALSH_COMPOUND_DRIVEWAY",
+          "ExOO_41"
+        ],
+        "secondary": [
+          "BLOG-002",
+          "BLOG-028",
+          "BLOG-038",
+          "EB1_P007",
+          "EB2_MASTER_008",
+          "EB3_MASTER_004",
+          "EB3_MASTER_043",
+          "EB3_MASTER_068",
+          "ExDD_01",
+          "ExSS_04",
+          "ExTR_08_02",
+          "F-047",
+          "SLE-021",
+          "SLE-027",
+          "SLE-073",
+          "SLE-074",
+          "SLE-081",
+          "SLE-107",
+          "SLE-134",
+          "G-25",
+          "G-27_02"
+        ]
+      },
+      "phase": "V",
+      "phase_name": "The Obstruction",
+      "date_context": "2019–2020",
+      "source_posts": [
+        "P34",
+        "P38",
+        "P39",
+        "P40",
+        "P41",
+        "P41F",
+        "P41G",
+        "P74",
+        "P75"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "character-pass-1",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B25",
+      "number": 25,
+      "title": "A Special Relationship",
+      "summary": "The court appoints a supervisor who promises integrity and transparency. She meets privately with Tara before the first visit, invites her to attend in violation of the court order, dismisses Steve's concerns about being poisoned, and tells him she has a special relationship with the judge. She charges $250 an hour. The judge who appointed her later admits she wanted Steve to die on his own sword.",
+      "slug": "the-special",
+      "date": "October–November 2018",
+      "act": "V",
+      "act_name": "The Courts",
+      "tags": [
+        "2018",
+        "Abby Tedla",
+        "Chappaqua",
+        "Corruption",
+        "Custody",
+        "Delia Farquharson",
+        "Elias Gootzeit",
+        "Evie",
+        "Family System",
+        "Institutional Amplification",
+        "Jason Advocate",
+        "Jennifer Jackman",
+        "Judge Gordon-Oliver",
+        "Katherine Chestnut",
+        "Maura Walsh",
+        "Mount Vernon",
+        "NY Family Court",
+        "Pontius Pilate",
+        "Supervised Visitation",
+        "Tara Knoll",
+        "Walsh Sr.",
+        "Westchester",
+        "Columbia"
+      ],
+      "ecs": 88,
+      "provenance": [
+        "AUTHOR",
+        "SWORN",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "EB2_MASTER_033",
+          "EB2_MASTER_036",
+          "EB2_MASTER_026",
+          "EB2_MASTER_032",
+          "EB2_MASTER_041"
+        ],
+        "primary": [
+          "EB2_MASTER_011",
+          "EB2_MASTER_012",
+          "EB2_MASTER_027",
+          "EB3_MASTER_053",
+          "ExDD_01",
+          "ExDD_02",
+          "ExL_03"
+        ],
+        "secondary": [
+          "CF-014",
+          "DOC-006",
+          "DOC-007",
+          "DOC-008",
+          "DOC-009",
+          "DOC-010",
+          "DOC-011",
+          "DOC-012",
+          "DOC-022",
+          "EB2_MASTER_035",
+          "EB2_MASTER_086",
+          "EB2_MASTER_129",
+          "EB3_MASTER_040",
+          "EB3_MASTER_069",
+          "EB3_MASTER_078",
+          "EB4_MASTER_030",
+          "EB4_MASTER_031",
+          "EB4_MASTER_032",
+          "ExL_03_02",
+          "LEGAL-INQUEST-COURT-FRAMING",
+          "LEGAL-INQUEST-JUDGE-SEMANTICS",
+          "SLE-005",
+          "SLE-006",
+          "SLE-007",
+          "SLE-022",
+          "SLE-025",
+          "SLE-029",
+          "SLE-035",
+          "SLE-069",
+          "SLE-080",
+          "SLE-125",
+          "EB2_MASTER_132"
+        ]
+      },
+      "phase": "V",
+      "phase_name": "The Obstruction",
+      "date_context": "2019",
+      "source_posts": [
+        "P40B"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "character-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B26",
+      "number": 26,
+      "title": "Sixteen Visits",
+      "summary": "Sixteen visits. Five supervisors. Every observer reports the same thing: Steve is attentive, Evie is happy. The supervisors keep changing. The reports keep disappearing. The visits stop for five months. The court grants sole custody anyway.",
+      "slug": "the-visits",
+      "date": "January–September 2019",
+      "act": "V",
+      "act_name": "The Courts",
+      "tags": [
+        "2019",
+        "Chappaqua",
+        "Custody",
+        "Evie",
+        "Institutional",
+        "Supervised Visitation",
+        "Crabtree's Kittle House",
+        "Walsh Sr.",
+        "Nanny Nicole",
+        "Nanny Ashley",
+        "Franceska Anilus",
+        "Horowitz",
+        "First Steps",
+        "Visitation Denial",
+        "Five-Month Gap",
+        "YMCA",
+        "Disappearing Record",
+        "Body Speaks",
+        "Elias Gootzeit",
+        "Delia Farquharson",
+        "Mount Vernon",
+        "Corruption"
+      ],
+      "ecs": 85,
+      "provenance": [
+        "AUTHOR",
+        "COURT RECORDS",
+        "SLE BLOG",
+        "EVIDENCE PHOTOS"
+      ],
+      "evidence": {
+        "hero": [
+          "EB2_MASTER_090",
+          "EB2_MASTER_110",
+          "SLE-065",
+          "EB2_MASTER_131",
+          "ExTR_04"
+        ],
+        "primary": [
+          "ExN_02",
+          "SLE-054",
+          "SLE-059",
+          "SLE-061",
+          "SLE-057",
+          "SLE-051",
+          "EB2_MASTER_001",
+          "EB2_MASTER_027",
+          "EB2_MASTER_057",
+          "EB2_MASTER_132"
+        ],
+        "secondary": [
+          "EB2_MASTER_024",
+          "EB2_MASTER_029",
+          "EB2_MASTER_030",
+          "EB2_MASTER_031",
+          "EB2_MASTER_038",
+          "EB2_MASTER_039",
+          "EB2_MASTER_053",
+          "EB2_MASTER_054",
+          "EB2_MASTER_092",
+          "EB2_MASTER_098",
+          "SLE-008",
+          "SLE-035",
+          "SLE-037",
+          "SLE-055",
+          "SLE-062",
+          "SLE-063",
+          "SLE-065",
+          "SLE-080",
+          "SLE-081",
+          "SLE-125",
+          "SLE-127",
+          "SLE-128",
+          "SLE-129",
+          "SLE-130",
+          "SLE-136",
+          "SLE-139",
+          "SLE-140",
+          "SLE-141",
+          "SLE-142",
+          "EB2_MASTER_070"
+        ],
+        "tertiary": []
+      },
+      "phase": "V",
+      "phase_name": "The Reckoning Begins",
+      "date_context": "2019–2020",
+      "source_posts": [
+        "P41I"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B27",
+      "number": 27,
+      "title": "The Bruises",
+      "summary": "During Visit 15, Steve and two other adults discover bruises on Evie consistent with deliberate injury. Both parents report the bruises as concerning. Tara tells the Attorney for the Child. Steve tells his attorneys, and then the police. Within ten days, the story migrates three times — from concerning to normal to nonexistent — and the court accepts the final version. Months later, Tara's own attorney recuses from the case.",
+      "slug": "the-bruises",
+      "date": "2018–2019",
+      "act": "V",
+      "act_name": "The Courts",
+      "tags": [
+        "2019",
+        "Chappaqua",
+        "Custody",
+        "Evie",
+        "Jennifer Jackman",
+        "John Guttridge",
+        "Maura Walsh",
+        "Franceska Anilus",
+        "Talia Kleiman",
+        "Visit 15",
+        "Steve Walsh Sr.",
+        "Bruises",
+        "Pontius Pilate",
+        "Body Speaks",
+        "Multigenerational",
+        "Guttridge",
+        "Cambareri",
+        "County Attorney",
+        "Maura Deposition",
+        "Forward Evidence"
+      ],
+      "ecs": 88,
+      "provenance": [
+        "AUTHOR",
+        "COURT RECORDS",
+        "SLE",
+        "PHOTOS",
+        "BOOKS",
+        "MAIL"
+      ],
+      "evidence": {
+        "hero": [
+          "ExX_01",
+          "SLE-051-DIAGRAM",
+          "EB2_MASTER_100",
+          "G-2",
+          "EB2_MASTER_087",
+          "SLE-053"
+        ],
+        "primary": [
+          "SLE-054",
+          "EB2_MASTER_101",
+          "ExP_01"
+        ],
+        "secondary": [
+          "C-13",
+          "E-1",
+          "E-3",
+          "E-4",
+          "ExX_03",
+          "EB3_MASTER_056",
+          "EB3_MASTER_057",
+          "EB3_MASTER_058",
+          "EB3_MASTER_059",
+          "SLE-059",
+          "DOC-016",
+          "EB2_MASTER_104",
+          "D-33"
+        ],
+        "tertiary": []
+      },
+      "phase": "V",
+      "phase_name": "The Reckoning Begins",
+      "date_context": "2020–2021",
+      "source_posts": [
+        "P42",
+        "P48D"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "character-pass-1",
+      "merge_type": "light"
+    },
+    {
+      "id": "B28",
+      "number": 28,
+      "title": "The Ambush",
+      "summary": "The last supervised visit ends at dusk. At the gate, a blacked-out SUV. Two men in camouflage. The supervisor who documents what she saw is removed from the case. The judge recuses herself without comment. Steve never sees his daughter again.",
+      "slug": "the-ambush",
+      "date": "September 21, 2019",
+      "act": "V",
+      "act_name": "The Courts",
+      "tags": [
+        "2019",
+        "Brendan Walsh",
+        "Brian Meenan",
+        "Chappaqua",
+        "Claudette LaMelle",
+        "Documentation",
+        "Escalation",
+        "Family System",
+        "Gordon-Oliver",
+        "Guttridge",
+        "La Melle",
+        "Legacy Protection",
+        "Privacy Architecture",
+        "Supervised Visitation",
+        "Sworn Declaration",
+        "Tara Knoll",
+        "Walsh Sr.",
+        "Westchester",
+        "Brendan Deposition",
+        "Forward Evidence",
+        "Moore"
+      ],
+      "ecs": 88,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "ExT_01",
+          "ExMM_07",
+          "E-7",
+          "ExSS_09",
+          "LEGAL-INQUEST-LAMELLE-VISIT",
+          "LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS"
+        ],
+        "primary": [
+          "F-045",
+          "PDF_LETTER_COURT_ABUSE",
+          "PHOTO_WALSH_COMPOUND_DRIVEWAY"
+        ],
+        "secondary": [
+          "D-36",
+          "D-36_02",
+          "DOCX_CHILD_ENDANGERMENT",
+          "DOCX_COURT_MANIPULATION",
+          "LETTER_JACKMAN_BRUISES_DISMISSIVE",
+          "PDF_AFFIRMATION_S_WALSH",
+          "PDF_BRIENNE_SUBPOENA",
+          "PDF_FAMILY_OFFENSE_PETITION",
+          "PDF_NY_FAM_COMPLAINT",
+          "PDF_OCT31_HEARING",
+          "PDF_SUPPLEMENTAL_DVRO",
+          "PDF_TARA_NARRATIVE_HYMOWITZ",
+          "PDF_WALSH_ABUSE_MOTION",
+          "SCREENSHOT_BRENDAN_ABUSIVE_TEXTS",
+          "SLE-018",
+          "TRANSCRIPT_TARA_ATTIC_TESTIMONY"
+        ],
+        "tertiary": []
+      },
+      "phase": "V",
+      "phase_name": "The Reckoning Begins",
+      "date_context": "2020–2021",
+      "source_posts": [
+        "P43",
+        "P44",
+        "P46"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "character-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B29",
+      "number": 29,
+      "title": "The Memo",
+      "summary": "Steve files a detailed memorandum describing the ambush, the supervision manipulation, and the historical abuse inside the Walsh household. The court destabilizes. The judge recuses. The case is reassigned.",
+      "slug": "the-walsh-abuse-memo",
+      "date": "2019",
+      "act": "V",
+      "act_name": "The Courts",
+      "tags": [
+        "2019",
+        "Brienne Walsh",
+        "Institutional",
+        "Judge Gordon-Oliver",
+        "NY Family Court",
+        "Pontius Pilate",
+        "Judge Morales-Horowitz",
+        "Horowitz"
+      ],
+      "ecs": 85,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "QUOTE-TARA-FAMILY-CUSTODY-THREAT",
+          "PDF_WALSH_ABUSE_MOTION_02"
+        ],
+        "primary": [
+          "PDF_WALSH_ABUSE_MOTION_W_EXHIBITS",
+          "ExOO_42",
+          "SCREENSHOT_SGT_CARAWAY_COURT_ORDER",
+          "F-042",
+          "SLE-006",
+          "EB3_MASTER_055",
+          "ExQQ_06"
+        ],
+        "secondary": [
+          "ExU_01",
+          "D-36",
+          "D-36_02",
+          "BADACTS",
+          "PDF_SUPPLEMENTAL_MEMORANDUM"
+        ],
+        "tertiary": [
+          "INT-002",
+          "ExQQ_06_02",
+          "ExOO_42_02"
+        ]
+      },
+      "phase": "V",
+      "phase_name": "The Reckoning Begins",
+      "date_context": "2021",
+      "source_posts": [
+        "P45"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "character-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B30",
+      "number": 30,
+      "title": "Aunt K",
+      "summary": "Kelly Turnure is known through the record. She built the blog, compiled the evidence books, and wrote letters to three judges in three months. She helped Steve win the Ring case. She met Evie and became Aunt K. The system that ignored justice also ignored her. She lost a baby to Chappaqua poison.",
+      "slug": "aunt-k",
+      "date": "2017–2021",
+      "act": "VI",
+      "act_name": "The Pattern",
+      "tags": [
+        "Kelly Turnure",
+        "Aunt K",
+        "StevieLovesEvie",
+        "Letters to Judges",
+        "Ring",
+        "Jamie Siminoff",
+        "Judge Furman",
+        "Judge Davidson",
+        "Judge Egitto",
+        "Evidence Books",
+        "Documentation as Survival",
+        "2017-2021"
+      ],
+      "ecs": 88,
+      "provenance": [
+        "EDITORIAL-REWRITE-SESSION-32",
+        "CORR-003",
+        "CORR-004",
+        "CORR-005",
+        "SLE-010",
+        "EMAIL_1424"
+      ],
+      "evidence": {
+        "hero": [
+          "CORR-TURNURE-FURMAN",
+          "SLE-010",
+          "CORR-TURNURE-EGITTO"
+        ],
+        "primary": [
+          "CORR-TURNURE-DAVIDSON",
+          "EMAIL_1424"
+        ],
+        "secondary": [
+          "SLE-081",
+          "EB2_MASTER_040",
+          "GRAPHIC_AUNT_K_SIGNATURE",
+          "INVESTIGATION_STEAMBOAT_GRIFFIN"
+        ],
+        "tertiary": []
+      },
+      "phase": "VI",
+      "phase_name": "The Reckoning Begins",
+      "date_context": "2021",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "new"
+    },
+    {
+      "id": "B31",
+      "number": 31,
+      "title": "The Reno Bottle",
+      "summary": "They open a bottle of wine from the Potrero Hill years. Both become extremely ill. Kelly is pregnant. She loses the baby. Testing reveals mycophenolic acid — an immunosuppressant for organ transplants — at seven times the normal range. Kelly's levels spike to fourteen times normal, then fall to zero. A single acute poisoning from a bottle that waited on a shelf for months.",
+      "slug": "the-reno-bottle",
+      "date": "December 2019",
+      "act": "VI",
+      "act_name": "The Pattern",
+      "tags": [
+        "2019",
+        "Acute Exposure",
+        "Discovery 4",
+        "Kelly Turnure",
+        "Lab Reports",
+        "Miscarriage",
+        "Mycophenolic Acid",
+        "Poisoning",
+        "Potrero Hill",
+        "Reno",
+        "Tara Walsh",
+        "Toxicology",
+        "Vermont Street",
+        "Wine"
+      ],
+      "ecs": 95,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "LAB-MYCOPHENOLIC-ACID",
+          "EMAIL_9755",
+          "F-033"
+        ],
+        "primary": [
+          "ExI_02"
+        ],
+        "secondary": [
+          "SLE-071",
+          "SLE-102"
+        ]
+      },
+      "phase": "VI",
+      "phase_name": "The Reckoning Begins",
+      "date_context": "2021",
+      "source_posts": [
+        "P47"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B32",
+      "number": 32,
+      "title": "Five O'Clock",
+      "summary": "Kelly undergoes surgery. Steve's attorneys request remote appearance at a visitation conference. At five o'clock the evening before, the court denies the request. He boards an overnight flight. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a five-year order of protection at what was scheduled as a status conference.",
+      "slug": "the-default",
+      "date": "February 6, 2020",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2020",
+        "COVID-19",
+        "Custody",
+        "Default Order",
+        "DiFabio",
+        "Horowitz",
+        "Humphrey",
+        "Institutional Failure",
+        "Kelly Turnure",
+        "Manufacturing Absence",
+        "NY Family Court",
+        "Pontius Pilate",
+        "Revolving Judges",
+        "Tara Walsh",
+        "Westchester"
+      ],
+      "ecs": 85,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "LEGAL-RUSSELL-AFFIDAVIT-DEFAULT",
+          "ExO_01",
+          "B-4_014",
+          "B-7_020",
+          "LEGAL-EGITTO-RESPONSE"
+        ],
+        "primary": [
+          "ExO_04"
+        ],
+        "secondary": [
+          "B-7_019",
+          "ExO_05",
+          "ExR_04",
+          "SLE-026",
+          "SLE-051",
+          "SLE-054",
+          "ExOO_01a",
+          "ExOO_05",
+          "ExOO_31",
+          "ExOO_50",
+          "ExOO_53"
+        ]
+      },
+      "phase": "VII",
+      "phase_name": "The Verdict",
+      "date_context": "2021–2022",
+      "source_posts": [
+        "P48",
+        "P48B",
+        "P48C",
+        "P77"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B33",
+      "number": 33,
+      "title": "Two Defaults",
+      "summary": "Steve seeks a Temporary Order of Protection in New York. The TOP is granted. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. A second default is entered. Judge Humphreys recuses himself.",
+      "slug": "the-double-default",
+      "date": "2020–2021",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2019-2020",
+        "Custody",
+        "Institutional",
+        "Judge Humphreys",
+        "Kelly Turnure",
+        "Max Di Fabio",
+        "NY Family Court",
+        "Two Court Systems",
+        "Pontius Pilate"
+      ],
+      "ecs": 82,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "B-4",
+          "LEGAL-HUMPHREY-RECUSAL",
+          "SLE-005"
+        ],
+        "primary": [
+          "ExTR_03",
+          "B-3",
+          "B-7_02",
+          "DOCX_RUSSELL_AFFIDAVIT",
+          "PDF_DEMAND_PROSECUTION",
+          "SLE-096",
+          "F-051",
+          "ExOO_14"
+        ],
+        "secondary": [
+          "PDF_FOLLOW_THE_MONEY",
+          "PDF_NARRATIVE_TIMELINE",
+          "DOCX_RISKS_GETTING_RICH",
+          "PDF_DV_TRIAL_TRANSCRIPT",
+          "PDF_CARAWAY_OUTLINE",
+          "PDF_SUPPLEMENTAL_MEMORANDUM",
+          "A-1",
+          "A-1_02",
+          "A-1_03",
+          "A-1_04",
+          "A-1_05",
+          "DOCX_CHILD_ENDANGERMENT",
+          "DOCX_NY_DEMAND_PROSECUTION",
+          "PDF_AFFIRMATION_S_WALSH",
+          "PDF_DVRO_EXHIBIT_41",
+          "PDF_FAMILY_OFFENSE_PETITION",
+          "PDF_LETTER_COURT_ABUSE",
+          "PDF_DVRO_W_EXHIBITS",
+          "A-1_06",
+          "PHOTO_BLOODIED_HEAD_CLOSEUP",
+          "SCREENSHOT_SGT_CARAWAY_COURT_ORDER",
+          "SLE-081"
+        ],
+        "tertiary": []
+      },
+      "phase": "VII",
+      "phase_name": "The Verdict",
+      "date_context": "2022",
+      "source_posts": [
+        "P49",
+        "P49B"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "light-new"
+    },
+    {
+      "id": "B34",
+      "number": 34,
+      "title": "Four Discoveries",
+      "summary": "The four poisoning discoveries placed side by side. Lithium in March 2017 — six times normal, no prescription. The Brooklyn night — dissociation, tampered medication, no sample preserved. Abby Tedla's confession — 'she did it all the time.' The Reno bottle — mycophenolic acid at seven times the upper bound, in wine that had been sitting on a shelf for years. What looked like separate incidents becomes a single line drawn across four years and four substances.",
+      "slug": "four-discoveries",
+      "date": "2017–2020",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "Abby Tedla",
+        "Acute Exposure",
+        "Brooklyn",
+        "Dan Ochoa",
+        "Discovery Pattern",
+        "Kelly Turnure",
+        "Lab Reports",
+        "Lithium",
+        "Mycophenolic Acid",
+        "Poisoning",
+        "Potrero Hill",
+        "Reno",
+        "Seroquel",
+        "Synthesis",
+        "Tara Walsh",
+        "Toxicology",
+        "Vermont Street"
+      ],
+      "ecs": 92,
+      "provenance": [
+        "AUTHOR",
+        "LABORATORY",
+        "MEDICAL",
+        "SWORN"
+      ],
+      "evidence": {
+        "hero": [
+          "ExI_02",
+          "LEGAL-TEDLA-DECLARATION",
+          "LAB-MYCOPHENOLIC-ACID",
+          "QUOTE-TARA-CRAZY-TOO-TOGETHER",
+          "ExEMAIL_SEROQUEL_ADMISSION"
+        ],
+        "primary": [],
+        "secondary": [
+          "F-033",
+          "SLE-090",
+          "SLE-102"
+        ],
+        "tertiary": []
+      },
+      "phase": "VII",
+      "phase_name": "The Courts II",
+      "date_context": "2022",
+      "source_posts": [
+        "P50",
+        "P51"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "light"
+    },
+    {
+      "id": "B35",
+      "number": 35,
+      "title": "Equal Threats",
+      "summary": "The case passes to a fourth judge. Schauer vacates the Horowitz default and issues two temporary orders of protection — one against each party. The poisoner and the poisoned are treated as symmetrical threats. Steve tells the court a permanent temporary order does not give him a chance to face his accuser. The court tells him he is muddying the record.",
+      "slug": "equal-threats",
+      "date": "May 19, 2021",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2021",
+        "Battery Trial",
+        "Chappaqua",
+        "DiFabio",
+        "Family System",
+        "Humphrey",
+        "Institutional",
+        "Judge Schauer",
+        "Kelly Turnure",
+        "Linda Russell",
+        "NY Family Court",
+        "Procedural Reset",
+        "Two Court Systems",
+        "Walsh Sr.",
+        "Westchester",
+        "Yonkers"
+      ],
+      "ecs": 78,
+      "provenance": [
+        "AUTHOR",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "ExTR_10_03",
+          "ExTR_09",
+          "ExTR_01"
+        ],
+        "primary": [
+          "ExTR_05_03"
+        ],
+        "secondary": [
+          "F-043"
+        ],
+        "tertiary": []
+      },
+      "phase": "VII",
+      "phase_name": "The Verdict",
+      "date_context": "2022–2023",
+      "source_posts": [
+        "P52",
+        "P53",
+        "P54",
+        "P55",
+        "P56"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-2",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B36",
+      "number": 36,
+      "title": "Grandma's Letter",
+      "summary": "Steve asks the court to let his mother visit Evie instead. Linda Russell — a retired nurse who raised two sons who attended Stanford — drives thirteen hours round trip to Chappaqua. Walsh Sr. turns her away at the door. She persists. She gets the visits. She writes a letter to Judge Schauer documenting what she sees. Kelly publishes it on StevieLovesEvie.com.",
+      "slug": "grandmas-letter",
+      "date": "May–August 2021",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2021",
+        "StevieLovesEvie",
+        "Chappaqua",
+        "Documentation",
+        "Evie",
+        "Kelly Turnure",
+        "Linda Russell",
+        "Punxsutawney",
+        "Walsh Sr.",
+        "Westchester"
+      ],
+      "ecs": 88,
+      "provenance": [
+        "AUTHOR",
+        "SWORN",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "F-060",
+          "SLE-008"
+        ],
+        "primary": [
+          "ExO_06"
+        ],
+        "secondary": [
+          "INT-002",
+          "ExTR_01"
+        ]
+      },
+      "phase": "VII",
+      "phase_name": "The Verdict",
+      "date_context": "2023",
+      "source_posts": [
+        "P57"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B37",
+      "number": 37,
+      "title": "Erase, Deactivate, and Delete",
+      "summary": "Jennifer Jackman resigns as Attorney for the Child without explanation. Her replacement files a motion to suppress all blog content. A visitation conference is converted into a gag order hearing. Steve is declared in default. Judge Schauer orders the blog removed — every post, every photograph, every grandmother's letter. The words are precise. Erase. Deactivate. Delete.",
+      "slug": "erase-deactivate-and-delete",
+      "date": "November 5, 2021",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2021",
+        "StevieLovesEvie",
+        "ChappaquaPoison",
+        "DiFabio",
+        "Documentation",
+        "Donna Genovese",
+        "Gag Order",
+        "Institutional",
+        "Jennifer Jackman",
+        "Judge Schauer",
+        "Kelly Turnure",
+        "Linda Russell",
+        "NY Family Court",
+        "Privacy Inversion",
+        "Prior Restraint",
+        "Yonkers"
+      ],
+      "ecs": 90,
+      "provenance": [
+        "AUTHOR",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "ExTR_02",
+          "ExTR_01"
+        ],
+        "primary": [],
+        "secondary": [
+          "ExL_02",
+          "ExOO_07",
+          "F-043",
+          "ExTR_02_02"
+        ]
+      },
+      "phase": "VII",
+      "phase_name": "The Reckoning",
+      "date_context": "2023",
+      "source_posts": [
+        "P65",
+        "P76"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "light"
+    },
+    {
+      "id": "B38",
+      "number": 38,
+      "title": "Bora Bora",
+      "summary": "His attorney was in the courtroom. He was not. The phone rang after. The voice on the other end sounded beaten. 'Well, that didn't go well.' The orders were final.",
+      "slug": "the-inquest",
+      "date": "January 5, 2022",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2020-2021",
+        "Bora Bora",
+        "Court Transcript",
+        "Custody",
+        "Gag Order",
+        "Institutional",
+        "Interior Moment",
+        "Jason Advocate",
+        "Judge Schauer",
+        "Munchausen Mechanism",
+        "NY Family Court",
+        "Pontius Pilate",
+        "Privacy Inversion"
+      ],
+      "ecs": 82,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "ExTR_10"
+        ],
+        "primary": [
+          "D-12",
+          "ExTR_10_03",
+          "SLE-004",
+          "F-043"
+        ],
+        "secondary": [
+          "D-12_05",
+          "D-12_06",
+          "ExR_02",
+          "F-038",
+          "SLE-002"
+        ],
+        "tertiary": [
+          "INT-002",
+          "D-12_02",
+          "D-12_03",
+          "D-12_04",
+          "ExTR_10_02",
+          "ExTR_10_04",
+          "TEXT_THREAD_TARA_2025_JUN_DEC"
+        ]
+      },
+      "phase": "VII",
+      "phase_name": "The Reckoning",
+      "date_context": "2024–2025",
+      "source_posts": [
+        "P58",
+        "P59",
+        "P60",
+        "P61",
+        "P63"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium-plus"
+    },
+    {
+      "id": "B39",
+      "number": 39,
+      "title": "Orders as Weapons",
+      "summary": "The court orders leave the courthouse. Tara and the Walsh family circulate them to employers, friends, and journalists — presenting them as proof Steve is dangerous. Reporter Michaelanne Petrella receives a direct threat seventeen days before the gag order exists. Walsh Sr. threatens Steve's attorney by voicemail. The SFPD detective investigating the poisoning is neutralized by a court order hand-delivered by a party to the case.",
+      "slug": "the-orders-as-weapons",
+      "date": "November 2021",
+      "act": "VII",
+      "act_name": "The Courts II",
+      "tags": [
+        "2021",
+        "Brendan Walsh",
+        "ChappaquaPoison",
+        "Documentation",
+        "Gag Order",
+        "Institutional",
+        "Narrative Inversion",
+        "Petrella",
+        "Sgt. Caraway",
+        "Walsh Sr.",
+        "Weaponization"
+      ],
+      "ecs": 85,
+      "provenance": [
+        "AUTHOR",
+        "DISCOVERY",
+        "COURT RECORDS"
+      ],
+      "evidence": {
+        "hero": [
+          "ExOO_01",
+          "INT-003_04"
+        ],
+        "primary": [
+          "ExOO_31"
+        ],
+        "secondary": [
+          "SCREENSHOT_SGT_CARAWAY_COURT_ORDER",
+          "ExOO_05",
+          "ExOO_07"
+        ]
+      },
+      "phase": "VII",
+      "phase_name": "The Reckoning",
+      "date_context": "2024–2026",
+      "source_posts": [
+        "P62",
+        "P64"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "light"
+    },
+    {
+      "id": "B40",
+      "number": 40,
+      "title": "We Were Hit",
+      "summary": "Brienne Walsh had been writing about the household for years. Her deposition was taken September 29, 2020. Under oath, she confirmed the abuse. She confirmed the CPS calls. The family screamed at her for testifying. Her testimony was admitted at trial without objection.",
+      "slug": "briennes-account",
+      "date": "September 29, 2020",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2020",
+        "2022",
+        "Brienne Walsh",
+        "Maura Walsh",
+        "Walsh Sr.",
+        "Tara Walsh",
+        "CPS",
+        "Deposition",
+        "ABrieGrowsInBrooklyn",
+        "Sworn Declaration",
+        "Witness Tampering",
+        "Trial",
+        "Two Court Systems",
+        "Multigenerational"
+      ],
+      "ecs": 92,
+      "provenance": [
+        "SWORN",
+        "PUBLIC RECORD",
+        "AUTHOR"
+      ],
+      "evidence": {
+        "hero": [
+          "ExQQ_06",
+          "SLE-042",
+          "ExQQ_04",
+          "ExSS_10",
+          "SLE-028"
+        ],
+        "primary": [
+          "SLE-018",
+          "BLOG-007"
+        ],
+        "secondary": [
+          "ExOO_42",
+          "SLE-020",
+          "SLE-033",
+          "SLE-044",
+          "SLE-049",
+          "SLE-050",
+          "D-8",
+          "D-9_02",
+          "C-7",
+          "C-7_02",
+          "BLOG-001",
+          "BLOG-003",
+          "EMAIL_6432"
+        ]
+      },
+      "phase": "VIII",
+      "phase_name": "The Reckoning",
+      "date_context": "2025–2026",
+      "source_posts": [
+        "P66",
+        "P66B",
+        "P66C",
+        "P66D",
+        "P82"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "heavy"
+    },
+    {
+      "id": "B41",
+      "number": 41,
+      "title": "Less Than Genuine",
+      "summary": "Three years to arrange. Three days to conduct. Four depositions with one attorney. Coached amnesia, privacy walls, prepared performances — and one unguarded moment from the man who married in. \"They were aware of it. They were encouraging it, yeah.\"",
+      "slug": "less-than-genuine",
+      "date": "April 20–26, 2021",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2021",
+        "Walsh Sr.",
+        "Brendan Walsh",
+        "Maura Walsh",
+        "Matan Gavish",
+        "Frank S. Moore",
+        "Joy Llaguno",
+        "Deposition",
+        "Kelly Turnure",
+        "Coached Denial",
+        "Obstruction",
+        "Two Court Systems",
+        "Attorney Destruction"
+      ],
+      "ecs": 92,
+      "provenance": [
+        "SWORN",
+        "PUBLIC RECORD",
+        "AUTHOR"
+      ],
+      "evidence": {
+        "hero": [
+          "ExQQ_02",
+          "ExQQ_01c",
+          "ExQQ_03",
+          "SLE-016",
+          "ExOO_30",
+          "ExOO_26"
+        ],
+        "primary": [
+          "SLE-013",
+          "ExQQ_01",
+          "DEPO_STILLS_BRENDAN_WALSH",
+          "DEPO_STILLS_MAURA_WALSH",
+          "DEPO_STILL_MATAN_GAVISH",
+          "ExOO_31",
+          "ExOO_33",
+          "LEGAL-KIDNAP-MAURA-DEPO-SCREENSHOT"
+        ],
+        "secondary": [
+          "SLE-014",
+          "SLE-015",
+          "ExMM_01",
+          "ExMM_02",
+          "ExMM_03",
+          "ExMM_04",
+          "Clip01",
+          "Clip06",
+          "Clip07",
+          "Clip08",
+          "Clip10",
+          "Clip14",
+          "Clip15",
+          "BLOG-007",
+          "DOC_RICO_WALSH_DEPO_OUTLINE",
+          "VIDEO_DEPO_MATAN_GAVISH",
+          "VIDEO_DEPO_BRENDAN_WALSH",
+          "VIDEO_DEPO_MAURA_WALSH"
+        ],
+        "tertiary": []
+      },
+      "phase": "VIII",
+      "phase_name": "The Reckoning",
+      "date_context": "2021",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "evidence-curated",
+      "merge_type": "none"
+    },
+    {
+      "id": "B42",
+      "number": 42,
+      "title": "The Kidnapping Case",
+      "summary": "CGC-20-588105. Eight causes of action. Eighty-nine register entries. Three rejected defaults. One family gets the benefit of every procedural doubt. The other gets sanctioned four hundred dollars at a time.",
+      "slug": "the-kidnapping-case",
+      "date": "December 2020 – October 2025",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "Walsh Sr.",
+        "Maura Walsh",
+        "Tara Walsh",
+        "Michaela Davies",
+        "RSSB",
+        "Kidnapping Case",
+        "Two-Track System",
+        "Attorney Destruction",
+        "Service Evasion",
+        "Pro Se",
+        "Default"
+      ],
+      "ecs": 92,
+      "provenance": [
+        "COURT RECORDS",
+        "SWORN",
+        "AUTHOR"
+      ],
+      "evidence": {
+        "hero": [
+          "LEGAL-KIDNAP-MAURA-TENNIS-PHOTO",
+          "LEGAL-KIDNAP-SHERIFF-LIE",
+          "LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT",
+          "LEGAL-KIDNAP-COMPLAINT",
+          "LEGAL-KIDNAP-SERVICE-PROOF",
+          "ExOO_34",
+          "LEGAL-KIDNAP-DEFAULT-REJECT",
+          "ExOO_50"
+        ],
+        "primary": [
+          "SLE-024",
+          "SLE-025",
+          "ExOO_31",
+          "ExOO_08",
+          "ExOO_33",
+          "ExOO_32",
+          "SLE-013",
+          "ExKK_01"
+        ],
+        "secondary": [
+          "ExOO_25",
+          "ExOO_27",
+          "ExOO_29",
+          "ExOO_56",
+          "ExKK_02",
+          "ExEE_02",
+          "ExSS_05",
+          "CF-017",
+          "LEGAL-KIDNAP-TARA-JNOV-DECL",
+          "SLE-014",
+          "SLE-015"
+        ],
+        "tertiary": []
+      },
+      "phase": "VIII",
+      "phase_name": "The Reckoning",
+      "date_context": "2020–2025",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "evidence-curated",
+      "merge_type": "none"
+    },
+    {
+      "id": "B43",
+      "number": 43,
+      "title": "The Remnant",
+      "summary": "The Appellate Division, Second Department rules: the default did not occur. The blanket deletion order was not tailored as precisely as possible to the exact needs of the case. 214 A.D.3d 890. Two holdings that dismantle the foundation. The Family Court does not act.",
+      "slug": "the-remnant",
+      "date": "March 22, 2023",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2023",
+        "Gag Order",
+        "NY Appellate Division",
+        "Prior Restraint",
+        "Reversal",
+        "Two Court Systems",
+        "Schauer",
+        "Genovese",
+        "Jason Advocate",
+        "First Amendment",
+        "Default",
+        "Westchester"
+      ],
+      "ecs": 92,
+      "provenance": [
+        "COURT RECORDS",
+        "AUTHOR"
+      ],
+      "evidence": {
+        "hero": [
+          "B-12"
+        ],
+        "primary": [
+          "ExTR_02",
+          "ExTR_01",
+          "SLE-002"
+        ],
+        "secondary": [
+          "ExR_01",
+          "ExR_03",
+          "F-038",
+          "ExOO_40",
+          "SLE-000",
+          "SLE-109"
+        ]
+      },
+      "phase": "VIII",
+      "phase_name": "The Reckoning",
+      "date_context": "2023",
+      "source_posts": [
+        "P67"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B44",
+      "number": 44,
+      "title": "What Twelve People Saw",
+      "summary": "The civil battery case reaches trial in San Francisco Superior Court. A different courtroom. Twelve neutral citizens. Abby Tedla testifies. Brienne's deposition is admitted without objection. The jury hears the full story for the first time.",
+      "slug": "what-twelve-people-saw",
+      "date": "February 16, 2022",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2022",
+        "Abby Tedla",
+        "Brienne Walsh",
+        "Kelly Turnure",
+        "Rashmi",
+        "SF Superior Court",
+        "San Francisco",
+        "Tara Walsh",
+        "Text Messages",
+        "The Proper Hotel",
+        "Trial",
+        "Two Court Systems",
+        "Garrett L. Wong",
+        "Brian D. Waller"
+      ],
+      "ecs": 92,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "B-9_02",
+          "ExQQ_06",
+          "ExTR_19d"
+        ],
+        "primary": [
+          "B-9",
+          "B-9_03",
+          "ExG_01",
+          "SLE-003"
+        ],
+        "secondary": [
+          "D-2",
+          "D-7",
+          "ExOO_29",
+          "SLE-071",
+          "SLE-087",
+          "SLE-088",
+          "SLE-089",
+          "SLE-012",
+          "SLE-144",
+          "SLE-145",
+          "ExOO_42",
+          "TXT_VERDICT_JUDGMENT_EXCERPT",
+          "QUOTE-TARA-CRAZY-TOO-TOGETHER",
+          "F-013"
+        ]
+      },
+      "phase": "VIII",
+      "phase_name": "The Record",
+      "date_context": "2024–2026",
+      "source_posts": [
+        "P68",
+        "P69",
+        "P70"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "medium"
+    },
+    {
+      "id": "B45",
+      "number": 45,
+      "title": "What the Jury Found",
+      "summary": "The verdict: battery, fraud, intentional infliction of emotional distress, domestic violence — with a finding of malice. Eleven to one. Approximately three hundred thousand dollars. The vote was not close.",
+      "slug": "what-the-jury-found",
+      "date": "February 22, 2022",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2022",
+        "SF Superior Court",
+        "Tara Walsh",
+        "Trial",
+        "Two Court Systems",
+        "Garrett L. Wong",
+        "Verdict",
+        "Malice",
+        "Damages"
+      ],
+      "ecs": 95,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "B-9_03",
+          "ExG_01"
+        ],
+        "primary": [
+          "B-9",
+          "B-9_02",
+          "TXT_VERDICT_JUDGMENT_EXCERPT",
+          "D-15",
+          "D-15_02"
+        ],
+        "secondary": [
+          "D-15_03",
+          "SLE-001",
+          "SLE-003",
+          "SLE-145",
+          "ExOO_42",
+          "TEXT_TARA_JURY_VERDICT_DISMISSAL",
+          "F-047",
+          "ExTR_19d"
+        ]
+      },
+      "phase": "VIII",
+      "phase_name": "The Record",
+      "date_context": "2022",
+      "source_posts": [
+        "P73"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B46",
+      "number": 46,
+      "title": "Affirmed",
+      "summary": "Tara appeals the battery verdict. Three arguments. The appellate court finds none of them persuasive. The jury's findings survive review. The judgment is domesticated in the same county where the family court orders remain in effect.",
+      "slug": "the-appeal",
+      "date": "September 15, 2023",
+      "act": "VIII",
+      "act_name": "The Trial",
+      "tags": [
+        "2023",
+        "California Court of Appeal",
+        "First Appellate District",
+        "Two Court Systems",
+        "Westchester",
+        "Full Faith and Credit",
+        "Resolution"
+      ],
+      "ecs": 82,
+      "provenance": [],
+      "evidence": {
+        "hero": [
+          "B-13",
+          "B-10"
+        ],
+        "primary": [
+          "ExG_01",
+          "F-047",
+          "SLE-001"
+        ],
+        "secondary": [
+          "TEXT_TARA_JURY_VERDICT_DISMISSAL",
+          "ExTR_19d"
+        ]
+      },
+      "phase": "VIII",
+      "phase_name": "The Record",
+      "date_context": "2023",
+      "source_posts": [
+        "P71"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B47",
+      "number": 47,
+      "title": "The Record Is Open",
+      "summary": "After the verdict, after the appeal, the story becomes what institutions could not hold — a permanent archive. Five independent archives survived every silencing attempt. In December 2025, a motion arrived in Westchester asking a single question: were the orders that govern a child's life ever lawfully entered?",
+      "slug": "the-record-is-open",
+      "date": "2023–2026",
+      "act": "IX",
+      "act_name": "The Record",
+      "tags": [
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "Archive",
+        "Blog / StevieLovesEvie",
+        "Bowman",
+        "Documentation",
+        "Evidence Books",
+        "Five Archives",
+        "Griffin",
+        "Hugh Jasne",
+        "Motion to Vacate",
+        "Procedural Supremacy",
+        "Resolution",
+        "Schauer",
+        "Westchester",
+        "CASAC",
+        "OASAS",
+        "Forensic Fraud"
+      ],
+      "ecs": 90,
+      "provenance": [
+        "COURT RECORD",
+        "FILED MOTION",
+        "SWORN"
+      ],
+      "evidence": {
+        "hero": [
+          "ExJJ_05",
+          "ExG_01",
+          "SLE-004"
+        ],
+        "primary": [
+          "ExG_05",
+          "F-049",
+          "F-050"
+        ],
+        "secondary": [
+          "ExTR_01",
+          "ExTR_02",
+          "ExCC_01",
+          "ExPP_09",
+          "ExG_06",
+          "B-10",
+          "ExPP_17"
+        ]
+      },
+      "phase": "IX",
+      "phase_name": "The Record",
+      "date_context": "2026",
+      "source_posts": [
+        "P72"
+      ],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none"
+    },
+    {
+      "id": "B48",
+      "number": 48,
+      "title": "The Trap",
+      "summary": "The mechanism that has operated across forty-seven chapters is named. A sleeping photograph sent at midnight with conditions attached. Three layers of the same grammar — court-built, physical, ambient — each converting fatherhood into evidence against the father.",
+      "slug": "the-trap",
+      "date": "2019–2026",
+      "act": "IX",
+      "act_name": "The Record",
+      "tags": [
+        "2019",
+        "2021",
+        "2025",
+        "2026",
+        "Brendan Walsh",
+        "Claudette LaMelle",
+        "Criminalization Architecture",
+        "Evie",
+        "Forced Choice",
+        "Gag Order",
+        "Gordon-Oliver",
+        "Morales-Horowitz",
+        "The Trap",
+        "Second Theater",
+        "Tara Walsh",
+        "Walsh Sr.",
+        "Westchester"
+      ],
+      "ecs": 0,
+      "provenance": [
+        "COURT RECORD",
+        "DISCOVERY",
+        "SWORN",
+        "TEXT MESSAGE"
+      ],
+      "evidence": {
+        "hero": [],
+        "primary": [
+          "TEXT_TARA_EVIE_SLEEPING_GUILT",
+          "TEXT_THREAD_TARA_2025_JUN_DEC",
+          "B-12",
+          "ExT_01",
+          "EB2_MASTER_122",
+          "B-4",
+          "ExTR_04",
+          "TEXT_TARA_SPERM_DONOR_BLOCK",
+          "TEXT_TARA_DEC2025_MATAN_ADMISSION",
+          "F-050"
+        ],
+        "secondary": [
+          "SLE-004",
+          "SLE-036",
+          "SLE-135",
+          "EB2_MASTER_129",
+          "EB3_MASTER_074",
+          "ExL_03_02",
+          "EX_52_GORDON_OLIVER_FILING",
+          "ExTR_04_02",
+          "ExTR_20",
+          "ExTR_20_02",
+          "ExSS_03",
+          "ExSS_09",
+          "LEGAL-INQUEST-LAMELLE-VISIT",
+          "F-043",
+          "B-7",
+          "ExR_01",
+          "D-12"
+        ]
+      },
+      "phase": "IX",
+      "phase_name": "The Record",
+      "date_context": "2025",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none",
+      "beat": 48
+    },
+    {
+      "id": "B49",
+      "number": 49,
+      "title": "The Coward",
+      "summary": "A portrait of Stephen Walsh Sr. built from scenes, not diagnosis. The man who confronted a father in a public roadway but retreated from a five-foot-one nanny. Who arranged the ambush but was not in the car. Whose stammer under oath arrived whenever the questioning approached the truth.",
+      "slug": "the-coward",
+      "date": "2018–2021",
+      "act": "IX",
+      "act_name": "The Record",
+      "tags": [
+        "2018",
+        "2019",
+        "2021",
+        "Chappaqua",
+        "Cowardice",
+        "Evie",
+        "Family System",
+        "Linda Russell",
+        "Tara Walsh",
+        "Walsh Sr.",
+        "Westchester"
+      ],
+      "ecs": 0,
+      "provenance": [
+        "AUTHOR",
+        "SWORN"
+      ],
+      "evidence": {
+        "hero": [],
+        "primary": [
+          "ExQQ_01",
+          "ExQQ_01c",
+          "SLE-053",
+          "LEGAL-WALSHSR-DECL-2021",
+          "EB2_MASTER_075",
+          "PHOTO_WALSH_COMPOUND_DRIVEWAY",
+          "ExOO_31"
+        ],
+        "secondary": [
+          "ExMM_04",
+          "SLE-013",
+          "ExPP_01",
+          "EB3_MASTER_002",
+          "EB3_MASTER_004",
+          "EB3_MASTER_068",
+          "EB4_MASTER_001",
+          "SLE-054",
+          "SLE-051-DIAGRAM",
+          "ExS_03",
+          "LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT",
+          "QUOTE-TARA-LEAVE-COMPOUND"
+        ]
+      },
+      "phase": "IX",
+      "phase_name": "The Record",
+      "date_context": "2021",
+      "source_posts": [],
+      "cross_links": [],
+      "photos": [],
+      "status": "editorial-pass-1",
+      "merge_type": "none",
+      "beat": 49
+    },
+    {
+      "id": "B50",
+      "number": 50,
+      "title": "The Demand",
+      "summary": "After the verdict and the appeal, Tara communicates a new condition — drop the judgment, put money in escrow, stop filing court actions. Contact with Evie becomes conditional on surrendering the legal outcome. When Steve declines, the scheme adapts: forged filings, frozen accounts, threats, displacement.",
+      "slug": "the-demand",
+      "date": "2025",
+      "act": "IX",
+      "act_name": "The Record",
+      "tags": [
+        "2025",
+        "2026",
+        "Criminalization Architecture",
+        "Evie",
+        "Extortion",
+        "Pontius Pilate",
+        "Resolution",
+        "Tara Walsh",
+        "Walsh Sr.",
+        "Westchester"
+      ],
+      "ecs": 85,
+      "provenance": [
+        "DISCOVERY",
+        "SWORN",
+        "TEXT MESSAGE"
+      ],
+      "evidence": {
+        "hero": [
+          "ExOO_54",
+          "F-053"
+        ],
+        "primary": [
+          "ExG_01"
+        ],
+        "secondary": [
+          "ExPP_17",
+          "ExPP_06",
+          "ExPP_13",
+          "B-10"
+        ],
+        "tertiary": []
+      },
+      "phase": "IX",
+      "date_context": "2025",
+      "status": "editorial-pass-1",
+      "beat": 50
+    },
+    {
+      "id": "B51",
+      "number": 51,
+      "title": "For Evie",
+      "summary": "Afterword. A house in the United States. A room that is ready. A brother who knows her name. The door is open.",
+      "slug": "for-evie",
+      "date": "present",
+      "act": "IX",
+      "act_name": "The Record",
+      "tags": [
+        "Closing",
+        "Evie",
+        "Kelly Turnure",
+        "Present",
+        "Simon",
+        "The Fool"
+      ],
+      "ecs": 95,
+      "provenance": [
+        "AUTHOR"
+      ],
+      "evidence": {
+        "hero": [
+          "SLE-054",
+          "F-053"
+        ],
+        "primary": [],
+        "secondary": [
+          "ExG_01",
+          "B-10"
+        ]
+      },
+      "phase": "IX",
+      "date_context": "Present",
+      "status": "editorial-pass-1",
+      "beat": 51
+    },
+    {
+      "id": "B52",
+      "number": 52,
+      "title": "Where Are They Now",
+      "summary": "The system that failed Evie did not dismantle itself. The people who built it were promoted. The institutions that enabled it continued. A note about Bonnie. A note about Steve and Simon.",
+      "slug": "where-are-they-now",
+      "date": "2025-2026",
+      "act": "Afterword",
+      "act_name": "Afterword",
+      "tags": [
+        "Afterword"
+      ],
+      "ecs": 70,
+      "provenance": [],
+      "evidence": {
+        "hero": [],
+        "primary": [
+          "TEXT_THREAD_TARA_2025_JUN_DEC"
+        ],
+        "secondary": [],
+        "tertiary": []
+      },
+      "hidden": false,
+      "phase": "Afterword",
+      "date_context": "2025–2026",
+      "beat": 52
+    },
+    {
+      "id": "B53",
+      "number": 53,
+      "title": "Back Cover",
+      "summary": "Four discoveries. Three substances. Three laboratories. Three years. Every person who saw something was removed. A jury heard the evidence. The child is still in Chappaqua.",
+      "slug": "back-cover",
+      "date": "",
+      "act": "Back Cover",
+      "act_name": "Back Cover",
+      "tags": [
+        "Back Cover"
+      ],
+      "ecs": 70,
+      "provenance": [],
+      "evidence": {
+        "hero": [],
+        "primary": [],
+        "secondary": [],
+        "tertiary": []
+      },
+      "hidden": false,
+      "phase": "Back Cover",
+      "date_context": "",
+      "beat": 53
+    }
+  ],
+  "version": "v3",
+  "architecture": "BLOG_ARCHITECTURE_v4.md",
+  "beat_count": 53
+}

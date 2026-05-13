@@ -1,0 +1,152 @@
+{% extends "base.html" %}
+
+{% block title %}Book | {{ site_title }}{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block head_extra %}
+<style>
+  /* Book Page */
+  .book-page .content-wrapper {
+    max-width: 800px;
+    padding: 0;
+  }
+
+  .book-hero {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 48px;
+  }
+
+  .book-cover-img {
+    max-width: 420px;
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6), 0 2px 12px rgba(0, 0, 0, 0.4);
+  }
+
+  .book-vignette {
+    display: none;
+  }
+
+  .book-info {
+    text-align: center;
+    padding: 0 24px;
+  }
+
+  .book-title {
+    font-family: var(--font-heading);
+    font-size: 42px;
+    font-weight: 700;
+    color: var(--color-aged-document);
+    margin: 0 0 8px 0;
+    letter-spacing: 0.5px;
+  }
+
+  .book-subtitle {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--color-muted-amber);
+    margin: 0 0 32px 0;
+    font-style: italic;
+  }
+
+  .book-edition {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--color-steel);
+    margin: 0 0 24px 0;
+  }
+
+  .book-desc {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.7;
+    color: var(--color-body-text-dark);
+    margin: 0 auto 32px;
+    max-width: 600px;
+  }
+
+  .book-price {
+    font-family: var(--font-ui);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-aged-document);
+    margin: 0 0 24px 0;
+  }
+
+  .gumroad-button {
+    display: none !important;
+  }
+
+  .book-cta {
+    display: inline-block;
+    font-family: var(--font-ui);
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--color-deep-charcoal);
+    background-color: var(--color-muted-amber);
+    border: none;
+    border-radius: 3px;
+    padding: 16px 48px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+  }
+
+  .book-cta:hover {
+    background-color: var(--color-link-hover);
+    transform: translateY(-1px);
+  }
+
+  .book-cta:active {
+    transform: translateY(0);
+  }
+
+  .book-proceeds {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--color-muted-caption);
+    margin: 20px 0 0 0;
+  }
+
+  @media (max-width: 768px) {
+    .book-hero {
+      margin-bottom: 32px;
+    }
+
+    .book-cover-img {
+      max-width: 300px;
+    }
+
+    .book-title {
+      font-size: 32px;
+    }
+
+    .book-subtitle {
+      font-size: 18px;
+    }
+
+    .book-cta {
+      padding: 14px 36px;
+      font-size: 15px;
+    }
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<article class="static-page book-page">
+  <div class="content-wrapper">
+    {{ content|safe }}
+  </div>
+</article>
+{% endblock %}

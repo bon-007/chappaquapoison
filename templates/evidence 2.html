@@ -1,0 +1,800 @@
+{% extends "base.html" %}
+
+{% block title %}Evidence Index | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Searchable catalog of all evidence artifacts referenced across the Chappaqua Poison archive — organized by category, reliability tier, and act with cross-references to related chapters.{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block og_title %}Evidence Index | {{ site_title }}{% endblock %}
+
+{% block og_description %}Catalog of {{ total_files }} evidence files across {{ total_entries }} exhibits: court filings, testimony, medical records, correspondence, and media.{% endblock %}
+
+{% block head_extra %}
+<link rel="stylesheet" href="{{ base_path }}/css/plyr.css">
+<style>
+/* ─── Evidence Page — uses site design tokens from tokens.css ── */
+
+/* Evidence page — tighter line height for table rows */
+.evidence-page {
+  padding: 2rem 0;
+  line-height: 1.4;
+}
+/* Remove base.html link underline borders inside the evidence page */
+.evidence-page a { border-bottom: none; }
+.evidence-header { margin-bottom: 1.5rem; }
+.evidence-title {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-body-text-dark);
+}
+.evidence-subtitle {
+  color: var(--color-muted-caption);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Stats row */
+.evidence-stats {
+  display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem;
+}
+.stat-card {
+  background: var(--color-slate-blue-gray);
+  border: 1px solid var(--color-phase-divider);
+  border-radius: 6px; padding: 0.75rem 1.25rem; text-align: center; min-width: 100px;
+}
+.stat-number {
+  font-size: 1.5rem; font-weight: 700;
+  color: var(--color-muted-amber);
+  font-family: var(--font-heading);
+}
+.stat-label {
+  font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em;
+  color: var(--color-muted-caption);
+  font-family: var(--font-ui);
+}
+
+/* Controls */
+.evidence-controls { margin-bottom: 1.5rem; }
+.evidence-search-input {
+  width: 100%; padding: 0.6rem 1rem;
+  border: 1px solid var(--color-phase-divider);
+  border-radius: 6px; font-size: 0.95rem; margin-bottom: 0.75rem;
+  background: var(--color-code-docket);
+  color: var(--color-body-text-dark);
+  font-family: var(--font-ui);
+}
+.evidence-search-input::placeholder {
+  color: var(--color-steel);
+}
+.evidence-search-input:focus {
+  outline: none;
+  border-color: var(--color-muted-amber);
+  box-shadow: 0 0 0 2px rgba(212, 163, 95, 0.2);
+}
+.filter-group { margin-bottom: 0.5rem; }
+.filter-label {
+  font-size: 0.8rem; font-weight: 600; margin-bottom: 0.3rem;
+  color: var(--color-muted-caption);
+  font-family: var(--font-ui);
+}
+.filter-chips { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.filter-chip {
+  background: var(--color-code-docket);
+  border: 1px solid var(--color-phase-divider);
+  border-radius: 100px; padding: 0.25rem 0.75rem; font-size: 0.78rem;
+  cursor: pointer; transition: all 0.15s;
+  color: var(--color-body-text-dark);
+  font-family: var(--font-ui);
+}
+.filter-chip:hover { border-color: var(--color-muted-amber); }
+.filter-chip.active {
+  background: var(--color-muted-amber); color: var(--color-deep-charcoal);
+  border-color: var(--color-muted-amber);
+  font-weight: 600;
+}
+
+/* Results count */
+.results-count {
+  font-size: 0.85rem; color: var(--color-muted-caption); margin-bottom: 0.75rem;
+  padding: 0.4rem 0; border-bottom: 1px solid var(--color-phase-divider);
+  font-family: var(--font-ui);
+}
+
+/* ─── Sortable Table ─────────────────────────────────────── */
+.evidence-table-wrap { overflow-x: auto; }
+.evidence-table {
+  width: 100%; border-collapse: collapse; font-size: 0.88rem;
+  table-layout: fixed;
+}
+.evidence-table th {
+  text-align: left; padding: 0.6rem 0.75rem;
+  border-bottom: 2px solid var(--color-phase-divider);
+  font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em;
+  color: var(--color-muted-caption); cursor: pointer; user-select: none;
+  white-space: nowrap; position: sticky; top: 0;
+  background: var(--color-deep-charcoal);
+  font-family: var(--font-ui);
+  z-index: 1;
+}
+.evidence-table th:hover { color: var(--color-muted-amber); }
+.evidence-table th .sort-arrow {
+  display: inline-block; width: 0.9em; font-size: 0.7em; margin-left: 0.25em;
+  opacity: 0.3; transition: opacity 0.15s;
+}
+.evidence-table th.sorted .sort-arrow { opacity: 1; }
+.evidence-table th.sorted { color: var(--color-muted-amber); }
+
+.evidence-table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--color-phase-divider);
+  vertical-align: top;
+  color: var(--color-body-text-dark);
+}
+.evidence-table tbody tr { cursor: pointer; transition: background 0.1s; }
+.evidence-table tbody tr:hover { background: rgba(30, 38, 51, 0.7); }
+.evidence-table tbody tr.expanded { background: var(--color-slate-blue-gray); }
+
+/* Column widths — fixed layout so title gets remaining space */
+.col-icon { width: 3.5rem; text-align: center; }
+.col-id { width: 5rem; }
+.col-title { /* takes all remaining space via table-layout:fixed */ }
+.col-category { width: 4.2rem; text-align: center; }
+.col-reliability { width: 4.2rem; text-align: center; }
+
+/* Evidence thumbnails */
+.evidence-thumb {
+  width: 48px; height: 34px; object-fit: cover;
+  border-radius: 2px; display: block; margin: 0 auto;
+  border: 1px solid var(--color-phase-divider);
+  opacity: 0.85; transition: opacity 0.15s;
+}
+tr:hover .evidence-thumb { opacity: 1; }
+/* Fallback icon if no thumbnail */
+.cat-icon { font-size: 1.05rem; opacity: 0.8; }
+
+/* Exhibit ID styling */
+.exhibit-id {
+  font-family: var(--font-mono); font-size: 0.82rem; font-weight: 600;
+  color: var(--color-muted-amber);
+}
+
+/* Title + description preview */
+.title-cell { overflow: hidden; }
+.title-cell .item-title {
+  font-weight: 500; margin-bottom: 0.15rem; color: var(--color-body-text-dark);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.title-cell .item-desc-preview {
+  font-size: 0.8rem; color: var(--color-steel);
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+  overflow: hidden; line-height: 1.35;
+}
+
+/* Category & reliability badges — abbreviated */
+.badge {
+  display: inline-block; font-size: 0.68rem; padding: 0.15rem 0.4rem;
+  border-radius: 3px; white-space: nowrap;
+  font-family: var(--font-ui); line-height: 1.2;
+  font-weight: 600; letter-spacing: 0.02em; cursor: default;
+}
+.badge-category {
+  background: rgba(212, 163, 95, 0.15);
+  color: var(--color-muted-amber);
+  border: 1px solid rgba(212, 163, 95, 0.3);
+}
+.badge-reliability {
+  background: rgba(108, 122, 137, 0.2);
+  color: var(--color-steel);
+  border: 1px solid rgba(108, 122, 137, 0.3);
+}
+
+/* Post cross-reference chips — inline under description */
+.post-chips { display: inline-flex; flex-wrap: wrap; gap: 0.2rem; margin-top: 0.3rem; align-items: center; }
+.post-chips-label {
+  font-size: 0.7rem; color: var(--color-muted-caption); margin-right: 0.15rem;
+  font-family: var(--font-ui); font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.post-chip {
+  font-size: 0.7rem; padding: 0.1rem 0.4rem; border-radius: 3px;
+  background: var(--color-code-docket);
+  color: var(--color-muted-amber);
+  text-decoration: none; white-space: nowrap;
+  border: none;
+}
+.post-chip:hover {
+  background: var(--color-muted-amber); color: var(--color-deep-charcoal);
+  border: none;
+}
+
+/* ─── Expanded Detail Row ────────────────────────────────── */
+.detail-row td {
+  padding: 0;
+  border-bottom: 2px solid var(--color-phase-divider);
+}
+.detail-row { display: none; }
+.detail-row.visible { display: table-row; }
+.detail-panel {
+  padding: 1rem 1.5rem;
+  background: var(--color-slate-blue-gray);
+}
+.detail-panel .detail-desc {
+  font-size: 0.9rem; line-height: 1.5; margin-bottom: 0.75rem;
+  color: var(--color-body-text-dark);
+  font-family: var(--font-body);
+}
+.detail-meta {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.5rem 1.5rem; font-size: 0.82rem; margin-bottom: 0.75rem;
+}
+.detail-meta dt {
+  font-weight: 600; color: var(--color-muted-caption);
+  font-family: var(--font-ui);
+}
+.detail-meta dd { margin: 0 0 0.3rem 0; color: var(--color-body-text-dark); }
+.detail-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.detail-actions a, .detail-actions button {
+  display: inline-flex; align-items: center; gap: 0.3rem;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid var(--color-phase-divider);
+  border-radius: 4px; font-size: 0.82rem; text-decoration: none;
+  color: var(--color-body-text-dark);
+  background: var(--color-code-docket);
+  cursor: pointer; transition: all 0.15s;
+  font-family: var(--font-ui);
+}
+.detail-actions a:hover, .detail-actions button:hover {
+  border-color: var(--color-muted-amber);
+  color: var(--color-muted-amber);
+}
+.related-posts {
+  margin-top: 0.75rem; padding-top: 0.75rem;
+  border-top: 1px solid var(--color-phase-divider);
+}
+.related-posts h4 {
+  font-size: 0.82rem; color: var(--color-muted-caption); margin-bottom: 0.4rem;
+  font-family: var(--font-ui);
+}
+.related-post-link {
+  display: block; font-size: 0.85rem; padding: 0.25rem 0;
+  color: var(--color-muted-amber); text-decoration: none;
+  border: none;
+}
+.related-post-link:hover { text-decoration: underline; }
+
+/* Media player */
+.media-container { margin-top: 0.75rem; max-width: 640px; }
+.play-btn {
+  background: var(--color-muted-amber); color: var(--color-deep-charcoal);
+  border: none; padding: 0.4rem 1rem; border-radius: 4px;
+  cursor: pointer; font-size: 0.85rem; font-weight: 600;
+  font-family: var(--font-ui);
+}
+.play-btn:hover { opacity: 0.9; }
+
+/* Grouped sub-files */
+.sub-files { margin-top: 0.5rem; }
+.sub-files-heading {
+  font-size: 0.82rem; color: var(--color-muted-caption); margin: 0.5rem 0 0.3rem;
+  font-family: var(--font-ui);
+}
+.sub-file-item {
+  display: flex; align-items: center; gap: 0.5rem; padding: 0.3rem 0;
+  font-size: 0.82rem;
+  border-bottom: 1px solid var(--color-phase-divider);
+}
+.sub-file-item:last-child { border-bottom: none; }
+.sub-file-item a {
+  color: var(--color-muted-amber); text-decoration: none; border: none;
+}
+.sub-file-item a:hover { text-decoration: underline; }
+.sub-file-item .sub-file-name {
+  color: var(--color-steel); font-size: 0.75rem;
+}
+
+/* Search prompt — shown when no query */
+.search-prompt {
+  text-align: center; padding: 3rem 1rem; margin: 1rem 0;
+  border: 1px dashed var(--color-phase-divider);
+  border-radius: 8px;
+  background: rgba(30, 38, 51, 0.3);
+}
+.search-prompt-icon { font-size: 2.5rem; margin-bottom: 0.5rem; opacity: 0.5; }
+.search-prompt-text {
+  font-family: var(--font-heading); font-size: 1.2rem;
+  color: var(--color-body-text-dark); margin-bottom: 0.4rem;
+}
+.search-prompt-hint {
+  font-size: 0.88rem; color: var(--color-steel);
+  font-family: var(--font-ui); line-height: 1.5;
+}
+.search-prompt-hint em {
+  color: var(--color-muted-amber); font-style: normal;
+  font-family: var(--font-mono); font-size: 0.85rem;
+  background: var(--color-code-docket); padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+}
+.search-prompt.hidden { display: none; }
+
+/* ─── Mobile ─────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .evidence-page { padding: 1rem 16px; }
+  .evidence-table th.hide-mobile,
+  .evidence-table td.hide-mobile { display: none; }
+  .evidence-table { font-size: 0.82rem; }
+  .evidence-table th, .evidence-table td { padding: 0.4rem 0.5rem; }
+  .col-id { width: 4.5rem; }
+  .detail-meta { grid-template-columns: 1fr; }
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<article class="evidence-page">
+
+    <header class="evidence-header">
+      <h1 class="evidence-title">Evidence Index</h1>
+      <p class="evidence-subtitle">{{ total_entries }} exhibits cataloging {{ total_files }} evidence files referenced across the archive. Search by keyword, exhibit ID, or topic to explore the documentary record.</p>
+    </header>
+
+    <!-- Summary Stats -->
+    <div class="evidence-stats">
+      <div class="stat-card">
+        <div class="stat-number">{{ total_entries }}</div>
+        <div class="stat-label">Exhibits</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">{{ total_files }}</div>
+        <div class="stat-label">Files</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">{{ categories | length }}</div>
+        <div class="stat-label">Categories</div>
+      </div>
+    </div>
+
+    <!-- Controls: Search + Filter Chips -->
+    <div class="evidence-controls">
+      <input type="text" id="evidence-search" class="evidence-search-input"
+             placeholder="Search exhibits by ID, title, or description..."
+             aria-label="Search evidence" />
+
+      <div class="filter-group">
+        <div class="filter-label">Category:</div>
+        <div class="filter-chips">
+          <button class="filter-chip active" data-filter="category" data-value="all" aria-pressed="true">All</button>
+          {% for category in categories %}
+          <button class="filter-chip" data-filter="category" data-value="{{ category }}" aria-pressed="false">{{ category }}</button>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-label">Reliability:</div>
+        <div class="filter-chips">
+          <button class="filter-chip active" data-filter="reliability" data-value="all" aria-pressed="true">All</button>
+          {% for tier in reliability_tiers %}
+          <button class="filter-chip" data-filter="reliability" data-value="{{ tier }}" aria-pressed="false">{{ tier }}</button>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="results-count" id="results-count" style="display:none">Showing {{ total_entries }} of {{ total_entries }} exhibits</div>
+
+    <!-- Search prompt (shown when no query or filter is active) -->
+    <div class="search-prompt" id="search-prompt">
+      <div class="search-prompt-icon">&#128270;</div>
+      <div class="search-prompt-text">Search the evidence archive</div>
+      <div class="search-prompt-hint">Enter an exhibit ID, keyword, or topic — e.g. <em>lithium</em>, <em>deposition</em>, <em>A-1</em>, <em>gag order</em></div>
+    </div>
+
+    <!-- Sortable Evidence Table -->
+    <div class="evidence-table-wrap" style="display:none">
+      <table class="evidence-table" id="evidence-table">
+        <thead>
+          <tr>
+            <th class="col-icon" data-sort="category" title="Sort by category"><span class="sort-arrow">▲</span></th>
+            <th class="col-id" data-sort="id" title="Sort by exhibit ID">Exhibit <span class="sort-arrow">▲</span></th>
+            <th class="col-title" data-sort="title" title="Sort by title">Title / Description <span class="sort-arrow">▲</span></th>
+            <th class="col-category hide-mobile" data-sort="category" title="Sort by category">Cat <span class="sort-arrow">▲</span></th>
+            <th class="col-reliability hide-mobile" data-sort="reliability" title="Sort by reliability tier">Tier <span class="sort-arrow">▲</span></th>
+          </tr>
+        </thead>
+        <tbody id="evidence-tbody">
+          {% for item in evidence_items %}
+          {# ─── Data Row ─── #}
+          <tr class="evidence-row"
+              id="exhibit-{{ item.exhibit_id | slugify }}-{{ loop.index }}"
+              data-category="{{ item.category }}"
+              data-reliability="{{ item.reliability }}"
+              data-phase="{{ item.phase or '' }}"
+              data-type="{{ item.file_type }}"
+              data-posts="{{ item.related_posts | join(',') }}"
+              data-search="{{ item.exhibit_id }} {{ item.title }} {{ item.description }} {{ item.evidence_text_preview | default('') }} {{ item.key_people | default([]) | join(' ') }} {{ item.keywords | default([]) | join(' ') }}"
+              aria-expanded="false">
+            <td class="col-icon">
+              {% if item.thumbnail %}
+              <img class="evidence-thumb" src="{{ base_path }}/{{ item.thumbnail }}" alt="" loading="lazy">
+              {% elif item.category == 'Court Filing' %}
+                <span class="cat-icon" title="Court Filing">&#9878;&#65039;</span>
+              {% elif item.category == 'Court Order / Judgment' %}
+                <span class="cat-icon" title="Court Order / Judgment">&#9878;&#65039;</span>
+              {% elif item.category == 'Sworn Declaration' %}
+                <span class="cat-icon" title="Sworn Declaration">&#128220;</span>
+              {% elif item.category == 'Deposition & Testimony' %}
+                <span class="cat-icon" title="Deposition &amp; Testimony">&#127908;</span>
+              {% elif item.category == 'Correspondence' %}
+                <span class="cat-icon" title="Correspondence">&#9993;&#65039;</span>
+              {% elif item.category == 'Text Message / Chat Record' %}
+                <span class="cat-icon" title="Text Message / Chat Record">&#128172;</span>
+              {% elif item.category == 'Laboratory Analysis' %}
+                <span class="cat-icon" title="Laboratory Analysis">&#129514;</span>
+              {% elif item.category == 'Photograph' %}
+                <span class="cat-icon" title="Photograph">&#128247;</span>
+              {% elif item.category == 'Audio Recording' %}
+                <span class="cat-icon" title="Audio Recording">&#127908;</span>
+              {% elif item.category == 'Video Evidence' %}
+                <span class="cat-icon" title="Video Evidence">&#127916;</span>
+              {% elif item.category == 'Police Report' %}
+                <span class="cat-icon" title="Police Report">&#128110;</span>
+              {% elif item.category == 'Media Coverage' %}
+                <span class="cat-icon" title="Media Coverage">&#128240;</span>
+              {% elif item.category == 'Blog Archive' %}
+                <span class="cat-icon" title="Blog Archive">&#128221;</span>
+              {% elif item.category == 'Author Interview' %}
+                <span class="cat-icon" title="Author Interview">&#127897;&#65039;</span>
+              {% elif item.category == 'Document' %}
+                <span class="cat-icon" title="Document">&#128196;</span>
+              {% else %}
+                <span class="cat-icon" title="{{ item.category }}">&#128206;</span>
+              {% endif %}
+            </td>
+            <td class="col-id"><span class="exhibit-id">{{ item.exhibit_id }}</span></td>
+            <td class="col-title title-cell">
+              <div class="item-title">{{ item.title }}</div>
+              <div class="item-desc-preview">{{ item.description }}</div>
+              {% if item.post_titles %}
+              <div class="post-chips">
+                <span class="post-chips-label">Chapters:</span>
+                {% for pt in item.post_titles %}
+                <a class="post-chip" href="{{ base_path }}/posts/{{ pt.id }}.html" title="{{ pt.title }}">{{ pt.id }}</a>
+                {% endfor %}
+              </div>
+              {% endif %}
+            </td>
+            <td class="col-category hide-mobile"><span class="badge badge-category" title="{{ item.category }}">{% if item.category == 'Correspondence' %}Corr{% elif item.category == 'Court Filing' %}Court{% elif item.category == 'Court Order / Judgment' %}Order{% elif item.category == 'Sworn Declaration' %}Decl{% elif item.category == 'Deposition & Testimony' %}Depo{% elif item.category == 'Laboratory Analysis' %}Lab{% elif item.category == 'Photograph' %}Photo{% elif item.category == 'Audio Recording' %}Audio{% elif item.category == 'Video Evidence' %}Video{% elif item.category == 'Police Report' %}Police{% elif item.category == 'Media Coverage' %}Media{% elif item.category == 'Blog Archive' %}Blog{% elif item.category == 'Text Message / Chat Record' %}Text{% elif item.category == 'Author Interview' %}Intv{% elif item.category == 'Document' %}Doc{% else %}{{ item.category[:5] }}{% endif %}</span></td>
+            <td class="col-reliability hide-mobile"><span class="badge badge-reliability" title="{{ item.reliability }}">{% if item.reliability == 'Court Record' %}Court{% elif item.reliability == 'Documented Record' %}Doc{% elif item.reliability == 'Sworn Under Oath' %}Sworn{% elif item.reliability == 'Media Record' %}Media{% elif item.reliability == 'Published Record' %}Pub{% elif item.reliability == 'Device Backup / Digital Record' %}Device{% elif item.reliability == 'Official Report' %}Official{% elif item.reliability == 'Laboratory Analysis' %}Lab{% elif item.reliability == 'Author Account' %}Author{% elif item.reliability == 'Investigative Record' %}Invest{% else %}{{ item.reliability[:5] }}{% endif %}</span></td>
+          </tr>
+          {# ─── Detail Row (hidden until click) ─── #}
+          <tr class="detail-row" id="detail-{{ item.exhibit_id | slugify }}-{{ loop.index }}">
+            <td colspan="5">
+              <div class="detail-panel">
+                <div class="detail-desc">{{ item.description }}</div>
+
+                <dl class="detail-meta">
+                  <dt>Category</dt><dd>{{ item.category }}</dd>
+                  <dt>Reliability</dt><dd>{{ item.reliability }}</dd>
+                  <dt>Act</dt><dd>{{ item.phase or 'Not assigned' }}</dd>
+                  <dt>File Type</dt><dd>{{ item.file_type | upper }}</dd>
+                  {% if item.original_exhibit_id %}
+                  <dt>Filing ID</dt><dd>{{ item.original_exhibit_id }}</dd>
+                  {% endif %}
+                </dl>
+
+                <div class="detail-actions">
+                  {% if item.file_type == 'virtual' %}
+                  <span style="font-size: 0.82rem; color: var(--color-steel); font-style: italic;">No file — referenced in narrative only</span>
+                  {% else %}
+                  {% set is_external = item.file_path.startswith('http://') or item.file_path.startswith('https://') %}
+                  {% set file_url = item.file_path if is_external else base_path ~ '/' ~ item.file_path %}
+                  {% if item.file_type in ('pdf', 'html', 'docx') %}
+                  <a href="{{ file_url }}" target="_blank" rel="{{ 'noopener noreferrer' if is_external else '' }}">&#128196; {{ 'Visit Source' if is_external else 'View Document' }}</a>
+                  {% elif item.file_type in ('photo', 'jpg') %}
+                  <a href="{{ file_url }}" target="_blank">&#128247; View Image</a>
+                  {% elif item.file_type == 'mp4' %}
+                  <button class="play-btn" data-src="{{ file_url }}" data-player="player-{{ loop.index }}">&#9654; Play Video</button>
+                  {% elif item.file_type == 'm4a' %}
+                  <button class="play-btn" data-src="{{ file_url }}" data-player="player-{{ loop.index }}">&#9654; Play Audio</button>
+                  {% endif %}
+                  {% if not is_external %}
+                  <a href="{{ file_url }}" download>&#11015; Download</a>
+                  {% endif %}
+                  {% endif %}
+                </div>
+
+                {% if item.sub_files and item.sub_files | length > 0 %}
+                <div class="sub-files">
+                  <h4 class="sub-files-heading">Additional Files in This Exhibit:</h4>
+                  {% for sf in item.sub_files %}
+                  <div class="sub-file-item">
+                    <a href="{{ base_path }}/{{ sf.file_path }}" target="_blank">{{ sf.title }}</a>
+                    <span class="sub-file-name">({{ sf.file_path | basename }})</span>
+                  </div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+
+                {% if item.file_type == 'mp4' or item.file_type == 'm4a' %}
+                <div class="media-container" id="player-{{ loop.index }}"></div>
+                {% endif %}
+
+                {% if item.post_titles %}
+                <div class="related-posts">
+                  <h4>Referenced in:</h4>
+                  {% for pt in item.post_titles %}
+                  <a class="related-post-link" href="{{ base_path }}/posts/{{ pt.id }}.html">{{ pt.id }} — {{ pt.title }}</a>
+                  {% endfor %}
+                </div>
+                {% endif %}
+              </div>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+</article>
+
+<script src="{{ base_path }}/js/plyr.min.js"></script>
+<script>
+(function() {
+  'use strict';
+
+  var table = document.getElementById('evidence-table');
+  var tbody = document.getElementById('evidence-tbody');
+  var searchInput = document.getElementById('evidence-search');
+  var resultsCount = document.getElementById('results-count');
+  var searchPrompt = document.getElementById('search-prompt');
+  var tableWrap = document.querySelector('.evidence-table-wrap');
+  var totalEntries = {{ total_entries }};
+  var activePostFilter = null;
+
+  // ─── URL Parameter Parsing ─────────────────────────────
+  (function initFromURL() {
+    var params = new URLSearchParams(window.location.search);
+
+    // ?search=TERM → pre-fill search box and trigger filter
+    var searchParam = params.get('search');
+    if (searchParam) {
+      searchInput.value = searchParam;
+    }
+
+    // ?post=B25 → filter to all items tagged to this post
+    var postParam = params.get('post');
+    if (postParam) {
+      activePostFilter = postParam;
+    }
+
+    // If either param is set, trigger initial filter after a brief delay
+    if (searchParam || postParam) {
+      setTimeout(function() { applyFilters(); }, 50);
+    }
+  })();
+
+  // ─── Row Click → Toggle Detail ────────────────────────
+  tbody.addEventListener('click', function(e) {
+    var row = e.target.closest('.evidence-row');
+    if (!row) return;
+    var detailId = row.id.replace('exhibit-', 'detail-');
+    var detail = document.getElementById(detailId);
+    if (!detail) return;
+
+    var wasExpanded = row.getAttribute('aria-expanded') === 'true';
+
+    // Close all open details
+    tbody.querySelectorAll('.evidence-row[aria-expanded="true"]').forEach(function(r) {
+      r.setAttribute('aria-expanded', 'false');
+      r.classList.remove('expanded');
+    });
+    tbody.querySelectorAll('.detail-row.visible').forEach(function(d) {
+      d.classList.remove('visible');
+    });
+
+    // Toggle this one
+    if (!wasExpanded) {
+      row.setAttribute('aria-expanded', 'true');
+      row.classList.add('expanded');
+      detail.classList.add('visible');
+    }
+  });
+
+  // ─── Lazy Media Player ────────────────────────────────
+  tbody.addEventListener('click', function(e) {
+    var btn = e.target.closest('.play-btn');
+    if (!btn) return;
+    e.stopPropagation();
+    var src = btn.dataset.src;
+    var containerId = btn.dataset.player;
+    var container = document.getElementById(containerId);
+    if (!container || container.dataset.loaded) return;
+
+    var isAudio = src.endsWith('.m4a');
+    var el = document.createElement(isAudio ? 'audio' : 'video');
+    el.setAttribute('controls', '');
+    el.setAttribute('playsinline', '');
+    if (!isAudio) { el.setAttribute('width', '100%'); }
+    var source = document.createElement('source');
+    source.src = src;
+    source.type = isAudio ? 'audio/mp4' : 'video/mp4';
+    el.appendChild(source);
+    container.appendChild(el);
+    container.dataset.loaded = 'true';
+    btn.style.display = 'none';
+
+    if (typeof Plyr !== 'undefined') {
+      new Plyr(el, { controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'fullscreen'] });
+    }
+  });
+
+  // ─── Sorting ──────────────────────────────────────────
+  var currentSort = { col: null, asc: true };
+
+  table.querySelectorAll('thead th[data-sort]').forEach(function(th) {
+    th.addEventListener('click', function() {
+      var col = this.dataset.sort;
+      if (currentSort.col === col) {
+        currentSort.asc = !currentSort.asc;
+      } else {
+        currentSort.col = col;
+        currentSort.asc = true;
+      }
+
+      // Update header visuals
+      table.querySelectorAll('thead th').forEach(function(h) {
+        h.classList.remove('sorted');
+        var arrow = h.querySelector('.sort-arrow');
+        if (arrow) arrow.textContent = '▲';
+      });
+      this.classList.add('sorted');
+      this.querySelector('.sort-arrow').textContent = currentSort.asc ? '▲' : '▼';
+
+      sortTable(col, currentSort.asc);
+    });
+  });
+
+  function sortTable(col, asc) {
+    var rows = Array.from(tbody.querySelectorAll('.evidence-row'));
+    var pairs = rows.map(function(row) {
+      var detail = row.nextElementSibling;
+      return { row: row, detail: detail };
+    });
+
+    pairs.sort(function(a, b) {
+      var va, vb;
+      switch (col) {
+        case 'id':
+          va = a.row.querySelector('.exhibit-id').textContent;
+          vb = b.row.querySelector('.exhibit-id').textContent;
+          break;
+        case 'title':
+          va = a.row.querySelector('.item-title').textContent;
+          vb = b.row.querySelector('.item-title').textContent;
+          break;
+        case 'category':
+          va = a.row.dataset.category || '';
+          vb = b.row.dataset.category || '';
+          break;
+        case 'reliability':
+          va = a.row.dataset.reliability || '';
+          vb = b.row.dataset.reliability || '';
+          break;
+        default:
+          va = ''; vb = '';
+      }
+      if (typeof va === 'string') {
+        var cmp = va.localeCompare(vb, undefined, { numeric: true, sensitivity: 'base' });
+        return asc ? cmp : -cmp;
+      }
+      return 0;
+    });
+
+    var frag = document.createDocumentFragment();
+    pairs.forEach(function(p) {
+      frag.appendChild(p.row);
+      if (p.detail) frag.appendChild(p.detail);
+    });
+    tbody.appendChild(frag);
+  }
+
+  // ─── Filtering ────────────────────────────────────────
+  var activeFilters = { category: 'all', reliability: 'all' };
+
+  document.querySelectorAll('.filter-chip').forEach(function(chip) {
+    chip.addEventListener('click', function() {
+      var filterType = this.dataset.filter;
+      var value = this.dataset.value;
+
+      // Update active state in this group
+      this.closest('.filter-chips').querySelectorAll('.filter-chip').forEach(function(c) {
+        c.classList.remove('active');
+        c.setAttribute('aria-pressed', 'false');
+      });
+      this.classList.add('active');
+      this.setAttribute('aria-pressed', 'true');
+
+      activeFilters[filterType] = value;
+      applyFilters();
+    });
+  });
+
+  // ─── Search ───────────────────────────────────────────
+  var searchTimeout;
+  searchInput.addEventListener('input', function() {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(applyFilters, 200);
+  });
+
+  function applyFilters() {
+    var query = searchInput.value.toLowerCase().trim();
+    var hasActiveFilter = activeFilters.category !== 'all' || activeFilters.reliability !== 'all';
+    var hasQuery = query.length > 0;
+    var hasPostFilter = !!activePostFilter;
+
+    // If nothing typed and no filter active (and no post filter), hide table and show prompt
+    if (!hasQuery && !hasActiveFilter && !hasPostFilter) {
+      tableWrap.style.display = 'none';
+      resultsCount.style.display = 'none';
+      searchPrompt.classList.remove('hidden');
+      tbody.querySelectorAll('.evidence-row').forEach(function(row) {
+        row.style.display = 'none';
+        var detail = row.nextElementSibling;
+        if (detail && detail.classList.contains('detail-row')) {
+          detail.style.display = 'none';
+          detail.classList.remove('visible');
+          row.setAttribute('aria-expanded', 'false');
+          row.classList.remove('expanded');
+        }
+      });
+      return;
+    }
+
+    // Show table, hide prompt
+    tableWrap.style.display = '';
+    resultsCount.style.display = '';
+    searchPrompt.classList.add('hidden');
+
+    var visible = 0;
+
+    tbody.querySelectorAll('.evidence-row').forEach(function(row) {
+      var detail = row.nextElementSibling;
+      var show = true;
+
+      // Post filter (from ?post= URL parameter)
+      if (hasPostFilter) {
+        var rowPosts = (row.dataset.posts || '').split(',');
+        if (rowPosts.indexOf(activePostFilter) === -1) show = false;
+      }
+      // Category filter
+      if (activeFilters.category !== 'all' && row.dataset.category !== activeFilters.category) show = false;
+      // Reliability filter
+      if (activeFilters.reliability !== 'all' && row.dataset.reliability !== activeFilters.reliability) show = false;
+      // Search
+      if (hasQuery && row.dataset.search.toLowerCase().indexOf(query) === -1) show = false;
+
+      row.style.display = show ? '' : 'none';
+      if (detail && detail.classList.contains('detail-row')) {
+        if (!show) {
+          detail.classList.remove('visible');
+          row.setAttribute('aria-expanded', 'false');
+          row.classList.remove('expanded');
+        }
+        detail.style.display = show && detail.classList.contains('visible') ? '' : 'none';
+      }
+      if (show) visible++;
+    });
+
+    if (hasPostFilter) {
+      resultsCount.textContent = 'Showing ' + visible + ' evidence items for chapter ' + activePostFilter;
+    } else {
+      resultsCount.textContent = 'Showing ' + visible + ' of ' + totalEntries + ' exhibits';
+    }
+  }
+
+})();
+</script>
+{% endblock %}
