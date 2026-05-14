@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+
+{% block title %}Contact | {{ site_title }}{% endblock %}
+
+{% block meta_description %}Contact the editor, press office, or legal team at Chappaqua Poison. We respond to interview requests, legal inquiries, press coverage, and general correspondence.{% endblock %}
+
+{% block og_title %}Contact | {{ site_title }}{% endblock %}
+
+{% block og_description %}Contact the editor, press office, or legal team at Chappaqua Poison.{% endblock %}
+
+{% block og_url %}https://chappaquapoison.com/contact{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block head_extra %}
+<style>
+  .contact-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 6rem;
+  }
+
+  .contact-page h1 {
+    font-family: var(--font-heading);
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--color-heading-light);
+    margin-bottom: 1rem;
+    letter-spacing: 0.01em;
+  }
+
+  .contact-intro {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--color-body-text-dark);
+    margin-bottom: 3rem;
+  }
+
+  .contact-channels {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .contact-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 1.8rem 2rem;
+    transition: border-color 0.2s ease;
+  }
+
+  .contact-card:hover {
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .contact-card h2 {
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--color-heading-light);
+    margin: 0 0 0.5rem 0;
+  }
+
+  .contact-card .card-purpose {
+    font-size: 0.92rem;
+    color: var(--color-body-text-dark);
+    opacity: 0.75;
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+  }
+
+  .contact-card .card-email {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 1.05rem;
+    color: var(--color-link-default);
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 1px;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .contact-card .card-email:hover {
+    color: var(--color-link-hover);
+  }
+
+  .contact-note {
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: var(--color-body-text-dark);
+    opacity: 0.65;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding-top: 2rem;
+    margin-top: 1rem;
+  }
+
+  .contact-note p {
+    margin: 0 0 0.8rem 0;
+  }
+
+  @media (min-width: 600px) {
+    .contact-channels {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<article class="contact-page">
+
+  <h1>Contact</h1>
+
+  <p class="contact-intro">Chappaqua Poison is a documentary narrative built on authenticated evidence. We welcome correspondence from journalists, attorneys, advocates, researchers, and anyone with a legitimate interest in the case. All inquiries are read.</p>
+
+  <div class="contact-channels">
+
+    <div class="contact-card">
+      <h2>Editor</h2>
+      <p class="card-purpose">General inquiries, interview requests, corrections, and correspondence about the documentary.</p>
+      <a href="mailto:editor@chappaquapoison.com" class="card-email">editor@chappaquapoison.com</a>
+    </div>
+
+    <div class="contact-card">
+      <h2>Press</h2>
+      <p class="card-purpose">Media inquiries, interview scheduling, background briefings, and access to primary source documents.</p>
+      <a href="mailto:press@chappaquapoison.com" class="card-email">press@chappaquapoison.com</a>
+    </div>
+
+    <div class="contact-card">
+      <h2>Legal</h2>
+      <p class="card-purpose">Legal inquiries, representation offers, civil rights case correspondence, and legal aid referrals.</p>
+      <a href="mailto:legal@chappaquapoison.com" class="card-email">legal@chappaquapoison.com</a>
+    </div>
+
+    <div class="contact-card">
+      <h2>Follow</h2>
+      <p class="card-purpose">Updates on the documentary, the federal case, and new chapters as they publish.</p>
+      <a href="https://chappaquapoison.substack.com" class="card-email" style="border-bottom: none;">Substack</a>
+      &ensp;
+      <a href="https://x.com/ChappaquaPoison" class="card-email" style="border-bottom: none;">X / Twitter</a>
+    </div>
+
+  </div>
+
+  <div class="contact-note">
+    <p>All correspondence is confidential unless otherwise agreed. We do not share contact information with third parties.</p>
+    <p>If you have information relevant to the case — particularly regarding forensic evaluator credentialing, family court procedure in Westchester County, or the individuals documented in this archive — we want to hear from you.</p>
+  </div>
+
+</article>
+{% endblock %}

@@ -25,9 +25,9 @@ The court characterized this order as entered "on default." The father's attorne
 
 ### The Appellate Reversal
 
-On March 22, 2023, the Appellate Division of the Supreme Court of New York, Second Department, [struck the blanket deletion provision as unconstitutional](./evidence.html?search=B-12) in *Matter of Walsh v Russell*, 2023 NY Slip Op 01522.
+On March 22, 2023, the Appellate Division of the Supreme Court of New York, Second Department, [modified the order by narrowing the blanket deletion provision](./evidence.html?search=B-12) and otherwise affirmed insofar as appealed from, in *Matter of Walsh v Russell*, 214 A.D.3d 890 (2d Dep't 2023).
 
-The higher court found three things. First, the order was not entered on default — the father's attorney appeared and participated, making it a contested proceeding. The "default" label was wrong. Second, the blanket requirement to delete all blogs and likenesses was not "tailored as precisely as possible to the exact needs of the case." It was an unconstitutional prior restraint on speech. Third, any narrower restriction could apply only to the father's own blogs that specifically reference the proceedings or disparage the child's relatives, and only with respect to the child's likeness posted in connection with such blogs.
+The higher court found three things. First, the order was not entered on default — the father's attorney appeared and participated at the January 5, 2022 hearing. The "default" label on the court's own signed instrument was wrong. Second, the blanket requirement to delete all blogs and likenesses was not "tailored as precisely as possible to the exact needs of the case." The court modified the order by deleting that provision and substituting a narrower directive. Third, any restriction could apply only to the father's own blogs that specifically reference the proceedings or disparage the child's relatives, and only with respect to the child's likeness posted in connection with such blogs.
 
 The attempt to suppress all speech — including by third parties, agents, and representatives — was rejected.
 
@@ -50,6 +50,20 @@ This book exists because hiding abuse protects abusers, not children. The docume
 Identifying photographs of the child have been voluntarily redacted from this publication. This is not because a court order requires it of this publisher — no valid order does. It is because protecting a child's privacy is the right thing to do.
 
 The documentary record of what happened to this family is public interest material. The child's face is not.
+
+---
+
+## Case Filings
+
+Draft filings in the related litigation are available for public review. These are working drafts subject to revision before filing.
+
+- [Russell v. Schauer — Article 78 Petition (DRAFT)](./docs/filings/Russell_v_Schauer_Bowman_Article78_DRAFT.pdf) — Verified petition under CPLR Article 78 seeking prohibition against Judge Schauer and certiorari review of Support Magistrate Bowman's determinations. Includes full-text exhibit appendix with 15+ authenticated exhibits.
+- [Russell v. Westchester Family Court et al. — Structural Complaint (DRAFT)](./docs/filings/Russell_v_Westchester_Family_Court_3A_DRAFT.pdf) — Federal civil rights complaint under 42 U.S.C. &sect; 1983 and *Ex Parte Young* seeking prospective declaratory and injunctive relief for administrative record integrity violations. Includes full-text exhibit appendix with 12 authenticated exhibits.
+- [Russell v. Chappaqua et al. — Damages Complaint (DRAFT)](./docs/filings/Russell_v_Chappaqua_3B_DRAFT.pdf) — Federal civil rights complaint under 42 U.S.C. &sect; 1983 against the Town of New Castle (*Monell*/*Ricciuti*), three successive Attorneys for the Child (*Tower v. Glover*), and three members of the Walsh family (*Dennis v. Sparks*). 93 paragraphs, 5 counts, 19 prayer items including book protection declarations. Includes full-text exhibit appendix with 30 authenticated exhibits.
+- [ChappaquaPoison: A Documentary Record — Evidence Edition (Exhibit)](./docs/filings/ChappaquaPoison_Evidence_Edition_Exhibit.pdf) — The complete published book in compact 4-up format (138 pages), prepared for filing as a court exhibit. Includes cover page, full text of all 54 chapters with embedded evidence, and certification page. Trade Edition forthcoming Fall 2026.
+- [Download all filings (.zip)](./docs/filings/Russell_Filing_Drafts_April2026.zip)
+
+*Last updated: April 13, 2026.*
 
 ---
 

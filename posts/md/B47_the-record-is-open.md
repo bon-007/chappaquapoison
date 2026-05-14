@@ -191,7 +191,7 @@ Critically, vacatur would not disrupt Evie's day-to-day life. She would remain i
 
 The child's daily life would not be disrupted. The legal fiction propping up that life would be replaced with lawful authority.
 
-Evie was ten. She was born January 27, 2018. The last time she had seen her father she was one and a half — carried by a court-appointed supervisor down a driveway in darkness, toward a car parked behind bushes. Between one and a half and ten lay the entire record of this book. Eight years of gates, orders, silence, documentation, trials, appeals, and still the gate held.
+Evie was eight. She was born January 27, 2018. The last time she had seen her father she was one and a half — carried by a court-appointed supervisor down a driveway in darkness, toward a car parked behind bushes. Between one and a half and eight lay the entire record of this book. Eight years of gates, orders, silence, documentation, trials, appeals, and still the gate held.
 
 ---
 

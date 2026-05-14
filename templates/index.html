@@ -6,6 +6,45 @@
 
 {% block canonical %}{% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}{% endblock %}
 
+{% block head_extra %}  <!-- JSON-LD Book schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "@id": "https://chappaquapoison.com/#book",
+    "name": "Chappaqua Poison",
+    "alternateName": "Chappaqua Poison: An American Tragedy",
+    "author": {
+      "@type": "Person",
+      "name": "Stephen Russell"
+    },
+    "description": "A documentary narrative in {{ post_count }} chapters, built on 2,185 authenticated exhibits from five independent archives. Court documents, laboratory analyses, sworn testimony, text messages, and photographs. Every claim is sourced. Every source is verifiable.",
+    "url": "https://chappaquapoison.com/",
+    "inLanguage": "en",
+    "genre": [
+      "Documentary",
+      "Literary nonfiction",
+      "True crime"
+    ],
+    "numberOfPages": {{ post_count }},
+    "hasPart": [
+{% for post in all_posts_flat %}      {
+        "@type": "Chapter",
+        "position": {{ loop.index }},
+        "name": "{{ post.title | replace('\\', '\\\\') | replace('"', '\\"') | safe }}",
+        "url": "https://chappaquapoison.com/posts/{{ post.id }}.html"
+      }{% if not loop.last %},
+{% endif %}{% endfor %}
+
+    ],
+    "citation": {
+      "@type": "CollectionPage",
+      "@id": "https://chappaquapoison.com/evidence.html#evidence-archive"
+    }
+  }
+  </script>
+{% endblock %}
+
 {% block content %}
 <div class="homepage">
   <!-- Hero Banner with Integrated Purpose Statement -->

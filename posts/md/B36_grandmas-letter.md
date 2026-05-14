@@ -56,7 +56,7 @@ Punxsutawney to Chappaqua was six and a half hours — Interstate 80 across the 
 
 The iPad was waiting on the hotel room bed, already charged, the videos cued and ready to play. She had made the videos herself from the clips she had collected — Evie laughing, Steve's voice off-camera: "Look at me, Ev. I love you." A grandmother who drove six hours was not the same as a father, but a grandmother who showed up mattered. The miles were becoming the argument. She drove.
 
-She rented a hotel room near the town and set it up for the visit. An iPad loaded with videos of Evie and her father — bath time, park walks, the supervised visits that had been documented before the visits stopped. A room where a grandmother could show a five-year-old that her father existed and loved her and had not chosen to disappear.
+She rented a hotel room near the town and set it up for the visit. An iPad loaded with videos of Evie and her father — bath time, park walks, the supervised visits that had been documented before the visits stopped. A room where a grandmother could show a three-year-old that her father existed and loved her and had not chosen to disappear.
 
 On her first trip, she drove to the Walsh compound on Whippoorwill Road. The driveway was long. The house sat back from the road on several wooded acres.
 
@@ -101,7 +101,7 @@ What Linda saw during the visit was not ordinary.
 
 Evie arrived unfed. She was tired. She was crying. Walsh Sr. attributed the crying to Evie not wanting to see her grandmother. The actual cause, Linda observed, was that the child had not been fed.
 
-Evie was not potty trained. She was five. Linda made significant progress in a single day, progress that should have been made a year earlier.
+Evie was not potty trained. She was three. Linda made significant progress in a single day, progress that should have been made a year earlier.
 
 Her shoes were too small. She was not getting regular exercise. She had a facial injury. Walsh said she had fallen.
 

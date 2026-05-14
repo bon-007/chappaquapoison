@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}Timeline Guide | {{ site_title }}{% endblock %}
+
+{% block meta_description %}A guided walkthrough of the timeline of events in the Chappaqua Poison case.{% endblock %}
+
+{% block og_title %}Timeline Guide | {{ site_title }}{% endblock %}
+
+{% block og_description %}A guided walkthrough of the timeline of events.{% endblock %}
+
+{% block og_url %}https://chappaquapoison.com/timeline-guide{% endblock %}
+
+{% block canonical %}<link rel="canonical" href="{{ canonical_url }}">{% endblock %}
+
+{% block content %}
+<article class="static-page timeline-guide-page">
+  <div class="content-wrapper">
+    {{ content|safe }}
+  </div>
+</article>
+{% endblock %}

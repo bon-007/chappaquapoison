@@ -94,6 +94,11 @@
       "id": "S-19",
       "title": "Book",
       "purpose": "Download the complete book as PDF or ePub"
+    },
+    {
+      "id": "S-20",
+      "title": "Contact",
+      "purpose": "Contact channels — editor, press, legal — plus Substack and X/Twitter follow links."
     }
   ],
   "posts": [

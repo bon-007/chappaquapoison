@@ -6,8 +6,18 @@
   <meta name="description" content="{% block meta_description %}Chappaqua Poison — A documentary narrative in 54 chapters, built on 2,185 authenticated exhibits, reconstructing a poisoning, a custody abduction, and the institutions that punished everyone who tried to stop it.{% endblock %}">
   <meta property="og:title" content="{% block og_title %}{{ site_title }}{% endblock %}">
   <meta property="og:description" content="{% block og_description %}54 chapters. 2,185 exhibits. A live federal case. A jury verdict of malice.{% endblock %}">
-  <meta property="og:image" content="{% block og_image %}{{ base_path }}/images/og-banner.png{% endblock %}">
+  <meta property="og:image" content="{% block og_image %}https://chappaquapoison.com/images/og-banner.png{% endblock %}">
   <meta property="og:type" content="{% block og_type %}website{% endblock %}">
+  <meta property="og:url" content="{% block og_url %}{{ canonical_url or 'https://chappaquapoison.com' }}{% endblock %}">
+  <meta property="og:site_name" content="Chappaqua Poison">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@ChappaquaPoison">
+  <meta name="twitter:title" content="{% block twitter_title %}{{ self.og_title() }}{% endblock %}">
+  <meta name="twitter:description" content="{% block twitter_description %}{{ self.og_description() }}{% endblock %}">
+  <meta name="twitter:image" content="{% block twitter_image %}{{ self.og_image() }}{% endblock %}">
+
   <meta name="theme-color" content="#0F1116">
   <meta name="color-scheme" content="dark">
 
@@ -304,6 +314,7 @@
           <li><a href="{{ base_path }}/evidence.html"{% if active_nav == 'evidence' %} class="nav-active"{% endif %}>Evidence</a></li>
           <li><a href="{{ base_path }}/book.html"{% if active_nav == 'book' %} class="nav-active"{% endif %}>Book</a></li>
           <li><a href="{{ base_path }}/legal.html"{% if active_nav == 'legal' %} class="nav-active"{% endif %}>Legal</a></li>
+          <li><a href="{{ base_path }}/contact.html"{% if active_nav == 'contact' %} class="nav-active"{% endif %}>Contact</a></li>
           <li><a href="{{ base_path }}/search.html"{% if active_nav == 'search' %} class="nav-active"{% endif %}>Search</a></li>
         </ul>
       </nav>

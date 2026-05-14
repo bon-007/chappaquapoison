@@ -63,6 +63,7 @@ STATIC_PAGES_MAP = {
     'S-17': 'characters.html',
     'S-18': 'legal.html',
     'S-19': 'book.html',
+    'S-20': 'contact.html',
 }
 
 def load_json_file(filepath):
@@ -529,7 +530,7 @@ def render_post_html(post, template_env, all_posts, tokens, banners_dir, nav_map
             for eid in tier_list:
                 entry = eid_lookup.get(eid, {})
                 rel_path = entry.get('rel_path', '')
-                file_path = f"evidence/{rel_path}" if rel_path else ''
+                file_path = f"Evidence/{rel_path}" if rel_path else ''
                 item_data = {
                     'exhibit_id': eid,
                     'title': entry.get('title', eid.replace('_', ' '))[:80],
@@ -559,7 +560,7 @@ def render_post_html(post, template_env, all_posts, tokens, banners_dir, nav_map
                     source_data = {
                         'exhibit_id': source_eid,
                         'title': source_entry.get('title', source_eid.replace('_', ' '))[:80],
-                        'file_path': f"evidence/{rel_path}" if rel_path else '',
+                        'file_path': f"Evidence/{rel_path}" if rel_path else '',
                         'tier': 'primary',
                         'category': source_entry.get('category', ''),
                         'reliability': source_entry.get('reliability', 'Documented Record'),
@@ -745,7 +746,7 @@ def load_evidence_registry(registry_path):
         # Suppress file links for entries flagged as missing
         file_missing = entry.get('file_missing', False)
         rel_path = entry.get('rel_path', '')
-        file_path = '' if file_missing else (f"evidence/{rel_path}" if rel_path else '')
+        file_path = '' if file_missing else (f"Evidence/{rel_path}" if rel_path else '')
         item = {
             'exhibit_id': entry.get('exhibit_id', ''),
             'original_exhibit_id': entry.get('original_exhibit_id', ''),
@@ -1137,7 +1138,7 @@ def main():
             # Build file-path lookup (matches evidence_metadata.json's old keying)
             rel_path = entry.get('rel_path', '')
             if rel_path:
-                fpath_key = f"evidence/{rel_path}"
+                fpath_key = f"Evidence/{rel_path}"
                 evidence_registry[fpath_key] = entry
             # Also key by just filename for fallback
             fname = entry.get('filename', '')
@@ -1241,7 +1242,7 @@ def main():
     print("7. Rendering static pages...")
     static_count = 0
     # Pages with dedicated templates (filename minus .html)
-    DEDICATED_TEMPLATES = {'methodology.html', 'about.html', 'timeline.html', 'evidence.html', 'public-record-notice.html', 'falsifiability.html', 'how-to-read.html', 'search.html', 'timeline-guide.html', 'characters.html', 'legal.html', 'book.html'}
+    DEDICATED_TEMPLATES = {'methodology.html', 'about.html', 'timeline.html', 'evidence.html', 'public-record-notice.html', 'falsifiability.html', 'how-to-read.html', 'search.html', 'timeline-guide.html', 'characters.html', 'legal.html', 'book.html', 'contact.html'}
 
     # Map filenames to active_nav identifiers for header highlighting
     ACTIVE_NAV_MAP = {
@@ -1257,6 +1258,7 @@ def main():
         'characters.html': 'about',
         'legal.html': 'legal',
         'book.html': 'book',
+        'contact.html': 'contact',
     }
 
     for static_page in static_pages:

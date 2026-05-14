@@ -11,6 +11,33 @@
 {% block og_description %}Catalog of {{ total_files }} evidence files across {{ total_entries }} exhibits: court filings, testimony, medical records, correspondence, and media.{% endblock %}
 
 {% block head_extra %}
+  <!-- JSON-LD CollectionPage schema (declares this as part of the Book) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": "https://chappaquapoison.com/evidence.html#evidence-archive",
+    "name": "Documentary Evidence — Chappaqua Poison",
+    "description": "The authenticated exhibits supporting the 54-chapter narrative of Chappaqua Poison. Each exhibit is referenced from one or more chapters. 2,185 documents from five independent archives: court filings, sworn testimony, medical records, correspondence, and media.",
+    "url": "https://chappaquapoison.com/evidence.html",
+    "inLanguage": "en",
+    "isPartOf": {
+      "@type": "Book",
+      "@id": "https://chappaquapoison.com/#book",
+      "name": "Chappaqua Poison",
+      "url": "https://chappaquapoison.com/"
+    },
+    "about": {
+      "@type": "Book",
+      "@id": "https://chappaquapoison.com/#book"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Chappaqua Poison",
+      "url": "https://chappaquapoison.com/"
+    }
+  }
+  </script>
 <link rel="stylesheet" href="{{ base_path }}/css/plyr.css">
 <style>
 /* ─── Evidence Page — uses site design tokens from tokens.css ── */
