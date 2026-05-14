@@ -6,6 +6,7 @@ Reads posts.json and scans _site/tags/ to generate a complete sitemap.xml
 covering all posts, static pages, tag pages, and special pages.
 """
 
+import datetime as _dt
 import json
 import os
 import re
@@ -17,24 +18,31 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 # Only pages with real content are included in the sitemap.
 # Thin/empty pages are excluded until populated.
 STATIC_PAGES = {
-    'S-2': 'about',
-    'S-4': 'methodology',
-    'S-5': 'timeline',
+    'S-2':  'about',
+    'S-3':  'how-to-read',
+    'S-4':  'methodology',
+    'S-5':  'timeline',
+    'S-6':  'evidence',
     'S-10': 'falsifiability',
     'S-11': 'public-record-notice',
-    # EXCLUDED (thin/empty stubs — add back when populated):
-    # 'S-3': 'how-to-read',
-    # 'S-6': 'evidence',
-    # 'S-7': 'people',
-    # 'S-8': 'cases',
-    # 'S-9': 'patterns',
-    # 'S-12': 'audit-log',
-    # 'S-13': 'ten-documents',
-    # 'S-14': 'public-record-inventory',
+    'S-16': 'timeline-guide',
+    'S-17': 'characters',
+    'S-18': 'legal',
+    'S-19': 'book',
+    'S-20': 'contact',
+    # EXCLUDED:
+    # 'S-7':  'people',                   — stub, not populated
+    # 'S-8':  'cases',                    — stub
+    # 'S-9':  'patterns',                 — stub
+    # 'S-12': 'audit-log',                — internal/admin
+    # 'S-13': 'ten-documents',            — stub
+    # 'S-14': 'public-record-inventory',  — stub
+    # 'S-15': 'search',                   — utility page, no content to index
 }
 
 SITE_URL = os.environ.get('SITE_URL', 'https://chappaquapoison.com')
-LASTMOD_DATE = '2026-02-15'
+# Use today's date as lastmod so Google sees a fresh signal each deploy.
+LASTMOD_DATE = _dt.date.today().isoformat()
 
 def slugify(text):
     """Convert text to URL-friendly slug."""

@@ -21,6 +21,10 @@ echo ""
 echo "→ Running build_html.py..."
 python3 scripts/build_html.py
 
+# 1b. Regenerate sitemap.xml (must run after build_html.py so _site/tags/ exists for tag enumeration)
+echo "→ Running generate_sitemap.py..."
+python3 scripts/generate_sitemap.py
+
 # 2. Verify Evidence/ was copied into _site/
 if [ ! -d "_site/Evidence" ]; then
     echo "⚠ _site/Evidence/ missing — build script should copy it"
