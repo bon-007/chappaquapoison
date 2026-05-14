@@ -1,7 +1,41 @@
+# Chappaqua Poison — robots.txt
+# Documentary archive. Indexed everywhere.
+
+# Universal allow
 User-agent: *
 Allow: /
+Disallow: /search
+
+# Major AI crawlers — explicit consent
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Content-Signal directive (forward-looking AI-consent format)
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
+# Sitemap
 Sitemap: https://chappaquapoison.com/sitemap.xml
 
-# AI crawlers: see also https://chappaquapoison.com/llms.txt
+# Detailed site metadata for AI assistants
+# See: https://chappaquapoison.com/llms.txt
