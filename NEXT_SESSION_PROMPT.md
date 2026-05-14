@@ -1,8 +1,10 @@
 # Next Session Instructions
 
-**Date:** May 13, 2026 (for next session after pipeline recovery)
-**Session:** post-recovery, holding until substantive content work warrants deploy
-**STATUS: PIPELINE RECOVERED FROM DRIVE EVENT. Source brought into byte-level consistency with deployed live site (chappaquapoison.com). 23 of 26 sampled built pages now byte-identical to live; remaining 3 reflect user's pending intentional edits (Don Ackerman tag rename, 48 act_name renames, B48 ECS) that await next deploy. Premise: live is canonical, pipeline is the measuring instrument, NO DEPLOY until substantive content work warrants it. Source committed at `4ca09ca`.**
+**Date:** May 14, 2026 (next session after honeypot deployment)
+**Session:** honeypot live, pipeline recovered, holding for substantive content work
+**STATUS: HONEYPOT LIVE AT chappaquapoison.com.** Worker v6 deployed; WAF skip rule in place; bait + slow-404 paths confirmed via smoke test; R2 logging operational at evidence quality. Records writing to `chappaquapoison-logs` bucket at `scanner-probes/` and `logs/<date>/scanner*/`. **Phase C deferred — generate 25 canary tokens at canarytokens.org and swap placeholders in `worker_v6.js` `generateBaitEnv()` then redeploy.** See `/Users/s/Claude/_pipeline_audit_backup_2026-05-13/HONEYPOT_ARCHITECTURE.md` for full architecture, path lists, R2 schema, sample record, query examples.
+
+**Pipeline recovery status (from prior session, still current):** PIPELINE RECOVERED FROM DRIVE EVENT. Source brought into byte-level consistency with deployed live site (chappaquapoison.com). 23 of 26 sampled built pages now byte-identical to live; remaining 3 reflect user's pending intentional edits (Don Ackerman tag rename, 48 act_name renames, B48 ECS) that await next deploy. Premise: live is canonical, pipeline is the measuring instrument, NO DEPLOY until substantive content work warrants it. Source committed at `4ca09ca`.**
 
 **Read first if you're picking this up:**
 1. `/Users/s/Claude/_pipeline_audit_backup_2026-05-13/PIPELINE_CONSISTENCY_STATE.md` — full inventory of what was reconciled, what's preserved, what's pending, plus the one-command recipe to re-verify consistency
