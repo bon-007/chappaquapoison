@@ -1,6 +1,6 @@
 # CHAPPAQUA POISON — Full Site Markdown
 
-Generated: 2026-04-12 07:07
+Generated: 2026-06-28 03:17
 
 ---
 
@@ -311,7 +311,7 @@ She adjusted the animal against her shoulder and smiled apologetically.
   <img src="../Evidence/photos/evidence/PHOTO_TARA_BOAT_RILEY_RED_DRESS.jpg" alt="Tara Walsh on a Sea Ray boat on the Hudson River, red-and-white striped dress, holding Riley the chihuahua against her chest, sunglasses, hair blowing in the wind" loading="lazy">
   <div class="photo-card-caption">
     <span class="embed-exhibit-id">The girl on the boat, Summer 2015</span>
-    <span class="embed-caption-text">The Sea Ray on the Hudson. Evie's Story Book 1, Kelly Turnure.</span>
+    <span class="embed-caption-text">The Sea Ray on the Hudson. Evie's Story Book 1, Aunt K.</span>
   </div>
 </div>
 
@@ -381,7 +381,7 @@ She explained that the bags were manufactured in China through a contact her fri
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">The handbag business. Tara Knoll: hidden compartments</span>
-    <span class="embed-caption-text">StevieLovesEvie — Kelly Turnure's evidence archive.</span>
+    <span class="embed-caption-text">StevieLovesEvie — Aunt K's evidence archive.</span>
   </div>
 </div>
 
@@ -449,7 +449,7 @@ He said yes.
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">Mom and Dad meet on a boat on the Hudson River</span>
-    <span class="embed-caption-text">StevieLovesEvie — Kelly Turnure's evidence archive. Years later, she would document this afternoon for a child who was not yet born.</span>
+    <span class="embed-caption-text">StevieLovesEvie — Aunt K's evidence archive. Years later, she would document this afternoon for a child who was not yet born.</span>
   </div>
 </div>
 
@@ -1366,9 +1366,9 @@ Steve watched it once. He watched it again. He closed the video. He didn't watch
 
 Days passed. He was living his life again, or trying to. He went to work. He went to dinners. He had met someone.
 
-Her name was Kelly.
+Her name was Aunt K.
 
-He had met her after the breakup, at The Battery, a private club in San Francisco where the tech world gathered in a building that looked like it belonged to an earlier century. A man named Adeo Ressi had been talking to her, too forward, too persistent, the kind of attention that fills the space around a woman and makes everyone nearby uncomfortable without anyone doing anything about it. Steve walked over and started talking to her. Not to Adeo. To her. The conversation shifted. Adeo drifted. Kelly stayed.
+He had met her after the breakup, at The Battery, a private club in San Francisco where the tech world gathered in a building that looked like it belonged to an earlier century. A man named Adeo Ressi had been talking to her, too forward, too persistent, the kind of attention that fills the space around a woman and makes everyone nearby uncomfortable without anyone doing anything about it. Steve walked over and started talking to her. Not to Adeo. To her. The conversation shifted. Adeo drifted. Aunt K stayed.
 
 She was smart and warm and direct in the way that people are direct when they don't have anything to hide. She had a quality Steve recognized from his own work: she organized information naturally, saw patterns in noise, assembled complex things into clear structures. It was the kind of mind that builds things.
 
@@ -1382,13 +1382,13 @@ Tara sent it by text, a photograph of a document confirming pregnancy, dated, si
 
 She was pregnant.
 
-He called Kelly.
+He called Aunt K.
 
-He told her the truth: that his ex-girlfriend was pregnant, that the baby was his, that he didn't know what this meant but he knew it meant something. Kelly listened. She didn't say much. The call ended the way calls end when someone is processing something that doesn't have a response.
+He told her the truth: that his ex-girlfriend was pregnant, that the baby was his, that he didn't know what this meant but he knew it meant something. Aunt K listened. She didn't say much. The call ended the way calls end when someone is processing something that doesn't have a response.
 
 He ghosted her.
 
-He didn't mean to. Or he didn't mean to permanently. But the pregnancy changed the geometry of everything, and the geometry of Kelly — the simplicity of it, the cleanness — suddenly didn't fit the shape of what his life was becoming.
+He didn't mean to. Or he didn't mean to permanently. But the pregnancy changed the geometry of everything, and the geometry of Aunt K — the simplicity of it, the cleanness — suddenly didn't fit the shape of what his life was becoming.
 
 ---
 
@@ -1424,7 +1424,7 @@ He told Tara he would support her. He told her he would be a father. He did not 
 
 He flew her back to New York.
 
-He sat in the apartment on Vermont Street and looked at the ultrasound printout, the small gray shape with the visible heartbeat, and he did not call Kelly and he did not call Tara and he sat with the image until the fog came in over the hill and the room went dark.
+He sat in the apartment on Vermont Street and looked at the ultrasound printout, the small gray shape with the visible heartbeat, and he did not call Aunt K and he did not call Tara and he sat with the image until the fog came in over the hill and the room went dark.
 
 ---
 
@@ -1693,11 +1693,11 @@ A jury of twelve would eventually agree.
 
 # [B10] The Builder
 
-> He leaves New York. Gets a driver. Returns to work. Ring is growing — Kleiner money, Ukraine team producing, Amazon watching. Jamie wants more than Steve can give. Prism gets caught in the middle. He meets a woman named Kelly at a ranch that used to belong to the painter of cottages. For a while, life is normal. Then two catastrophes collide.
+> He leaves New York. Gets a driver. Returns to work. Ring is growing — Kleiner money, Ukraine team producing, Amazon watching. Jamie wants more than Steve can give. Prism gets caught in the middle. He meets a woman named Aunt K at a ranch that used to belong to the painter of cottages. For a while, life is normal. Then two catastrophes collide.
 
 **Phase I | The Fool | Late Summer 2017 – Summer 2018 | ECS 75**
 
-Tags: 2017, Bryan Crutcher, Jamie Siminoff, Kelly Turnure, Kinkade Ranch, Privacy Inversion, San Francisco, The Fool, Tom LaFreniere
+Tags: 2017, Bryan Crutcher, Jamie Siminoff, Aunt K, Kinkade Ranch, Privacy Inversion, San Francisco, The Fool, Tom LaFreniere
 
 Evidence: 4 exhibits
   - hero
@@ -1805,7 +1805,7 @@ He had built the system. The system had been taken. He would build another one.
 
 ---
 
-Sometime after the Brooklyn hospital, after the house on Vermont Street had stopped feeling like a crisis center and started feeling like a house again, Steve saw Kelly.
+Sometime after the Brooklyn hospital, after the house on Vermont Street had stopped feeling like a crisis center and started feeling like a house again, Steve saw Aunt K.
 
 A tech event in March 2018, hosted by a VC firm in the Financial District. The kind of evening where people stood in small groups and talked about companies and funding and the weather in San Francisco, which never changed and which everyone discussed as if it might. She was there. He was there. She looked at him the way someone looks at a person they remember liking but who had disappeared without explanation.
 
@@ -1819,7 +1819,7 @@ They started spending time together. She helped with the Ring case: the legal fi
 
 One weekend she took him to a ranch in the hills south of the city. The property had once belonged to Thomas Kinkade, the painter of cottages, the man who had made a fortune painting light coming through windows in a way that made millions of Americans feel something they couldn't name. Kinkade was dead. The ranch remained. Horses stood in the golden grass. The hills rolled away in every direction.
 
-They walked along a fence line. Kelly's hand was in his. The afternoon was warm and still and entirely normal in a way that nothing in his life had been normal for a very long time. The horses shifted their weight at the fence, the leather of their harnesses creaking softly, and the dry California hay smell rose from their breath and their necks and the ground itself.
+They walked along a fence line. Aunt K's hand was in his. The afternoon was warm and still and entirely normal in a way that nothing in his life had been normal for a very long time. The horses shifted their weight at the fence, the leather of their harnesses creaking softly, and the dry California hay smell rose from their breath and their necks and the ground itself.
 
 "This is nice," he said.
 
@@ -1835,7 +1835,7 @@ On July 6, 2018, Steve sent an email to Jamie.
 
 Two catastrophes in one sentence. The business partner he was suing for destroying his company. The mother of his child, who had been discovered drugging him and had fled with their daughter. Both relationships had promised something, success, family, and both had ended in betrayal that Steve described with the same flatness, the same absence of self-pity, the same tone of a man reporting facts he cannot change.
 
-The complaint against Ring would settle in early 2019. Kelly helped build it. Fourteen counts. LA Superior Court. The first legal win — and the first evidence that the Steve-Kelly partnership could produce something that worked.
+The complaint against Ring would settle in early 2019. Aunt K helped build it. Fourteen counts. LA Superior Court. The first legal win — and the first evidence that the Steve-Aunt K partnership could produce something that worked.
 
 The fog kept its schedule. The house on Vermont Street held its ground.
 
@@ -2092,7 +2092,7 @@ He had chosen the name months earlier. Evelyn, from the Irish, *aibhilín*, the 
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">Evie is born, January 27, 2018</span>
-    <span class="embed-caption-text">Emergency C-section. The medical record beneath the human one. StevieLovesEvie, Kelly Turnure.</span>
+    <span class="embed-caption-text">Emergency C-section. The medical record beneath the human one. StevieLovesEvie, Aunt K.</span>
   </div>
 </div>
 
@@ -2163,11 +2163,11 @@ The same wrongness. The same loosening of edges. The same heat that shouldn't ha
   </div>
   <div class="embed-body">
     <div class="document-text">
-      <p>Comprehensive drugging summary from the case file, sent to Kelly Turnure. Documents the pattern of medication administration — not a single incident but a system. The Adderall at the hospital was one node in a network that included Seroquel, Ativan, and substances Steve could not identify.</p>
+      <p>Comprehensive drugging summary from the case file, sent to Aunt K. Documents the pattern of medication administration — not a single incident but a system. The Adderall at the hospital was one node in a network that included Seroquel, Ativan, and substances Steve could not identify.</p>
     </div>
   </div>
   <div class="embed-caption">
-    <span class="embed-exhibit-id">Drugging Summary to Kelly Turnure</span>
+    <span class="embed-exhibit-id">Drugging Summary to Aunt K</span>
     <span class="embed-caption-text">The Adderall at the hospital was not generosity. It was the pattern continuing on the day his daughter was born.</span>
   </div>
 </div>
@@ -2193,11 +2193,11 @@ Steve was in the room. The recliner. The monitor beeping. His daughter's fingers
 
 # [B13] The Painter of Cottages
 
-> Kelly comes back. A ranch that belonged to the painter of cottages. Light on the hills. Then Amazon buys Ring, Jamie deletes the options, and Steve files a fourteen-count complaint. Kelly helps him win.
+> Aunt K comes back. A ranch that belonged to the painter of cottages. Light on the hills. Then Amazon buys Ring, Jamie deletes the options, and Steve files a fourteen-count complaint. Aunt K helps him win.
 
 **Phase II | The Evidence | Late 2017 – February 2019 | ECS 78**
 
-Tags: 2017, 2018, Amazon, Jamie Siminoff, Kelly Turnure, Kinkade Ranch, Ring, San Francisco
+Tags: 2017, 2018, Amazon, Jamie Siminoff, Aunt K, Kinkade Ranch, Ring, San Francisco
 
 Evidence: 3 exhibits
   - hero
@@ -2206,13 +2206,13 @@ Evidence: 3 exhibits
 
 The days got longer and then shorter and the fog kept its schedule and the house on Vermont Street stopped feeling like a place where something bad was happening and started feeling like a house again.
 
-Kelly came back.
+Aunt K came back.
 
-Or he came back to Kelly. The sequence was gentle enough that the distinction no longer mattered. He saw her at a tech event — one of the gatherings where San Francisco's industry reconvenes periodically to remind itself that it exists. She was there. He was there. The ghosting had left a gap, but the gap had the quality of something unfinished rather than something broken.
+Or he came back to Aunt K. The sequence was gentle enough that the distinction no longer mattered. He saw her at a tech event — one of the gatherings where San Francisco's industry reconvenes periodically to remind itself that it exists. She was there. He was there. The ghosting had left a gap, but the gap had the quality of something unfinished rather than something broken.
 
 They talked.
 
-He told her about the hospital. He told her about the doctor. He told her about the distance to New York. Kelly did not tell him he was right, and she did not tell him he was crazy. She listened without rushing to fill the silences, without offering the kind of advice that is really just a person trying to fix something so they don't have to sit with it.
+He told her about the hospital. He told her about the doctor. He told her about the distance to New York. Aunt K did not tell him he was right, and she did not tell him he was crazy. She listened without rushing to fill the silences, without offering the kind of advice that is really just a person trying to fix something so they don't have to sit with it.
 
 They started seeing each other again.
 
@@ -2222,13 +2222,13 @@ There was a ranch.
 
 It had belonged to Thomas Kinkade — the painter of cottages, the man who had made a fortune painting light. Kinkade had died years earlier and the ranch had passed through hands and become a place where people could stay, a retreat with horses and quiet and the particular emptiness of a property that had been built to hold one man's vision of what beauty looked like.
 
-Steve and Kelly went there on a Saturday.
+Steve and Aunt K went there on a Saturday.
 
 The land was gold and green in long, quiet slopes. The hills rolled in long curves toward a horizon that was just blue sky and more hills. Horses stood motionless in the fields. The barn was old and clean and smelled like hay and leather.
 
-They walked the property in the late afternoon. Kelly's hand was in his. The light was the kind of light that Kinkade had painted — warm, specific, landing on surfaces the way light lands when you're paying attention to it.
+They walked the property in the late afternoon. Aunt K's hand was in his. The light was the kind of light that Kinkade had painted — warm, specific, landing on surfaces the way light lands when you're paying attention to it.
 
-"This is nice," Kelly said.
+"This is nice," Aunt K said.
 
 It was.
 
@@ -2273,11 +2273,11 @@ The complaint noted that some of Ring's misconduct was "the result of personal a
 
 Steve had warned Jamie about sending all video feeds to Ukraine without adequate privacy protections. Jamie hadn't listened. Years later, the FTC would investigate Ring for those exact failures. But by then Jamie had the money and the company and the Amazon deal, and Steve had a complaint and a settlement and the knowledge that the architecture he'd designed to protect privacy had been gutted by the man he'd helped build it for.
 
-Kelly helped with the case.
+Aunt K helped with the case.
 
-This was new. This was different from what had come before. Tara had been the source of legal crisis — the poisoning, the hospitalization, the custody emergency. Kelly was the opposite. She helped organize, she helped fight, she helped Steve see the Ring case through to settlement in February 2019. Winning anything against Amazon was itself a thing. The settlement preserved Prism's claims.
+This was new. This was different from what had come before. Tara had been the source of legal crisis — the poisoning, the hospitalization, the custody emergency. Aunt K was the opposite. She helped organize, she helped fight, she helped Steve see the Ring case through to settlement in February 2019. Winning anything against Amazon was itself a thing. The settlement preserved Prism's claims.
 
-It was the first legal win. It would not be the last. And the fact that Kelly was there for it — that the productive relationship started here, with this fight, with this win — would matter for everything that came after.
+It was the first legal win. It would not be the last. And the fact that Aunt K was there for it — that the productive relationship started here, with this fight, with this win — would matter for everything that came after.
 
 But that was later.
 
@@ -2285,7 +2285,7 @@ On that Saturday at the Kinkade ranch, none of it had happened yet. The options 
 
 The light on the hills was real.
 The horses were real.
-Kelly's hand in his was real. The painter of cottages was dead but the ranch was still there and the light was still the same light and Steve stood in it and let it be enough for that moment.
+Aunt K's hand in his was real. The painter of cottages was dead but the ranch was still there and the light was still the same light and Steve stood in it and let it be enough for that moment.
 
 ---
 
@@ -3359,7 +3359,7 @@ By June 2015 the building had sunk sixteen inches and tilted to the northwest. B
   <img src="../Evidence/photos/evie_books/book_1/EB1_p123.jpg" alt="Steve silhouetted at Millennium Tower dining table — purple sunset through floor-to-ceiling windows, city skyline" loading="lazy">
   <div class="photo-card-caption">
     <span class="embed-exhibit-id">Steve at the Millennium Tower</span>
-    <span class="embed-caption-text">The sunset through the floor-to-ceiling windows. The city below. From inside the penthouse, it is impossible to tell that the building leans. Evie Story Book 1, Kelly Turnure.</span>
+    <span class="embed-caption-text">The sunset through the floor-to-ceiling windows. The city below. From inside the penthouse, it is impossible to tell that the building leans. Evie Story Book 1, Aunt K.</span>
   </div>
 </div>
 
@@ -3987,7 +3987,7 @@ Under oath three months later, Tara would be asked about the messages she had se
   <img src="../Evidence/photos/evie_books/book_1/EB1_p049.jpg" alt="Tara Walsh selfie — performative distress, looking directly at camera" loading="lazy">
   <div class="photo-card-caption">
     <span class="embed-exhibit-id">Evie Story Book 1, p. 49</span>
-    <span class="embed-caption-text">Tara photographs herself in distress. The camera was not incidental. The image was the point. Evie Story Book 1, Kelly Turnure.</span>
+    <span class="embed-caption-text">Tara photographs herself in distress. The camera was not incidental. The image was the point. Evie Story Book 1, Aunt K.</span>
   </div>
 </div>
 
@@ -4016,7 +4016,7 @@ Buried in the middle, a sentence:
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">Tara Walsh text to Steve Russell, May 2018</span>
-    <span class="embed-caption-text">It was not theater. It was a plan. StevieLovesEvie, Kelly Turnure.</span>
+    <span class="embed-caption-text">It was not theater. It was a plan. StevieLovesEvie, Aunt K.</span>
   </div>
 </div>
 
@@ -4315,7 +4315,7 @@ The recording answered that question on June 4, 2018. It took the courts until J
 
 **Phase V | The Courts | August–September 2018 | ECS 88**
 
-Tags: 2018, Abby Tedla, Chappaqua, Crabtree's Kittle House, Custody, Delia Farquharson, Evie, Family System, Interior Moment, Jason Advocate, Jennifer Jackman, Judge Gordon-Oliver, Katherine Chestnut, Kelly Turnure, Legacy Protection, Maura Walsh, Privacy Architecture, Supervised Visitation, Tara Knoll, Walsh Sr., Westchester
+Tags: 2018, Abby Tedla, Chappaqua, Crabtree's Kittle House, Custody, Delia Farquharson, Evie, Family System, Interior Moment, Jason Advocate, Jennifer Jackman, Judge Gordon-Oliver, Katherine Chestnut, Aunt K, Legacy Protection, Maura Walsh, Privacy Architecture, Supervised Visitation, Tara Knoll, Walsh Sr., Westchester
 
 Evidence: 3 exhibits
   - hero
@@ -4403,10 +4403,10 @@ Maura began to cry and shake as she handed Evie to Abby. Evie began to cry as we
       <span class="embed-source">Signed Statement</span>
   </div>
   <div class="embed-body">
-    <img src="../Evidence/photos/evidence/Book2_020_documentscreenshot_maura-walsh-letter-tojudge.jpg" alt="Statement by Abby Tedla and Kelly Turnure: Steve couldn't wait to see Evie. Steve and Abby met the Walshes and Evie in the parking lot of the Crabtree Kittle house. Maura Walsh was very uncomfortable and looked like she had been crying. She did not initially want to hand Evie over to Steve, so he suggested that they all sit for a moment in the hotel's lovely outdoor seating area. After about 15-20 minutes Steve Russell and Mr. Walsh were able to convince Maura Walsh to hand over Evie to Abby Tedla, Evie's childhood nanny. Maura Walsh began to cry and shake as she handed Evie to Abby and Evie began to cry, as well. Steve and Abby quickly walked to their hotel room where Abby handed Evie to Steve. In his arms she calmed down quickly and he spent the rest of the visit holding her. After she was calmed down and happy Steve sang her songs and talked to her for about 45 minutes. At the end of the visit, Steve walked out toward where he had left Steve and Maura Walsh, but they had gotten into their car and moved to a spot high on the driveway with a view of the hotel. Maura Walsh was crying in the car and Steve Walsh was inside with her trying to calm her down. When Evie saw Grandma, she began to cry as well. Evie was handed back to Grandma and Steve told her how well the visit went and offered to share with her videos and pictures from the visit." loading="lazy">
+    <img src="../Evidence/photos/evidence/Book2_020_documentscreenshot_maura-walsh-letter-tojudge.jpg" alt="Statement by Abby Tedla and Aunt K: Steve couldn't wait to see Evie. Steve and Abby met the Walshes and Evie in the parking lot of the Crabtree Kittle house. Maura Walsh was very uncomfortable and looked like she had been crying. She did not initially want to hand Evie over to Steve, so he suggested that they all sit for a moment in the hotel's lovely outdoor seating area. After about 15-20 minutes Steve Russell and Mr. Walsh were able to convince Maura Walsh to hand over Evie to Abby Tedla, Evie's childhood nanny. Maura Walsh began to cry and shake as she handed Evie to Abby and Evie began to cry, as well. Steve and Abby quickly walked to their hotel room where Abby handed Evie to Steve. In his arms she calmed down quickly and he spent the rest of the visit holding her. After she was calmed down and happy Steve sang her songs and talked to her for about 45 minutes. At the end of the visit, Steve walked out toward where he had left Steve and Maura Walsh, but they had gotten into their car and moved to a spot high on the driveway with a view of the hotel. Maura Walsh was crying in the car and Steve Walsh was inside with her trying to calm her down. When Evie saw Grandma, she began to cry as well. Evie was handed back to Grandma and Steve told her how well the visit went and offered to share with her videos and pictures from the visit." loading="lazy">
     <p class="photo-description">Two eyewitnesses. Two registers of distress — the grandmother who could not let go, and the child who calmed the moment she was held by her father. The detail that matters most: "When Evie saw Grandma, she began to cry as well."</p>
   </div>
-  <div class="photo-card-caption"><span class="embed-exhibit-id">Tedla &amp; Turnure — Crabtree's Kittle House Statement</span> <span class="embed-caption-text">Statement by Abby Tedla &amp; Kelly Turnure &mdash; Crabtree's Kittle House Visit</span></div>
+  <div class="photo-card-caption"><span class="embed-exhibit-id">Tedla &amp; Aunt K — Crabtree's Kittle House Statement</span> <span class="embed-caption-text">Statement by Abby Tedla &amp; Aunt K &mdash; Crabtree's Kittle House Visit</span></div>
 </div>
 
 
@@ -4834,9 +4834,9 @@ She wrote her report to the court. A police report was filed. The officer told S
 
 Walsh Sr.'s response was to demand that his daughter file a Temporary Order of Protection — a court order restraining contact, issued on petition alone, without a hearing — against Steve, though she had not been present and was almost a quarter-mile away, her filing described events she had not witnessed, written in language her father provided. The court granted a temporary order. No hearing was ever held. Walsh Sr. refused to appear and corroborate the claims. The matter was left to expire.
 
-The campaign was not limited to the gates. Steve's credit cards had been sabotaged during this period — accounts compromised, transactions failing without explanation — and Kelly had rented a car under her own name so they could get to court. A silver Toyota Highlander, Florida plates. On the morning of February 7, she walked out to the parking area at the Kittle House and found the front driver-side tire deflated. Not punctured. The tread was intact, no damage visible. The air had been let out.
+The campaign was not limited to the gates. Steve's credit cards had been sabotaged during this period — accounts compromised, transactions failing without explanation — and Aunt K had rented a car under her own name so they could get to court. A silver Toyota Highlander, Florida plates. On the morning of February 7, she walked out to the parking area at the Kittle House and found the front driver-side tire deflated. Not punctured. The tread was intact, no damage visible. The air had been let out.
 
-She filed a police report. NC-001256-19. She told the officer she was reporting it "in case a pattern evolves." There were no cameras at the Kittle House lot. They took an Uber to court. Had Kelly not checked the tire before leaving, Steve would have missed his hearing. The court that treated absence as forfeiture would have had another default to enter.
+She filed a police report. NC-001256-19. She told the officer she was reporting it "in case a pattern evolves." There were no cameras at the Kittle House lot. They took an Uber to court. Had Aunt K not checked the tire before leaving, Steve would have missed his hearing. The court that treated absence as forfeiture would have had another default to enter.
 
 But the visits stopped.
 
@@ -4937,7 +4937,7 @@ No one responded to the Munchausen concern. The visits continued.
 
 Evie arrived for Visit 15 on Sunday, March 31, 2019, at the Crabtree Kittle House in Chappaqua. She arrived the way she always arrived, unfed, without a nap, mirroring the energy of the handoff.
 
-Four adults were present. Steve. Talia Kleiman, the nanny — a woman who had cared for Evie in San Francisco, who knew the rhythms of an infant's body, who could read the language of hunger and exhaustion in a child's cry. Franceska Christina Anilus, the court-appointed supervisor from Supervision Services. Kelly, in the next room. They had learned to prepare. They changed Evie. They gave her something to eat, a little fruit, a sugar babyfood packet. She calmed down almost immediately.
+Four adults were present. Steve. Talia Kleiman, the nanny — a woman who had cared for Evie in San Francisco, who knew the rhythms of an infant's body, who could read the language of hunger and exhaustion in a child's cry. Franceska Christina Anilus, the court-appointed supervisor from Supervision Services. Aunt K, in the next room. They had learned to prepare. They changed Evie. They gave her something to eat, a little fruit, a sugar babyfood packet. She calmed down almost immediately.
 
 It was during the diaper change that they saw the bruises.
 
@@ -4960,7 +4960,7 @@ Franceska's supervisor report for March 31 noted one concern during the visit: t
 Talia wrote her own account. She had acted as nanny on both March 30 and March 31. On March 30, during the diaper change, she had observed a raised, red, irritated rash on Evie's chin, hidden in her baby fat. Both she and the supervisor noticed and discussed the rash and the hunger. On March 31, she observed a bruise on Evie's left shin as Steve was changing her diaper. The day before, as she changed Evie herself, it was not there. It was very visible now. The supervisor made a note of it and said she had to make a report. Steve mentioned he would follow up and give Evie a bath the next time to check for any other areas.
 
 <div class="photo-card" data-exhibit="EB2_MASTER_100">
-  <img src="../Evidence/photos/evidence/Book2_100_documentscreenshot_supervised-visitartival-police.jpg" alt="Email from Talia Kleiman to Kelly Turnure. Subject: Visits with Evie 3/30 and 3/31. Talia describes observing a bruise on Evie's left shin during the diaper change on March 31 that was not visible the day before. Also describes Walsh Sr. pulling up at the driveway after the supervisor left with Evie, exiting his car with a rude attitude toward Steve at approximately 5:30 PM on Sunday. Notes Steve Russell remained calm throughout." loading="lazy">
+  <img src="../Evidence/photos/evidence/Book2_100_documentscreenshot_supervised-visitartival-police.jpg" alt="Email from Talia Kleiman to Aunt K. Subject: Visits with Evie 3/30 and 3/31. Talia describes observing a bruise on Evie's left shin during the diaper change on March 31 that was not visible the day before. Also describes Walsh Sr. pulling up at the driveway after the supervisor left with Evie, exiting his car with a rude attitude toward Steve at approximately 5:30 PM on Sunday. Notes Steve Russell remained calm throughout." loading="lazy">
   <div class="photo-card-caption">
     <span class="embed-exhibit-id">Talia Kleiman — Eyewitness Account, March 2019</span>
     <span class="embed-caption-text">An independent witness. The bruise was not there the day before.</span>
@@ -4996,7 +4996,7 @@ A few steps away, he stopped. Talia was sitting in the passenger seat, small, lo
 It was Sunday.
 
 <div class="evidence-embed embed-document" data-exhibit="SLE-053" data-type="blog-archive">
-  <div class="document-text"><p>Kelly Turnure's account of the driveway confrontation, published the following day on StevieLovesEvie. Walsh Sr. had followed Steve's car and blocked access to the compound, red-faced and shaking. When he saw the nanny in the passenger seat — the witness he had not expected — he retreated.</p></div>
+  <div class="document-text"><p>Aunt K's account of the driveway confrontation, published the following day on StevieLovesEvie. Walsh Sr. had followed Steve's car and blocked access to the compound, red-faced and shaking. When he saw the nanny in the passenger seat — the witness he had not expected — he retreated.</p></div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">Walsh Driveway Confrontation — StevieLovesEvie</span>
     <span class="embed-caption-text">Visit 15, Part 3: Walsh driveway confrontation — StevieLovesEvie</span>
@@ -5368,7 +5368,7 @@ Evidence: 4 exhibits
 
 He put it all in one document.
 
-He was in a rented house in Westchester in the winter of 2019 — close enough to Tara Knoll that the drive took minutes, far enough from the hedgerows that the proximity was purely institutional. Evie was one, approaching two. She was behind the gate, inside the compound, inside the family the memorandum would describe. The house was small, the light filtered through bare trees, the season one of waiting. Steve sat at a table for hours — the exact hours are not recorded, only that he did not sleep much and that the pages accumulated — assembling the filing the way Kelly would later assemble the blog and the evidence volumes and the letters to judges: piece by piece, exhibit by exhibit, the labor of making a record when every institution designated to receive it had declined to look. The memorandum would run to nearly five hundred pages. He believed that if he arranged the evidence clearly enough, someone would read it.
+He was in a rented house in Westchester in the winter of 2019 — close enough to Tara Knoll that the drive took minutes, far enough from the hedgerows that the proximity was purely institutional. Evie was one, approaching two. She was behind the gate, inside the compound, inside the family the memorandum would describe. The house was small, the light filtered through bare trees, the season one of waiting. Steve sat at a table for hours — the exact hours are not recorded, only that he did not sleep much and that the pages accumulated — assembling the filing the way Aunt K would later assemble the blog and the evidence volumes and the letters to judges: piece by piece, exhibit by exhibit, the labor of making a record when every institution designated to receive it had declined to look. The memorandum would run to nearly five hundred pages. He believed that if he arranged the evidence clearly enough, someone would read it.
 
 The act of documentation was his form of resistance.
 
@@ -5491,11 +5491,11 @@ It filed them.
 
 # [B30] Aunt K
 
-> Kelly Turnure is known through the record. She built the blog, compiled the evidence books, and wrote letters to three judges in three months. She helped Steve win the Ring case. She met Evie and became Aunt K. The system that ignored justice also ignored her. She lost a baby to Chappaqua poison.
+> Aunt K is known through the record. She built the blog, compiled the evidence books, and wrote letters to three judges in three months. She helped Steve win the Ring case. She met Evie and became Aunt K. The system that ignored justice also ignored her. She lost a baby to Chappaqua poison.
 
 **Phase VI | The Pattern | 2017–2021 | ECS 88**
 
-Tags: Kelly Turnure, Aunt K, StevieLovesEvie, Letters to Judges, Ring, Jamie Siminoff, Judge Furman, Judge Davidson, Judge Egitto, Evidence Books, Documentation as Survival, 2017-2021
+Tags: Aunt K, Aunt K, StevieLovesEvie, Letters to Judges, Ring, Jamie Siminoff, Judge Furman, Judge Davidson, Judge Egitto, Evidence Books, Documentation as Survival, 2017-2021
 
 Evidence: 4 exhibits
   - hero
@@ -5503,9 +5503,9 @@ Evidence: 4 exhibits
   - secondary
   - tertiary
 
-Kelly Turnure is known through the record.
+Aunt K is known through the record.
 
-Not through the private details of a relationship, how two people met, what they said to each other in the early weeks, the particular quality of a reconnection after time apart. Those things happened. They belong to the people who lived them. What belongs to the record is what Kelly built, what she wrote, and what the case cost her.
+Not through the private details of a relationship, how two people met, what they said to each other in the early weeks, the particular quality of a reconnection after time apart. Those things happened. They belong to the people who lived them. What belongs to the record is what Aunt K built, what she wrote, and what the case cost her.
 
 ---
 
@@ -5519,7 +5519,7 @@ In May 2021, a website appeared. StevieLovesEvie.com. 146 posts. The About page 
   </div>
   <div class="embed-body">
     <iframe src="../Evidence/html/sle_blog/SLE-010_about.html" style="width:100%; height:600px; border:1px solid #ddd;" loading="lazy"></iframe>
-    <p class="photo-description">"This website was created by Kelly Turnure (Aunt K) with the help of many individuals connected to Evie's case." Subscription price: $127 per year. January 27 is Evie's birthday.</p>
+    <p class="photo-description">"This website was created by Aunt K with the help of many individuals connected to Evie's case." Subscription price: $127 per year. January 27 is Evie's birthday.</p>
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">StevieLovesEvie.com, About Page, May 11, 2021</span>
@@ -5527,70 +5527,70 @@ In May 2021, a website appeared. StevieLovesEvie.com. 146 posts. The About page 
   </div>
 </div>
 
-Kelly put herself through college as a waitress in San Francisco. She had worked in banking and investment management. She had taken an opportunity to move to East Africa to work on a project she found interesting and important. She was not from the world of family court or custody litigation or forensic evidence indexing.
+Aunt K put herself through college as a waitress in San Francisco. She had worked in banking and investment management. She had taken an opportunity to move to East Africa to work on a project she found interesting and important. She was not from the world of family court or custody litigation or forensic evidence indexing.
 
 She entered it anyway.
 
 She read every court document, every email, every piece of evidence. She built the blog from primary sources, not summaries, not secondhand accounts, but the actual filings and transcripts and text messages produced in discovery. She organized the evidence into four hardbound volumes, *The Beginning*, *The Drugging*, *The Courts*, *The Evidence and the Lies*, with photographs, timelines, and cross-referenced exhibits. Four hundred images arranged so that a father reading to his daughter on one page faced a lethal-dose search on the next. She sent Steve notes on the book drafts, which slides needed which evidence, where Tara's own texts should be inserted, which testimony to include. She was building an archive before anyone called it that.
 
-The blog organized the case into series: The Crime, The Courts, The Abuse, The Coverup. Each series drew from the same evidence that would later be presented at trial. Kelly compiled what no single court file contained — the complete picture, drawn from two states, four judges, six attorneys, and five years of proceedings.
+The blog organized the case into series: The Crime, The Courts, The Abuse, The Coverup. Each series drew from the same evidence that would later be presented at trial. Aunt K compiled what no single court file contained — the complete picture, drawn from two states, four judges, six attorneys, and five years of proceedings.
 
 She signed her posts "Aunt K." A rainbow heart in cursive on a black background.
 
 ---
 
-Before the blog, before the books, Kelly helped Steve fight Ring.
+Before the blog, before the books, Aunt K helped Steve fight Ring.
 
 In February 2018, Amazon acquired Ring for more than a billion dollars. Jamie Siminoff personally netted roughly three hundred million. Steve's 205,308 stock options, earned during the years he had served as interim CTO, recruited the Ukraine team, brought in Kleiner Perkins, and co-invented the technology, were now worth real money. Ring's general counsel wrote that the options had expired. The transmittal documents required a general release of all claims. Sign everything or get nothing.
 
 Steve didn't sign.
 
-On November 1, 2018, he filed a complaint in Los Angeles Superior Court. Russell v. Ring LLC and Jamie Siminoff. Fourteen counts. Kelly helped organize the case, helped Steve see it through to settlement in February 2019. Winning anything against Amazon was itself a thing.
+On November 1, 2018, he filed a complaint in Los Angeles Superior Court. Russell v. Ring LLC and Jamie Siminoff. Fourteen counts. Aunt K helped organize the case, helped Steve see it through to settlement in February 2019. Winning anything against Amazon was itself a thing.
 
 It was the first legal win. It would not be the last.
 
 ---
 
-She met Evie during one of the visits that occurred before the visits collapsed entirely. The meeting was quiet. Kelly sat on the floor. She did not try to hold Evie. She did not try to be anything. She spoke in a calm, steady voice and let the child come to her at the child's pace.
+She met Evie during one of the visits that occurred before the visits collapsed entirely. The meeting was quiet. Aunt K sat on the floor. She did not try to hold Evie. She did not try to be anything. She spoke in a calm, steady voice and let the child come to her at the child's pace.
 
 Evie came.
 
 The name emerged the way children's names for people emerge, organically, without announcement. K. Aunt K. The kind of name a child gives to someone who has become part of her world.
 
-For a brief period, something like a family formed — though the court would not have recognized the word, since Kelly had no legal standing in the case, no party designation, no right to be heard, and the family court's vocabulary did not contain a term for the person who built the evidentiary record that the parties' own attorneys had not. Steve, Kelly, and Evie, in rented houses and restaurants and the small domestic moments that are not dramatic enough for court filings but are the actual substance of a life. Feeding a child. Watching a child play. The dog taking up more room on the couch than anyone. Sitting there while a toddler sleeps between two adults and the room is quiet and the quiet is enough.
+For a brief period, something like a family formed — though the court would not have recognized the word, since Aunt K had no legal standing in the case, no party designation, no right to be heard, and the family court's vocabulary did not contain a term for the person who built the evidentiary record that the parties' own attorneys had not. Steve, Aunt K, and Evie, in rented houses and restaurants and the small domestic moments that are not dramatic enough for court filings but are the actual substance of a life. Feeding a child. Watching a child play. The dog taking up more room on the couch than anyone. Sitting there while a toddler sleeps between two adults and the room is quiet and the quiet is enough.
 
 ---
 
 Then the system did what the system does.
 
-In February 2021, Kelly wrote to Judge Furman at Westchester Family Court. On her own letterhead. KELLY O. TURNURE.
+In February 2021, Aunt K wrote to Judge Furman at Westchester Family Court. On her own letterhead, in her own name.
 
 <div class="evidence-embed embed-document" data-exhibit="CORR-TURNURE-FURMAN" data-type="correspondence">
   <div class="embed-header">
       <span class="embed-type">Letter to Court</span>
       <span class="embed-date">February 23, 2021</span>
-      <span class="embed-source">Kelly O. Turnure</span>
+      <span class="embed-source">Aunt K</span>
   </div>
   <div class="embed-body">
     <object data="../Evidence/pdf/correspondence/2021-02-23_Turnure_Letter_to_Judge_Furman.pdf" type="application/pdf" width="100%" height="600px">
-      <p>Kelly Turnure's letter to Hon. Esther Furman, Westchester Family Court. CC: Jennifer Jackman, Tara Walsh, Max DiFabio, Jason Advocate, Stephen Russell.</p>
+      <p>Aunt K's letter to Hon. Esther Furman, Westchester Family Court. CC: Jennifer Jackman, Tara Walsh, Max DiFabio, Jason Advocate, Stephen Russell.</p>
     </object>
     <p class="photo-description">"We share a Ford. We recently bought a pop-up camper because we like to be outdoors. I've never flown in a private jet, nor do I expect to. It's a lovely life, even in these difficult times. But, it is not what Ms. Walsh describes."</p>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Kelly O. Turnure, Letter to Hon. Esther Furman, February 23, 2021</span><span class="embed-caption-text">Kelly told the judge who they actually were. A Ford. A pop-up camper. Not the extravagance Walsh described.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Aunt K, Letter to Hon. Esther Furman, February 23, 2021</span><span class="embed-caption-text">Aunt K told the judge who they actually were. A Ford. A pop-up camper. Not the extravagance Walsh described.</span></div>
 </div>
 
 She told the judge who they actually were. Not the people Tara had described to the court, the extravagant lifestyle, the private jets, the hidden wealth. A Ford. A pop-up camper. A waitress who had put herself through college. She corrected the record because no one else was going to correct it, and the court was making decisions based on a version of reality that did not exist.
 
 A month later, she wrote to Judge Davidson. The letter was longer. She described reading every court document, every email, every piece of evidence. She called the case what it was: one of the most egregious miscarriages of justice she had ever seen or heard. She noted that three judges had recused themselves, six attorneys had withdrawn or been fired, and nearly three years had passed without a hearing.
 
-Six weeks after that, she wrote to Judge Egitto. This letter was different. Something had happened between the Davidson letter and the Egitto letter. Steve had requested to appear by phone at a visitation conference because Kelly was recovering from a medical procedure under anesthesia. The court denied the request at 5:30 PM the night before, after it would have been possible to fly in from California. No request was made for documentation of the medical procedure. No accommodation was offered.
+Six weeks after that, she wrote to Judge Egitto. This letter was different. Something had happened between the Davidson letter and the Egitto letter. Steve had requested to appear by phone at a visitation conference because Aunt K was recovering from a medical procedure under anesthesia. The court denied the request at 5:30 PM the night before, after it would have been possible to fly in from California. No request was made for documentation of the medical procedure. No accommodation was offered.
 
-Kelly woke in an apartment with a pain she could not yet name and no one to bring her water.
+Aunt K woke in an apartment with a pain she could not yet name and no one to bring her water.
 
-Steve left Kelly in recovery and flew to New York for what became the default that gave Tara sole custody.
+Steve left Aunt K in recovery and flew to New York for what became the default that gave Tara sole custody.
 
-Kelly's letter to Judge Egitto ran four pages. She described six attorneys recusing over ethical issues. Three judges recusing. The Horowitz default. The Humphrey recusal. She called it what it was: "an awful version of Groundhog's Day." She documented what the courts would not: that Raymond Griffin was a fraud, that Walsh had defaulted twice on actual hearings, that the courts were producing injustice through procedural exhaustion.
+Aunt K's letter to Judge Egitto ran four pages. She described six attorneys recusing over ethical issues. Three judges recusing. The Horowitz default. The Humphrey recusal. She called it what it was: "an awful version of Groundhog's Day." She documented what the courts would not: that Raymond Griffin was a fraud, that Walsh had defaulted twice on actual hearings, that the courts were producing injustice through procedural exhaustion.
 
 Furman, Davidson, Egitto. Each letter on her own letterhead. Each letter laying out the facts with the directness of someone who had read the entire record and could not understand how the people responsible for adjudicating it had not. She identified Griffin as a fraud before anyone else did publicly. She documented the Tale of Two Defaults: Walsh failing to appear for actual hearings while the court entered a default against Steve at a scheduling conference.
 
@@ -5602,13 +5602,13 @@ What the system that ignored justice also ignored was her.
 
 ---
 
-Kelly is known through the record. Through 146 blog posts signed "Aunt K." Through hardbound evidence books with cross-referenced exhibits. Through three letters to three judges that were filed and forgotten. Through book notes sent at 7 PM on a Monday, organizing the evidence into something a reader could follow. Through a photograph on the blog, Steve and Evie at two years old, with a caption that said everything the letters could not.
+Aunt K is known through the record. Through 146 blog posts signed "Aunt K." Through hardbound evidence books with cross-referenced exhibits. Through three letters to three judges that were filed and forgotten. Through book notes sent at 7 PM on a Monday, organizing the evidence into something a reader could follow. Through a photograph on the blog, Steve and Evie at two years old, with a caption that said everything the letters could not.
 
 She entered a damaged situation and tried to make the truth visible. She believed that if people could just see the evidence, they would do the right thing. She built the infrastructure for them to see it.
 
 Most of them chose not to look.
 
-What the system took from Kelly cannot be measured in legal outcomes or judicial decisions. It is measured in the distance between the life she entered and the life the case produced. She came into a story about a father and a daughter. She stayed through the poisoning, through the litigation, through the institutional failures, through letters to judges who would not read them.
+What the system took from Aunt K cannot be measured in legal outcomes or judicial decisions. It is measured in the distance between the life she entered and the life the case produced. She came into a story about a father and a daughter. She stayed through the poisoning, through the litigation, through the institutional failures, through letters to judges who would not read them.
 
 She lost a baby to Chappaqua poison.
 
@@ -5618,11 +5618,11 @@ That is enough.
 
 # [B31] The Reno Bottle
 
-> They open a bottle of wine from the Potrero Hill years. Both become extremely ill. Kelly is pregnant. She loses the baby. Testing reveals mycophenolic acid — an immunosuppressant used for organ transplants — at thirteen times the normal range. Kelly's levels spike at fourteen times normal, then fall to zero. A single acute poisoning from a bottle that had been sitting on a shelf for months, waiting.
+> They open a bottle of wine from the Potrero Hill years. Both become extremely ill. Aunt K is pregnant. She loses the baby. Testing reveals mycophenolic acid — an immunosuppressant used for organ transplants — at thirteen times the normal range. Aunt K's levels spike at fourteen times normal, then fall to zero. A single acute poisoning from a bottle that had been sitting on a shelf for months, waiting.
 
 **Phase VI | The Pattern | December 2019 | ECS 95**
 
-Tags: 2019, Acute Exposure, Discovery 4, Kelly Turnure, Lab Reports, Miscarriage, Mycophenolic Acid, Poisoning, Potrero Hill, Reno, Tara Walsh, Toxicology, Vermont Street, Wine
+Tags: 2019, Acute Exposure, Discovery 4, Aunt K, Lab Reports, Miscarriage, Mycophenolic Acid, Poisoning, Potrero Hill, Reno, Tara Walsh, Toxicology, Vermont Street, Wine
 
 Evidence: 3 exhibits
   - hero
@@ -5633,9 +5633,9 @@ They were trying to start over.
 
 Reno was the kind of place a person goes when they want to be somewhere that is not the place they are leaving. Not beautiful in the way San Francisco is beautiful, not hills and fog and the architectural assertion of a city that knows it matters. Reno was flat and bright and surrounded by desert and mountains and the particular emptiness of a place where no one is watching.
 
-Steve had set up a bug-out apartment earlier during the security period, a physical Plan B stocked with the things a person needs if they leave quickly. The apartment was a loft in a newly built complex on 3rd Street: a pool, a Korean restaurant on the ground floor, a small organic grocery with what turned out to be the best meat counter Steve had found in any city he had lived in. Dan had furnished it from outlet stores and Costco: a big ottoman, a glass table, shelves that Steve filled with his own books. Board games stacked in a closet. Tall windows. It was, Kelly said, cute. It felt like an adventure. The liquor cabinet from the house on Vermont Street sat against the wall, carried across state lines the way furniture is carried, as proof that a previous life existed.
+Steve had set up a bug-out apartment earlier during the security period, a physical Plan B stocked with the things a person needs if they leave quickly. The apartment was a loft in a newly built complex on 3rd Street: a pool, a Korean restaurant on the ground floor, a small organic grocery with what turned out to be the best meat counter Steve had found in any city he had lived in. Dan had furnished it from outlet stores and Costco: a big ottoman, a glass table, shelves that Steve filled with his own books. Board games stacked in a closet. Tall windows. It was, Aunt K said, cute. It felt like an adventure. The liquor cabinet from the house on Vermont Street sat against the wall, carried across state lines the way furniture is carried, as proof that a previous life existed.
 
-Kelly was pregnant.
+Aunt K was pregnant.
 
 The pregnancy was early, new enough to be a possibility more than a certainty, the weeks when the body is doing something extraordinary and the mind is catching up. They had not told people yet. The knowledge existed between them like a held breath.
 
@@ -5655,19 +5655,19 @@ Not wine-sick. Not the headache of too much tannin or the sluggishness of too mu
 
 The nausea was not in the stomach. It was deeper — intestinal, the body rejecting something at the level of the gut wall itself. Cramping came in waves, each wave bringing a sweat that had nothing to do with fever. The illness did not follow the arc of food poisoning, which announces itself, does its work, and passes. By the next morning it had not passed. By the morning after that it had settled into something worse — not acute distress but a persistent wrongness, as though the illness had found a layer of the body it intended to stay in.
 
-Kelly lost the baby.
+Aunt K lost the baby.
 
 The miscarriage happened in the days that followed. The pregnancy that had been a held breath released, and what was left was the absence of what had been forming and the specific grief of a loss that is biological and personal and impossible to describe to anyone who has not experienced it.
 
-Steve held Kelly through it.
+Steve held Aunt K through it.
 
-He did not know what to say. The pregnancy had existed between them for weeks as a held breath, a private certainty, and now the breath released into a grief that was biological and specific and caused by someone who was not in the room. Kelly had not been the target. She had opened a bottle of wine in a kitchen in Reno — the most ordinary act — and the bottle had done what it was made to do. Had Tara known the wine would eventually be opened by whoever came next? Had she cared? Or had the bottle simply sat on its shelf with the patience of something that does not need to be aimed?
+He did not know what to say. The pregnancy had existed between them for weeks as a held breath, a private certainty, and now the breath released into a grief that was biological and specific and caused by someone who was not in the room. Aunt K had not been the target. She had opened a bottle of wine in a kitchen in Reno — the most ordinary act — and the bottle had done what it was made to do. Had Tara known the wine would eventually be opened by whoever came next? Had she cared? Or had the bottle simply sat on its shelf with the patience of something that does not need to be aimed?
 
 ---
 
-Before the lab results. Before the science confirmed what his body already knew. Steve sat with the loss the way a person sits with a loss that has no process — no filing, no court date, no evidence index. Just the fact that Kelly was in the next room and the pregnancy was gone and the bottle was empty on the counter. The apartment was quiet. Kelly was not sleeping — she occupied the specific silence of a body that has lost what it was building, a silence Steve recognized, because his own body had been failing for years without his understanding why, and now Kelly's had failed in a single evening.
+Before the lab results. Before the science confirmed what his body already knew. Steve sat with the loss the way a person sits with a loss that has no process — no filing, no court date, no evidence index. Just the fact that Aunt K was in the next room and the pregnancy was gone and the bottle was empty on the counter. The apartment was quiet. Aunt K was not sleeping — she occupied the specific silence of a body that has lost what it was building, a silence Steve recognized, because his own body had been failing for years without his understanding why, and now Aunt K's had failed in a single evening.
 
-The days that followed had no structure. Kelly slept and woke and slept again. Steve cleaned the apartment the way a person cleans when there is nothing else to do with their hands — the counters, the stove, the pan that was too small and too thin. He did not move the bottle. He could not have said why. It sat on the counter among the other bottles from the liquor cabinet, its label no different from theirs. The knowledge that it was different lived in his body the way the illness itself had lived — certain, unnamed, occupying a place no amount of cleaning could reach.
+The days that followed had no structure. Aunt K slept and woke and slept again. Steve cleaned the apartment the way a person cleans when there is nothing else to do with their hands — the counters, the stove, the pan that was too small and too thin. He did not move the bottle. He could not have said why. It sat on the counter among the other bottles from the liquor cabinet, its label no different from theirs. The knowledge that it was different lived in his body the way the illness itself had lived — certain, unnamed, occupying a place no amount of cleaning could reach.
 
 He had himself tested.
 
@@ -5700,7 +5700,7 @@ Steve had not received an organ transplant. He had no prescription for mycopheno
 
 It is a poison.
 
-The test was a urine panel — the substance detected there because the body had processed it, absorbed through the gut, metabolized, and excreted through the kidneys. Mycophenolic acid enters the body through ingestion. The wine from the open bottle on the counter was the shared consumable that evening, the only thing both Steve and Kelly had drunk. The laboratory's own clinical commentary noted that mycophenolic acid is a known abortifacient — a substance that causes miscarriage. Kelly had been pregnant. The pregnancy ended the same weekend as the bottle.
+The test was a urine panel — the substance detected there because the body had processed it, absorbed through the gut, metabolized, and excreted through the kidneys. Mycophenolic acid enters the body through ingestion. The wine from the open bottle on the counter was the shared consumable that evening, the only thing both Steve and Aunt K had drunk. The laboratory's own clinical commentary noted that mycophenolic acid is a known abortifacient — a substance that causes miscarriage. Aunt K had been pregnant. The pregnancy ended the same weekend as the bottle.
 
 
 <div class="evidence-embed embed-document" data-exhibit="F-033" data-type="toxicology-report">
@@ -5721,7 +5721,7 @@ The test was a urine panel — the substance detected there because the body had
 
 Mycophenolic acid is also an antiproliferative, it prevents cells from dividing. In an early pregnancy, where the embryo is the most rapidly dividing tissue in the body, the drug does not distinguish between immune cells and the cells that are becoming a child. Clinical literature reports miscarriage rates approaching fifty percent in first-trimester exposures.
 
-A test was performed on Kelly.
+A test was performed on Aunt K.
 
 Her first result showed mycophenolic acid at fourteen times the normal range. Her second test, taken after clearance, showed zero. The sequence was consistent with a single acute poisoning event followed by metabolic clearance. Not chronic environmental exposure. Not dietary contamination. Not anything that accumulates over time. A spike and then nothing. One bottle. One evening. One exposure.
 
@@ -5741,7 +5741,7 @@ The second had been the Brooklyn night in 2017: the dissociative fog after takin
 
 The third had been Abby Tedla's confession in the kitchen: her brother in the FBI had told her to tell Steve what she knew. Tara had been putting Seroquel in his wine. She had asked Abby to help. She had asked Bryan to help. And then the Seroquel appeared in Steve's bloodstream, January 2018, detected, confirmed.
 
-Now the fourth. Mycophenolic acid. Seven times normal. In a bottle from the years when Steve was sick and no one could explain why.
+Now the fourth. Mycophenolic acid. Thirteen times normal. In a bottle from the years when Steve was sick and no one could explain why.
 
 
 <div class="evidence-embed email-facsimile" data-exhibit="EMAIL_9755">
@@ -5751,9 +5751,9 @@ Now the fourth. Mycophenolic acid. Seven times normal. In a bottle from the year
       <span class="embed-source">Email Archive</span>
   </div>
   <div class="email-body">
-    <div class="document-text"><p>Steve to Kelly, forwarding his November 13 email to DiFabio and Jackman: "Tara is a criminal who drugged and abused me and continues to coordinate with conmen under FBI indictment. She and her boyfriend attempted to extort me and both Kelly and I have been sent to hospital after break-ins, druggings and attacks. She not only drugged me with Lithium and Seroquel for over a year, but also with Mycophenolic Acid an immunosuppressant and LSD."</p></div>
+    <div class="document-text"><p>Steve to Aunt K, forwarding his November 13 email to DiFabio and Jackman: "Tara is a criminal who drugged and abused me and continues to coordinate with conmen under FBI indictment. She and her boyfriend attempted to extort me and both Aunt K and I have been sent to hospital after break-ins, druggings and attacks. She not only drugged me with Lithium and Seroquel for over a year, but also with Mycophenolic Acid an immunosuppressant and LSD."</p></div>
   </div>
-  <div class="email-caption"><span class="embed-exhibit-id">Steve Russell to Kelly Turnure, Forwarded Email, November 14, 2019</span><span class="embed-caption-text">Steve names the full substance inventory to his attorneys: Lithium, Seroquel, Mycophenolic Acid, and LSD.</span></div>
+  <div class="email-caption"><span class="embed-exhibit-id">Steve Russell to Aunt K, Forwarded Email, November 14, 2019</span><span class="embed-caption-text">Steve names the full substance inventory to his attorneys: Lithium, Seroquel, Mycophenolic Acid, and LSD.</span></div>
 </div>
 
 
@@ -5767,7 +5767,7 @@ The immunosuppressant explained the years when his body could not fight infectio
 
 Steve put the laboratory report on the counter.
 
-Kelly was in the next room. She had lost a pregnancy to the same bottle. The same substance that had been suppressing Steve's immune system for years had now taken something from her, something that could not be measured in nanograms per gram, that did not appear on laboratory reports, that existed only in the space between what had been forming and what would never form.
+Aunt K was in the next room. She had lost a pregnancy to the same bottle. The same substance that had been suppressing Steve's immune system for years had now taken something from her, something that could not be measured in nanograms per gram, that did not appear on laboratory reports, that existed only in the space between what had been forming and what would never form.
 
 The mountains outside the window were dark. The desert was dark. Reno's lights blinked in the distance like a city pretending it did not know it existed.
 
@@ -5775,9 +5775,9 @@ The wine bottle was empty.
 
 The bottle had carried the scheme across state lines and across years. Tara had poisoned the wine in San Francisco, before the custody fight, before the supervised visits, before the ambush, before the bruises, before the five court-appointed supervisors and the six recused attorneys and the three recused judges. She had poisoned it and then Steve had packed it into the liquor cabinet and carried it to Reno and set it on a shelf where it waited. Not for him. For whoever opened it.
 
-Kelly opened it. And lost a child.
+Aunt K opened it. And lost a child.
 
-The Reno bottle was the fourth discovery but it was also the first proof that the poisoning was not improvised. It was infrastructure. A bottle poisoned months or years before it would be consumed, stored among other bottles, indistinguishable, patient. The scheme did not require Tara's presence, though presence is not quite the right word, because it implies distance, and the poison was always present, sitting on a shelf in a room where Steve and Kelly read books and played board games and grilled dinner in a pan that was too small. It only required her preparation. The poison worked on its own schedule, whenever someone decided to open a particular bottle on a particular evening in a place three hundred miles from where the crime was committed.
+The Reno bottle was the fourth discovery but it was also the first proof that the poisoning was not improvised. It was infrastructure. A bottle poisoned months or years before it would be consumed, stored among other bottles, indistinguishable, patient. The scheme did not require Tara's presence, though presence is not quite the right word, because it implies distance, and the poison was always present, sitting on a shelf in a room where Steve and Aunt K read books and played board games and grilled dinner in a pan that was too small. It only required her preparation. The poison worked on its own schedule, whenever someone decided to open a particular bottle on a particular evening in a place three hundred miles from where the crime was committed.
 
 The distance between the crime and its consequence was the design.
 
@@ -5785,11 +5785,11 @@ The distance between the crime and its consequence was the design.
 
 # [B32] Five O'Clock
 
-> Kelly undergoes surgery days before the hearing. Steve's attorneys request remote appearance at a visitation conference. At the last minute — the afternoon before — the court denies the request. Steve boards an overnight flight. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a five-year order of protection at what was scheduled as a status conference. Fourteen months later, his motion to vacate is still pending when the third judge recuses.
+> Aunt K undergoes surgery days before the hearing. Steve's attorneys request remote appearance at a visitation conference. At the last minute — the afternoon before — the court denies the request. Steve boards an overnight flight. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a five-year order of protection at what was scheduled as a status conference. Fourteen months later, his motion to vacate is still pending when the third judge recuses.
 
 **Phase VII | The Courts II | February 6, 2020 | ECS 85**
 
-Tags: 2020, COVID-19, Custody, Default Order, DiFabio, Horowitz, Humphrey, Institutional Failure, Kelly Turnure, Manufacturing Absence, NY Family Court, Pontius Pilate, Revolving Judges, Tara Walsh, Westchester
+Tags: 2020, COVID-19, Custody, Default Order, DiFabio, Horowitz, Humphrey, Institutional Failure, Aunt K, Manufacturing Absence, NY Family Court, Pontius Pilate, Revolving Judges, Tara Walsh, Westchester
 
 Evidence: 4 exhibits
   - hero
@@ -5805,7 +5805,7 @@ Before the hearing, the record preserved Horowitz's voice. A voicemail on anothe
 
 ---
 
-In late January, Kelly required surgery in San Francisco. The procedure was days before the hearing — not the day of, not the night before. She had the surgery. She recovered. The timing mattered only because it was the reason DiFabio wrote the letter.
+In late January, Aunt K required surgery in San Francisco. The procedure was days before the hearing — not the day of, not the night before. She had the surgery. She recovered. The timing mattered only because it was the reason DiFabio wrote the letter.
 
 On January 24, DiFabio wrote to the court. The letter was straightforward: Steve's fiancée was recovering from surgery in California. He requested permission to appear by telephone at the February 6 conference. The letter also noted a second concern, the spread of COVID-19 in the San Francisco Bay Area, the travel advisories that were beginning to discourage cross-country flights. The request was routine. Remote appearance at a scheduling conference three thousand miles away. They expected it granted.
 
@@ -5873,7 +5873,7 @@ A visitation conference, a scheduling matter, a procedural checkpoint, had been 
 
 ---
 
-He filed a motion to vacate the default on January 12, 2021, eleven months later, after assembling the record: the two letters to the court, the court's denial, the flight confirmation, the surgical records, Kelly's testimony. His affidavit was fourteen pages. It described the January 24 request, the twelve days of silence, the five o'clock denial, the overnight flight, the meritorious defenses: the California restraining order against Tara, her sworn admission to drugging him, the sixteen supervised visits, the five supervisors' consistent findings.
+He filed a motion to vacate the default on January 12, 2021, eleven months later, after assembling the record: the two letters to the court, the court's denial, the flight confirmation, the surgical records, Aunt K's testimony. His affidavit was fourteen pages. It described the January 24 request, the twelve days of silence, the five o'clock denial, the overnight flight, the meritorious defenses: the California restraining order against Tara, her sworn admission to drugging him, the sixteen supervised visits, the five supervisors' consistent findings.
 
 The motion argued what the record showed: Steve's absence was not willful. His attorney had appeared. The conference was not a hearing. The orders were entered without testimony, without evidence, without argument. There was no default — there was a manufactured absence, converted into a permanent disposition.
 
@@ -5895,7 +5895,7 @@ The motion was transferred to Judge Humphrey.
 
 Wayne Humphrey wore a bow tie. He had spent twenty-two years in the Westchester County Attorney's Office before being elected to the bench in 2019, the same government office that, decades earlier, had produced Guttridge, the attorney who now represented Tara. The pipeline was not complex. It was a single hallway in a single building in a single county, and the people who walked it in one direction as government attorneys walked it in the other direction as private practitioners, and eventually some of them walked it a third time as judges, and by that point everybody knew everybody and the system operated less on precedent than on familiarity.
 
-Kelly Turnure sat in Humphrey's courtroom and watched. She sat in the gallery, the wooden bench that held her weight the way courtroom benches hold the weight of every person who has ever waited for a system to do the right thing. Humphrey was on the bench. She watched his eyes. They did not meet Steve's. They did not meet DiFabio's. They moved across papers and toward the clerk and toward the far wall of the courtroom, everywhere except toward the people the proceeding concerned. His voice carried the tone of a man performing an unpleasant task he had already decided to complete — not anger, not authority, but the particular flatness of someone who does not want to be observed doing what he is doing. Court staff, the clerks and officers who inhabit a courtroom as permanent residents, went quiet when the case was called. One by one they found reasons to leave the room. They knew the case by its file number. They knew what the judge was performing. Kelly watched them go and understood: the system's own employees recognized the thing the system was doing, and they did not want to witness it.
+Aunt K sat in Humphrey's courtroom and watched. She sat in the gallery, the wooden bench that held her weight the way courtroom benches hold the weight of every person who has ever waited for a system to do the right thing. Humphrey was on the bench. She watched his eyes. They did not meet Steve's. They did not meet DiFabio's. They moved across papers and toward the clerk and toward the far wall of the courtroom, everywhere except toward the people the proceeding concerned. His voice carried the tone of a man performing an unpleasant task he had already decided to complete — not anger, not authority, but the particular flatness of someone who does not want to be observed doing what he is doing. Court staff, the clerks and officers who inhabit a courtroom as permanent residents, went quiet when the case was called. One by one they found reasons to leave the room. They knew the case by its file number. They knew what the judge was performing. Aunt K watched them go and understood: the system's own employees recognized the thing the system was doing, and they did not want to witness it.
 
 Steve invoked the California restraining order — the permanent DVRO, issued after a full evidentiary hearing, protecting his identity, carrying conditions a California judge had deemed necessary for his safety.
 
@@ -5919,7 +5919,7 @@ Evie turned three during the recusals. She turned three in the Walsh compound, i
 
 ---
 
-Kelly wrote letters.
+Aunt K wrote letters.
 
 Not to Steve's attorney. Not to the opposing counsel. To the judges themselves.
 
@@ -5932,16 +5932,16 @@ In March she wrote to Judge Davidson at the New York Judicial Conduct Commission
   <div class="embed-header">
       <span class="embed-type">Correspondence</span>
       <span class="embed-date">2021-05-10</span>
-      <span class="embed-source">Kelly O. Turnure</span>
+      <span class="embed-source">Aunt K</span>
   </div>
   <div class="embed-body">
     <div class="document-text"><p>"Hon. Morales-Horowitz would grant Ms. Walsh full custody, release her from the requirements of a mental health examination, reverse Hon. Gordon-Oliver's determination that Ms. Walsh should be confined to her family home and issued a 5 year permanent restraining order against Steve 'on default' because he was not physically present at a visitation conference, but represented and available by phone in February 2020 as COVID began. The 'final order' drafted by Ms. Walsh's now recused attorney Jonathan Guttridge was signed, without edit, and given to Ms. Walsh ex-parte and to this date has never been provided to Steve."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Kelly O. Turnure, Letter to Hon. Joseph Egitto, May 10, 2021</span>, <span class="embed-caption-text">After nearly three years it's become an awful version of Groundhog's Day.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Aunt K, Letter to Hon. Joseph Egitto, May 10, 2021</span>, <span class="embed-caption-text">After nearly three years it's become an awful version of Groundhog's Day.</span></div>
 </div>
 
 
-Kelly's letter to Egitto ran four pages. She described six attorneys recusing over ethical issues. Three judges recusing. The Horowitz default. The Humphrey recusal. She called it what it was: "an awful version of Groundhog's Day."
+Aunt K's letter to Egitto ran four pages. She described six attorneys recusing over ethical issues. Three judges recusing. The Horowitz default. The Humphrey recusal. She called it what it was: "an awful version of Groundhog's Day."
 
 She described a second default, Tara's. On March 10, 2021, Tara had failed to appear at an actual hearing. Her attorney had not appeared. She had been properly served. Judge Humphrey rescheduled. On March 24, Tara defaulted again. Same hearing. Same proper service. Same absence.
 
@@ -5975,11 +5975,11 @@ Steve had an attorney. His attorney had appeared at the conference. His attorney
 
 # [B33] Two Defaults
 
-> Steve seeks a Temporary Order of Protection in New York. The TOP is granted. On January 26, 2021, Judge Wayne Humphrey states the fail-to-appear rule on the record — citing Horowitz as precedent. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. The same judge who announced the rule does not apply it. Humphrey recuses himself — trashing Steve's attorney on the way out. Kelly investigates the court's own evaluator.
+> Steve seeks a Temporary Order of Protection in New York. The TOP is granted. On January 26, 2021, Judge Wayne Humphrey states the fail-to-appear rule on the record — citing Horowitz as precedent. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. The same judge who announced the rule does not apply it. Humphrey recuses himself — trashing Steve's attorney on the way out. Aunt K investigates the court's own evaluator.
 
 **Phase VII | The Courts II | 2020–2021 | ECS 82**
 
-Tags: 2019-2020, Custody, Institutional, Judge Humphrey, Kelly Turnure, Max DiFabio, NY Family Court, Two Court Systems, Pontius Pilate
+Tags: 2019-2020, Custody, Institutional, Judge Humphrey, Aunt K, Max DiFabio, NY Family Court, Two Court Systems, Pontius Pilate
 
 Evidence: 4 exhibits
   - hero
@@ -6015,7 +6015,7 @@ The judge was not persuaded.
 
 "Sir, I'm in New York. I'm not in California. Please put your name and your address on the record, sir."
 
-Steve understood that the judge was stating a fact about geography and a fact about jurisdiction at the same time. He understood that the judge was telling him that a California court's protective orders had no purchase in Westchester, that this file would not inherit the findings of the San Francisco file, that he was in a new room with a new set of rules and the new rules did not carry the protections the old ones had established. He complied. He read the address into the virtual courtroom — 1166 Bel Marin Keys Boulevard, Novato, California, 94949 — and the number and the street and the ZIP code went into the open transcript, where anyone with access to the court file could read them.
+Steve understood that the judge was stating a fact about geography and a fact about jurisdiction at the same time. He understood that the judge was telling him that a California court's protective orders had no purchase in Westchester, that this file would not inherit the findings of the San Francisco file, that he was in a new room with a new set of rules and the new rules did not carry the protections the old ones had established. He complied. He read the address into the virtual courtroom — [my California address] — and the number and the street and the ZIP code went into the open transcript, where anyone with access to the court file could read them.
 
 A few minutes later, Tara asked for her address to be kept confidential. She said she had been "recently" granted address confidentiality from New York State. She said she had filed an affidavit at the end of the prior week. The judge asked her when she had filed it. He said he did not have the filing yet. He said they could not do much with it today. The tone of that exchange was different. The tone was patient. The tone was accommodating. When the hearing adjourned, Tara's address would remain confidential. Steve's had already been entered.
 
@@ -6094,11 +6094,11 @@ Two judges gone. Tara's defaults absorbed. The Temporary Order of Protection rem
 
 ---
 
-While the judges rotated and the defaults accumulated and the motions went undecided, Kelly investigated.
+While the judges rotated and the defaults accumulated and the motions went undecided, Aunt K investigated.
 
 She had been tracking Raymond Griffin since November 2019, when Steve first raised concerns about the court-appointed evaluator to AFC Jennifer Jackman. Jackman had deflected: "Please ask Max to read the report." The Attorney for the Child, whose fiduciary duty was to the child, sent the father's concerns about the evaluator back to the father's own attorney. No investigation. No independent review. The system's response to a question about one of its instruments was to tell the person asking to consult his own lawyer.
 
-Kelly did not consult a lawyer. She opened a browser.
+Aunt K did not consult a lawyer. She opened a browser.
 
 The search began as due diligence — the kind of thing a person does when she has been taking notes on visits and writing letters to review boards and documenting what she sees and none of it is changing anything and the one thing she has not done is look at the evaluator himself. She typed his name. The results came back in the way search results do: a professional listing, an office address, a credential. 5 Waller Avenue in White Plains. "Dr. Raymond Griffin, PHD" on one directory, "Griffin Raymond A MD" on another. The CASAC credential — Credentialed Alcoholism and Substance Abuse Counselor, issued by the New York State Office of Addiction Services and Supports. It looked, for the first few screens, like an evaluator's digital footprint. Then the OASAS investigation page loaded, and the footprint became something else entirely.
 
@@ -6111,9 +6111,9 @@ In July 2019, OASAS had launched an investigation. By August, Griffin had signed
       <span class="embed-source">StevieLovesEvie.com</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Kelly published the Griffin investigation on October 5, 2020, the same day the Journal News ran its own report. "Raymond Griffin: The court-appointed substance abuse 'expert' who turned out to be a fraud." She documented the OASAS revocation, the violations, the misrepresented credentials. Courts across Westchester scrambled for new evaluators. A spokesman for the court system called it "too burdensome" to review all cases Griffin had handled.</p></div>
+    <div class="document-text"><p>Aunt K published the Griffin investigation on October 5, 2020, the same day the Journal News ran its own report. "Raymond Griffin: The court-appointed substance abuse 'expert' who turned out to be a fraud." She documented the OASAS revocation, the violations, the misrepresented credentials. Courts across Westchester scrambled for new evaluators. A spokesman for the court system called it "too burdensome" to review all cases Griffin had handled.</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie.com, Post 6, October 5, 2020</span><span class="embed-caption-text">Kelly published the same day as the Journal News. She had been tracking Griffin for a year.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie.com, Post 6, October 5, 2020</span><span class="embed-caption-text">Aunt K published the same day as the Journal News. She had been tracking Griffin for a year.</span></div>
 </div>
 
 Griffin left the state. The court system acknowledged that judges had stopped using him in July 2019 but declined to review his prior cases. Families whose custody outcomes depended on his evaluations were left with orders built on a fraudulent foundation. The court's position was that examining its own instrument would be too burdensome.
@@ -6136,7 +6136,7 @@ Evie was learning colors and animals. She knew her father's name. She was being 
 
 ---
 
-Kelly drove with Steve to the Westchester courthouse for these hearings.
+Aunt K drove with Steve to the Westchester courthouse for these hearings.
 
 She had been writing up every visit, every observation, every detail of what she witnessed during supervised time with Evie. She wrote letters to the judicial review board. She documented patterns. She sent the documentation into the system and the system did not respond. She wrote more. She sent more. The silence on the other end was not the silence of consideration. It was the silence of a machine that does not have an input for what she was sending.
 
@@ -6150,7 +6150,7 @@ The case file grew thicker. The number of judges who had handled it grew longer.
 
 **Phase VII | The Courts II | 2017–2020 | ECS 92**
 
-Tags: 2017, 2018, 2019, 2020, Abby Tedla, Acute Exposure, Brooklyn, Dan Ochoa, Discovery Pattern, Kelly Turnure, Lab Reports, Lithium, Mycophenolic Acid, Poisoning, Potrero Hill, Reno, Seroquel, Synthesis, Tara Walsh, Toxicology, Vermont Street
+Tags: 2017, 2018, 2019, 2020, Abby Tedla, Acute Exposure, Brooklyn, Dan Ochoa, Discovery Pattern, Aunt K, Lab Reports, Lithium, Mycophenolic Acid, Poisoning, Potrero Hill, Reno, Seroquel, Synthesis, Tara Walsh, Toxicology, Vermont Street
 
 Evidence: 3 exhibits
   - hero
@@ -6159,11 +6159,11 @@ Evidence: 3 exhibits
 
 Steve sat in the apartment in Reno and looked at the laboratory report.
 
-The glass table in front of him held the report in one rectangle of light, the paper catching the clarity of the Nevada afternoon. Behind him, the tall windows of the bug-out apartment opened to the desert beyond Reno, flat and unforgiving. The desert light was clear and it did not judge what was written on the page. He had brought Kelly here to a room where, for a brief time, the system could not reach. And now the laboratory report said the wine had been poisoned, and the wine had been brought from San Francisco, and the poison was still in the wine when it was opened in this room, on this table, with this light.
+The glass table in front of him held the report in one rectangle of light, the paper catching the clarity of the Nevada afternoon. Behind him, the tall windows of the bug-out apartment opened to the desert beyond Reno, flat and unforgiving. The desert light was clear and it did not judge what was written on the page. He had brought Aunt K here to a room where, for a brief time, the system could not reach. And now the laboratory report said the wine had been poisoned, and the wine had been brought from San Francisco, and the poison was still in the wine when it was opened in this room, on this table, with this light.
 
 Six hundred forty-nine point eight seven nanograms per gram. Reference range: five to fifty. Mycophenolic acid, an immunosuppressant prescribed to prevent organ rejection after kidney, heart, and liver transplants. He had not received an organ transplant. He had no prescription for mycophenolate or any immunosuppressant. The substance was in a bottle of wine that had been sitting on a shelf for months, carried from San Francisco in a liquor cabinet because that is what a person does when they leave, they bring the furniture.
 
-It was July 2019. Kelly had lost the baby. The wine was from the Potrero Hill years.
+It was July 2019. Aunt K had lost the baby. The wine was from the Potrero Hill years.
 
 He had been here before. Not in Reno — in this particular room of the mind, the room where a piece of information arrives and rearranges everything that preceded it. He had been in this room three times already. Each time, the information was different. Each time, the rearrangement reached further back.
 
@@ -6279,11 +6279,11 @@ The third discovery was not a laboratory report. It was a confession: partial, q
 
 December 2019. Reno.
 
-A bottle of wine from the Potrero Hill years. Carried from San Francisco in the liquor cabinet. Sitting on a shelf in the bug-out apartment for months. Steve and Kelly opened it one evening around Christmas. Kelly was pregnant.
+A bottle of wine from the Potrero Hill years. Carried from San Francisco in the liquor cabinet. Sitting on a shelf in the bug-out apartment for months. Steve and Aunt K opened it one evening around Christmas. Aunt K was pregnant.
 
 Within hours, both were severely ill. Not wine-sick — systemically wrong. The same onset. The same progression. The same symptoms arriving simultaneously in two people who shared one bottle.
 
-Kelly lost the baby.
+Aunt K lost the baby.
 
 Steve sat with the report and thought about Tara's miscarriages.
 
@@ -6293,7 +6293,7 @@ Now he looked at the laboratory report and thought about mycophenolic acid. An i
 
 Or, and Steve let the thought exist without deciding whether it was true, had she known that a bottle of wine laced with an immunosuppressant would eventually be opened by whoever came next? Was this the sweetest revenge, the kind Tara had described in texts to friends? Not impulsive. Not reckless. A bottle that waited.
 
-The report did not answer the question. The report only confirmed that the drug in the bottle on the shelf in Reno, the bottle Tara had prepared before leaving San Francisco, was a drug that ends pregnancies. And that it had ended Kelly's.
+The report did not answer the question. The report only confirmed that the drug in the bottle on the shelf in Reno, the bottle Tara had prepared before leaving San Francisco, was a drug that ends pregnancies. And that it had ended Aunt K's.
 
 Steve had himself tested.
 
@@ -6305,11 +6305,11 @@ Steve had himself tested.
       <span class="embed-source">Forensic Laboratory Analysis</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Urine mycotoxin panel from Steve's testing detected Mycophenolic Acid at a concentration of 649.87 ng/g creatinine. The reference range is 5 to 50 ng/g. Steve's level was approximately thirteen times the upper bound of normal.</p><p>Kelly's first result showed mycophenolic acid at fourteen times the normal range. Her second test — taken after clearance — showed zero. The sequence was consistent with a single acute poisoning event followed by metabolic clearance.</p></div>
+    <div class="document-text"><p>Urine mycotoxin panel from Steve's testing detected Mycophenolic Acid at a concentration of 649.87 ng/g creatinine. The reference range is 5 to 50 ng/g. Steve's level was approximately thirteen times the upper bound of normal.</p><p>Aunt K's first result showed mycophenolic acid at fourteen times the normal range. Her second test — taken after clearance — showed zero. The sequence was consistent with a single acute poisoning event followed by metabolic clearance.</p></div>
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">Urine Mycotoxin Panel and Blood Analysis, July 2019</span>
-    <span class="embed-caption-text">Thirteen times the reference range in Steve's urine. Fourteen times normal in Kelly's blood. Zero on retest. One bottle. One evening.</span>
+    <span class="embed-caption-text">Thirteen times the reference range in Steve's urine. Fourteen times normal in Aunt K's blood. Zero on retest. One bottle. One evening.</span>
   </div>
 </div>
 
@@ -6361,7 +6361,7 @@ The email arrives in the in-box with a timestamp of 2:00 PM on January 30, 2020.
 
 Steve put the laboratory reports side by side.
 
-Four substances across four years. Lithium in 2017, detected in a metals panel, six times normal. Seroquel, witnessed by Tedla, admitted by Tara, confirmed in Steve's bloodstream in January 2018. Mycophenolic acid in 2019, thirteen times the reference range in Steve's urine, fourteen times normal in Kelly's blood, zero on retest. And the Brooklyn night, suspected hallucinogenic contamination, never confirmed, never disproven.
+Four substances across four years. Lithium in 2017, detected in a metals panel, six times normal. Seroquel, witnessed by Tedla, admitted by Tara, confirmed in Steve's bloodstream in January 2018. Mycophenolic acid in 2019, thirteen times the reference range in Steve's urine, fourteen times normal in Aunt K's blood, zero on retest. And the Brooklyn night, suspected hallucinogenic contamination, never confirmed, never disproven.
 
 Each substance produced symptoms that were attributed to other causes by physicians who did not know to test for what they were not looking for. Each exposure showed the same signature: acute spike, metabolic clearance, normal readings between exposures. Not chronic environmental contamination. Not dietary. Not accidental. Deliberate administration followed by the body's natural clearance, a pattern visible only in retrospect, only when the data points were placed next to each other.
 
@@ -6389,7 +6389,7 @@ The evidence had always been there. It just needed someone to put the pieces nex
 
 **Phase VII | The Courts II | May 19, 2021 | ECS 78**
 
-Tags: 2021, Chappaqua, DiFabio, Family System, Humphrey, Institutional, Judge Schauer, Kelly Turnure, NY Family Court, Procedural Reset, Westchester, Yonkers
+Tags: 2021, Chappaqua, DiFabio, Family System, Humphrey, Institutional, Judge Schauer, Aunt K, NY Family Court, Procedural Reset, Westchester, Yonkers
 
 Evidence: 3 exhibits
   - hero
@@ -6556,17 +6556,17 @@ The case had been reset. The procedural error was undone. But the reset did not 
 
 The case had been reset. The clock returned to zero. Evie was three now — old enough to ask questions, old enough to notice who came to the door and who did not. Every procedural reset consumed months. Every month was time that could not be recovered. The file got thicker. The child got older. And each new judge started from scratch with a case she described as the largest she had ever seen, in a courtroom where the only acceptable form of participation was silence.
 
-Kelly walked out of the Yonkers courthouse that afternoon. She carried the legal pad she brought to every hearing — the notes she would type into a letter that evening, addressed to yet another judge, CC'd to yet another supervising justice, with the same evidence attached that every previous letter had attached and every previous recipient had declined to examine. Four judges. Four courtrooms. The same outcome: nothing changed for Evie.
+Aunt K walked out of the Yonkers courthouse that afternoon. She carried the legal pad she brought to every hearing — the notes she would type into a letter that evening, addressed to yet another judge, CC'd to yet another supervising justice, with the same evidence attached that every previous letter had attached and every previous recipient had declined to examine. Four judges. Four courtrooms. The same outcome: nothing changed for Evie.
 
 ---
 
 # [B36] Grandma's Letter
 
-> Steve asks the court to let his mother visit Evie instead. Linda Russell — a retired nurse who raised two sons who attended Stanford — drives thirteen hours round trip to Chappaqua. Walsh Sr. turns her away at the door. She persists. She gets the visits. She writes a letter to Judge Schauer documenting what she sees. Kelly publishes it on StevieLovesEvie.com.
+> Steve asks the court to let his mother visit Evie instead. Linda Russell — a retired nurse who raised two sons who attended Stanford — drives thirteen hours round trip to Chappaqua. Walsh Sr. turns her away at the door. She persists. She gets the visits. She writes a letter to Judge Schauer documenting what she sees. Aunt K publishes it on StevieLovesEvie.com.
 
 **Phase VII | The Courts II | May–August 2021 | ECS 88**
 
-Tags: 2021, Blog / StevieLovesEvie, Chappaqua, Documentation, Evie, Kelly Turnure, Linda Russell, Punxsutawney, Walsh Sr., Westchester
+Tags: 2021, Blog / StevieLovesEvie, Chappaqua, Documentation, Evie, Aunt K, Linda Russell, Punxsutawney, Walsh Sr., Westchester
 
 Evidence: 3 exhibits
   - hero
@@ -6611,7 +6611,7 @@ She did not leave Chappaqua.
       <span class="embed-source">StevieLovesEvie.com</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Kelly's account: "Grandma Linda drives thirteen hours trying to see Evie; Grumpa tells her to turn around, doesn't need to follow court orders." Linda arrived in Chappaqua, rented a hotel room. Tara went silent. When Linda called Walsh Sr., he picked up: "You can't just drop in unannounced. Grimma and I need two weeks notice. I don't care what the court order says." He refused lunch. He refused dinner. He would call her if he ever needed to. Half a mile away, Linda had set up a baby paradise with videos of Evie and Daddy ready to play on the TV. Everything got packed up and Grandma Linda headed home. Another six-and-a-half-hour drive.</p></div>
+    <div class="document-text"><p>Aunt K's account: "Grandma Linda drives thirteen hours trying to see Evie; Grumpa tells her to turn around, doesn't need to follow court orders." Linda arrived in Chappaqua, rented a hotel room. Tara went silent. When Linda called Walsh Sr., he picked up: "You can't just drop in unannounced. Grimma and I need two weeks notice. I don't care what the court order says." He refused lunch. He refused dinner. He would call her if he ever needed to. Half a mile away, Linda had set up a baby paradise with videos of Evie and Daddy ready to play on the TV. Everything got packed up and Grandma Linda headed home. Another six-and-a-half-hour drive.</p></div>
   </div>
   <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie, "Grandma Linda Drives Thirteen Hours"</span><span class="embed-caption-text">Six and a half hours each way. Walsh Sr. told her to turn around. She didn't.</span></div>
 </div>
@@ -6682,9 +6682,9 @@ No responsive judicial action appears in the docket.
 
 ---
 
-Kelly published the letter on StevieLovesEvie.com.
+Aunt K published the letter on StevieLovesEvie.com.
 
-The blog that Kelly had been building — the careful, systematic documentation of everything the court had refused to look at — now contained a grandmother's firsthand account of what she found when she arrived at the Walsh compound with a court order and a car seat she had bought herself.
+The blog that Aunt K had been building — the careful, systematic documentation of everything the court had refused to look at — now contained a grandmother's firsthand account of what she found when she arrived at the Walsh compound with a court order and a car seat she had bought herself.
 
 A nurse's clinical observations, in her own words, sat inside a record that already contained bruise photographs, supervisor reports, and court filings produced and never examined.
 
@@ -6706,7 +6706,7 @@ A grandmother drove thirteen.
 
 **Phase VII | The Courts II | November 5, 2021 | ECS 90**
 
-Tags: 2021, Blog / StevieLovesEvie, ChappaquaPoison, DiFabio, Documentation, Donna Genovese, Gag Order, Institutional, Jennifer Jackman, Judge Schauer, Kelly Turnure, Linda Russell, NY Family Court, Privacy Inversion, Prior Restraint, Yonkers
+Tags: 2021, Blog / StevieLovesEvie, ChappaquaPoison, DiFabio, Documentation, Donna Genovese, Gag Order, Institutional, Jennifer Jackman, Judge Schauer, Aunt K, Linda Russell, NY Family Court, Privacy Inversion, Prior Restraint, Yonkers
 
 Evidence: 3 exhibits
   - hero
@@ -6739,7 +6739,7 @@ Donna Genovese was appointed as the replacement Attorney for the Child.
 
 Genovese had spent thirty-five years in Westchester family law. She was a Fellow of the American Academy of Matrimonial Lawyers and certified for the Attorney for the Child Panel by the Appellate Division, Second Department — the same panel that Cambareri screened, the same roster that had produced Jackman. The pipeline did not pause when one of its attorneys departed. It produced the next one from the same inventory.
 
-In October 2021, Genovese filed two Orders to Show Cause, one directed at Steve, one at Linda Russell. The relief sought was specific: prohibit all postings about the case, and delete all existing blog content. StevieLovesEvie.com. ChappaquaPoison. Everything Kelly had built. Everything Linda had written. Every photograph, every court document excerpt, every blog post documenting what the institutions had refused to examine.
+In October 2021, Genovese filed two Orders to Show Cause, one directed at Steve, one at Linda Russell. The relief sought was specific: prohibit all postings about the case, and delete all existing blog content. StevieLovesEvie.com. ChappaquaPoison. Everything Aunt K had built. Everything Linda had written. Every photograph, every court document excerpt, every blog post documenting what the institutions had refused to examine.
 
 The motion was not filed by Tara. It was not filed by Tara's attorney. It was filed by the Attorney for the Child, the person appointed to represent Evie's interests.
 
@@ -6775,7 +6775,7 @@ Steve was not present. He was in California, three thousand miles from the court
 
 The hearing was on the calendar as numbers three through ten — eight dockets consolidated into a single afternoon in Part 17. Among them was the matter of Linda Russell's visitation. A scheduling conference. The kind of proceeding where attorneys negotiate dates and parameters for a grandmother to see her granddaughter.
 
-The court officer swore in the parties. Tara stood, raised her right hand, and when asked for her name and address for the record, gave her name and said her address was confidential. The court officer turned to Linda. Linda stood, raised her right hand, and when asked for her name and address, said: Linda Russell, 407 East Mohoning Street, Apartment 425, Punxsutawney, Pennsylvania, 15767. The woman who had driven six and a half hours gave the court her apartment number. The woman who lived twenty minutes away gave the court nothing.
+The court officer swore in the parties. Tara stood, raised her right hand, and when asked for her name and address for the record, gave her name and said her address was confidential. The court officer turned to Linda. Linda stood, raised her right hand, and when asked for her name and address, said: Linda Russell, Punxsutawney, Pennsylvania. The woman who had driven six and a half hours gave the court her apartment number. The woman who lived twenty minutes away gave the court nothing.
 
 Both were sworn. Both were seated. The court opened the hearing.
 
@@ -6853,7 +6853,7 @@ Erase. Deactivate. Delete.
 
 The three words carried the weight of institutional authority directed at the act of documentation itself.
 
-StevieLovesEvie had been built by Kelly Turnure — Steve's partner, a woman with no custody claim, no legal standing, no obligation to any of it — over months of careful, systematic work. One hundred and forty-six blog posts, organized into four hardbound volumes on a shelf in Steve's house. The blog contained nanny incident reports from the period when Evie was in the Walshes' care. It contained photographs of bruises on a child's body. It contained Kelly's written accounts of supervised visits — what Evie said, what Evie ate, whether Evie seemed afraid. It contained court filings that the court system had generated and that the court system now wanted removed from public view. It contained a grandmother's letters to judges.
+StevieLovesEvie had been built by Aunt K — Steve's partner, a woman with no custody claim, no legal standing, no obligation to any of it — over months of careful, systematic work. One hundred and forty-six blog posts, organized into four hardbound volumes on a shelf in Steve's house. The blog contained nanny incident reports from the period when Evie was in the Walshes' care. It contained photographs of bruises on a child's body. It contained Aunt K's written accounts of supervised visits — what Evie said, what Evie ate, whether Evie seemed afraid. It contained court filings that the court system had generated and that the court system now wanted removed from public view. It contained a grandmother's letters to judges.
 
 The order did not distinguish between the grandmother's letters and the bruise photographs. It did not carve out the nanny reports or the visit documentation. It directed the removal of all existing blog content. The word was "erase." The four volumes on the shelf. The act of building them. The fact that someone had thought the evidence deserved not just documentation but permanence, binding, arrangement — erase.
 
@@ -6895,7 +6895,7 @@ Evidence: 4 exhibits
   - secondary
   - tertiary
 
-Kelly had left.
+Aunt K had left.
 
 Not all at once. The leaving had been slow — a withdrawal Steve could feel but couldn't stop. She had driven with him to every hearing. She had checked the tires every morning because twice they had been deflated in the night. She had built a blog documenting everything and a court had ordered it erased. She had been poisoned by a bottle of wine. She had lost a baby.
 
@@ -6903,7 +6903,7 @@ She left because staying meant becoming another thing that Tara and the Walshes 
 
 The last virtual visit with Evie had come and gone. The gag orders were tightening, first the restrictions after Grandma's letter, then the formalizations, each version more specific than the last.
 
-The house in Reno sat at the edge of the desert, high ground, a cliff face looking out over nothing in particular. Steve stood on the property and tried to see what was in front of him. The defaults. The gag orders. The blog under siege. Kelly gone. The wine bottle that had killed her pregnancy because he'd been too stubborn to leave his old life behind.
+The house in Reno sat at the edge of the desert, high ground, a cliff face looking out over nothing in particular. Steve stood on the property and tried to see what was in front of him. The defaults. The gag orders. The blog under siege. Aunt K gone. The wine bottle that had killed her pregnancy because he'd been too stubborn to leave his old life behind.
 
 His mother had stopped visiting.
 
@@ -6923,7 +6923,7 @@ The cure was the weapon. Admit, and the admission becomes the record. Go to reha
 
 Steve stood on the cliff edge in Reno.
 
-The people around him, his mother, his friends, Kelly before she left, wanted him to take treatment. The Walshes wanted him to take treatment too. Both were offering the same cure, which meant accepting the same diagnosis: that Steve was the problem and the solution was his admission.
+The people around him, his mother, his friends, Aunt K before she left, wanted him to take treatment. The Walshes wanted him to take treatment too. Both were offering the same cure, which meant accepting the same diagnosis: that Steve was the problem and the solution was his admission.
 
 He needed to go somewhere.
 
@@ -7320,7 +7320,7 @@ The California jury heard the evidence and reached a verdict. The Westchester fa
 
 **Phase VIII | The Trial | April 20–26, 2021 | ECS 92**
 
-Tags: 2021, Walsh Sr., Brendan Walsh, Maura Walsh, Matan Gavish, Frank S. Moore, Joy Llaguno, Deposition, Kelly Turnure, Coached Denial, Obstruction, Two Court Systems, Attorney Destruction
+Tags: 2021, Walsh Sr., Brendan Walsh, Maura Walsh, Matan Gavish, Frank S. Moore, Joy Llaguno, Deposition, Aunt K, Coached Denial, Obstruction, Two Court Systems, Attorney Destruction
 
 Evidence: 4 exhibits
   - hero
@@ -7342,7 +7342,7 @@ By April 2021, four depositions had been scheduled across three days. All four c
 
 ---
 
-On April 23, 2021, at 1:08 PM, Brendan Walsh was sworn in at the Carriage House, the secondary structure on the Walsh compound at 394 Whippoorwill Road, set back from the main residence along the same wooded driveway that three sheriff's deputies had climbed without ever reaching a person willing to accept service. The Carriage House had its own entrance, its own rooms, its own address for purposes of appearing to be somewhere other than the family home. In the video frame, the exposed dark beams of the Carriage House ceiling are visible above him, timber beams that could have belonged to a farmhouse built decades before the Walsh family built their compound. He wears a teal zip-up jacket. White earbuds. He is looking down and to the side — away from the camera, away from the question, the posture of a man who has been told what not to say and has arranged his body accordingly. Joy Llaguno, the attorney representing Steve in the California battery case, was deposing him by video from Pennsylvania.
+On April 23, 2021, at 1:08 PM, Brendan Walsh was sworn in at the Carriage House, the secondary structure on the Walsh compound at Whippoorwill Road, set back from the main residence along the same wooded driveway that three sheriff's deputies had climbed without ever reaching a person willing to accept service. The Carriage House had its own entrance, its own rooms, its own address for purposes of appearing to be somewhere other than the family home. In the video frame, the exposed dark beams of the Carriage House ceiling are visible above him, timber beams that could have belonged to a farmhouse built decades before the Walsh family built their compound. He wears a teal zip-up jacket. White earbuds. He is looking down and to the side — away from the camera, away from the question, the posture of a man who has been told what not to say and has arranged his body accordingly. Joy Llaguno, the attorney representing Steve in the California battery case, was deposing him by video from Pennsylvania.
 
 The phrase arrived early and it did not leave.
 
@@ -7419,7 +7419,7 @@ Moore was Walsh Sr.'s cowardice made operational.
 
 At the driveway confrontation, Walsh Sr. had retreated from a five-foot-one nineteen-year-old nanny in a passenger seat when she attempted to hand him a letter at the compound. He could not confront a young woman holding a piece of paper. So he hired a man to tell women to shut up on the record.
 
-Kelly had been watching this pattern for years. Six attorneys had represented Tara in the California case. Six had withdrawn, each departure following the same sequence. The attorney accepts the case, receives Tara's version, files aggressive motions, encounters the actual evidence, and resigns. Kelly called it "a twisted version of Groundhog's Day with each new attorney following the same pattern." She wrote this to Moore himself, on the day of Brendan's deposition, in a letter that attached LaMelle's signed statement and the letter to Judge Furman.
+Aunt K had been watching this pattern for years. Six attorneys had represented Tara in the California case. Six had withdrawn, each departure following the same sequence. The attorney accepts the case, receives Tara's version, files aggressive motions, encounters the actual evidence, and resigns. Aunt K called it "a twisted version of Groundhog's Day with each new attorney following the same pattern." She wrote this to Moore himself, on the day of Brendan's deposition, in a letter that attached LaMelle's signed statement and the letter to Judge Furman.
 
 The seventh attorney did not resign. Moore was not Tara's attorney in the way the previous six had been. He did not file motions. He did not appear in court. He appeared only at depositions, all four, across three days, and his role at each was identical: interrupt, demean, obstruct, and when Llaguno attempted to preserve the record, tell her to shut up.
 
@@ -7431,7 +7431,7 @@ Walsh Sr. told Llaguno under oath: "I would — I would — I would humor him be
   <div class="email-header">
     <div class="email-header-row">
       <span class="email-header-label">From:</span>
-      <span class="email-header-value">Kelly Turnure</span>
+      <span class="email-header-value">Aunt K</span>
     </div>
     <div class="email-header-row">
       <span class="email-header-label">To:</span>
@@ -7452,20 +7452,20 @@ Walsh Sr. told Llaguno under oath: "I would — I would — I would humor him be
     <p>"You may have thought Tara gave you a good sense of the case, but now you may suspect you've been carrying water for nonsense."</p>
   </div>
   <div class="email-caption">
-    <span class="embed-exhibit-id">Kelly Turnure Letter to Walsh Attorney, April 23, 2021</span>
+    <span class="embed-exhibit-id">Aunt K Letter to Walsh Attorney, April 23, 2021</span>
     <span class="embed-caption-text">Correspondence file. Sent the same day as Brendan Walsh's deposition, with LaMelle's signed statement attached.</span>
   </div>
 </div>
 
 ---
 
-That same afternoon, at 4:18 PM, Maura Walsh was sworn in at the Walsh family residence at 394 Whippoorwill Road, Chappaqua. She gave her address under oath. It was the same address where Walsh Sr. had told the sheriff she no longer lived, one of the three occasions he evaded service on family members by claiming they were not there.
+That same afternoon, at 4:18 PM, Maura Walsh was sworn in at the Walsh family residence at Whippoorwill Road, Chappaqua. She gave her address under oath. It was the same address where Walsh Sr. had told the sheriff she no longer lived, one of the three occasions he evaded service on family members by claiming they were not there.
 
 Maura was deposed in the house where Evie lived. She testified about drugging and kidnapping and psychiatric fraud in the rooms below the finished attic where Evie lived. The setting was not incidental. It was the architecture of the family's position: everything that happened, happened here, in our home, and it is none of your business.
 
 "Private family matter."
 
-The phrase functioned as Maura's version of Brendan's coached blank — not "I have no current recollection" but "I'm not discussing that." She invoked familial privacy against every substantive question about Tara, about communications, about finances, about medical decisions. "My relationship with my family is private information." "I'm not discussing family matters. It's private." "Tara has a right to privacy." Kelly counted forty-seven accusations of harassment directed at Llaguno across the deposition.
+The phrase functioned as Maura's version of Brendan's coached blank — not "I have no current recollection" but "I'm not discussing that." She invoked familial privacy against every substantive question about Tara, about communications, about finances, about medical decisions. "My relationship with my family is private information." "I'm not discussing family matters. It's private." "Tara has a right to privacy." Aunt K counted forty-seven accusations of harassment directed at Llaguno across the deposition.
 
 When asked whether she knew Tara had given Steve drugs without his knowledge or consent, Maura answered: "Um, no."
 
@@ -7486,7 +7486,7 @@ Above them, in the finished attic of the same house, Evie was three. The compoun
   <div class="court-body">
     <div class="witness-block">
       <div class="witness-name">MAURA WALSH, Deponent</div>
-      <div class="witness-role">Deposed at 394 Whippoorwill Road, Chappaqua, NY</div>
+      <div class="witness-role">Deposed at Whippoorwill Road, Chappaqua, NY</div>
     </div>
     <div class="court-qa">
       <div class="qa-line">
@@ -7533,7 +7533,7 @@ Above them, in the finished attic of the same house, Evie was three. The compoun
 
 ---
 
-Three days later, on April 26, 2021, at 12:03 PM, Walsh Sr. was sworn in. He was alone at 394 Whippoorwill Road, sitting in front of a Chromebook with no other programs open and no documents in front of him. No documents, though the subpoena had requested them. No search, though six years of emails and text messages sat in the device in his hands.
+Three days later, on April 26, 2021, at 12:03 PM, Walsh Sr. was sworn in. He was alone at Whippoorwill Road, sitting in front of a Chromebook with no other programs open and no documents in front of him. No documents, though the subpoena had requested them. No search, though six years of emails and text messages sat in the device in his hands.
 
 His first question was not about the case. It was about whether Steve was watching. "Is Stephen Russell participating? Is he in your office, by any chance?" Llaguno told him no. "So he's not — he's not tuned in anywhere?" No. "I — I'm sure he's on right now, but whatever." The man who had evaded three sheriff's deputies to avoid being served was now, under oath, performing the same vigilance in a different register: not hiding from the process but scanning the room for the person the process concerned.
 
@@ -7746,7 +7746,7 @@ Three days. Four depositions. One attorney. One family. One set of identical den
 
 The court reporter's voice threaded through all four transcripts, the neutral professional trying to preserve a record while one attorney tried to make it useless and four witnesses tried to make it empty. "Please speak one at a time." "Counsel, your record will not be clear." She was the only person in the room whose job did not require choosing sides, and the record she preserved would outlast every denial on it.
 
-Kelly wrote Moore the same day Brendan was deposed. She attached LaMelle's signed statement. She attached the letter to Judge Furman. She told Moore what she had told every attorney before him: the evidence exists, the evidence is clear, the evidence is enclosed. "You may have thought Tara gave you a good sense of the case, but now you may suspect you've been carrying water for nonsense."
+Aunt K wrote Moore the same day Brendan was deposed. She attached LaMelle's signed statement. She attached the letter to Judge Furman. She told Moore what she had told every attorney before him: the evidence exists, the evidence is clear, the evidence is enclosed. "You may have thought Tara gave you a good sense of the case, but now you may suspect you've been carrying water for nonsense."
 
 Moore did not reply. He was not the seventh attorney who resigned. He was not the sixth, or the fifth, or any of the ones who encountered the evidence and left. Moore stayed. Six attorneys had seen the evidence and concluded they could not represent Tara Walsh in good conscience. Frank S. Moore saw the same evidence and concluded that his job was not to represent Tara Walsh. His job was to make sure that when the other side asked questions, no one had to answer them.
 
@@ -7782,7 +7782,7 @@ The case would accumulate eighty-nine entries in its register of actions over th
 
 ---
 
-Six weeks after the complaint was filed, on January 14, 2021, Officer Christopher Barnett of the Westchester County Sheriff's Office arrived at 394 Whippoorwill Road, Chappaqua. The electronic gate was at the bottom. The driveway climbed a quarter mile through woods to the compound at the top.
+Six weeks after the complaint was filed, on January 14, 2021, Officer Christopher Barnett of the Westchester County Sheriff's Office arrived at Whippoorwill Road, Chappaqua. The electronic gate was at the bottom. The driveway climbed a quarter mile through woods to the compound at the top.
 
 Walsh Sr. was served at 6:54 PM on January 15. The return described him: male, approximately fifty to fifty-five years of age, one hundred and seventy-five pounds, five feet ten inches, white, grey hair.
 
@@ -7809,7 +7809,7 @@ Three weeks after the sheriff's visit, private investigator Alexander Saavedra a
 The man who told the sheriff his daughter did not live there accepted her legal papers three weeks later at the same address, acknowledged she lived there, and explained, pleasantly, that she was tired of being served there. The child had been in Tara's arms when she retreated from the door. Evie, at two, already part of the choreography of evasion.
 
 <div class="document-card" data-exhibit="LEGAL-KIDNAP-SHERIFF-LIE">
-  <img src="../Evidence/photos/extracted_pages/LEGAL-KIDNAP-SHERIFF-LIE.png" alt="Westchester County Sheriff's Certificate of Attempted Service, dated January 15, 2021. Officer Christopher Barnett certifies attempted service at 394 Whippoorwill Road, Chappaqua. Checkbox marked: Subject moved, left no forwarding address. Remarks: Stephen Walsh was served, however he stated that both Maura and Tara Walsh no longer lived at the given address. Walsh also stated he would not provide me with their current address." loading="lazy">
+  <img src="../Evidence/photos/extracted_pages/LEGAL-KIDNAP-SHERIFF-LIE.png" alt="Westchester County Sheriff's Certificate of Attempted Service, dated January 15, 2021. Officer Christopher Barnett certifies attempted service at Whippoorwill Road, Chappaqua. Checkbox marked: Subject moved, left no forwarding address. Remarks: Stephen Walsh was served, however he stated that both Maura and Tara Walsh no longer lived at the given address. Walsh also stated he would not provide me with their current address." loading="lazy">
   <div class="document-card-caption">
     <span class="embed-exhibit-id">Sheriff's Certificate of Attempted Service, January 15, 2021</span>
     <span class="embed-caption-text">Westchester County Sheriff's Civil Unit, File 21000014. Officer Christopher Barnett, Badge 1024. Both women lived there.</span>
@@ -7817,7 +7817,7 @@ The man who told the sheriff his daughter did not live there accepted her legal 
 </div>
 
 <div class="document-card" data-exhibit="LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT">
-  <img src="../Evidence/photos/extracted_pages/LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT.png" alt="Affidavit of Service by Alexander Saavedra, licensed private detective, State of New Jersey. Describes serving Subpoena and Notice of Deposition on Tara Walsh at 394 Whippoorwill Rd, Chappaqua. The residence has a gated entrance which opened automatically. A child of approximately 2 years was visible inside the storm door. A slim figured woman with blonde hair, later identified as Tara Walsh, came forward, looked at him, and took the child away. A gentleman of approximately 60 years was quite pleasant and stated I will accept it." loading="lazy">
+  <img src="../Evidence/photos/extracted_pages/LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT.png" alt="Affidavit of Service by Alexander Saavedra, licensed private detective, State of New Jersey. Describes serving Subpoena and Notice of Deposition on Tara Walsh at Whippoorwill Rd, Chappaqua. The residence has a gated entrance which opened automatically. A child of approximately 2 years was visible inside the storm door. A slim figured woman with blonde hair, later identified as Tara Walsh, came forward, looked at him, and took the child away. A gentleman of approximately 60 years was quite pleasant and stated I will accept it." loading="lazy">
   <div class="document-card-caption">
     <span class="embed-exhibit-id">Affidavit of Service, Alexander Saavedra, PI, February 6, 2021</span>
     <span class="embed-caption-text">Filed July 2, 2021. The man who told the sheriff his daughter did not live there accepted her legal papers three weeks later.</span>
@@ -7894,7 +7894,7 @@ Walsh Sr. was no longer a party to the kidnapping case. But the attorneys on the
 
 On October 26, 2021, Michaela G. Davies of Robison, Sharp, Sullivan & Brust, a firm in Reno, Nevada, eleven hundred miles from the Walsh compound and three thousand from the San Francisco courthouse, substituted as Steve's counsel. She was the attorney who actually did the work.
 
-In March 2022, Davies filed an OSC declaration that assembled the entire service evasion into a single document. She cited the sheriff's return, then dismantled it: Walsh Sr. told the sheriff Maura and Tara didn't live there, but Maura testified under oath three months later that her address was 394 Whippoorwill Road. Tara filed a Proof of Service in the battery case listing the family home. The court served Tara the jury verdict at the family home. Tara gave the family home as her address at trial. Tara acknowledged the kidnapping case itself in her JNOV declaration, calling it "a separate lawsuit suing my parents and I in San Francisco," which meant she knew about the case, knew about the complaint, and chose not to respond. Davies filed POS-040 proving certified mail and email service to Maura and Tara at addresses they demonstrably used. Her conclusion: "It cannot be reasonably disputed that Tara and Maura have intentionally and improperly evaded service, and that Tara and Maura have actual notice of this action."
+In March 2022, Davies filed an OSC declaration that assembled the entire service evasion into a single document. She cited the sheriff's return, then dismantled it: Walsh Sr. told the sheriff Maura and Tara didn't live there, but Maura testified under oath three months later that her address was Whippoorwill Road. Tara filed a Proof of Service in the battery case listing the family home. The court served Tara the jury verdict at the family home. Tara gave the family home as her address at trial. Tara acknowledged the kidnapping case itself in her JNOV declaration, calling it "a separate lawsuit suing my parents and I in San Francisco," which meant she knew about the case, knew about the complaint, and chose not to respond. Davies filed POS-040 proving certified mail and email service to Maura and Tara at addresses they demonstrably used. Her conclusion: "It cannot be reasonably disputed that Tara and Maura have intentionally and improperly evaded service, and that Tara and Maura have actual notice of this action."
 
 For the first time, an attorney had assembled the lie and its refutation into one filing.
 
@@ -8145,14 +8145,14 @@ Being right in two jurisdictions is not the same as being restored in one.
 
 **Phase VIII | The Trial | February 16, 2022 | ECS 92**
 
-Tags: 2022, Abby Tedla, Brienne Walsh, Kelly Turnure, Rashmi, SF Superior Court, San Francisco, Tara Walsh, Text Messages, The Proper Hotel, Trial, Two Court Systems, Garrett L. Wong, Brian D. Waller
+Tags: 2022, Abby Tedla, Brienne Walsh, Aunt K, Rashmi, SF Superior Court, San Francisco, Tara Walsh, Text Messages, The Proper Hotel, Trial, Two Court Systems, Garrett L. Wong, Brian D. Waller
 
 Evidence: 3 exhibits
   - hero
   - primary
   - secondary
 
-Kelly came back.
+Aunt K came back.
 
 They were not together, she had left before Bora Bora, before the inquest, before the gag order was formalized. But the battery case had a trial date now, and when it became clear that Steve might not go without her, she came back. Not as a partner. As a person who understood what had happened and was not willing to let him face a courtroom alone.
 
@@ -8172,7 +8172,7 @@ She was representing herself.
 
 
 <div class="photo-card" data-exhibit="B-9_02">
-  <img src="../Evidence/photos/evidence/B-9_jury-verdict-cover.jpg" alt="Cover page of the Second Amended Judgment on Jury Verdict, Russell v. Walsh, Case No. CGC-18-570137, Superior Court of California, County of San Francisco. Filed February 22, 2022." loading="lazy">
+  <img src="../Evidence/photos/evidence/B-9_jury-verdict-cover.jpg" alt="Cover page of the Second Amended Judgment on Jury Verdict, Russell v. Walsh, Case No. CGC-18-570137, Superior Court of California, County of San Francisco. Verdict returned February 22, 2022; judgment filed August 11, 2022." loading="lazy">
   <div class="photo-card-caption"><span class="embed-exhibit-id">Second Amended Judgment on Jury Verdict, Russell v. Walsh, CGC-18-570137</span><span class="embed-caption-text">The judgment incorporating the jury's findings. Battery, domestic violence, malice, fraud — every cause of action decided against Walsh.</span></div>
 </div>
 
@@ -8191,7 +8191,7 @@ The only person in the gallery for Tara was her friend Rashmi.
 
 Steve looked at the empty seats behind Tara and said it out loud, to no one in particular: "No one is here to help Tara. Some family. Why would they do this to her. It's like they want her to fail."
 
-Kelly was there. She sat behind Steve. She had returned in order to sit in a courtroom gallery and watch the system work for once.
+Aunt K was there. She sat behind Steve. She had returned in order to sit in a courtroom gallery and watch the system work for once.
 
 ---
 
@@ -8275,7 +8275,7 @@ Twelve people had heard it. They retired to deliberate.
 
 *They retired to deliberate.*
 
-Steve walked out of the courtroom and stood in the hallway. Kelly was there. After years of proceedings where the evidence was managed rather than tested — the judges who recused, the supervisors who were removed, the AFC who placed the word *bruises* in quotation marks — the question of what happened had finally been placed in the hands of people who had no reason to look away. Would it matter? Would twelve strangers do what the institutions had refused to? He did not know. He only knew that for the first time, someone had heard the whole story. Whether they believed it was another question. Whether believing it would change anything for Evie was the question he could not ask out loud.
+Steve walked out of the courtroom and stood in the hallway. Aunt K was there. After years of proceedings where the evidence was managed rather than tested — the judges who recused, the supervisors who were removed, the AFC who placed the word *bruises* in quotation marks — the question of what happened had finally been placed in the hands of people who had no reason to look away. Would it matter? Would twelve strangers do what the institutions had refused to? He did not know. He only knew that for the first time, someone had heard the whole story. Whether they believed it was another question. Whether believing it would change anything for Evie was the question he could not ask out loud.
 
 ---
 
@@ -8294,7 +8294,7 @@ Evidence: 3 exhibits
 
 The jury deliberated over a long weekend.
 
-Department 504 of the San Francisco Superior Court, Judge Garrett L. Wong presiding. February 2022. Steve sat at the plaintiff's table with his attorney, Brian Waller of Peckar & Abramson. Tara sat at the defense table alone — she had represented herself through the five-day trial. Kelly sat in the gallery behind Steve, where she had sat in every courtroom since Westchester. This was not a Westchester courtroom. There were no rotating judges, no defaults entered in absence, no supervisors appointed by name. There were twelve strangers in a jury box who had been asked to weigh the evidence and return a verdict.
+Department 504 of the San Francisco Superior Court, Judge Garrett L. Wong presiding. February 2022. Steve sat at the plaintiff's table with his attorney, Brian Waller of Peckar & Abramson. Tara sat at the defense table alone — she had represented herself through the five-day trial. Aunt K sat in the gallery behind Steve, where she had sat in every courtroom since Westchester. This was not a Westchester courtroom. There were no rotating judges, no defaults entered in absence, no supervisors appointed by name. There were twelve strangers in a jury box who had been asked to weigh the evidence and return a verdict.
 
 Twelve people sat in a room with the evidence. The testimony. The documents. The text messages projected on a screen. A nanny's account of a request that had been made repeatedly, over months, to drug a man's wine without his knowledge. A deposition from a sister, from inside the family, describing a household where children were hit. Laboratory reports showing substances in a man's body that no doctor had prescribed. And the defendant's own words, under oath, constructing a denial that collapsed under the weight of what her own devices had recorded.
 
@@ -8307,9 +8307,9 @@ The presiding juror signed five verdict forms.
 
 <div class="photo-card" data-exhibit="B-9_03">
   <div class="embed-body">
-    <img src="../Evidence/photos/evidence/B-9_jury-verdict-findings.jpg" alt="Page 3 of the Second Amended Judgment on Jury Verdict, Russell v. Walsh, CGC-18-570137. Typed judgment incorporating jury findings: battery established, self-defense rejected, damages awarded ($185,000 past economic loss, $90,000 past noneconomic loss). San Francisco Superior Court, February 22, 2022." loading="lazy">
+    <img src="../Evidence/photos/evidence/B-9_jury-verdict-findings.jpg" alt="Page 3 of the Second Amended Judgment on Jury Verdict, Russell v. Walsh, CGC-18-570137. Typed judgment incorporating jury findings: battery established, self-defense rejected, damages awarded ($185,000 past economic loss, $90,000 past noneconomic loss). San Francisco Superior Court. Verdict returned February 22, 2022; judgment filed August 11, 2022." loading="lazy">
   </div>
-  <div class="photo-card-caption"><span class="embed-exhibit-id">Second Amended Judgment, Jury Findings on Battery, February 22, 2022</span><span class="embed-caption-text">The judgment recording what the jury found. Every question answered. Every answer against Walsh. The self-defense claim rejected.</span></div>
+  <div class="photo-card-caption"><span class="embed-exhibit-id">Second Amended Judgment, Jury Findings on Battery — Verdict of February 22, 2022</span><span class="embed-caption-text">The judgment recording what the jury found. Every question answered. Every answer against Walsh. The self-defense claim rejected.</span></div>
 </div>
 
 
@@ -8339,7 +8339,7 @@ The vote was eleven to one.
 
 *Eleven to one.*
 
-The number moved through Steve before the language did. Years of family court proceedings: the defaults, the recusals, the orders entered without hearings. And now a number. Not a judge's discretion. Not a supervisor's recommendation. The considered judgment of eleven people who had sat through five days of evidence and decided, independently, that what he had been saying since the kitchen in North Beach was true. He waited for the feeling he had imagined, vindication, relief, the lifting of a weight. What arrived instead was quieter: the recognition that it should not have taken this long for someone to look. Kelly was behind him. He did not turn around. The verdict confirmed what had happened, and confirming it made the weight heavier, not lighter, because now it was real in a room full of strangers, and real was what he had been asking for, and real was not the same as fixed.
+The number moved through Steve before the language did. Years of family court proceedings: the defaults, the recusals, the orders entered without hearings. And now a number. Not a judge's discretion. Not a supervisor's recommendation. The considered judgment of eleven people who had sat through five days of evidence and decided, independently, that what he had been saying since the kitchen in North Beach was true. He waited for the feeling he had imagined, vindication, relief, the lifting of a weight. What arrived instead was quieter: the recognition that it should not have taken this long for someone to look. Aunt K was behind him. He did not turn around. The verdict confirmed what had happened, and confirming it made the weight heavier, not lighter, because now it was real in a room full of strangers, and real was what he had been asking for, and real was not the same as fixed.
 
 Evie had been born on January 27, 2018. She had turned four less than a month before the verdict. She was in Chappaqua, behind the gate, in the compound with five buildings and the electronic lock. The last time she had seen her father she was one and a half — a toddler carried down a driveway in the dark by a supervisor who would be removed the following week. The gag order had been in effect since November. The number eleven-to-one could not reach her. No verdict, however unanimous, however documented, however entered into a court file in a jurisdiction three thousand miles away, could pass through the gate.
 
@@ -8349,7 +8349,7 @@ During the trial, one juror had appeared especially engaged. He sat forward, too
 
 When the verdict was returned after the long weekend, the same juror avoided eye contact. He kept his head down. He left the courtroom immediately.
 
-The other eleven jurors stayed. Several spoke with the attorneys and with Steve and Kelly. They said what people say when they have heard something that disturbed them and feel the weight of having been asked to render judgment on it.
+The other eleven jurors stayed. Several spoke with the attorneys and with Steve and Aunt K. They said what people say when they have heard something that disturbed them and feel the weight of having been asked to render judgment on it.
 
 The holdout juror was gone.
 
@@ -8479,7 +8479,7 @@ Evie was five. She had never seen a courtroom. She did not know that two appella
 
 **Phase IX | The Record | 2023–2026 | ECS 90**
 
-Tags: 2023, 2024, 2025, 2026, Archive, Blog / StevieLovesEvie, Bowman, Documentation, Evidence Books, Five Archives, Griffin, Hugh Jasne, Motion to Vacate, Procedural Supremacy, Resolution, Schauer, Westchester
+Tags: 2023, 2024, 2025, 2026, Archive, Blog / StevieLovesEvie, Bowman, Documentation, Evidence Books, Five Archives, Griffin, Motion to Vacate, Procedural Supremacy, Resolution, Schauer, Westchester
 
 Evidence: 3 exhibits
   - hero
@@ -8532,7 +8532,7 @@ The archive was never intended to be this large.
 
 Steve had built surveillance systems for 3VR — equipment that watched airports, banks, transit stations. He recorded his household with the same precision, the same chain of custody, the same belief that documentation could speak for itself.
 
-Kelly built the books. She wrote the blog. She treated the evidence the way Steve had taught her: systematic, sourced, arranged so that the pattern was visible.
+Aunt K built the books. She wrote the blog. She treated the evidence the way Steve had taught her: systematic, sourced, arranged so that the pattern was visible.
 
 People could see it. Most of them chose not to.
 
@@ -8576,7 +8576,7 @@ Three mutually exclusive characterizations of the same judicial event. None of t
 
 In December 2025, a motion had arrived at the Westchester County Family Court.
 
-Respondent Stephen Grant Russell, by his attorneys Hugh Jasne, Esq. and Dan Florio Jr., Esq. of Jasne & Florio LLP, respectfully moved for an order vacating all prior orders in the matter.
+Respondent Stephen Grant Russell, appearing pro se, respectfully moved for an order vacating all prior orders in the matter.
 
 
 <div class="court-facsimile" data-exhibit="ExJJ_05">
@@ -8588,9 +8588,9 @@ Respondent Stephen Grant Russell, by his attorneys Hugh Jasne, Esq. and Dan Flor
   <div class="court-body">
     <p>CPLR &sect;&sect; 5015(a)(3), (a)(4); FCA &sect;&sect; 434, 446, 842; DRL &sect; 75-i; DRL &sect; 240; U.S. Const. Amend. I, XIV.</p>
     <p>Six independently dispositive grounds.</p>
-    <p>Filed by Hugh Jasne, Esq. and Dan Florio Jr., Esq., Jasne &amp; Florio LLP.</p>
+    <p>Filed pro se by Stephen Grant Russell.</p>
   </div>
-  <div class="court-caption"><span class="embed-exhibit-id">Motion to Vacate All Prior Orders, Filed December 18, 2025</span><span class="embed-caption-text">The existing orders are void ab initio. The Court is not asked to exercise discretion. It is compelled by the law of the case to act.</span></div>
+  <div class="court-caption"><span class="embed-exhibit-id">Motion to Vacate All Prior Orders, Filed December 2025</span><span class="embed-caption-text">The existing orders are void ab initio. The Court is not asked to exercise discretion. It is compelled by the law of the case to act.</span></div>
 </div>
 
 
@@ -8628,7 +8628,7 @@ Evie was eight. She was born January 27, 2018. The last time she had seen her fa
 
 The archive is not a repository. It is a witness.
 
-Five independent archives survived every silencing attempt: the Backup, the Books, the Blog, the Podcast, the Court Record. Each has an origin story, a silencing attempt, and a survival story. Each carries a voice, Kelly's systematic love, Tara's scheme speaking to itself, Brienne's imperfect testimony, Petrella's journalism, and the institutional authority of the court record at both its worst and its best.
+Five independent archives survived every silencing attempt: the Backup, the Books, the Blog, the Podcast, the Court Record. Each has an origin story, a silencing attempt, and a survival story. Each carries a voice, Aunt K's systematic love, Tara's scheme speaking to itself, Brienne's imperfect testimony, Petrella's journalism, and the institutional authority of the court record at both its worst and its best.
 
 Together they hold what no single institution was willing to hold: the complete documentary record of a coordinated scheme, covert pharmaceutical poisoning, fabrication of a psychiatric narrative, organized institutionalization attempts, coordinated isolation, financial manipulation, and narrative amplification through institutions, confirmed by a jury of twelve, affirmed on appeal, and still, in the Family Court that produced the orders governing a child's life, unexamined.
 
@@ -8739,9 +8739,9 @@ The trap had an architect. And the architect's defining quality was not cunning.
 
 # [B49] The Coward
 
-> A portrait of Stephen Walsh Sr. built from scenes, not diagnosis. The man who confronted a father in a public roadway but retreated from a five-foot-one nanny. Who arranged the ambush but was not in the car. Who would not fly six hours during a crisis his granddaughter was living through. Who turned a grandmother away at his own door. Whose stammer under oath arrived whenever the questioning approached the truth, and vanished for the single rehearsed line. The mechanism had an architect. The architect's defining quality was the inability to remain in a room where cost was about to arrive.
+> A portrait of Stephen Walsh Sr. built from scenes, not diagnosis. The man who confronted a father in a public roadway but retreated from a five-foot-one nanny. Who arranged the ambush but was not in the car. Whose stammer under oath arrived whenever the questioning approached the truth.
 
-**Phase IX | The Record | 2025**
+**Phase IX | The Record | 2018–2021**
 
 Tags: 2018, 2019, 2021, Chappaqua, Cowardice, Evie, Family System, Linda Russell, Tara Walsh, Walsh Sr., Westchester
 
@@ -8750,76 +8750,50 @@ Evidence: 3 exhibits
   - primary
   - secondary
 
-A coward, in the way this story uses the word, is not a frightened man. A coward is a man who arranges the fear so it belongs to everyone else.
-
-Stephen Walsh is not difficult to describe. He is a former bond trader from the Drexel Burnham Lambert era who lives on a seven-acre estate on Whippoorwill Road in Chappaqua. He raised four children. He exercises authority the way certain men do — not by demanding silence but by occupying the room so completely that silence is offered. He can be charming. He can be warm. He can deploy both qualities with the precision of instruments. He would say — and there is no reason to doubt he believes it — that he was protecting his family. That the man from San Francisco was unstable. That the courts had confirmed it. That a grandfather who keeps a dangerous person away from his grandchild is not a coward but a guardian. Under oath he went further: he said he took Tara's own claims with a grain of salt, that he was disappointed and angry with her for going to San Francisco in the first place, that he was not going to allow her to play the victim. He saw through the narrative. He used it anyway. The coward's clarity is not the absence of insight. It is insight deployed only where deploying it costs nothing.
-
-What he cannot do is remain in a room where the cost of what he has permitted is about to arrive.
-
----
-
-At Visit 15, a Sunday in 2019, Walsh Sr. followed Steve's car up Bedford Road and blocked access to the compound. He exited his vehicle, red-faced and shaking, and told Steve he was taking the girls home from school. It was Sunday. There were no girls to take home. But when he noticed the nanny in the passenger seat — Talia, a witness who could document what she saw — he stopped. He got back in his car. He left.
-
-The man who had confronted a father in a public roadway could not hold his position in the presence of a witness who might write it down.
-
-On the night of September 21, the compound's electronic gate opened for the supervised visit and closed behind the court-appointed supervisor. Walsh Sr. was inside the house. His son was in a blacked-out car parked among the bushes at the bottom of the driveway with what appeared to be a bat between his legs. His compound. His gate. His son. His absence from the car was not incidental. It was the design.
-
-When Tara was in San Francisco and the apartment was becoming dangerous and Steve was texting for help, Walsh Sr. emailed from Chappaqua: *I am giving Tara permission to leave.* An adult father granting permission for his adult daughter to travel with her own child — conditioning, framing, authorizing, managing. He did not arrive. Under oath, two years later, he offered his explanation: "A six-hour flight is not something people simply do on demand."
-
-Linda Russell drove six and a half hours from Punxsutawney, Pennsylvania, to Chappaqua. Four times in a single month. Linda Russell is a retired nurse from a small town. Walsh Sr. purchased a seven-acre estate with proceeds from an era when the proceeds were substantial. The resources were not the issue. The movement toward the child was the issue. One person moved. The other managed.
-
-When Linda arrived at the compound, Walsh Sr. met her at the door. He informed her she could not see Evie. He required two weeks' notice. He told her the court order did not apply to him and his wife. He refused lunch. He refused dinner. He would call her if he ever needed to talk to her. A grandmother who had driven thirteen hours round-trip, alone, was told to turn around by a man standing in his own doorway on his own property — a man who would not have said any of it if someone with institutional power had been standing beside her.
-
-He was brave against Linda because Linda was alone. He retreated from the nanny because the nanny could write a letter. The word *brave* is doing too much work in that sentence — what he showed at the door was not courage but the specific confidence of a man who knows no one is watching. The pattern holds across every scene in which Walsh Sr. appears in this story: he confronts when he has power and anonymity; he retreats the instant he might be observed by someone who can document what she sees.
-
----
-
-Under oath, the pattern became audible.
-
-"I — I — I — I — I" — the stammer arrived whenever the questioning approached the truth. But when asked whether he had psychiatric credentials to diagnose Steve, Walsh Sr. delivered a rehearsed line without a single break in fluency: "If I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn't need psychiatric counseling to think that there was something wrong." It was the only smooth sentence in the deposition. It was not testimony. It was performance — prepared in advance, deployed on cue, designed to sound like common sense while accomplishing the work of a clinical diagnosis he was not qualified to make. And when pressed for specifics, the performance continued: drilling holes in walls, running wires, painting mirrors, hearing voices, Ukrainians trying to kill him. A catalog of claims delivered with the confidence of a man who knows that the claims themselves do not need to be verified — only repeated, in the right room, to the right people.
-
-When the questioning returned to his own conduct — his texts, his coordination, his knowledge — the stammer returned with it. The Chromebook's camera, recording the deposition from his living room on Whippoorwill Road, captured both versions of the same man in the same chair. He could perform authority without dissolving. He could not perform honesty without the mechanism of his speech breaking down.
-
-Confronted with his own messages — texts thanking Steve for "timely updates" about Evie while privately dismissing everything Steve reported — Walsh Sr. offered his word for it: "I would be less than 100 percent genuine, yes." When pressed on why, the mechanism revealed itself: "I would humor him because I viewed him as unstable and dangerous." Not lying. *Defray.* The communications were not a lapse in honesty but a strategy of management — keep the lines open, keep the information flowing in, give nothing back that could be held. A bond trader's verb for distributing risk across counterparties until no single party holds enough of the loss to complain. That is what he had done with the truth. He distributed the cost of it — across his daughter, across the courts, across the attorneys, across the nannies and supervisors and grandmothers — until none of it was his to carry.
-
-He did not search for documents responsive to the subpoena. He had not searched his email. He had not searched his phone. When asked if he would search after the deposition and provide what the subpoena required, the stammer disappeared. "No." Clean. Twice.
-
----
-
-There is another father in this story. The contrast is not sentimental. It is not good father against bad father. It is behavioral.
-
-One father enters the room where the cost is. The other arranges the cost so that women — his daughter, the nanny, the supervisor, the grandmother, eventually his granddaughter — carry what he will not lift.
-
-One father moves toward the child. Overnight flights. A rented house in a town where he knows no one. Years of supervised visits that end at gates in the dark, with the knowledge that every visit may be the last and no one will tell him when the last one arrives. The other father manages the situation from a chair on seven acres and calls the management wisdom.
-
-One father bears the cost in his own name. The other has never borne a cost in his own name in the entire record of this case — not in a courtroom, not at a deposition, not at a gate, not at a door.
-
-A child does not need a father who never fears. A child needs a father who does not make his fear her inheritance.
+<p>A coward, in the way this story uses the word, is not a frightened man. A coward is a man who arranges the fear so it belongs to everyone else.</p>
+<p>Stephen Walsh is not difficult to describe. He is a former bond trader from the Drexel Burnham Lambert era who lives on a seven-acre estate on Whippoorwill Road in Chappaqua. He raised four children. He exercises authority the way certain men do — not by demanding silence but by occupying the room so completely that silence is offered. He can be charming. He can be warm. He can deploy both qualities with the precision of instruments. He would say — and there is no reason to doubt he believes it — that he was protecting his family. That the man from San Francisco was unstable. That the courts had confirmed it. That a grandfather who keeps a dangerous person away from his grandchild is not a coward but a guardian. Under oath he went further: he said he took Tara&rsquo;s own claims with a grain of salt, that he was disappointed and angry with her for going to San Francisco in the first place, that he was not going to allow her to play the victim. He saw through the narrative. He used it anyway. The coward&rsquo;s clarity is not the absence of insight. It is insight deployed only where deploying it costs nothing.</p>
+<p>What he cannot do is remain in a room where the cost of what he has permitted is about to arrive.</p>
+<hr />
+<p>At Visit 15, a Sunday in 2019, Walsh Sr. followed Steve&rsquo;s car up Bedford Road and blocked access to the compound. He exited his vehicle, red-faced and shaking, and told Steve he was taking the girls home from school. It was Sunday. There were no girls to take home. But when he noticed the nanny in the passenger seat — Talia, a witness who could document what she saw — he stopped. He got back in his car. He left.</p>
+<p>The man who had confronted a father in a public roadway could not hold his position in the presence of a witness who might write it down.</p>
+<p>On the night of September 21, the compound&rsquo;s electronic gate opened for the supervised visit and closed behind the court-appointed supervisor. Walsh Sr. was inside the house. His son was in a blacked-out car parked among the bushes at the bottom of the driveway with what appeared to be a bat between his legs. His compound. His gate. His son. His absence from the car was not incidental. It was the design.</p>
+<p>When Tara was in San Francisco and the apartment was becoming dangerous and Steve was texting for help, Walsh Sr. emailed from Chappaqua: <em>I am giving Tara permission to leave.</em> An adult father granting permission for his adult daughter to travel with her own child — conditioning, framing, authorizing, managing. He did not arrive. Under oath, two years later, he offered his explanation: &ldquo;A six-hour flight is not something people simply do on demand.&rdquo;</p>
+<p>Linda Russell drove six and a half hours from Punxsutawney, Pennsylvania, to Chappaqua. Four times in a single month. Linda Russell is a retired nurse from a small town. Walsh Sr. purchased a seven-acre estate with proceeds from an era when the proceeds were substantial. The resources were not the issue. The movement toward the child was the issue. One person moved. The other managed.</p>
+<p>When Linda arrived at the compound, Walsh Sr. met her at the door. He informed her she could not see Evie. He required two weeks&rsquo; notice. He told her the court order did not apply to him and his wife. He refused lunch. He refused dinner. He would call her if he ever needed to talk to her. A grandmother who had driven thirteen hours round-trip, alone, was told to turn around by a man standing in his own doorway on his own property — a man who would not have said any of it if someone with institutional power had been standing beside her.</p>
+<p>He was brave against Linda because Linda was alone. He retreated from the nanny because the nanny could write a letter. The word <em>brave</em> is doing too much work in that sentence — what he showed at the door was not courage but the specific confidence of a man who knows no one is watching. The pattern holds across every scene in which Walsh Sr. appears in this story: he confronts when he has power and anonymity; he retreats the instant he might be observed by someone who can document what she sees.</p>
+<hr />
+<p>Under oath, the pattern became audible.</p>
+<p>&ldquo;I — I — I — I — I&rdquo; — the stammer arrived whenever the questioning approached the truth. But when asked whether he had psychiatric credentials to diagnose Steve, Walsh Sr. delivered a rehearsed line without a single break in fluency: &ldquo;If I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn&rsquo;t need psychiatric counseling to think that there was something wrong.&rdquo; It was the only smooth sentence in the deposition. It was not testimony. It was performance — prepared in advance, deployed on cue, designed to sound like common sense while accomplishing the work of a clinical diagnosis he was not qualified to make. And when pressed for specifics, the performance continued: drilling holes in walls, running wires, painting mirrors, hearing voices, Ukrainians trying to kill him. A catalog of claims delivered with the confidence of a man who knows that the claims themselves do not need to be verified — only repeated, in the right room, to the right people.</p>
+<p>When the questioning returned to his own conduct — his texts, his coordination, his knowledge — the stammer returned with it. The Chromebook&rsquo;s camera, recording the deposition from his living room on Whippoorwill Road, captured both versions of the same man in the same chair. He could perform authority without dissolving. He could not perform honesty without the mechanism of his speech breaking down.</p>
+<p>Confronted with his own messages — texts thanking Steve for &ldquo;timely updates&rdquo; about Evie while privately dismissing everything Steve reported — Walsh Sr. offered his word for it: &ldquo;I would be less than 100 percent genuine, yes.&rdquo; When pressed on why, the mechanism revealed itself: &ldquo;I would humor him because I viewed him as unstable and dangerous.&rdquo; Not lying. <em>Defray.</em> The communications were not a lapse in honesty but a strategy of management — keep the lines open, keep the information flowing in, give nothing back that could be held. A bond trader&rsquo;s verb for distributing risk across counterparties until no single party holds enough of the loss to complain. That is what he had done with the truth. He distributed the cost of it — across his daughter, across the courts, across the attorneys, across the nannies and supervisors and grandmothers — until none of it was his to carry.</p>
+<p>He did not search for documents responsive to the subpoena. He had not searched his email. He had not searched his phone. When asked if he would search after the deposition and provide what the subpoena required, the stammer disappeared. &ldquo;No.&rdquo; Clean. Twice.</p>
+<hr />
+<p>There is another father in this story. The contrast is not sentimental. It is not good father against bad father. It is behavioral.</p>
+<p>One father enters the room where the cost is. The other arranges the cost so that women — his daughter, the nanny, the supervisor, the grandmother, eventually his granddaughter — carry what he will not lift.</p>
+<p>One father moves toward the child. Overnight flights. A rented house in a town where he knows no one. Years of supervised visits that end at gates in the dark, with the knowledge that every visit may be the last and no one will tell him when the last one arrives. The other father manages the situation from a chair on seven acres and calls the management wisdom.</p>
+<p>One father bears the cost in his own name. The other has never borne a cost in his own name in the entire record of this case — not in a courtroom, not at a deposition, not at a gate, not at a door.</p>
+<p>A child does not need a father who never fears. A child needs a father who does not make his fear her inheritance.</p>
 
 ---
 
 # [B50] The Demand
 
-> After the verdict and the appeal, Tara communicates a new condition — drop the judgment, put money in escrow, stop filing court actions, and show respect to the Walsh family. Contact with Evie becomes conditional on surrendering the legal outcome twelve strangers confirmed. When Steve declines, Tara dismisses the jury's findings as lies and tells him there is nothing left to discuss. The scheme adapts.
+> After the verdict and the appeal, Tara communicates a new condition — drop the judgment, put money in escrow, stop filing court actions. Contact with Evie becomes conditional on surrendering the legal outcome. When Steve declines, the scheme adapts: forged filings, frozen accounts, threats, displacement.
 
-**Phase IX | The Record | 2025 | ECS 88**
+**Phase IX | 2025**
 
 Tags: 2025, 2026, Criminalization Architecture, Evie, Extortion, Pontius Pilate, Resolution, Tara Walsh, Walsh Sr., Westchester
 
-Evidence: 3 exhibits
+Evidence: 4 exhibits
   - hero
   - primary
   - secondary
+  - tertiary
 
-The verdict had been returned. The appeal had been exhausted. The judgment was final.
-
-And then the terms arrived.
-
-They came through the same channel they had always come through: text messages, direct, outside the formal legal system, in the space where the real conditions were set.
-
-The first condition: money. Put funds in escrow that Tara could use for lawyers before Steve could see Evie. If he agreed not to sue her everywhere after that, he would get the money back.
-
-
+<p>The verdict had been returned. The appeal had been exhausted. The judgment was final.</p>
+<p>And then the terms arrived.</p>
+<p>They came through the same channel they had always come through: text messages, direct, outside the formal legal system, in the space where the real conditions were set.</p>
+<p>The first condition: money. Put funds in escrow that Tara could use for lawyers before Steve could see Evie. If he agreed not to sue her everywhere after that, he would get the money back.</p>
 <div class="imessage-embed" data-exhibit="ExOO_54" data-date="August 30, 2025">
   <div class="imessage-statusbar">
     <div class="status-notch"></div>
@@ -8842,42 +8816,23 @@ The first condition: money. Put funds in escrow that Tara could use for lawyers 
   <span class="embed-caption-text">You put money in some escrow that I can use for lawyers before you see Evie.</span>
 </div>
 
-
-The second condition: stop filing court actions. Tara stated she was afraid that if Steve saw Evie, he would start court actions again. She could not afford another round, financially, mentally, physically. The condition was explicit: assure me you will not file court actions. Only then could they discuss a visit.
-
-The third condition: show respect to the Walsh family. Drop the judgment. The judgment that twelve strangers had returned after hearing the evidence, battery, domestic violence, malice, fraud, must be abandoned as the price of contact with his daughter.
-
-Three conditions. Not negotiation. Not mediation. Not the language of co-parents finding common ground. Terms — the right to see his daughter priced at the surrender of everything the legal system had confirmed.
-
-Steve did not accept the terms. He offered something else. He told Tara he would say whatever she wanted him to say: tell me what you'd like me to admit to, and I will say it, if it meant seeing Evie. The offer was rejected.
-
----
-
-Tara's response to the jury verdict arrived in the same text thread.
-
-August 4, 2025: "Ok I'm done. If you think a jury's version of hearing your lies is the truth, there is nothing left to discuss."
-
-A jury's version. As though the verdict were an opinion rather than a finding. As though twelve strangers who heard six days of testimony, reviewed text messages and audio recordings and sworn declarations, deliberated over a long weekend, and returned findings on five verdict forms had merely chosen a version.
-
-The jury had found: intentional battery, yes. Harmful or offensive contact, yes. Self-defense, no. Domestic violence, yes. Intentional infliction of emotional distress, yes. Outrageous conduct, yes. Reckless disregard, yes. Malice, oppression, and fraud, yes, eleven to one.
-
-If you think a jury's version of hearing your lies is the truth. The sentence is a mirror. The scheme's logic — that reality is a matter of presentation, that the person who controls the narrative controls what happened — running headlong into the one institution that required all parties to present all the evidence and let twelve neutral strangers decide.
-
-There was nothing left to discuss.
-
----
-
-In the same months, a different set of conditions was materializing.
-
-Steve filed a sanctions motion in San Francisco Superior Court. The motion named four attorneys — Gelhaar, Waller, Llaguno, Davies — and alleged that Walsh Sr. had contacted each one and threatened to "go after their license." A forged court filing had appeared in Steve's name, a document he did not sign, submitted to a court he was not aware of receiving it. Financial accounts were frozen without notice or explanation. His family was displaced from their Nevada home after threats and vandalism.
-
-The methods had left the courtroom.
-
----
-
-The text messages from August 2025 also revealed something Tara had not intended to reveal.
-
-
+<p>The second condition: stop filing court actions. Tara stated she was afraid that if Steve saw Evie, he would start court actions again. She could not afford another round, financially, mentally, physically. The condition was explicit: assure me you will not file court actions. Only then could they discuss a visit.</p>
+<p>The third condition: show respect to the Walsh family. Drop the judgment. The judgment that twelve strangers had returned after hearing the evidence, battery, domestic violence, malice, fraud, must be abandoned as the price of contact with his daughter.</p>
+<p>Three conditions. Not negotiation. Not mediation. Not the language of co-parents finding common ground. Terms — the right to see his daughter priced at the surrender of everything the legal system had confirmed.</p>
+<p>Steve did not accept the terms. He offered something else. He told Tara he would say whatever she wanted him to say: tell me what you&rsquo;d like me to admit to, and I will say it, if it meant seeing Evie. The offer was rejected.</p>
+<hr />
+<p>Tara&rsquo;s response to the jury verdict arrived in the same text thread.</p>
+<p>August 4, 2025: &ldquo;Ok I&rsquo;m done. If you think a jury&rsquo;s version of hearing your lies is the truth, there is nothing left to discuss.&rdquo;</p>
+<p>A jury&rsquo;s version. As though the verdict were an opinion rather than a finding. As though twelve strangers who heard six days of testimony, reviewed text messages and audio recordings and sworn declarations, deliberated over a long weekend, and returned findings on five verdict forms had merely chosen a version.</p>
+<p>The jury had found: intentional battery, yes. Harmful or offensive contact, yes. Self-defense, no. Domestic violence, yes. Intentional infliction of emotional distress, yes. Outrageous conduct, yes. Reckless disregard, yes. Malice, oppression, and fraud, yes, eleven to one.</p>
+<p>If you think a jury&rsquo;s version of hearing your lies is the truth. The sentence is a mirror. The scheme&rsquo;s logic — that reality is a matter of presentation, that the person who controls the narrative controls what happened — running headlong into the one institution that required all parties to present all the evidence and let twelve neutral strangers decide.</p>
+<p>There was nothing left to discuss.</p>
+<hr />
+<p>In the same months, a different set of conditions was materializing.</p>
+<p>Steve filed a sanctions motion in San Francisco Superior Court. The motion named four attorneys — Gelhaar, Waller, Llaguno, Davies — and alleged that Walsh Sr. had contacted each one and threatened to &ldquo;go after their license.&rdquo; A forged court filing had appeared in Steve&rsquo;s name, a document he did not sign, submitted to a court he was not aware of receiving it. Financial accounts were frozen without notice or explanation. His family was displaced from their Nevada home after threats and vandalism.</p>
+<p>The methods had left the courtroom.</p>
+<hr />
+<p>The text messages from August 2025 also revealed something Tara had not intended to reveal.</p>
 <div class="imessage-embed" data-exhibit="F-053" data-date="August 2025">
   <div class="imessage-statusbar">
     <div class="status-notch"></div>
@@ -8900,135 +8855,43 @@ The text messages from August 2025 also revealed something Tara had not intended
   <span class="embed-caption-text">Evie was begging to be able to see you last night. Pretty heartbreaking.</span>
 </div>
 
-
-Evie was begging to be able to see her father.
-
-The child's own desire was not in question. Tara acknowledged it. Described it as heartbreaking. And in the same thread, conditioned any contact on financial payment, surrender of the judgment, and a promise not to seek legal relief.
-
-In another message, Tara told Evie that her father was "trying to take our house." The child who was begging to see her father was being told a story about him that bore no relationship to what the evidence showed.
-
----
-
-Tara later admitted to police that she was "not a victim of any crime", contradicting the sworn filings that had formed the basis of the court orders.
-
-Steve Walsh and Maura Walsh said nothing publicly. The broader institutions involved remained silent. The Family Court had received the motion to vacate. The six grounds were before it. The record was complete.
-
-The demand remained on the table: drop the judgment, pay the money, stop the court actions, and show the Walsh family respect.
-
-The judgment remained in the record.
-
-The child remained in Chappaqua.
-
-And the question, the question that had been present since a young woman threw a wine bottle in a San Francisco apartment and a man speed-dialed his brother as a witness, was the same question it had always been.
-
-The question was not about evidence. There was evidence.
-
-The question was not about the legal system. Two legal systems had now spoken.
-
-The question was about a child who was begging to see her father, and what the people who controlled her access were willing to demand in exchange.
+<p>Evie was begging to be able to see her father.</p>
+<p>The child&rsquo;s own desire was not in question. Tara acknowledged it. Described it as heartbreaking. And in the same thread, conditioned any contact on financial payment, surrender of the judgment, and a promise not to seek legal relief.</p>
+<p>In another message, Tara told Evie that her father was &ldquo;trying to take our house.&rdquo; The child who was begging to see her father was being told a story about him that bore no relationship to what the evidence showed.</p>
+<hr />
+<p>Tara later admitted to police that she was &ldquo;not a victim of any crime&rdquo;, contradicting the sworn filings that had formed the basis of the court orders.</p>
+<p>Steve Walsh and Maura Walsh said nothing publicly. The broader institutions involved remained silent. The Family Court had received the motion to vacate. The six grounds were before it. The record was complete.</p>
+<p>The demand remained on the table: drop the judgment, pay the money, stop the court actions, and show the Walsh family respect.</p>
+<p>The judgment remained in the record.</p>
+<p>The child remained in Chappaqua.</p>
+<p>And the question, the question that had been present since a young woman threw a wine bottle in a San Francisco apartment and a man speed-dialed his brother as a witness, was the same question it had always been.</p>
+<p>The question was not about evidence. There was evidence.</p>
+<p>The question was not about the legal system. Two legal systems had now spoken.</p>
+<p>The question was about a child who was begging to see her father, and what the people who controlled her access were willing to demand in exchange.</p>
 
 ---
 
 # [B51] For Evie
 
-> Afterword. A house in the United States. A room that is ready. A brother who knows her name. The door is open.
+> The record becomes the case — the Article 78 filed and unanswered, the federal complaints written and waiting — against a family whose condition has not changed. Too young to understand it now, Evie will need this record: her truth, and a home with an open door.
 
-**Phase IX | The Record | present | ECS 95**
+**Phase IX | present**
 
-Tags: Closing, Evie, Kelly Turnure, Present, Simon, The Fool
+Tags: Closing, Evie, Aunt K, Present, The Fool
 
 Evidence: 3 exhibits
   - hero
   - primary
   - secondary
 
-A house on a quiet street.
-
-The kind of street where the trees have been there longer than the houses and the sidewalks crack where the roots push through. The house is three stories. Clean but not immaculate. Shoes by the door. Mail on the counter. The afternoon light comes through the front windows at an angle that changes with the season.
-
-A baby is crying upstairs.
-
----
-
-Steve takes the stairs two at a time, the same stride he used in Moscow, in the airport corridors where he became mayor of the departure lounge, in the years when walking fast through unfamiliar places was just how he moved through the world. The stride has not changed. The world has.
-
-Simon is seven months old. He has his father's eyes and his mother's composure. When Steve lifts him from the crib, the crying stops, the way it stops for babies who recognize the heartbeat against their ear. The house returns to its ordinary sounds: something in the kitchen, the creak of a floor, the particular quality of silence that is not silence but the absence of distress.
-
-Kelly is downstairs. She came back for the trial, stayed through the verdict and the appeal, and has been part of the years that followed the years this story covers. She knows the names and dates and exhibit numbers the way a person knows the geography of a country they have lived in but did not choose. She built the books. She wrote the blog. She lost a baby to a bottle of wine that reached forward from a kitchen in San Francisco. She stayed.
-
----
-
-On the walls are photographs.
-
-Some are of Evie. She is younger in these photographs than she is now, a toddler, a baby, the child who took her first steps during a supervised visit at Crabtree's Kittle House and who cried every time she was carried away. The photographs are from the visits. They are the images a father keeps when the visits are all he has.
-
-Some photographs are older. Steve in San Francisco. Steve in Moscow. The years before the story began, when walking fast through unfamiliar places was adventure rather than escape.
-
-
-<div class="evidence-embed embed-document" data-exhibit="SLE-054" data-type="blog-archive">
-  <div class="embed-header">
-      <span class="embed-type">Blog Archive</span>
-      <span class="embed-date">2019-03-31</span>
-      <span class="embed-source">StevieLovesEvie Blog</span>
-  </div>
-  <div class="embed-body">
-    <div class="document-text"><p>"Evie arrived for Visit 15, Part 1, with strange bruises on her right leg." Post 55 of 146. March 31, 2019. Kelly documented the bruises minutes into the visit — the ones the supervisor noted, the ones the grandparents called normal, the ones the attorney's letter said did not exist. The blog post survives. The bruises are in the record.</p></div>
-  </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie, Visit 15, Part 1, March 31, 2019</span><span class="embed-caption-text">Evie arrived with strange bruises on her right leg. The blog post survives. The bruises are in the record.</span></div>
-</div>
-
-
-The shelves in the study hold thick binders and hardbound books. Among them: the four StevieLovesEvie volumes, red covers, spine-stamped. Transcripts. Court filings. The motion to vacate. Letters and testimony. The laboratory reports showing lithium at six times the reference range, mycophenolic acid at thirteen times the upper bound. The appellate decisions. The verdict forms.
-
-The archive is physical here. Boxes and shelves. The weight of paper and binding and the particular density of a record that exists not just as data but as objects that take up space in a room in a house where a family lives.
-
----
-
-The courts said many things.
-
-Some rulings were reversed. Some were not. A jury heard the evidence and returned a verdict, battery, domestic violence, intentional infliction of emotional distress, malice, oppression, fraud. An appellate court affirmed it. Another appellate court struck a gag order and found no default had occurred. A third motion asked whether the orders governing a child's life were ever lawfully entered.
-
-People moved on. Some were promoted. Christopher Weddle, who replaced Guttridge as Tara's attorney, was appointed a Support Magistrate at Westchester Family Court. That happens.
-
-The texts still arrive. Photographs of Evie with conditions attached. The trap did not end when the courts corrected themselves. It moved to a place where no court could see it.
-
----
-
-The house is not quiet. A baby lives here. A woman lives here. Dinner gets cooked. Laundry piles up. The ordinary architecture of a household that functions, the kind of household Steve once imagined in a second bedroom in Brooklyn, the kind of household that was supposed to include Evie.
-
-But there is also another room.
-
-A bedroom upstairs. Books on the shelves, the books a girl her age would read. Board games in the closet. Photographs on the wall. The room has been ready for years.
-
-*The room has been ready for years.*
-
-Steve stands in the doorway sometimes. Not often, not as a ritual or a performance of grief, just occasionally, the way a person pauses at a threshold. The books are the right books for a girl her age. He updates them as she grows, although he has not seen her grow; the titles change from picture books to chapter books based on age ranges printed on spines, not on watching a daughter discover what she loves to read. He does not know what she loves. He knows what a girl her age might love. The room is ready for a child he remembers as a toddler and imagines as a girl and has never watched become either. Each book he places on the shelf is a choice — to keep preparing for a daughter who may never arrive, or to stop, and in stopping become the absent father the court described.
-
-Sometimes he tries to imagine what she would think of the books he chose. Whether the titles are right. Whether the room itself, prepared by a father she cannot remember clearly, filled with the wrong right things, would feel like hers or like a stranger's idea of hers. He does not resolve the thought. He closes the door partway and walks downstairs.
-
-Across the yard there is a small guest house. If Evie is older when she comes.
-
----
-
-Evie may someday ask questions.
-
-She may ask: are you sick?
-
-She may ask: why didn't you come back?
-
-She may ask: they told me you started another family.
-
-The answers are in the record. Every document, every timestamp, every laboratory report and deposition transcript and jury verdict form. The record shows what happened. The record shows who did what and when and what institutions knew and what they chose.
-
-But the answers Evie would need are simpler than the record.
-
-Steve is not sick. Something that made him sick lived in a house in Chappaqua. And when he went there, Evie became sick too, bruises that appeared between visits, supervisors who were removed for documenting what they saw, a forensic evaluator who lost his license for fraud. So he stopped going. Not because he stopped loving her. Because he refused to make her sick again.
-
-He did not start another family to replace her. He started a family because the years kept passing and the door to Chappaqua stayed shut and the alternative was to stop living until the door opened. Simon is not a replacement. He is a brother.
-
----
-
-
+<p>A house on a quiet street.</p>
+<p>The kind of street where the trees were there before the houses, where the sidewalks crack where the roots push through. Three stories. Clean, not immaculate. Shoes by the door, mail on the counter, the afternoon light coming through the front windows at an angle that changes with the season.</p>
+<p>Upstairs, a baby is crying.</p>
+<p>Steve takes the stairs two at a time — the same stride he used in Moscow, in the airport corridors where he had been, briefly, the mayor of the departure lounge, in the years when moving fast through unfamiliar places was simply how he moved through the world. The stride has not changed. The world has. He lifts his son from the crib and the crying stops, the way it stops for babies who recognize a heartbeat against their ear. The house settles back into its ordinary sounds: something in the kitchen, the creak of a floorboard, the particular quiet that is not silence but the absence of distress.</p>
+<p>The boy is Evie&rsquo;s brother. He knows her name. He has never met her.</p>
+<p>In the study, the shelves hold the rest of it. Thick binders and hardbound books — the four StevieLovesEvie volumes Aunt K built, red covers, spine-stamped, the work of a woman who believed that if people could simply see the evidence they would do the right thing. Transcripts. Filings. The laboratory reports — lithium at six times the reference range, a kidney-transplant drug he was never prescribed. The appellate decisions. The verdict forms. Not data. Objects, taking up space in a room, in a house where a family lives.</p>
+<p>Someone could have stopped it. That is the part the record cannot soften. Across eight years, at any point, one person could have opened these binders and ended it. Tara&rsquo;s therapist. Her mother, or her father. The lawyers the court appointed to speak for Evie. A police officer in Chappaqua. A caseworker. The court that signed the orders, or the higher court that could have made it obey its own ruling. Tara herself. It would have taken one of them, once, doing the thing they were already there to do. Each passed it to the next and washed their hands, and the machine kept its accounts: the ones who looked away kept their places; the ones who looked — the supervisor, the nanny, the journalist, the grandmother — were removed, one by one.</p>
+<p>The courts said many things. Some rulings were reversed, some were not. A jury found battery, domestic violence, malice. An appellate court found the default had never happened. The family court that built its orders on that default has not moved. The texts still arrive — photographs of Evie with conditions attached. The trap did not end when the courts corrected themselves on paper. It moved somewhere no court can see.</p>
 <div class="imessage-embed" data-exhibit="F-053" data-date="August 2025">
   <div class="imessage-statusbar">
     <div class="status-notch"></div>
@@ -9051,42 +8914,54 @@ He did not start another family to replace her. He started a family because the 
   <span class="embed-caption-text">Evie was begging to be able to see you last night.</span>
 </div>
 
+<p>Evie was begging to see him — her mother said so, in the same thread where she priced a visit at money, silence, and the surrender of a jury&rsquo;s verdict. The child&rsquo;s wish has never been the question. The question is whether the people who hold the gate will allow what the child is asking for.</p>
+<hr />
+<p>Someday Evie may ask her own questions.</p>
+<p>She may ask: are you sick?</p>
+<p>She may ask: why didn&rsquo;t you come back?</p>
+<p>She may ask: they told me you started another family.</p>
+<p>The long answers are in the record — every timestamp, every report, every transcript, who did what and when and what the institutions knew and chose. But the answers she needs are simpler than the record.</p>
+<p>He is not sick. Something that made him sick lived in a house in Chappaqua, and when he went there, Evie became sick too — bruises that appeared between visits, supervisors removed for writing down what they saw, an evaluator who lost his license for fraud.</p>
+<div class="evidence-embed embed-document" data-exhibit="SLE-054" data-type="blog-archive">
+  <div class="embed-header">
+      <span class="embed-type">Blog Archive</span>
+      <span class="embed-date">2019-03-31</span>
+      <span class="embed-source">StevieLovesEvie Blog</span>
+  </div>
+  <div class="embed-body">
+    <div class="document-text"><p>"Evie arrived for Visit 15, Part 1, with strange bruises on her right leg." Post 55 of 146. March 31, 2019. Aunt K documented the bruises minutes into the visit — the ones the supervisor noted, the ones the grandparents called normal, the ones the attorney's letter said did not exist. The blog post survives. The bruises are in the record.</p></div>
+  </div>
+  <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie, Visit 15, Part 1, March 31, 2019</span><span class="embed-caption-text">Evie arrived with strange bruises on her right leg. The blog post survives. The bruises are in the record.</span></div>
+</div>
 
-Evie was begging to see him.
-
-Her mother said so. In a text message. In the same thread where she conditioned contact on money and silence and the abandonment of a jury verdict.
-
-The child's desire is not in question. It has never been in question. What is in question — what has always been in question — is whether the people who control her access will permit what the child herself is asking for.
-
----
-
-Some people in this story told the truth and lost. Some played the game and prospered. That also happens.
-
-Steve chose something else. He left the record. He told the truth where it could not be erased — in sworn declarations and deposition testimony, in a blog and a podcast and four hardbound books, in a motion to vacate and a jury verdict and an appellate decision and the iMessage database that preserved every timestamp of every lie. He built the archive the way he had built surveillance systems — methodically, redundantly, with the same instinct that had always governed his work: record what is real, and let the recording speak.
-
-And he waited.
-
----
-
-Somewhere in the United States a house stands.
-
-The lights are on. A baby sleeps in a room down the hall. A woman who built the books and stayed through the worst of it is reading in the next room. The binders on the shelves hold the weight of eight years.
-
-A room is ready.
-
-A brother who knows her name lives there.
-
-Her father is still there.
-
-The door is open.
-
-People always tell you what they fear.
+<p>So he stopped going. Not because he stopped loving her. Because he would not let her be made sick again.</p>
+<p>He did not start another family to replace her. He started one because the years kept passing and the gate stayed shut, and the alternative was to stop living until it opened. The boy down the hall is not a replacement. He is a brother.</p>
+<p>People always tell you what they fear. The method, the record shows, is to make the person seem sick — to say it first, and loudest, about the one telling the truth. Evie was told her father was sick. The record is how she will know who was.</p>
+<p>She is eight. In a few years she will be the age her mother was, and her aunt was, when this family turns on its children — when a daughter who begins to think for herself is told she is unstable, not to be believed. Tara fought her own parents once, and lost. The record is the thing her mother never had: proof, kept, of what was real and what was invented. So that if the method is ever turned on Evie, she will know its name.</p>
+<p>He cannot wait forever, and he knows it now in a way he did not at the start. He has a son who needs a father in the room, not only a father building one. The fight ahead is expensive and may be lost. The terms have not changed since the beginning: drop the cases, surrender the verdict, show the family the respect they say they are owed, and a man might be allowed to see his daughter. The smart ones take that deal. He could not. He had spent his life walking into rooms he held no credentials for, certain the world would make sense once he was inside, and he never learned to stop. The court called that instability. He had come to think of it as the last thing he had left to give her: a father who would not go quiet. A fool, by the measure of everyone who told him to walk away. He could live with being the fool.</p>
+<hr />
+<p>There is a room upstairs.</p>
+<p>Books on the shelves, the books a girl her age would read. Board games in the closet. Photographs on the wall. The room has been ready for years.</p>
+<p>The room has been ready for years.</p>
+<p>Steve stands in the doorway sometimes. Not often, not as a ritual or a performance of grief, just occasionally, the way a person pauses at a threshold. The books are the right books for a girl her age. He updates them as she grows, although he has not seen her grow; the titles change from picture books to chapter books by the age ranges printed on spines, not by watching a daughter discover what she loves to read. He does not know what she loves. He knows what a girl her age might love. Each book he sets on the shelf is a choice — to keep preparing a room for a daughter who may never arrive, or to stop, and in stopping become the absent father the court already described.</p>
+<p>Across the yard there is a small guest house, for if she is older when she comes.</p>
+<p>It is never too late for one person to do the right thing. He still believes that. If no one in Chappaqua ever does, the record will be here when it is needed — and the one person, in the end, may be Evie herself.</p>
+<p>A house stands somewhere in the United States. The lights are on. A brother who knows her name sleeps down the hall. The binders hold the weight of eight years. A room is ready. Her father is still there.</p>
+<p>The door is open.</p>
+<p>He wrote her a poem once.</p>
+<div class="poem" data-exhibit="Monday" data-author="Stephen Russell" data-year="2021">
+  <p class="poem-title">Monday</p>
+  <p class="poem-stanza">The weeks go by.<br />They disappear.<br />Another Monday&rsquo;s come.<br />I fear.</p>
+  <p class="poem-stanza">The sun flew by my head.<br />And then. I prayed<br />For it to come again.</p>
+  <p class="poem-stanza">Heard I was a voice<br />Spoke true. It&rsquo;s Monday now<br />That waits for you.</p>
+  <p class="poem-signoff">Love,<br />Dad</p>
+</div>
 
 ---
 
 # [B52] Where Are They Now
 
-> The system that failed Evie did not dismantle itself. The people who built it were promoted. The people who tried to help were destroyed. A jury spoke. An appellate court corrected. A family court declined. What remains is the federal docket — where the system itself is the defendant and the record is the evidence.
+> The system that failed Evie did not dismantle itself. The people who built it were promoted. The people who tried to help were destroyed. A jury spoke. An appellate court corrected. Westchester refused to conform its record, again and again, and the Article 78 was met with silence. What remains is federal court — where the system itself is the defendant and the record is the evidence.
 
 **Phase Afterword | Afterword | 2025-2026**
 
@@ -9115,13 +8990,19 @@ The verdict established liability. The appellate decision exposed the structural
 
 ---
 
-Steve filed a Motion to Vacate in Westchester Family Court, asking the court to undo what its own appellate division had found was never lawfully done. The family court declined. The ex parte orders, the ones entered without a hearing, the ones the appellate court had already called constitutionally deficient, remained in place. The system that had separated a father from his daughter based on a proceeding that never occurred was given the opportunity to correct itself, and chose not to.
+The appellate ruling was a mandate. The family court did not follow it.
+
+For three years, the orders built on a default the higher court said had never happened stayed in place. Steve asked the family court to correct them. He was representing himself by then, and he asked in the narrowest terms he could find, and then narrower.
+
+He filed to correct the custody record, and withdrew it rather than keep paying the lawyer the court had appointed to oppose him while the mother's lawyer cost her nothing. He filed an ex parte motion to vacate. The court set it for a hearing and directed him to personally serve Tara — a woman the state had placed in its Address Confidentiality Program, a woman the court itself had ordered him not to contact. He wrote to explain that the law required the clerk to serve her, not the father. No one answered. He withdrew it. He filed a motion to conform the record to the appellate decision. It was dismissed in twenty-four hours: failure to state a cause of action. He filed it again, every cause of action laid out, the law that made the dismissal wrong written on the page. It was dismissed the same day, in the same six words.
+
+Then he filed his notices of appeal, and an Article 78 petition in the State Supreme Court — one court asked to order another to follow a ruling it had already been given. The petition was met with silence.
 
 That left federal court.
 
-The federal civil rights complaint names what the state courts would not: the structural failures that entered defaults without hearings, imposed gag orders without constitutional basis, and removed every supervisor, attorney, and evaluator who documented inconvenient facts. The coordinated private and state actors who used the family court system as a weapon, not to protect a child, but to erase a father from her life.
+Two federal civil rights complaints are written and ready — held by counsel, waiting on what the Article 78 does or fails to do. They name what the state proceedings would not: a record altered without a hearing, a speech order with no constitutional basis, the removal of nearly every supervisor, attorney, and evaluator who had written down an inconvenient fact. One asks that the machinery stop. The other asks that it answer.
 
-This book is attached as an exhibit. It sits on the federal docket under litigation privilege — permanent, public, and beyond the reach of any gag order or takedown demand or letter from an attorney threatening harm. The record that was built across eight years in five archives now exists in the one place where it cannot be silenced: the federal court system of the United States.
+The book is built to stand as an exhibit to them. If they are filed, it goes with them — on a federal docket, under litigation privilege, permanent and public, past the reach of any gag order, any takedown demand, any letter from an attorney threatening harm. Eight years of it, in the one place it cannot be deleted.
 
 ---
 
@@ -9129,7 +9010,7 @@ This book is attached as an exhibit. It sits on the federal docket under litigat
 
 Steve lives with his partner and their son. The archive sits on shelves in the living room — thick binders, hardbound evidence books, court transcripts, the physical record of everything that happened. It is not hidden. It is not locked away. It is part of the furniture of a house where a family lives.
 
-Evie has a brother who knows her name. She has a room with books on the shelves that change as she grows, updated by a father who has not seen her grow, who chooses the titles by the age printed on the spine rather than by watching a daughter discover what she loves. She has a father who built an archive because he believed that if someone could just see the evidence, they would do the right thing.
+Evie has a brother who knows her name. She has a father who built an archive because he believed that if someone could just see the evidence, they would do the right thing.
 
 He cannot fight Chappaqua alone. The record can.
 
@@ -9139,7 +9020,7 @@ The door is open.
 
 # [B53] Back Cover
 
-> The back cover text for Chappaqua Poison.
+> Four discoveries. Three substances. Three laboratories. Three years. Every person who saw something was removed. A jury heard the evidence. The child is still in Chappaqua.
 
 **Phase Back Cover | Back Cover**
 
@@ -9154,9 +9035,9 @@ A man moves in with a woman from one of the wealthiest families in Chappaqua, Ne
 
 The laboratory results show lithium at six times the reference range. Seroquel in his blood. Mycophenolic acid — a kidney transplant drug he was never prescribed — at thirteen times the upper bound. Four discoveries. Three substances. Three laboratories. Three years.
 
-Every person who saw something and reported it was removed from the case. The nanny who disclosed the drugging was fired. The court supervisor who documented an armed ambush at the family compound was reassigned. The father's custody was terminated by a default the appellate court later ruled never occurred.
+Every person who saw something and reported it was removed from the case. The nanny who disclosed the drugging was fired. The court supervisor who documented an armed ambush at the family compound was reassigned. The father’s custody was terminated by a default the appellate court later ruled never occurred.
 
-A jury in San Francisco heard the evidence. Eleven of twelve found the mother liable for battery, fraud, and malice. The family court that was supposed to protect the child has not acted on the verdict.
+A jury in San Francisco heard the evidence. Eleven of twelve found the mother liable for battery, domestic violence, and intentional infliction of emotional distress, with malice, oppression, or fraud. The family court that was supposed to protect the child has not acted on the verdict.
 
 This is the Evidence Archive Edition — the documentary record in its entirety, with all its evidence. The book it stands behind arrives fall 2026. Early supporters who purchase the evidence edition fund the federal case and the people this system failed. The child is still in Chappaqua. The father cannot fight this alone. The record can. The door is open.
 
@@ -9165,4 +9046,4 @@ This is the Evidence Archive Edition — the documentary record in its entirety,
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: 5088b975949f
+- Content hash: 65b73e694a66
