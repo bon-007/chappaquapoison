@@ -130,8 +130,111 @@
     margin: 0 0 0.8rem 0;
   }
 
+
+  .contact-form-wrap {
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding-top: 2.6rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .contact-form-wrap h2 {
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--color-heading-light);
+    margin: 0 0 0.6rem 0;
+  }
+
+  .form-intro {
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: var(--color-body-text-dark);
+    opacity: 0.75;
+    margin: 0 0 2rem 0;
+  }
+
+  #contact-form label {
+    display: block;
+    margin-bottom: 1.3rem;
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-body-text-dark);
+    opacity: 0.8;
+  }
+
+  #contact-form label .req { color: var(--color-link-default); opacity: 0.9; }
+
+  #contact-form input,
+  #contact-form textarea {
+    display: block;
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.75rem 0.9rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    border-radius: 6px;
+    color: var(--color-heading-light);
+    font-family: var(--font-body, inherit);
+    font-size: 1rem;
+    line-height: 1.6;
+    text-transform: none;
+    letter-spacing: normal;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease;
+  }
+
+  #contact-form input:focus,
+  #contact-form textarea:focus {
+    outline: none;
+    border-color: var(--color-link-default);
+  }
+
+  #contact-form textarea { resize: vertical; min-height: 10rem; }
+
+  .field-row { display: grid; grid-template-columns: 1fr; gap: 0 1.2rem; }
+
+  .hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+  #cf-submit {
+    font-family: var(--font-heading);
+    font-size: 0.95rem;
+    letter-spacing: 0.03em;
+    color: var(--color-heading-light);
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 6px;
+    padding: 0.7rem 1.8rem;
+    margin-top: 1.2rem;
+    cursor: pointer;
+    transition: border-color 0.2s ease, background 0.2s ease;
+  }
+
+  #cf-submit:hover:not(:disabled) {
+    border-color: var(--color-link-default);
+    background: rgba(255, 255, 255, 0.10);
+  }
+
+  #cf-submit:disabled { opacity: 0.5; cursor: default; }
+
+  .form-status {
+    font-size: 0.92rem;
+    line-height: 1.7;
+    margin: 1.1rem 0 0 0;
+    min-height: 1.4em;
+    color: var(--color-body-text-dark);
+  }
+
+  .form-status.err { color: #e8998d; }
+  .form-status.ok  { color: var(--color-link-default); }
+
   @media (min-width: 600px) {
     .contact-channels {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .field-row {
       grid-template-columns: 1fr 1fr;
     }
   }
@@ -454,12 +557,108 @@
 
   </div>
 
+  <section class="contact-form-wrap" id="write">
+    <h2>Or write to us here</h2>
+    <p class="form-intro">If you would rather not open a mail client, this reaches the same inbox. Your message is sent directly to us &mdash; it is not stored or processed by any third-party form service.</p>
+
+    <form id="contact-form" novalidate>
+      <div class="field-row">
+        <label>Your name <span class="req">*</span>
+          <input name="name" maxlength="200" autocomplete="name" required>
+        </label>
+        <label>Your email <span class="req">*</span>
+          <input name="email" type="email" maxlength="320" autocomplete="email" required>
+        </label>
+      </div>
+
+      <label>Subject
+        <input name="subject" maxlength="300">
+      </label>
+
+      <label>How did you find us?
+        <input name="source" maxlength="300" placeholder="A search, a link, the book, someone told you&hellip;">
+      </label>
+
+      <label>Message <span class="req">*</span>
+        <textarea name="message" rows="9" maxlength="20000" required></textarea>
+      </label>
+
+      <div class="hp" aria-hidden="true">
+        <label>Leave this field empty
+          <input name="website" tabindex="-1" autocomplete="off">
+        </label>
+      </div>
+
+      <div class="cf-turnstile" data-sitekey="0x4AAAAAAEx_nthZNDtII6sg" data-theme="dark"></div>
+
+      <button type="submit" id="cf-submit">Send message</button>
+      <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </section>
+
   <div class="contact-note">
     <p>All correspondence is confidential unless otherwise agreed. We do not share contact information with third parties.</p>
     <p>If you have information relevant to the case — particularly regarding forensic evaluator credentialing, family court procedure in Westchester County, or the individuals documented in this archive — we want to hear from you.</p>
   </div>
 
 </article>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+(function () {
+  var form = document.getElementById('contact-form');
+  if (!form) return;
+  var btn = document.getElementById('cf-submit');
+  var out = document.getElementById('form-status');
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    out.className = 'form-status';
+    out.textContent = '';
+
+    var fd = new FormData(form);
+    var payload = {};
+    fd.forEach(function (v, k) { payload[k] = v; });
+
+    if (!payload.name || !payload.email || !payload.message) {
+      out.className = 'form-status err';
+      out.textContent = 'Please fill in your name, your email, and a message.';
+      return;
+    }
+    if (!payload['cf-turnstile-response']) {
+      out.className = 'form-status err';
+      out.textContent = 'Still verifying your browser \u2014 give it a moment and try again.';
+      return;
+    }
+
+    btn.disabled = true;
+    out.textContent = 'Sending\u2026';
+
+    fetch('/api/contact', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+      .then(function (res) {
+        if (res.ok && res.j.ok) {
+          form.innerHTML = '<p class="form-status ok">Thank you \u2014 your message has been sent. We read everything, and we will reply if a reply is called for.</p>';
+        } else {
+          out.className = 'form-status err';
+          out.textContent = (res.j && res.j.error) || 'Something went wrong. Please email editor@chappaquapoison.com directly.';
+          btn.disabled = false;
+          if (window.turnstile) { try { window.turnstile.reset(); } catch (err) {} }
+        }
+      })
+      .catch(function () {
+        out.className = 'form-status err';
+        out.textContent = 'Could not reach the server. Please email editor@chappaquapoison.com directly.';
+        btn.disabled = false;
+        if (window.turnstile) { try { window.turnstile.reset(); } catch (err) {} }
+      });
+  });
+})();
+</script>
+
   </main>
 
   <footer>
