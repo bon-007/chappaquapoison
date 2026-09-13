@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]   # master is the live site branch. NOT main:
+                          # main holds 3 stale files and deploying it would wipe the site.
   workflow_dispatch:
 
 permissions:
