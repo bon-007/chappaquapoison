@@ -1,0 +1,48 @@
+name: Publish verified attribution correction
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the preserved release with the two-file correction
+        uses: actions/checkout@v4
+        with:
+          ref: 2cd25725256022ec5f2692f3847fca0c78e821fb
+          fetch-depth: 2
+      - name: Verify exact correction scope against last successful release
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import subprocess
+          from pathlib import Path
+          base = '456298b92eea25271049160d7e42671a1010ae48'
+          assert subprocess.check_output(['git','rev-parse','HEAD^'],text=True).strip() == base
+          changed = set(subprocess.check_output(['git','diff','--name-only',base,'HEAD'],text=True).splitlines())
+          assert changed == {'posts/B52.html','full_site.md'}, changed
+          removed = 'Paul Hymowitz, the forensic evaluator whose report recommended against Steve and whose license was later surrendered amid fraud allegations, left the state.'
+          for name in changed:
+              original = subprocess.check_output(['git','show',base+':'+name]).decode()
+              assert original.count(removed) == 1
+              assert Path(name).read_text() == original.replace(removed+' ', '')
+          print('Verified: only the unsupported sentence is removed from two published text outputs.')
+          PY
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload the preserved release with the verified correction
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
