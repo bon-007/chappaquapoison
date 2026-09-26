@@ -8974,7 +8974,7 @@ Evidence: 3 exhibits
 
 The system that failed Evie did not dismantle itself.
 
-Christopher Weddle, who replaced Guttridge as Tara's attorney after Guttridge discovered the role he had been used to play, was appointed a Support Magistrate at Westchester Family Court. Paul Hymowitz, the forensic evaluator whose report recommended against Steve and whose license was later surrendered amid fraud allegations, left the state. Jennifer Jackman, who placed the word *bruises* in quotation marks, continued practicing family law.
+Christopher Weddle, who replaced Guttridge as Tara's attorney after Guttridge discovered the role he had been used to play, was appointed a Support Magistrate at Westchester Family Court. Jennifer Jackman, who placed the word *bruises* in quotation marks, continued practicing family law.
 
 The people who tried to help were punished. Claudette LaMelle was removed from the case for documenting what she saw. Michaelanne Petrella was threatened for reporting it. Max DiFabio lost a third of his Westchester practice when a judge recused from all his cases. Brienne Walsh fled to Savannah. The pattern held across years and jurisdictions: anyone who looked was destroyed. Anyone who looked away was left in place.
 
