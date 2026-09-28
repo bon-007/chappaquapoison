@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="A reader's guide to navigating the Chappaqua Poison archive — understanding acts, evidence scores, reconstruction notices, and source tiers." name="description"/>
+<meta content="How to Read This Archive | Chappaqua Poison" property="og:title"/>
+<meta content="Reader orientation for the Chappaqua Poison archive — ECS scoring, source tiers, and suggested reading paths." property="og:description"/>
+<meta content="https://chappaquapoison.com/images/og-banner.png" property="og:image"/>
+<meta content="website" property="og:type"/>
+<meta content="https://chappaquapoison.com/how-to-read" property="og:url"/>
+<meta content="Chappaqua Poison" property="og:site_name"/>
+<!-- Twitter Card -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@ChappaquaPoison" name="twitter:site"/>
+<meta content="How to Read This Archive | Chappaqua Poison" name="twitter:title"/>
+<meta content="Reader orientation for the Chappaqua Poison archive — ECS scoring, source tiers, and suggested reading paths." name="twitter:description"/>
+<meta content="https://chappaquapoison.com/images/og-banner.png" name="twitter:image"/>
+<meta content="#0F1116" name="theme-color"/>
+<meta content="dark" name="color-scheme"/>
+<title>How to Read This Archive | Chappaqua Poison</title>
+<!-- Canonical URL -->
+<link href="https://chappaquapoison.com/how-to-read" rel="canonical"/>
+<!-- Favicon -->
+<link href="./favicon.svg" rel="icon" type="image/svg+xml"/>
+<!-- Feed (disabled until feed.xml generation is implemented) -->
+<!-- <link rel="alternate" type="application/atom+xml" title="Chappaqua Poison Feed" href="./feed.xml"> -->
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&amp;family=Inter:wght@400;600&amp;family=Source+Serif+4:wght@400;600&amp;family=JetBrains+Mono:wght@400&amp;display=swap" rel="stylesheet"/>
+<!-- Design Tokens CSS -->
+<link href="./css/tokens.css" rel="stylesheet"/>
+<!-- Print Stylesheet -->
+<link href="./css/print.css" media="print" rel="stylesheet"/>
+<!-- Extra head content (JSON-LD, etc.) -->
+<!-- Minimal Critical CSS for above-the-fold -->
+<style>
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--color-deep-charcoal);
+      color: var(--color-body-text-dark);
+      font-family: var(--font-body);
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: var(--color-link-default);
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
+      transition: color 0.2s ease-in-out;
+    }
+
+    a:hover {
+      color: var(--color-link-hover);
+    }
+
+    a:visited {
+      color: var(--color-link-visited);
+    }
+
+    /* Skip to Content Link */
+    .skip-to-content {
+      position: absolute;
+      top: -40px;
+      left: 0;
+      background: var(--color-muted-amber);
+      color: var(--color-deep-charcoal);
+      padding: 8px 16px;
+      text-decoration: none;
+      border: none;
+      z-index: 1001;
+    }
+
+    .skip-to-content:focus {
+      top: 0;
+    }
+
+    /* Header */
+    body > header {
+      background-color: var(--color-deep-charcoal);
+      border-bottom: 1px solid var(--color-slate-blue-gray);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      padding: 16px 0;
+      isolation: isolate;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .site-title {
+      font-family: var(--font-heading);
+      font-size: 20px;
+      font-weight: 700;
+      margin: 0;
+      color: var(--color-body-text-dark);
+    }
+
+    .site-title a {
+      color: inherit;
+      border: none;
+    }
+
+    .header-nav {
+      display: flex;
+      gap: 32px;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header-nav a {
+      font-family: var(--font-ui);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .header-nav a.nav-active {
+      color: var(--color-muted-amber);
+      border-bottom: 2px solid var(--color-muted-amber);
+      padding-bottom: 2px;
+    }
+
+    /* Main Content */
+    main {
+      min-height: calc(100vh - 200px);
+      padding: 40px 20px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .content-wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 var(--layout-padding);
+    }
+
+    /* Footer */
+    footer {
+      background-color: var(--color-slate-blue-gray);
+      border-top: 1px solid var(--color-phase-divider);
+      padding: 40px 20px;
+      margin-top: 64px;
+      color: var(--color-muted-caption);
+      font-family: var(--font-ui);
+      font-size: 13px;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+
+    .footer-content {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 32px;
+      margin-bottom: 32px;
+    }
+
+    .footer-section h3 {
+      font-family: var(--font-ui);
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin: 0 0 16px 0;
+      color: var(--color-body-text-dark);
+    }
+
+    .footer-section ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-section li {
+      margin-bottom: 8px;
+    }
+
+    .footer-section a {
+      font-size: 13px;
+    }
+
+    .footer-bottom {
+      border-top: 1px solid var(--color-phase-divider);
+      padding-top: 24px;
+      font-size: 12px;
+      text-align: center;
+    }
+
+    /* Mobile Menu Toggle */
+    .mobile-menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 8px;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .hamburger-line {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background-color: var(--color-body-text-dark);
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(2) {
+      opacity: 0;
+    }
+
+    .mobile-menu-toggle[aria-expanded="true"] .hamburger-line:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-inner {
+        padding: 0 20px;
+        flex-wrap: wrap;
+      }
+
+      .mobile-menu-toggle {
+        display: flex;
+      }
+
+      .header-nav {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        gap: 0;
+        padding: 12px 0 4px;
+      }
+
+      .header-nav.is-open {
+        display: flex;
+      }
+
+      .header-nav li {
+        list-style: none;
+      }
+
+      .header-nav a {
+        display: block;
+        padding: 12px 0;
+        font-size: 14px;
+        border-bottom: 1px solid var(--color-phase-divider);
+      }
+
+      .header-nav li:last-child a {
+        border-bottom: none;
+      }
+
+      .content-wrapper {
+        padding: 0 16px;
+      }
+
+      main {
+        padding: 24px 0;
+      }
+
+      .footer-inner {
+        padding: 0 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+<a class="skip-to-content" href="#main-content">Skip to content</a>
+<header>
+<div class="header-inner">
+<h1 class="site-title">
+<a href="./index.html">Chappaqua Poison</a>
+</h1>
+<nav>
+<ul class="header-nav">
+<li><a class="nav-active" href="./about.html">About</a></li>
+<li><a href="./timeline.html">Timeline</a></li>
+<li><a href="./evidence.html">Evidence</a></li>
+<li><a href="./book.html">Book</a></li>
+<li><a href="./legal.html">Legal</a></li>
+<li><a href="./contact.html">Contact</a></li>
+<li><a href="./search.html">Search</a></li>
+</ul>
+</nav>
+<button aria-expanded="false" aria-label="Toggle navigation" class="mobile-menu-toggle">
+<span class="hamburger-line"></span>
+<span class="hamburger-line"></span>
+<span class="hamburger-line"></span>
+</button>
+</div>
+</header>
+<main id="main-content"><article class="static-page">
+<div class="content-wrapper">
+<header class="page-header">
+<h1 class="page-title">How to Read This Archive</h1><details class="edition-correction" style="font:14px/1.6 var(--font-ui, sans-serif);margin:1rem 0;padding:.75rem 1rem;border:1px solid #8a8680;border-radius:4px;"><summary style="cursor:pointer">Correction note — 2026-09-27</summary><p>Chapter count and reading-route links now match the 54 selected chapters. The guide no longer describes notices that were not displayed.</p></details>
+</header>
+<div class="page-body">
+<p>This archive contains 54 chapters organized into nine acts. The chapters bring together the narrative and its source records.</p>
+<h2>Three Ways In</h2>
+<p>There is no single correct reading order. Choose the path that matches your interest:</p>
+<div class="reading-paths">
+<div class="path-card">
+<div class="path-label">Chronological</div>
+<div class="path-desc">Start with <a href="./posts/B00.html">“Someone at the Gate”</a>, the opening chapter, and continue through the nine acts.</div>
+</div>
+<div class="path-card">
+<div class="path-label">The Verdict First</div>
+<div class="path-desc">Start with <a href="./posts/B45.html">“What the Jury Found”</a>, then follow its evidence references and links to earlier chapters.</div>
+</div>
+<div class="path-card">
+<div class="path-label">The Reason</div>
+<div class="path-desc">Start with <a href="./posts/B51.html">“For Evie”</a>, then read <a href="./about.html">About This Archive</a>.</div>
+</div>
+</div>
+<h2>What You'll See in Each Chapter</h2>
+<p>Every chapter includes several elements designed to maintain transparency:</p>
+<div class="element-guide">
+<div class="element-row">
+<div class="element-name">Act tag</div>
+<div class="element-desc">Each chapter belongs to one of nine chronological acts, color-coded throughout the archive. The act tells you where you are in the timeline.</div>
+</div>
+<div class="element-row">
+<div class="element-name">Tags</div>
+<div class="element-desc">Thematic categories linking related chapters across acts. Click any tag to see all chapters sharing that theme.</div>
+</div>
+<div class="element-row">
+<div class="element-name">Evidence &amp; Context</div>
+<div class="element-desc">References beneath the chapter link to documents, testimony, and other sources. Check the cited passage and the source’s stated status.</div>
+</div>
+<div class="element-row">
+<div class="element-name">Cross-links</div>
+<div class="element-desc">Related chapters connected by subject or chronology.</div>
+</div>
+</div>
+<h2>Follow the sources</h2>
+<p>Start with the evidence references beneath a chapter. Check the document's author, date, and status: a court decision, a filed submission, testimony, correspondence, a laboratory report, or an author account. Related documents can establish a pattern that a single item does not explain on its own.</p>
+<p>The evidence catalog identifies available files and references whose public copy is not included. Numerical confidence scores are no longer used.</p>
+<h2>Source Badges</h2>
+<p>Chapters display small badges indicating their primary source provenance:</p>
+<div class="badges-guide">
+<span class="source-badge badge-cp">CP</span> ChappaquaPoison (original investigative project) ·
+        <span class="source-badge badge-sle">SLE</span> StevieLovesEvie (family archive) ·
+        <span class="source-badge badge-abgib">ABGIB</span> ABrieGrowsInBrooklyn (Walsh's own blog) ·
+        <span class="source-badge badge-pcr">PCR</span> Public Court Record ·
+        <span class="source-badge badge-disc">DISC</span> Discovery Materials ·
+        <span class="source-badge badge-media">MEDIA</span> Published Media ·
+        <span class="source-badge badge-sworn">SWORN</span> Sworn Testimony
+      </div>
+<h2>Reconstructed sequences</h2>
+<p>Some chapters bring together events from several documents and the author’s recollection. Check which source supports a date, a quotation, or a sequence. A quotation records the speaker’s words; surrounding narrative may include interpretation or recollection.</p>
+<h2>Key Resources</h2>
+<p>The <a href="./methodology.html">Methodology</a> page explains the source categories and correction policy. The <a href="./evidence.html">Evidence Index</a> lists records, source descriptions, and availability. The <a href="./timeline.html">Timeline</a> provides a compressed chronological overview of all nine acts. The <a href="./falsifiability.html">Falsifiability</a> page identifies what would disprove the archive's core claims.</p>
+</div>
+</div>
+</article>
+<style>
+  .static-page {
+    padding: 40px 0;
+  }
+
+  .page-header {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .page-title {
+    font-family: var(--font-heading);
+    font-size: clamp(32px, 5vw, 44px);
+    font-weight: 700;
+    margin: 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .page-body {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .page-body p {
+    margin: 0 0 1.2em 0;
+  }
+
+  .page-body h2 {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    font-weight: 600;
+    margin: 40px 0 16px 0;
+    color: var(--color-body-text-dark);
+  }
+
+  .page-body a {
+    color: var(--color-muted-amber);
+    border-bottom-color: var(--color-muted-amber);
+  }
+
+  /* Reading paths */
+  .reading-paths {
+    display: grid;
+    gap: 16px;
+    margin: 24px 0 32px;
+  }
+
+  .path-card {
+    background: var(--color-slate-blue-gray);
+    border-left: 3px solid var(--color-muted-amber);
+    padding: 16px 20px;
+    border-radius: 2px;
+  }
+
+  .path-label {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-muted-amber);
+    margin-bottom: 6px;
+  }
+
+  .path-desc {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* Element guide */
+  .element-guide {
+    margin: 24px 0 32px;
+  }
+
+  .element-row {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 16px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--color-phase-divider);
+  }
+
+  .element-row:last-child {
+    border-bottom: none;
+  }
+
+  .element-name {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-muted-caption);
+    padding-top: 3px;
+  }
+
+  .element-desc {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* ECS guide */
+  .ecs-guide {
+    margin: 24px 0 32px;
+  }
+
+  .ecs-tier {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+
+  .ecs-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 2px;
+    white-space: nowrap;
+    min-width: 60px;
+    text-align: center;
+  }
+
+  .ecs-verified { background: #4A7C59; color: #fff; }
+  .ecs-caution { background: #C49A3C; color: #0F1116; }
+  .ecs-limited { background: #8A7260; color: #fff; }
+  .ecs-minimal { background: #7A7A7A; color: #fff; }
+
+  .ecs-label {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  /* Badges guide */
+  .badges-guide {
+    background: var(--color-slate-blue-gray);
+    padding: 16px 20px;
+    border-radius: 2px;
+    margin: 16px 0 32px;
+    font-size: 14px;
+    line-height: 2;
+  }
+
+  .source-badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 2px;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+  }
+
+  .badge-cp, .badge-sle, .badge-abgib { background: #D4A35F; color: #0F1116; }
+  .badge-pcr, .badge-media, .badge-sworn { background: #6C7A89; color: #fff; }
+  .badge-disc { background: #8A8680; color: #0F1116; }
+
+  /* Reconstruction example */
+  .reconstruction-example {
+    font-family: var(--font-ui);
+    font-size: 14px;
+    color: var(--color-muted-caption);
+    border-top: 1px solid var(--color-institutional-steel);
+    padding: 12px 0;
+    margin: 16px 0 24px;
+  }
+
+  @media (max-width: 600px) {
+    .element-row {
+      grid-template-columns: 1fr;
+      gap: 4px;
+    }
+
+    .ecs-tier {
+      flex-direction: column;
+      gap: 4px;
+    }
+  }
+</style></main>
+<footer>
+<div class="footer-inner">
+<div class="footer-content">
+<div class="footer-section">
+<h3>Navigate</h3>
+<ul>
+<li><a href="./about.html">About</a></li>
+<li><a href="./evidence.html">Evidence</a></li>
+<li><a href="./methodology.html">Methodology</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<h3>Transparency</h3>
+<ul>
+<li><a href="./public-record-notice.html">Public Record Notice</a></li>
+<li><a href="./falsifiability.html">Falsifiability</a></li>
+<li><a href="./how-to-read.html">How to Read This Archive</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom">
+<p>Court records, correspondence and the author's account are presented with source references. Filed documents, testimony, working drafts and recollections have different evidentiary roles.</p>
+<p>Chappaqua Poison · 2026 · Evidence Edition</p>
+</div>
+</div>
+</footer>
+<script>
+    (function() {
+      var toggle = document.querySelector('.mobile-menu-toggle');
+      var nav = document.querySelector('.header-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', function() {
+          var expanded = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', !expanded);
+          nav.classList.toggle('is-open');
+        });
+      }
+    })();
+  </script>
+</body>
+</html>

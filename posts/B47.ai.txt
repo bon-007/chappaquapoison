@@ -1,0 +1,90 @@
+# The Record Is Open
+
+Chapter: B47
+URL: https://chappaquapoison.com/posts/B47.html
+
+The archive carries the story beyond the verdict and appeals. The 2025–2026 motions, the support-hearing account and the filed Article 78 petition preserve the question Steve asks someone to examine: what should change when the record and the continuing custody arrangement diverge?
+
+## Chapter text
+
+The record exists.
+It exists in four hardbound books, red covers, spine-stamped, on a shelf in a house in Nevada. Each book holds photographs, text messages, court filings, and deposition testimony arranged with deliberate juxtaposition. A father feeding his daughter on one page. A lethal dose search on the next. The arrangement is the argument.
+It exists in 146 blog posts written by a woman who signed her name Aunt K, systematic, disciplined, building the case one post at a time, under a website called StevieLovesEvie, before a Westchester Family Court judge ordered every word erased, deactivated, and deleted.
+Editorial reconstruction
+Previously assigned date: November 05, 2021
+Original publication not established by this reconstruction
+Post 5 of 146: "The Gag Order: Westchester Court orders Dad's blogs erased, deactivated and deleted on default." The Hon. Michelle I. Schauer granted the order without opposition papers — Russell, representing himself pro se, did not appear. The order did not address, nor was it issued in response to, any finding of falsehood in the blog's content.
+SLE-004
+Editorial reconstruction; not an original archived post.
+It exists in a 4.7-gigabyte iMessage database recovered from a device backup. Timestamps accurate to the second. The scheme speaking to itself in two registers, what Tara said to Steve, and what she said to everyone else. The gap between those registers is the core evidence of fraud.
+It exists in a journalist’s podcast, twelve episodes, animated recreations drawn within the constraints of court orders she did not yet know would be used against her, before a woman named her sister and told her she was putting herself in harm’s way. Seventeen days before the gag order was entered.
+It exists in 19 case folders across two states. 432,000 files. Trial transcripts and deposition testimony, toxicology reports and police records, the Second Amended Judgment on Jury Verdict, Case No. CGC-18-570137, San Francisco Superior Court, totaling $332,080.74.
+Superior Court of the State of California, County of San Francisco
+Case No. CGC-18-570137
+Second Amended Judgment on Jury Verdict
+Intentional battery. Domestic violence. Intentional infliction of emotional distress.
+The separate punitive-damages finding used “malice, oppression, or fraud.” The punitive award was later struck and is not part of this judgment.
+Total judgment:
+$332,080.74
+with 10% interest.
+Affirmed on appeal, September 15, 2023.
+Second Amended Judgment on Jury Verdict, CGC-18-570137
+Twelve strangers did what every institution had refused to do. They looked at the evidence.
+Affirmed on appeal. Domesticated in New York.
+The archive was never intended to be this large.
+Steve had built surveillance systems for 3VR — equipment that watched airports, banks, transit stations. He recorded his household with the same precision, the same chain of custody, the same belief that documentation could speak for itself.
+Aunt K built the books. She wrote the blog. She treated the evidence the way Steve had taught her: systematic, sourced, arranged so that the pattern was visible.
+People could see it. Most of them chose not to.
+Supervisor reports disappeared from court files. A judge recused rather than adjudicated. Another judge proceeded by inquest while Steve was absent and his lawyer participated. The Attorney for the Child filed an Order to Show Cause requesting the father’s blogs be erased. A forensic evaluator whose report governed custody determinations lost his state credential; the Journal News reported that the agency’s cited violations included falsified renewal documents. Supervisors who documented positive visits were removed. Supervisors who documented nothing were retained.
+The archive exists because those institutions failed. It gathered together what they would not hold.
+The verdict did not change the custody arrangement.
+The California Court of Appeal affirmed the judgment on September 15, 2023. The judgment was domesticated in Westchester County. A San Francisco jury had heard three days of testimony and found Tara Walsh liable for battery, domestic violence and intentional infliction of emotional distress, with a separate punitive finding of malice, oppression or fraud. The punitive award was later struck; the compensatory judgment survived appeal.
+The Appellate Division, Second Department, had replaced the February 2022 order’s blanket deletion command with a narrower directive and affirmed the order insofar as appealed from. It held that the order was not entered on the father’s default because his counsel appeared and participated. The January 5, 2022 transcript shows counsel making objections and cross-examining Tara.
+The record also held Tara’s testimony that she lied about the trip to New York and had no intention to return, and that she understood restraining orders prevented her from removing Evie from California (August 29, 2018 transcript, pp. 74–75). Her November 23, 2020 letter withdrew complaints that Steve had threatened to kill her or Evie. Griffin surrendered his CASAC credential in a settlement; the Journal News later reported the violations cited by the agency.
+The Westchester Family Court orders remained in place.
+Steve was in Nevada. He had been in Nevada for years now — the house near Sparks where the red-bound books sat on the shelf and the laboratory reports sat in folders and the archive grew one document at a time. He worked. He filed motions. He flew to Westchester for hearings and flew back. He did not see his daughter. She turned five, then six, then seven, then eight in that house, not in person but in the arithmetic of birthdays he tracked from three thousand miles away. The distance between a father and a daughter is not measured in geography. It is measured in the things a child learns to do without him — ride a bicycle, read a sentence, lose a tooth, start school, make a friend, forget.
+Then the court consulted its own file.
+On February 3, 2026, a support hearing was held before Support Magistrate Bowman in Westchester County. Steve attended with his attorney. His memorandum to counsel records the exchange that troubled him; the document preserved here is that memorandum, not a certified transcript.
+“I reviewed the court file,” the memorandum quotes Bowman, “and it seems to indicate that custody was granted after hearing… the prevailing order grants Ms. Walsh full legal and physical custody of your daughter.” Steve challenged the default characterization in light of the appellate ruling. The response recorded in his memorandum was: “But another order hasn’t been issued… the prevailing order, the law of this case, grants Ms. Walsh custody… and that entitles her to child support.”
+The judge who conducted the January 2022 proceeding had called it an inquest, based on Steve’s non-appearance. His lawyer nevertheless participated and cross-examined Tara. The appellate court later held the order was not entered on default. “After hearing” and “not on default” are not mutually exclusive descriptions; the question Steve was pressing was what the rejection of the default premise required the court to do next.
+Steve’s interpretation was that the entry had been changed without a new order or notice. The preserved material does not show the earlier database entry or a change log. It shows the account he gave his attorney of what Bowman said and the continued reliance on the custody award.
+In December 2025, Steve sought to vacate the prior determination and restore his parental rights. Steve’s docket records identify that filing as Motion 12, Documents 138 and 139. It is a different document from the February 2026 draft quoted below, which addresses the later Bowman hearing.
+The February draft, prepared in the names of counsel Hugh Jasne and Dan Florio Jr., asked for an order vacating all prior orders in the matter.
+Family Court, State of New York, County of Westchester
+File No. 154703
+Respondent's Motion to Vacate All Prior Orders
+CPLR §§ 5015(a)(3), (a)(4); FCA §§ 434, 446, 842; DRL § 75-i; DRL § 240; U.S. Const. Amend. I, XIV.
+Six grounds argued as independently dispositive.
+Counsel-captioned February 2026 draft; signature date blank.
+Motion to Vacate All Prior Orders — February 2026 draft
+The draft argues that the existing orders are void ab initio and that the court is compelled to act. These are the requested grounds for relief, not a ruling.
+The draft did not ask the court to decide who was the better parent. It argued that the orders governing Evie’s life were void as a matter of law. Its grounds included the default characterization, the adequacy of the hearing, jurisdiction, the alleged emergency, Griffin’s evaluation and the court’s record.
+The February 2022 order was not entered on default. The Appellate Division said so because the father’s counsel appeared and participated. The transcript shows objections and cross-examination.
+The draft also challenged the sufficiency of the proceedings. The January 2022 transcript cannot support a statement that no witness testified or that no cross-examination occurred: Tara testified and Steve’s lawyer cross-examined her. Steve’s challenge concerns the basis and adequacy of that inquest, not the absence of those events.
+The draft challenged New York’s jurisdiction, arguing that California was Evie’s home state with custody proceedings open there. The September 11, 2018 conference transcript records communications between the courts. Steve’s counsel referred to “the communications that went on between the two courts” and said his client was willing to drop the jurisdictional issue and let the New York court address custody (pp. 21–23, 36). The draft’s assertion that no communication occurred conflicts with that record.
+Tara withdrew the threat complaint in writing. In a signed letter dated November 23, 2020, addressed to the Chappaqua Police Department, she wrote: “I would like to let this police department know that Mr. Stephen Russell never made a threat to kill myself or our daughter Evelyn. I would like to withdraw any complaints regarding this made to the police department.” The copy is preserved as Exhibit D, page 8 of Steve’s reconsideration packet; it does not establish when the police received it.
+The forensic foundation was fraudulent. Raymond Griffin had been appointed by the court as a CASAC, a Credentialed Alcoholism and Substance Abuse Counselor, to prepare the forensic evaluation that would govern custody. In a case involving multiple poisoning substances, a woman who had admitted under oath to drugging her partner with an antipsychotic, and a post-provocation urine report whose commentary called the lithium result unexpectedly high, the court’s chosen instrument for evaluating the chemical dimension of the dispute was a substance abuse counselor whose credential was issued by the Office of Addiction Services and Supports and whose clinical authority extended to alcoholism counseling, not forensic toxicology.
+On August 23, 2019, Griffin signed a stipulation surrendering his CASAC credential and consenting to revocation; OASAS executed it a week later. It settled two complaints and recites no findings. The Journal News subsequently reported the agency’s cited violations, including mishandling toxicology testing, inaccurate documentation, misrepresenting medical qualifications and renewing the credential with falsified documents. The credential was gone. Steve’s challenge to the evaluation remained.
+Steve named it on the record before Schauer on August 27, 2021 (ExTR_01, transcript pp. 76–77): “Raymond Griffin, who has turned out to be a fake doctor, who harmed a lot of people over thirty years. He has fled the state. He has been delicensed.” Schauer received this. She questioned its relevance to the current proceedings. The evaluation remained in the case record after Griffin’s credential was revoked.
+The draft treated the “after hearing” description as evidence of reclassification. The surviving memorandum supports the reported description; a prior database entry and a record of its alteration have not been located.
+The motion’s preliminary statement said what the archive had been saying for eight years:
+“The Respondent does not ask this Court to relitigate the ‘best interests of the child.’ He asks this Court to recognize that the orders governing his daughter’s life were never lawfully entered in the first place.”
+The draft argued that vacatur would not disrupt Evie’s day-to-day life. She would remain in her current home, attend her current school, maintain her current routines. What would change is the legal foundation underlying those arrangements, reset from a void, fraud-tainted posture to one that could be adjudicated lawfully, with due process, on a proper evidentiary record.
+That was the relief Steve sought: to challenge the legal foundation while preserving his daughter’s daily routine.
+The later motion sequence did not end with an unanswered pending request. The case’s docket inventory records Motion 13 as received March 1, 2026 and withdrawn March 23; the stamped motion and withdrawal papers remain to be matched to this draft. Motions 14 and 15 sought to conform the record or order; they were dismissed in April. They were not renewed motions to vacate. On June 15 the Family Court denied recusal, expressly acknowledged the appellate non-default holding and stated that nothing was then pending before it. That statement describes the posture on that date.
+The verified Article 78 petition, filed June 13, 2026 in Supreme Court, carries the next part of the record. The
+closing legal page
+presents the filed papers separately from the unfiled federal working draft.
+Evie was eight. She was born January 27, 2018. The last time she had seen her father she was one and a half — carried by a court-appointed supervisor down a driveway in darkness, toward a car parked behind bushes. Between one and a half and eight lay the entire record of this book. Eight years of gates, orders, silence, documentation, trials, appeals, and still the gate held.
+The archive is not a repository. It is a witness.
+Five independent archives survived every silencing attempt: the Backup, the Books, the Blog, the Podcast, the Court Record. Each has an origin story, a silencing attempt, and a survival story. Each carries a voice, Aunt K’s systematic love, Tara’s scheme speaking to itself, Brienne’s imperfect testimony, Petrella’s journalism, and the institutional authority of the court record at both its worst and its best.
+Together they hold what no single institution was willing to hold: the complete documentary record of a coordinated scheme, covert pharmaceutical poisoning, fabrication of a psychiatric narrative, organized institutionalization attempts, coordinated isolation, financial manipulation, and narrative amplification through institutions, a pattern Steve asks readers to examine alongside the jury’s findings of battery, domestic violence and intentional infliction of emotional distress, affirmed on appeal, and still, in the Family Court that produced the orders governing a child’s life, unexamined.
+The record is open. Anyone can read it.
+
+## Evidence references
+
+- ExJJ_05 Draft motion to vacate all prior orders — counsel-captioned draft, February 2026 (unfiled) Unfiled draft: https://chappaquapoison.com/evidence.html?search=ExJJ_05
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1 Court record: https://chappaquapoison.com/evidence.html?search=ExG_01
+- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?search=ExG_05
+- G-27 OASAS Stipulation of Settlement — Raymond Griffin, August 2019: https://chappaquapoison.com/evidence.html?search=G-27
+- Explore all 40 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B47

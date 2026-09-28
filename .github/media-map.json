@@ -1,0 +1,1868 @@
+{
+  "/Evidence/imports/VMdromDonAckermansAttny.wav": {
+    "key": "media/dc1dc45722b9a1855f8b3ed6b28f8d2860e4c9644065332e014bbb22676f82c6/VMdromDonAckermansAttny.wav",
+    "sha256": "dc1dc45722b9a1855f8b3ed6b28f8d2860e4c9644065332e014bbb22676f82c6",
+    "bytes": 308204,
+    "mime": "audio/wav"
+  },
+  "/Evidence/media/clips/stephen/Clip11_Drugging_Denials_p31-36.mp4": {
+    "key": "media/512506976a321e057c17f7023d0138674cf9dd207adbc8f1824a4d512aa10ba3/Clip11_Drugging_Denials_p31-36.mp4",
+    "sha256": "512506976a321e057c17f7023d0138674cf9dd207adbc8f1824a4d512aa10ba3",
+    "bytes": 4511082,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/stephen/Clip13_Writing_Checks_Gopal_p60-62.mp4": {
+    "key": "media/8518fe9d94329be4c6dc9bfe765625471be76cfeb0fd84409d1a54c31eaa2e5b/Clip13_Writing_Checks_Gopal_p60-62.mp4",
+    "sha256": "8518fe9d94329be4c6dc9bfe765625471be76cfeb0fd84409d1a54c31eaa2e5b",
+    "bytes": 5225241,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/stephen/Clip06_Fifth_Avenue_Incident_p46-48.mp4": {
+    "key": "media/e7ca03c474843b318a54118f41e351e5a0a436d468f82b535585c2538775131c/Clip06_Fifth_Avenue_Incident_p46-48.mp4",
+    "sha256": "e7ca03c474843b318a54118f41e351e5a0a436d468f82b535585c2538775131c",
+    "bytes": 4535475,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/stephen/Clip01_Less_Than_Genuine_p49-50.mp4": {
+    "key": "media/301bf4792641530feb4b60536217a67edc296b76e7d41634be933afe6063ff9d/Clip01_Less_Than_Genuine_p49-50.mp4",
+    "sha256": "301bf4792641530feb4b60536217a67edc296b76e7d41634be933afe6063ff9d",
+    "bytes": 5389631,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/stephen/Clip05_Kidnapping_Coordination_p126-130.mp4": {
+    "key": "media/bf2130a2c2a53e69fbe33b4679c30d0290a9f486a71f14995cc5d5153545fe4b/Clip05_Kidnapping_Coordination_p126-130.mp4",
+    "sha256": "bf2130a2c2a53e69fbe33b4679c30d0290a9f486a71f14995cc5d5153545fe4b",
+    "bytes": 5929054,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/stephen/Clip12_Fed_Questions_p36.mp4": {
+    "key": "media/37bfb4e96d00abaeb378725667260247fc4584b42ce005018bc3b4f30dd7bf41/Clip12_Fed_Questions_p36.mp4",
+    "sha256": "37bfb4e96d00abaeb378725667260247fc4584b42ce005018bc3b4f30dd7bf41",
+    "bytes": 6464375,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/stephen/Clip02_Subpoena_Defiance_p17-19.mp4": {
+    "key": "media/195df96ee56c401d5622e7eadb2980c1224fa3945a089bc1fc38e0e6f7b8f35d/Clip02_Subpoena_Defiance_p17-19.mp4",
+    "sha256": "195df96ee56c401d5622e7eadb2980c1224fa3945a089bc1fc38e0e6f7b8f35d",
+    "bytes": 5501473,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est1h25.mp4": {
+    "key": "media/ebe98971aa51e42b91b553ac1eeb6d492fd4d332b2ea58d6657c8d7d51618773/Gavish_Aware_Encouraging_est1h25.mp4",
+    "sha256": "ebe98971aa51e42b91b553ac1eeb6d492fd4d332b2ea58d6657c8d7d51618773",
+    "bytes": 7653766,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Cocaine_Overdose_est2h30.mp4": {
+    "key": "media/274fae6c3862314a57b34e0754bf2453993e9e03aa58f2d61fc48ee67d1b412d/Gavish_Cocaine_Overdose_est2h30.mp4",
+    "sha256": "274fae6c3862314a57b34e0754bf2453993e9e03aa58f2d61fc48ee67d1b412d",
+    "bytes": 8382505,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est1h20.mp4": {
+    "key": "media/d33e8248cd9abbf92ccff0029cf7bfa466414012e3cf7eab18efea3d8365449a/Gavish_Aware_Encouraging_est1h20.mp4",
+    "sha256": "d33e8248cd9abbf92ccff0029cf7bfa466414012e3cf7eab18efea3d8365449a",
+    "bytes": 8295634,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h00.mp4": {
+    "key": "media/0dcde67f710e14c469113b277bfba62b5d462a3c9e7624794f7405996802d253/Gavish_BPD_Knowledge_est3h00.mp4",
+    "sha256": "0dcde67f710e14c469113b277bfba62b5d462a3c9e7624794f7405996802d253",
+    "bytes": 5129934,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est2h55.mp4": {
+    "key": "media/31bbd7fd0e19c0511e02c166f99722e0fb3e8d56ad8809b4b923c72339bcedbc/Gavish_BPD_Knowledge_est2h55.mp4",
+    "sha256": "31bbd7fd0e19c0511e02c166f99722e0fb3e8d56ad8809b4b923c72339bcedbc",
+    "bytes": 5921129,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h15.mp4": {
+    "key": "media/50f9a263a665f1c87ddd555cb8ac162a8bc4098b29ce5cfbfebdd73da4654f70/Gavish_BPD_Knowledge_est3h15.mp4",
+    "sha256": "50f9a263a665f1c87ddd555cb8ac162a8bc4098b29ce5cfbfebdd73da4654f70",
+    "bytes": 6339071,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est0h15.mp4": {
+    "key": "media/976a796087fdad779455ab1a0151dbb7bd474c6341b8d25aadc10678f3e57780/Gavish_Aware_Encouraging_est0h15.mp4",
+    "sha256": "976a796087fdad779455ab1a0151dbb7bd474c6341b8d25aadc10678f3e57780",
+    "bytes": 8148139,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h05.mp4": {
+    "key": "media/b9ba491daeb11d5dd11b85874cc2319ce48eb8a2b4111dd9cd08d69859b538ce/Gavish_BPD_Knowledge_est3h05.mp4",
+    "sha256": "b9ba491daeb11d5dd11b85874cc2319ce48eb8a2b4111dd9cd08d69859b538ce",
+    "bytes": 5628328,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est2h45.mp4": {
+    "key": "media/bc52fb34f06efe878abba61aacca722de3de97e1e5cb44568c81ca4470af6669/Gavish_BPD_Knowledge_est2h45.mp4",
+    "sha256": "bc52fb34f06efe878abba61aacca722de3de97e1e5cb44568c81ca4470af6669",
+    "bytes": 5451117,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est2h50.mp4": {
+    "key": "media/f8d0c69ddf72000ff4cef64ed759460289dc364dc149c8cf8f462b3bc09eec88/Gavish_BPD_Knowledge_est2h50.mp4",
+    "sha256": "f8d0c69ddf72000ff4cef64ed759460289dc364dc149c8cf8f462b3bc09eec88",
+    "bytes": 5106120,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h10.mp4": {
+    "key": "media/7ca314f8b3c8a367f201006385473c1091b89f730b56bc86f5ee8feecb155380/Gavish_BPD_Knowledge_est3h10.mp4",
+    "sha256": "7ca314f8b3c8a367f201006385473c1091b89f730b56bc86f5ee8feecb155380",
+    "bytes": 6158409,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h35.mp4": {
+    "key": "media/012f96e027e7bd348534ec59b9da8257a410423d42fb5b9269e70f55cfb76461/Gavish_BPD_Knowledge_est3h35.mp4",
+    "sha256": "012f96e027e7bd348534ec59b9da8257a410423d42fb5b9269e70f55cfb76461",
+    "bytes": 6955565,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h20.mp4": {
+    "key": "media/8478b1761f21059c868d382673922fed58357230fab2c8e62698387c8cddd713/Gavish_BPD_Knowledge_est3h20.mp4",
+    "sha256": "8478b1761f21059c868d382673922fed58357230fab2c8e62698387c8cddd713",
+    "bytes": 6053351,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est0h30.mp4": {
+    "key": "media/507f1653acaeeca7a1df3162e9e11cb3b2c7a9537a8365281e9110354858221e/Gavish_Aware_Encouraging_est0h30.mp4",
+    "sha256": "507f1653acaeeca7a1df3162e9e11cb3b2c7a9537a8365281e9110354858221e",
+    "bytes": 7759793,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Clip10_Moore_Representation_Fraud_opening.mp4": {
+    "key": "media/90a2fc60f0814206abcd58c5843c874af70c6519407c153611de8f66b6aedda9/Clip10_Moore_Representation_Fraud_opening.mp4",
+    "sha256": "90a2fc60f0814206abcd58c5843c874af70c6519407c153611de8f66b6aedda9",
+    "bytes": 10092152,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h30.mp4": {
+    "key": "media/379628640671825992539556f967a528cd8fc11c21d50b747768c4de8844d9c2/Gavish_BPD_Knowledge_est3h30.mp4",
+    "sha256": "379628640671825992539556f967a528cd8fc11c21d50b747768c4de8844d9c2",
+    "bytes": 8308304,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_BPD_Knowledge_est3h25.mp4": {
+    "key": "media/3200921d29bb0a32d123cf9517ef0d761040d7366f7666848449aa18516f619d/Gavish_BPD_Knowledge_est3h25.mp4",
+    "sha256": "3200921d29bb0a32d123cf9517ef0d761040d7366f7666848449aa18516f619d",
+    "bytes": 7379678,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est0h45.mp4": {
+    "key": "media/dfdc7d800ed4470d88ad03e63e4f6311224cfa27118ba78cffd48e78aa9248c2/Gavish_Aware_Encouraging_est0h45.mp4",
+    "sha256": "dfdc7d800ed4470d88ad03e63e4f6311224cfa27118ba78cffd48e78aa9248c2",
+    "bytes": 4220232,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est1h10.mp4": {
+    "key": "media/9698f1cfea7f7d65f79de000632310bd159b5898a791cbf43e47ac94d4b85263/Gavish_Aware_Encouraging_est1h10.mp4",
+    "sha256": "9698f1cfea7f7d65f79de000632310bd159b5898a791cbf43e47ac94d4b85263",
+    "bytes": 5241472,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est1h00.mp4": {
+    "key": "media/be35f38ea57dfec31f42d337b106703b898ecef5878ffae288756d442c44990e/Gavish_Aware_Encouraging_est1h00.mp4",
+    "sha256": "be35f38ea57dfec31f42d337b106703b898ecef5878ffae288756d442c44990e",
+    "bytes": 5564977,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/gavish/Gavish_Aware_Encouraging_est1h15.mp4": {
+    "key": "media/046cca4d13217cea25128f4e455f7769c3cec7287952e1ab2d83cd6c275abf21/Gavish_Aware_Encouraging_est1h15.mp4",
+    "sha256": "046cca4d13217cea25128f4e455f7769c3cec7287952e1ab2d83cd6c275abf21",
+    "bytes": 5259639,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip08_Privacy_Window_1h30.mp4": {
+    "key": "media/e64fba70f7068dc71f623712456282a6c411378c02100009f0c181d0dbe4c084/Clip08_Privacy_Window_1h30.mp4",
+    "sha256": "e64fba70f7068dc71f623712456282a6c411378c02100009f0c181d0dbe4c084",
+    "bytes": 6471178,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip08_Privacy_Window_2h00.mp4": {
+    "key": "media/8cc53c7bfa0823225640a8e7be7c06bcdae7df9de9e65a3d007077fcb9058404/Clip08_Privacy_Window_2h00.mp4",
+    "sha256": "8cc53c7bfa0823225640a8e7be7c06bcdae7df9de9e65a3d007077fcb9058404",
+    "bytes": 6075372,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip07_Psychotic_Claim_est1h00.mp4": {
+    "key": "media/6c3ad70efd4eb53140e97e9d5f8afdb1d0e166e37c31e2bc601dfd88d3bcd2c1/Clip07_Psychotic_Claim_est1h00.mp4",
+    "sha256": "6c3ad70efd4eb53140e97e9d5f8afdb1d0e166e37c31e2bc601dfd88d3bcd2c1",
+    "bytes": 4845404,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip07_Psychotic_Claim_est1h15.mp4": {
+    "key": "media/37bdae6b9b72b189ff7c36658b26b6734273acc1f5724ef808bfd9d404ff3f59/Clip07_Psychotic_Claim_est1h15.mp4",
+    "sha256": "37bdae6b9b72b189ff7c36658b26b6734273acc1f5724ef808bfd9d404ff3f59",
+    "bytes": 4807388,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip07_Psychotic_Claim_est1h30.mp4": {
+    "key": "media/ea97b9d4d61c538a5f9a79cc0cd1ca6e3d35ef3c1abc79b59ae749bd423521fb/Clip07_Psychotic_Claim_est1h30.mp4",
+    "sha256": "ea97b9d4d61c538a5f9a79cc0cd1ca6e3d35ef3c1abc79b59ae749bd423521fb",
+    "bytes": 6473419,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip15_Email_Amnesia_est0h40.mp4": {
+    "key": "media/ecc1085df3deee52430656aa63aad81acfa99673278cb6af3b65b9639dd3e3aa/Clip15_Email_Amnesia_est0h40.mp4",
+    "sha256": "ecc1085df3deee52430656aa63aad81acfa99673278cb6af3b65b9639dd3e3aa",
+    "bytes": 5670828,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip08_Privacy_Window_0h30.mp4": {
+    "key": "media/ed4ad2cd365f94184b889f884d9cd9e6bd28c0dc1e39c83cb3e5633f493b87cd/Clip08_Privacy_Window_0h30.mp4",
+    "sha256": "ed4ad2cd365f94184b889f884d9cd9e6bd28c0dc1e39c83cb3e5633f493b87cd",
+    "bytes": 6329679,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip08_Privacy_Window_0h45.mp4": {
+    "key": "media/3d075b56255200a96a85d062c9927ec9db044ea7670e43a54cd92261fb1fa4d8/Clip08_Privacy_Window_0h45.mp4",
+    "sha256": "3d075b56255200a96a85d062c9927ec9db044ea7670e43a54cd92261fb1fa4d8",
+    "bytes": 5974369,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip15_Email_Amnesia_est0h20.mp4": {
+    "key": "media/a56c42d766871814bff37b7eacd579552c99b866eaf4b7e963110a37f4830fb3/Clip15_Email_Amnesia_est0h20.mp4",
+    "sha256": "a56c42d766871814bff37b7eacd579552c99b866eaf4b7e963110a37f4830fb3",
+    "bytes": 6867450,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/maura/Clip07_Psychotic_Claim_est1h45.mp4": {
+    "key": "media/5dd6c405640997ea154e4e6595ba591fc4a8f7874edd3aa96f71339cd96c4b65/Clip07_Psychotic_Claim_est1h45.mp4",
+    "sha256": "5dd6c405640997ea154e4e6595ba591fc4a8f7874edd3aa96f71339cd96c4b65",
+    "bytes": 6693362,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/brendan/Clip14_Text_Contradiction_est1h15.mp4": {
+    "key": "media/660d6284206546b4136e79ee5daeffb90c91090bb75c38e7965ad92eefa820f3/Clip14_Text_Contradiction_est1h15.mp4",
+    "sha256": "660d6284206546b4136e79ee5daeffb90c91090bb75c38e7965ad92eefa820f3",
+    "bytes": 8605890,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/brendan/Clip14_Text_Contradiction_est1h00.mp4": {
+    "key": "media/4fa4266656e852fbc5f2e51df96eac29b584b7c571f9be7cf2e32d6c6c84f2b6/Clip14_Text_Contradiction_est1h00.mp4",
+    "sha256": "4fa4266656e852fbc5f2e51df96eac29b584b7c571f9be7cf2e32d6c6c84f2b6",
+    "bytes": 7415855,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/brendan/Clip14_Text_Contradiction_est2h00.mp4": {
+    "key": "media/6aa057fbefe997cd274c6501340796031e693ce9d1d39b10dc155ca3e5d8834c/Clip14_Text_Contradiction_est2h00.mp4",
+    "sha256": "6aa057fbefe997cd274c6501340796031e693ce9d1d39b10dc155ca3e5d8834c",
+    "bytes": 6253042,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/clips/brendan/Clip14_Text_Contradiction_est1h30.mp4": {
+    "key": "media/2fbe63dfbde36d2b3d3f96a2d125c6452731b8e4e96f0f37a70ab6b41d5202b1/Clip14_Text_Contradiction_est1h30.mp4",
+    "sha256": "2fbe63dfbde36d2b3d3f96a2d125c6452731b8e4e96f0f37a70ab6b41d5202b1",
+    "bytes": 7666509,
+    "mime": "video/mp4"
+  },
+  "/Evidence/media/audio/ExMM_VM_Don_Ackerman_Attorney.wav": {
+    "key": "media/dc1dc45722b9a1855f8b3ed6b28f8d2860e4c9644065332e014bbb22676f82c6/ExMM_VM_Don_Ackerman_Attorney.wav",
+    "sha256": "dc1dc45722b9a1855f8b3ed6b28f8d2860e4c9644065332e014bbb22676f82c6",
+    "bytes": 308204,
+    "mime": "audio/wav"
+  },
+  "/Evidence/html/sle_blog/images/Lookup.jpg": {
+    "key": "archive-images/e4f9e05ef4e13afd7d5997661c60f1a0ed2266c6628729aaa4ed3e2155d7ae30/Lookup.jpg",
+    "sha256": "e4f9e05ef4e13afd7d5997661c60f1a0ed2266c6628729aaa4ed3e2155d7ae30",
+    "bytes": 495054,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/MondayBannerWText-4.svg": {
+    "key": "archive-images/27d153b39c1c03c070fd680281a678c74ccc1570902b4f566689f8d21c659d9e/MondayBannerWText-4.svg",
+    "sha256": "27d153b39c1c03c070fd680281a678c74ccc1570902b4f566689f8d21c659d9e",
+    "bytes": 319446,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/MondayText.svg": {
+    "key": "archive-images/9a65eba4e678ed835591a5222f389013a504ee101a1bd85f861ed42a5cf6e021/MondayText.svg",
+    "sha256": "9a65eba4e678ed835591a5222f389013a504ee101a1bd85f861ed42a5cf6e021",
+    "bytes": 149002,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Monday.svg": {
+    "key": "archive-images/4544b1cb3968b9e4cfaefe4466252e24739390a1fe6848efd8fd625ae5adcb7e/Monday.svg",
+    "sha256": "4544b1cb3968b9e4cfaefe4466252e24739390a1fe6848efd8fd625ae5adcb7e",
+    "bytes": 815493,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_2-1.svg": {
+    "key": "archive-images/e450c5da9fc016f4071fbc068f8c8984e5e1d310738b13ba68be0b7192ffb9b7/ES-Book-Covers_2-1.svg",
+    "sha256": "e450c5da9fc016f4071fbc068f8c8984e5e1d310738b13ba68be0b7192ffb9b7",
+    "bytes": 60768,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_2-2.svg": {
+    "key": "archive-images/e450c5da9fc016f4071fbc068f8c8984e5e1d310738b13ba68be0b7192ffb9b7/ES-Book-Covers_2-2.svg",
+    "sha256": "e450c5da9fc016f4071fbc068f8c8984e5e1d310738b13ba68be0b7192ffb9b7",
+    "bytes": 60768,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_8-2.svg": {
+    "key": "archive-images/2824637d8d572cb240ad51e6adf7db35e2f915005a5ebdff78a1a33b93442841/ES-Book-Covers_8-2.svg",
+    "sha256": "2824637d8d572cb240ad51e6adf7db35e2f915005a5ebdff78a1a33b93442841",
+    "bytes": 77096,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_8.svg": {
+    "key": "archive-images/2824637d8d572cb240ad51e6adf7db35e2f915005a5ebdff78a1a33b93442841/ES-Book-Covers_8.svg",
+    "sha256": "2824637d8d572cb240ad51e6adf7db35e2f915005a5ebdff78a1a33b93442841",
+    "bytes": 77096,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_9.svg": {
+    "key": "archive-images/e363dec9b25017bbd77a131391afa23522681c2cc66fa0a703d751498def5638/ES-Book-Covers_9.svg",
+    "sha256": "e363dec9b25017bbd77a131391afa23522681c2cc66fa0a703d751498def5638",
+    "bytes": 94596,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_9-3.svg": {
+    "key": "archive-images/e363dec9b25017bbd77a131391afa23522681c2cc66fa0a703d751498def5638/ES-Book-Covers_9-3.svg",
+    "sha256": "e363dec9b25017bbd77a131391afa23522681c2cc66fa0a703d751498def5638",
+    "bytes": 94596,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_10.svg": {
+    "key": "archive-images/37b52c46ebe6e96ae98dc935636526d4d738ba7ad2e6a39b75fe3d04bd4ff7b8/ES-Book-Covers_10.svg",
+    "sha256": "37b52c46ebe6e96ae98dc935636526d4d738ba7ad2e6a39b75fe3d04bd4ff7b8",
+    "bytes": 75107,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_10-3.svg": {
+    "key": "archive-images/37b52c46ebe6e96ae98dc935636526d4d738ba7ad2e6a39b75fe3d04bd4ff7b8/ES-Book-Covers_10-3.svg",
+    "sha256": "37b52c46ebe6e96ae98dc935636526d4d738ba7ad2e6a39b75fe3d04bd4ff7b8",
+    "bytes": 75107,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/BlackCar-1.svg": {
+    "key": "archive-images/ac532bf8cc8ec6798ede51a79277c267602b86d14f6bc4ec377114b601f7e1d8/BlackCar-1.svg",
+    "sha256": "ac532bf8cc8ec6798ede51a79277c267602b86d14f6bc4ec377114b601f7e1d8",
+    "bytes": 332430,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/coolgrandma.jpg": {
+    "key": "archive-images/33cc35ac459cc5a1a4bc1d3d81544028d06114840c0837abd6ed9e7251c16aa0/coolgrandma.jpg",
+    "sha256": "33cc35ac459cc5a1a4bc1d3d81544028d06114840c0837abd6ed9e7251c16aa0",
+    "bytes": 316479,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/EVBannerNEWLarge-2.svg": {
+    "key": "archive-images/6bd4f9f0d2f0e7e527d12d2d0979d5b1126f77085dc4268b8f07f1816b1b8c69/EVBannerNEWLarge-2.svg",
+    "sha256": "6bd4f9f0d2f0e7e527d12d2d0979d5b1126f77085dc4268b8f07f1816b1b8c69",
+    "bytes": 238930,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SteveAndEvie.png": {
+    "key": "archive-images/3543cefdceb89982d0bd894324177c27d5038f16ba7b2b5a9af0cbabd09ffefb/SteveAndEvie.png",
+    "sha256": "3543cefdceb89982d0bd894324177c27d5038f16ba7b2b5a9af0cbabd09ffefb",
+    "bytes": 337174,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/AuntKellySig-2.svg": {
+    "key": "archive-images/de04617e57eeade951a7f01cc6a6fb3bf3f261c04a4545e2984597b21b6cc1ef/AuntKellySig-2.svg",
+    "sha256": "de04617e57eeade951a7f01cc6a6fb3bf3f261c04a4545e2984597b21b6cc1ef",
+    "bytes": 88093,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/EvieBathComic_Opt.svg": {
+    "key": "archive-images/3e82b2f80266f63244b19ba3cd18dd5021dfb3c5beab0053c968d06eaa168999/EvieBathComic_Opt.svg",
+    "sha256": "3e82b2f80266f63244b19ba3cd18dd5021dfb3c5beab0053c968d06eaa168999",
+    "bytes": 895475,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/MomDocChild.svg": {
+    "key": "archive-images/d30f6ec590d242b3af667d02945e199f9422e1e95657ecab6789f53d8355985a/MomDocChild.svg",
+    "sha256": "d30f6ec590d242b3af667d02945e199f9422e1e95657ecab6789f53d8355985a",
+    "bytes": 192920,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/FinMunch-2.png": {
+    "key": "archive-images/81191a1dacbda6328302a571dc6ace3f7279ea4d9c4f4da585aa36f262edfa2c/FinMunch-2.png",
+    "sha256": "81191a1dacbda6328302a571dc6ace3f7279ea4d9c4f4da585aa36f262edfa2c",
+    "bytes": 5855027,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_25-1.svg": {
+    "key": "archive-images/268803eb3b51076e90b9ff0fb0826b04f2562c6c33b6b3a5312efdee8de711c7/Evie-Story-Book-One-1x1-2048-Assets_25-1.svg",
+    "sha256": "268803eb3b51076e90b9ff0fb0826b04f2562c6c33b6b3a5312efdee8de711c7",
+    "bytes": 366548,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_36.svg": {
+    "key": "archive-images/ddd474ec81627c04b62ff34d9f5a1affe9108e74b86ddeeddb3472e423797bd2/Evie-Story-Book-One-1x1-2048-Assets_36.svg",
+    "sha256": "ddd474ec81627c04b62ff34d9f5a1affe9108e74b86ddeeddb3472e423797bd2",
+    "bytes": 822322,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Pink-2.svg": {
+    "key": "archive-images/88c4fc718637c7a4e30866efe0338c8fcdc11a90d91394f77ea667603f3ee0f2/Brie-Background-Pink-2.svg",
+    "sha256": "88c4fc718637c7a4e30866efe0338c8fcdc11a90d91394f77ea667603f3ee0f2",
+    "bytes": 446323,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Pink-1.svg": {
+    "key": "archive-images/88c4fc718637c7a4e30866efe0338c8fcdc11a90d91394f77ea667603f3ee0f2/Brie-Background-Pink-1.svg",
+    "sha256": "88c4fc718637c7a4e30866efe0338c8fcdc11a90d91394f77ea667603f3ee0f2",
+    "bytes": 446323,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Pink-7.svg": {
+    "key": "archive-images/88c4fc718637c7a4e30866efe0338c8fcdc11a90d91394f77ea667603f3ee0f2/Brie-Background-Pink-7.svg",
+    "sha256": "88c4fc718637c7a4e30866efe0338c8fcdc11a90d91394f77ea667603f3ee0f2",
+    "bytes": 446323,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/EvieReading.svg": {
+    "key": "archive-images/fdaaa7ba0cd14d98230105884d5fe83e0f13729b5bd63e1c911dd811ae089e07/EvieReading.svg",
+    "sha256": "fdaaa7ba0cd14d98230105884d5fe83e0f13729b5bd63e1c911dd811ae089e07",
+    "bytes": 8091353,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SteveWalshBanner3.svg": {
+    "key": "archive-images/5bd03f0d860287d847b764e2a564452ce6e367f06b1a6d6bd4931fe1dea08cf3/SteveWalshBanner3.svg",
+    "sha256": "5bd03f0d860287d847b764e2a564452ce6e367f06b1a6d6bd4931fe1dea08cf3",
+    "bytes": 179179,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SteveWalshBanner3-1.svg": {
+    "key": "archive-images/5bd03f0d860287d847b764e2a564452ce6e367f06b1a6d6bd4931fe1dea08cf3/SteveWalshBanner3-1.svg",
+    "sha256": "5bd03f0d860287d847b764e2a564452ce6e367f06b1a6d6bd4931fe1dea08cf3",
+    "bytes": 179179,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-121.png": {
+    "key": "archive-images/321bf6e216875f60130b2e8f4114c1bc1852b1dbe2df3c61f0b71d12a4f4dfc6/image-121.png",
+    "sha256": "321bf6e216875f60130b2e8f4114c1bc1852b1dbe2df3c61f0b71d12a4f4dfc6",
+    "bytes": 1639979,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-206.png": {
+    "key": "archive-images/321bf6e216875f60130b2e8f4114c1bc1852b1dbe2df3c61f0b71d12a4f4dfc6/image-206.png",
+    "sha256": "321bf6e216875f60130b2e8f4114c1bc1852b1dbe2df3c61f0b71d12a4f4dfc6",
+    "bytes": 1639979,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Walsh_Arrest-1.svg": {
+    "key": "archive-images/76bad3adbed139dcd1130e1a2e77b8515baeaf7bc85de9aad78d48d78337dc0a/Walsh_Arrest-1.svg",
+    "sha256": "76bad3adbed139dcd1130e1a2e77b8515baeaf7bc85de9aad78d48d78337dc0a",
+    "bytes": 181739,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Walsh_Arrest.svg": {
+    "key": "archive-images/76bad3adbed139dcd1130e1a2e77b8515baeaf7bc85de9aad78d48d78337dc0a/Walsh_Arrest.svg",
+    "sha256": "76bad3adbed139dcd1130e1a2e77b8515baeaf7bc85de9aad78d48d78337dc0a",
+    "bytes": 181739,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw3.svg": {
+    "key": "archive-images/89d4f0d065614e0cdddbcb47ef8676ef93ffb5ed34f60d669c15576922260fed/sw3.svg",
+    "sha256": "89d4f0d065614e0cdddbcb47ef8676ef93ffb5ed34f60d669c15576922260fed",
+    "bytes": 163095,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green-2.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green-2.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green-4.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green-4.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green-12.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green-12.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green-5.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green-5.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green-11.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green-11.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Green-1.svg": {
+    "key": "archive-images/8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727/Brie-Background-Green-1.svg",
+    "sha256": "8d8e1d6f8cb9fdba4c726b60b960791013a0c638664f4d90cb3b0b4540241727",
+    "bytes": 422383,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SW2-1.svg": {
+    "key": "archive-images/2cd12bb5c71df85e2610c09fee8500294a626c305e77ddc46e9d7302f354f79d/SW2-1.svg",
+    "sha256": "2cd12bb5c71df85e2610c09fee8500294a626c305e77ddc46e9d7302f354f79d",
+    "bytes": 72656,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw11.svg": {
+    "key": "archive-images/2cd12bb5c71df85e2610c09fee8500294a626c305e77ddc46e9d7302f354f79d/sw11.svg",
+    "sha256": "2cd12bb5c71df85e2610c09fee8500294a626c305e77ddc46e9d7302f354f79d",
+    "bytes": 72656,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-124.png": {
+    "key": "archive-images/2be32e9331c7500afe18fc664dea78e405efdde4c0026ccc2abc4ca6d20ecb85/image-124.png",
+    "sha256": "2be32e9331c7500afe18fc664dea78e405efdde4c0026ccc2abc4ca6d20ecb85",
+    "bytes": 2547495,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/sw4.svg": {
+    "key": "archive-images/6926c9d8f10421ca5861f5aeab8d08a85d121fe248b646e007aba3dd3c78baed/sw4.svg",
+    "sha256": "6926c9d8f10421ca5861f5aeab8d08a85d121fe248b646e007aba3dd3c78baed",
+    "bytes": 79140,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw5.svg": {
+    "key": "archive-images/82fe14254397faed77ab56e215c4261688045b5ba113f04e31bda81dababcb16/sw5.svg",
+    "sha256": "82fe14254397faed77ab56e215c4261688045b5ba113f04e31bda81dababcb16",
+    "bytes": 74884,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Screen-Shot-2021-06-02-at-7.59.42-PM-2.png": {
+    "key": "archive-images/f4c180ad6f5c31f4c4267634b8c4ac8e26e2091999e056996e6027b6b093d0c2/Screen-Shot-2021-06-02-at-7.59.42-PM-2.png",
+    "sha256": "f4c180ad6f5c31f4c4267634b8c4ac8e26e2091999e056996e6027b6b093d0c2",
+    "bytes": 3195699,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Screen-Shot-2021-06-02-at-7.59.42-PM-1.png": {
+    "key": "archive-images/f4c180ad6f5c31f4c4267634b8c4ac8e26e2091999e056996e6027b6b093d0c2/Screen-Shot-2021-06-02-at-7.59.42-PM-1.png",
+    "sha256": "f4c180ad6f5c31f4c4267634b8c4ac8e26e2091999e056996e6027b6b093d0c2",
+    "bytes": 3195699,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Ineedtogotodoctor3.svg": {
+    "key": "archive-images/18bde8972752a5b5c23ffbf54422efaf2dd66c0a6e9908c63de00f06304e3616/Ineedtogotodoctor3.svg",
+    "sha256": "18bde8972752a5b5c23ffbf54422efaf2dd66c0a6e9908c63de00f06304e3616",
+    "bytes": 493837,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/excellent_text-1.svg": {
+    "key": "archive-images/99828010693ae8145d40f989a3f3b511c61d8103fda0e4cfcb75067ec5f5b8bb/excellent_text-1.svg",
+    "sha256": "99828010693ae8145d40f989a3f3b511c61d8103fda0e4cfcb75067ec5f5b8bb",
+    "bytes": 297515,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/jesse_visits_steve_w-2.svg": {
+    "key": "archive-images/b47637150699efc87382a48da11c0539c35745f3400f2f2a699d92a4d5158614/jesse_visits_steve_w-2.svg",
+    "sha256": "b47637150699efc87382a48da11c0539c35745f3400f2f2a699d92a4d5158614",
+    "bytes": 265878,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw.text.inpatient_banner.svg": {
+    "key": "archive-images/7d68ea12d509a5da8da400df2352b4daa928c717d023cbf90615fdab86e22e23/sw.text.inpatient_banner.svg",
+    "sha256": "7d68ea12d509a5da8da400df2352b4daa928c717d023cbf90615fdab86e22e23",
+    "bytes": 195367,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_51-1.svg": {
+    "key": "archive-images/0c26740382b2edd056a50b6a78d3f8e10f6b632902c7d7cc70d53e18f7200f10/Evie-Story-Book-One-1x1-2048-Assets_51-1.svg",
+    "sha256": "0c26740382b2edd056a50b6a78d3f8e10f6b632902c7d7cc70d53e18f7200f10",
+    "bytes": 449349,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/grease.the.skid.svg": {
+    "key": "archive-images/7f3d5692a8c72c98d329fea04c9f775416ee8d54c259a8268277cfe37645e652/grease.the.skid.svg",
+    "sha256": "7f3d5692a8c72c98d329fea04c9f775416ee8d54c259a8268277cfe37645e652",
+    "bytes": 192066,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SW1.svg": {
+    "key": "archive-images/8a401ba55cb3997b77650006e0e23e87f0f612299666d212576e0880b481dde9/SW1.svg",
+    "sha256": "8a401ba55cb3997b77650006e0e23e87f0f612299666d212576e0880b481dde9",
+    "bytes": 69564,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw6.svg": {
+    "key": "archive-images/95cf39c7c11bf88225e5f41dc47da34d0d945e5ac33a43f9c31324c690c340e9/sw6.svg",
+    "sha256": "95cf39c7c11bf88225e5f41dc47da34d0d945e5ac33a43f9c31324c690c340e9",
+    "bytes": 69268,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw14.svg": {
+    "key": "archive-images/95cf39c7c11bf88225e5f41dc47da34d0d945e5ac33a43f9c31324c690c340e9/sw14.svg",
+    "sha256": "95cf39c7c11bf88225e5f41dc47da34d0d945e5ac33a43f9c31324c690c340e9",
+    "bytes": 69268,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw7.svg": {
+    "key": "archive-images/c3a59950ff2f3b12f56c39422037005e4045d1cb0dd8ee8597f5c61916a38f29/sw7.svg",
+    "sha256": "c3a59950ff2f3b12f56c39422037005e4045d1cb0dd8ee8597f5c61916a38f29",
+    "bytes": 74148,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw9.svg": {
+    "key": "archive-images/c3a59950ff2f3b12f56c39422037005e4045d1cb0dd8ee8597f5c61916a38f29/sw9.svg",
+    "sha256": "c3a59950ff2f3b12f56c39422037005e4045d1cb0dd8ee8597f5c61916a38f29",
+    "bytes": 74148,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw_text_meeteveryone.svg": {
+    "key": "archive-images/fc844398a378ef643d91a24c35f86361f74710629c2d382be6b75fe5e087ff98/sw_text_meeteveryone.svg",
+    "sha256": "fc844398a378ef643d91a24c35f86361f74710629c2d382be6b75fe5e087ff98",
+    "bytes": 239995,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw_text_solutions.svg": {
+    "key": "archive-images/992014cd237768eb339b05328ae0813dbe3fd46cd6e64e49d4bc3cd40e02a256/sw_text_solutions.svg",
+    "sha256": "992014cd237768eb339b05328ae0813dbe3fd46cd6e64e49d4bc3cd40e02a256",
+    "bytes": 182150,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/TW_RN_JesseVisit_0518-1.svg": {
+    "key": "archive-images/e44222259463cb7389979e3fc1f7a69345b8f6d0385d0c6c42b0156f9926db2f/TW_RN_JesseVisit_0518-1.svg",
+    "sha256": "e44222259463cb7389979e3fc1f7a69345b8f6d0385d0c6c42b0156f9926db2f",
+    "bytes": 155154,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw8.svg": {
+    "key": "archive-images/99e3a788f5d485dba0e7de03c50ee6bf28da9132110cf00df783dc17e30410d9/sw8.svg",
+    "sha256": "99e3a788f5d485dba0e7de03c50ee6bf28da9132110cf00df783dc17e30410d9",
+    "bytes": 71460,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-154.png": {
+    "key": "archive-images/17340b421cb1e47ed83dd9476c7c08d7513d3443caa718e4aeb2640c6f5d0802/image-154.png",
+    "sha256": "17340b421cb1e47ed83dd9476c7c08d7513d3443caa718e4aeb2640c6f5d0802",
+    "bytes": 436638,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/sw10.svg": {
+    "key": "archive-images/4736302dcc9c3886eb4a9beb8a350084f4fba1caa13da4fc5624fc39f63ab72a/sw10.svg",
+    "sha256": "4736302dcc9c3886eb4a9beb8a350084f4fba1caa13da4fc5624fc39f63ab72a",
+    "bytes": 73424,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw12.svg": {
+    "key": "archive-images/dc7d3e13f61817213c2378551dba84ec1c6a987318c30c9a8a729d30a763fa98/sw12.svg",
+    "sha256": "dc7d3e13f61817213c2378551dba84ec1c6a987318c30c9a8a729d30a763fa98",
+    "bytes": 74420,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw21.svg": {
+    "key": "archive-images/dc7d3e13f61817213c2378551dba84ec1c6a987318c30c9a8a729d30a763fa98/sw21.svg",
+    "sha256": "dc7d3e13f61817213c2378551dba84ec1c6a987318c30c9a8a729d30a763fa98",
+    "bytes": 74420,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-165.png": {
+    "key": "archive-images/8f82a89fa8a1da0ecac71451a9e492e531e6b6a3bb753288f095df29a659a5c6/image-165.png",
+    "sha256": "8f82a89fa8a1da0ecac71451a9e492e531e6b6a3bb753288f095df29a659a5c6",
+    "bytes": 946399,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/sw13.svg": {
+    "key": "archive-images/00a7e72c66ecdf9a66ea5f562ec35c956528b1a9c7cc3026a2eac692615147a6/sw13.svg",
+    "sha256": "00a7e72c66ecdf9a66ea5f562ec35c956528b1a9c7cc3026a2eac692615147a6",
+    "bytes": 71608,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw16.svg": {
+    "key": "archive-images/8c00579c2241ce74ced347af223248bcc660a3322046daef492626f8a9f481ef/sw16.svg",
+    "sha256": "8c00579c2241ce74ced347af223248bcc660a3322046daef492626f8a9f481ef",
+    "bytes": 72764,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw17.svg": {
+    "key": "archive-images/15c20293033210a7e4df42d89863ed3bd2af24b548b871c78700e986385b6af9/sw17.svg",
+    "sha256": "15c20293033210a7e4df42d89863ed3bd2af24b548b871c78700e986385b6af9",
+    "bytes": 71564,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw18.svg": {
+    "key": "archive-images/c5519dbad787da46e6d4f1da6e5fb6c7a0c11000902dc7719466cb71e854f55b/sw18.svg",
+    "sha256": "c5519dbad787da46e6d4f1da6e5fb6c7a0c11000902dc7719466cb71e854f55b",
+    "bytes": 71496,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw20.svg": {
+    "key": "archive-images/7a29493a1db4dfcb2a0941aec288a6ffa9f86c2608d59920d0c7f421f266d201/sw20.svg",
+    "sha256": "7a29493a1db4dfcb2a0941aec288a6ffa9f86c2608d59920d0c7f421f266d201",
+    "bytes": 197099,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-190.png": {
+    "key": "archive-images/ffd11d8208af6aa606ef4da8b41ac493500f928ebd25924c52dc1e4c41e9b552/image-190.png",
+    "sha256": "ffd11d8208af6aa606ef4da8b41ac493500f928ebd25924c52dc1e4c41e9b552",
+    "bytes": 338620,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/sw22.svg": {
+    "key": "archive-images/7da357239a7d6e359c0f2279c98f0991605f8b00119fec2db6667926d3bc4af2/sw22.svg",
+    "sha256": "7da357239a7d6e359c0f2279c98f0991605f8b00119fec2db6667926d3bc4af2",
+    "bytes": 207227,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/BrieCPS.svg": {
+    "key": "archive-images/b2d642d5ea0778ad138c897b2c382da570149687197560714ea258f536fc2cc0/BrieCPS.svg",
+    "sha256": "b2d642d5ea0778ad138c897b2c382da570149687197560714ea258f536fc2cc0",
+    "bytes": 298304,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Yellow-6.svg": {
+    "key": "archive-images/fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546/Brie-Background-Yellow-6.svg",
+    "sha256": "fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546",
+    "bytes": 392143,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Yellow-2.svg": {
+    "key": "archive-images/fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546/Brie-Background-Yellow-2.svg",
+    "sha256": "fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546",
+    "bytes": 392143,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Yellow-5.svg": {
+    "key": "archive-images/fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546/Brie-Background-Yellow-5.svg",
+    "sha256": "fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546",
+    "bytes": 392143,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Yellow-9.svg": {
+    "key": "archive-images/fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546/Brie-Background-Yellow-9.svg",
+    "sha256": "fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546",
+    "bytes": 392143,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Yellow-10.svg": {
+    "key": "archive-images/fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546/Brie-Background-Yellow-10.svg",
+    "sha256": "fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546",
+    "bytes": 392143,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Yellow-11.svg": {
+    "key": "archive-images/fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546/Brie-Background-Yellow-11.svg",
+    "sha256": "fa96159fb2f6ba6c118698d498bc94666975055c370a3ad1dfd96ce09657c546",
+    "bytes": 392143,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ehmitrich-WcG7DOyrSoM-unsplash.jpg": {
+    "key": "archive-images/6890dea39d0a766cd4504091de1eedd2d9493d197ac38679552efc229b33400b/ehmitrich-WcG7DOyrSoM-unsplash.jpg",
+    "sha256": "6890dea39d0a766cd4504091de1eedd2d9493d197ac38679552efc229b33400b",
+    "bytes": 143610,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/image-205.png": {
+    "key": "archive-images/7177b1e860aefa06346a5011e77f36b8ead1d1d7736060c9ca166677e5ca34d2/image-205.png",
+    "sha256": "7177b1e860aefa06346a5011e77f36b8ead1d1d7736060c9ca166677e5ca34d2",
+    "bytes": 2576417,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/sw23.svg": {
+    "key": "archive-images/7649c654d18ab97360371503c660c608403376c460d02c6d8c4efe69b8c4f5af/sw23.svg",
+    "sha256": "7649c654d18ab97360371503c660c608403376c460d02c6d8c4efe69b8c4f5af",
+    "bytes": 179795,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/sw25.svg": {
+    "key": "archive-images/58c974371398f16b8bec71607dcc7808e54078f7e15fa6f1667347f1328c7104/sw25.svg",
+    "sha256": "58c974371398f16b8bec71607dcc7808e54078f7e15fa6f1667347f1328c7104",
+    "bytes": 279535,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Depo-Interactions-7.50.33-PM-2.png": {
+    "key": "archive-images/b52061d59ac1b7273d04f31d3927919f3eb9d8820fbc31cf34921160b166d072/Depo-Interactions-7.50.33-PM-2.png",
+    "sha256": "b52061d59ac1b7273d04f31d3927919f3eb9d8820fbc31cf34921160b166d072",
+    "bytes": 678880,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Depo-Interactions-7.51.47-PM-2.png": {
+    "key": "archive-images/b0e2a3875e384555d219684b6297b24893f4a9159c5c50b1063e0018df0ef8d3/Depo-Interactions-7.51.47-PM-2.png",
+    "sha256": "b0e2a3875e384555d219684b6297b24893f4a9159c5c50b1063e0018df0ef8d3",
+    "bytes": 655445,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Depo-Interactions-7.51.13-PM-2.png": {
+    "key": "archive-images/e124c46d0c6a338a233931c467e0af3e777794b578a2011a7604f80201a48436/Depo-Interactions-7.51.13-PM-2.png",
+    "sha256": "e124c46d0c6a338a233931c467e0af3e777794b578a2011a7604f80201a48436",
+    "bytes": 663385,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/BrendanBannerY.svg": {
+    "key": "archive-images/8d95b3b245c1271bb22d128bd12e1e767ddf6b2aa8b11fab18c51dfbef283761/BrendanBannerY.svg",
+    "sha256": "8d95b3b245c1271bb22d128bd12e1e767ddf6b2aa8b11fab18c51dfbef283761",
+    "bytes": 282515,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/BrendanBanner.png": {
+    "key": "archive-images/bd82748c67a8d07663f49aa2f1e9d0ed6b8a092c3b949fa04505e79a3c3c99dd/BrendanBanner.png",
+    "sha256": "bd82748c67a8d07663f49aa2f1e9d0ed6b8a092c3b949fa04505e79a3c3c99dd",
+    "bytes": 1419375,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.48.08-PM.png": {
+    "key": "archive-images/f8b1704299b87d097f41d365c29a51d01837a1f069cb1f5d7a58dcf1ae37dfb6/Brendan-Walsh-Depo-6.48.08-PM.png",
+    "sha256": "f8b1704299b87d097f41d365c29a51d01837a1f069cb1f5d7a58dcf1ae37dfb6",
+    "bytes": 411428,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.48.24-PM.png": {
+    "key": "archive-images/4bf2651f4cf35594fd209f99730df4191c0431758379e4fd6c0d2a409d46f140/Brendan-Walsh-Depo-6.48.24-PM.png",
+    "sha256": "4bf2651f4cf35594fd209f99730df4191c0431758379e4fd6c0d2a409d46f140",
+    "bytes": 467093,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.48.43-PM.png": {
+    "key": "archive-images/ccc5f6dac976f4351f1a0ea6f4b05cd89aeef4a04781939d98d75e487a48bf44/Brendan-Walsh-Depo-6.48.43-PM.png",
+    "sha256": "ccc5f6dac976f4351f1a0ea6f4b05cd89aeef4a04781939d98d75e487a48bf44",
+    "bytes": 466636,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.51.36-PM.png": {
+    "key": "archive-images/19545a34329d3fafd51d582687704838468afd810ecdcd6c91c516b5386be9df/Brendan-Walsh-Depo-6.51.36-PM.png",
+    "sha256": "19545a34329d3fafd51d582687704838468afd810ecdcd6c91c516b5386be9df",
+    "bytes": 497022,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.49.04-PM.png": {
+    "key": "archive-images/1c7e946496a6bb53367bd7b8baba26308bab49cabb58b420219945aac33d0944/Brendan-Walsh-Depo-6.49.04-PM.png",
+    "sha256": "1c7e946496a6bb53367bd7b8baba26308bab49cabb58b420219945aac33d0944",
+    "bytes": 473232,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.52.00-PM.png": {
+    "key": "archive-images/0422756f0b7198af74796e8a31c07209c0729ffd910dd8024c22c98cfc78bdf6/Brendan-Walsh-Depo-6.52.00-PM.png",
+    "sha256": "0422756f0b7198af74796e8a31c07209c0729ffd910dd8024c22c98cfc78bdf6",
+    "bytes": 543516,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.49.39-PM.png": {
+    "key": "archive-images/94423342864476c4be82105c46e15eb8214774332c33f8fb2d3633fb48802ed6/Brendan-Walsh-Depo-6.49.39-PM.png",
+    "sha256": "94423342864476c4be82105c46e15eb8214774332c33f8fb2d3633fb48802ed6",
+    "bytes": 474488,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.50.48-PM.png": {
+    "key": "archive-images/ea4923fb648c8463ecc8ece423216b2dd84c181d7ad09699d022d55f8ad1507b/Brendan-Walsh-Depo-6.50.48-PM.png",
+    "sha256": "ea4923fb648c8463ecc8ece423216b2dd84c181d7ad09699d022d55f8ad1507b",
+    "bytes": 558984,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.51.08-PM.png": {
+    "key": "archive-images/ffefd4e7e758505516a33b2e6f16eab81f436301f67a5a1cf8d65ef9979f5e3e/Brendan-Walsh-Depo-6.51.08-PM.png",
+    "sha256": "ffefd4e7e758505516a33b2e6f16eab81f436301f67a5a1cf8d65ef9979f5e3e",
+    "bytes": 559619,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.52.47-PM.png": {
+    "key": "archive-images/a081a3da2acd987f61b91be167fca7a0991cbbe14c568987259029da4018727a/Brendan-Walsh-Depo-6.52.47-PM.png",
+    "sha256": "a081a3da2acd987f61b91be167fca7a0991cbbe14c568987259029da4018727a",
+    "bytes": 578916,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-40.png": {
+    "key": "archive-images/9950fc9d6bea6600be81782ebee75544426df405bc4adb9af54ec85ef3ac9158/image-40.png",
+    "sha256": "9950fc9d6bea6600be81782ebee75544426df405bc4adb9af54ec85ef3ac9158",
+    "bytes": 2625709,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.50.15-PM.png": {
+    "key": "archive-images/b45adfda21f2b626ee8ce0935709f51eeacdf0619102189ad8b76e8eb363a8b1/Brendan-Walsh-Depo-6.50.15-PM.png",
+    "sha256": "b45adfda21f2b626ee8ce0935709f51eeacdf0619102189ad8b76e8eb363a8b1",
+    "bytes": 522210,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.53.37-PM.png": {
+    "key": "archive-images/e936d0ef7c689edda36416ecfb1f203158f977f6af117ec4b74112b0e4d3a7ef/Brendan-Walsh-Depo-6.53.37-PM.png",
+    "sha256": "e936d0ef7c689edda36416ecfb1f203158f977f6af117ec4b74112b0e4d3a7ef",
+    "bytes": 490527,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.53.01-PM.png": {
+    "key": "archive-images/f4e223e3eac5c0d94f5ec01c3931f38f474a8d788c6984b0d75015c110e5fd02/Brendan-Walsh-Depo-6.53.01-PM.png",
+    "sha256": "f4e223e3eac5c0d94f5ec01c3931f38f474a8d788c6984b0d75015c110e5fd02",
+    "bytes": 576229,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.53.23-PM.png": {
+    "key": "archive-images/42bbdeaaf9f3b06671053bdb846c8f074ae2e7277a0710e8783e5c18ead67712/Brendan-Walsh-Depo-6.53.23-PM.png",
+    "sha256": "42bbdeaaf9f3b06671053bdb846c8f074ae2e7277a0710e8783e5c18ead67712",
+    "bytes": 543559,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.58.11-PM.png": {
+    "key": "archive-images/c73b1ff0b1105ca6451e2ff48c05b316e94db535ddf5ad1d546419af7650be97/Brendan-Walsh-Depo-6.58.11-PM.png",
+    "sha256": "c73b1ff0b1105ca6451e2ff48c05b316e94db535ddf5ad1d546419af7650be97",
+    "bytes": 489679,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-74.png": {
+    "key": "archive-images/829ff56f6ee3106c50566ab5d87552c8cfa0dadeabec0cc477e1634e27892c4a/image-74.png",
+    "sha256": "829ff56f6ee3106c50566ab5d87552c8cfa0dadeabec0cc477e1634e27892c4a",
+    "bytes": 2516811,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-241.png": {
+    "key": "archive-images/829ff56f6ee3106c50566ab5d87552c8cfa0dadeabec0cc477e1634e27892c4a/image-241.png",
+    "sha256": "829ff56f6ee3106c50566ab5d87552c8cfa0dadeabec0cc477e1634e27892c4a",
+    "bytes": 2516811,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-75.png": {
+    "key": "archive-images/4ec0cd9f3f6f4263af3801b63c4c31dfcd149e43e0d279ae14a811f2832a0110/image-75.png",
+    "sha256": "4ec0cd9f3f6f4263af3801b63c4c31dfcd149e43e0d279ae14a811f2832a0110",
+    "bytes": 616874,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.54.20-PM.png": {
+    "key": "archive-images/d83e2eed642eab47ced2c8165180b54c4628f619c18186ad7d2dadb73efccf0b/Brendan-Walsh-Depo-6.54.20-PM.png",
+    "sha256": "d83e2eed642eab47ced2c8165180b54c4628f619c18186ad7d2dadb73efccf0b",
+    "bytes": 507451,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.57.39-PM.png": {
+    "key": "archive-images/019f22fe3490632b4f9622d4382edc108d6c1acb44d24fde57762df62227cd49/Brendan-Walsh-Depo-6.57.39-PM.png",
+    "sha256": "019f22fe3490632b4f9622d4382edc108d6c1acb44d24fde57762df62227cd49",
+    "bytes": 524462,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.56.02-PM.png": {
+    "key": "archive-images/c6900853c2634c7b556d3697c47d3dc05a9587153614cbae317a2ddc9b5671ae/Brendan-Walsh-Depo-6.56.02-PM.png",
+    "sha256": "c6900853c2634c7b556d3697c47d3dc05a9587153614cbae317a2ddc9b5671ae",
+    "bytes": 520270,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.56.37-PM.png": {
+    "key": "archive-images/4903b322ba56fd5b6c954e371e675390fda5470d5792a0993f6423b75ae7b748/Brendan-Walsh-Depo-6.56.37-PM.png",
+    "sha256": "4903b322ba56fd5b6c954e371e675390fda5470d5792a0993f6423b75ae7b748",
+    "bytes": 521365,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.58.53-PM.png": {
+    "key": "archive-images/5530d82bd3e0cbd1bb3802c471fae3d10f2ca21b0d1e088db219412c86bb2cb3/Brendan-Walsh-Depo-6.58.53-PM.png",
+    "sha256": "5530d82bd3e0cbd1bb3802c471fae3d10f2ca21b0d1e088db219412c86bb2cb3",
+    "bytes": 560580,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.55.28-PM.png": {
+    "key": "archive-images/05e8a535a645adf454cc6fce7bcfba0c9de540b1bf0fbdc0aebb06a180df115d/Brendan-Walsh-Depo-6.55.28-PM.png",
+    "sha256": "05e8a535a645adf454cc6fce7bcfba0c9de540b1bf0fbdc0aebb06a180df115d",
+    "bytes": 551793,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.00.35-PM.png": {
+    "key": "archive-images/d9a98e788193e7b928ffbcce382aae3f2d90e28b26f542955e5daeebb443cf4c/Brendan-Walsh-Depo-7.00.35-PM.png",
+    "sha256": "d9a98e788193e7b928ffbcce382aae3f2d90e28b26f542955e5daeebb443cf4c",
+    "bytes": 494799,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.59.11-PM.png": {
+    "key": "archive-images/f4684ca232dda96c5dc42b9013f0a5d3aa00f71e1bb75dc8a7f554e1e9f5481d/Brendan-Walsh-Depo-6.59.11-PM.png",
+    "sha256": "f4684ca232dda96c5dc42b9013f0a5d3aa00f71e1bb75dc8a7f554e1e9f5481d",
+    "bytes": 558444,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-6.59.38-PM.png": {
+    "key": "archive-images/17f081b77481be708b61b93311b7421e81b565362b5a407648beab2540751e69/Brendan-Walsh-Depo-6.59.38-PM.png",
+    "sha256": "17f081b77481be708b61b93311b7421e81b565362b5a407648beab2540751e69",
+    "bytes": 534896,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.00.10-PM.png": {
+    "key": "archive-images/302839b9d4bea86278432ee0e7ca4922e3c8ce10d8c03499650feea4aba3f095/Brendan-Walsh-Depo-7.00.10-PM.png",
+    "sha256": "302839b9d4bea86278432ee0e7ca4922e3c8ce10d8c03499650feea4aba3f095",
+    "bytes": 557869,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.01.11-PM.png": {
+    "key": "archive-images/8e0587f24d461c143cb0a993aea9e29125a2c0de14f6f67808723105091f7740/Brendan-Walsh-Depo-7.01.11-PM.png",
+    "sha256": "8e0587f24d461c143cb0a993aea9e29125a2c0de14f6f67808723105091f7740",
+    "bytes": 567216,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.02.00-PM.png": {
+    "key": "archive-images/a393d67cb07d39d81b0fe0af20369b19bec36d6157e441e6600042d486f0c878/Brendan-Walsh-Depo-7.02.00-PM.png",
+    "sha256": "a393d67cb07d39d81b0fe0af20369b19bec36d6157e441e6600042d486f0c878",
+    "bytes": 570202,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.02.18-PM.png": {
+    "key": "archive-images/6db17127c7ce643108495d124879d40bdcf691619932bfc2f9254a7dbedc6f9d/Brendan-Walsh-Depo-7.02.18-PM.png",
+    "sha256": "6db17127c7ce643108495d124879d40bdcf691619932bfc2f9254a7dbedc6f9d",
+    "bytes": 569912,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.02.57-PM.png": {
+    "key": "archive-images/4bee1ec012cdb21c7443e956bbee63b58800967b73e03fa8230aad9399c2d60d/Brendan-Walsh-Depo-7.02.57-PM.png",
+    "sha256": "4bee1ec012cdb21c7443e956bbee63b58800967b73e03fa8230aad9399c2d60d",
+    "bytes": 579546,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Brendan-Walsh-Depo-7.04.02-PM.png": {
+    "key": "archive-images/240cd6425718fc006715a6eadef7661ca4546ad2e2050e8ebf4927aa70181226/Brendan-Walsh-Depo-7.04.02-PM.png",
+    "sha256": "240cd6425718fc006715a6eadef7661ca4546ad2e2050e8ebf4927aa70181226",
+    "bytes": 584622,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-88.png": {
+    "key": "archive-images/0f66b6f39dec88b1dee3f60eb935dac87c69cb00fc696895a1068b68d81c6d05/image-88.png",
+    "sha256": "0f66b6f39dec88b1dee3f60eb935dac87c69cb00fc696895a1068b68d81c6d05",
+    "bytes": 577179,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Maura-Walsh-Depo-05.46-1.svg": {
+    "key": "archive-images/cb06412d754669cc07a94af262574ab7a0fd76193cdffd94c2e918cabcfa1415/Maura-Walsh-Depo-05.46-1.svg",
+    "sha256": "cb06412d754669cc07a94af262574ab7a0fd76193cdffd94c2e918cabcfa1415",
+    "bytes": 74172,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/MauraBanner.svg": {
+    "key": "archive-images/a2659e5b67f7cbe6bc1eebc38b918b6e21996998c8414277788e8cae50b60924/MauraBanner.svg",
+    "sha256": "a2659e5b67f7cbe6bc1eebc38b918b6e21996998c8414277788e8cae50b60924",
+    "bytes": 115464,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/MatanBanner3.svg": {
+    "key": "archive-images/9130928c58a99d9f4ef3e0b963e2c271668d25fd6cc065bf93f586185ca43f4c/MatanBanner3.svg",
+    "sha256": "9130928c58a99d9f4ef3e0b963e2c271668d25fd6cc065bf93f586185ca43f4c",
+    "bytes": 243091,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-236.png": {
+    "key": "archive-images/02a2f933848b637ad683d69dfe524ec9d27b08229a31b59809fe39ded8e9d64a/image-236.png",
+    "sha256": "02a2f933848b637ad683d69dfe524ec9d27b08229a31b59809fe39ded8e9d64a",
+    "bytes": 1059040,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-238.png": {
+    "key": "archive-images/dbf3068e4dd8d35d0a7ea32cfe76f935bb9aca4017a87764de0bfd9188a91f47/image-238.png",
+    "sha256": "dbf3068e4dd8d35d0a7ea32cfe76f935bb9aca4017a87764de0bfd9188a91f47",
+    "bytes": 311795,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/NotACat-1.svg": {
+    "key": "archive-images/03bcf039c3ade1bfa07105c9b6dedf26d25e59ef41f9ac03a6531af0340b8d0c/NotACat-1.svg",
+    "sha256": "03bcf039c3ade1bfa07105c9b6dedf26d25e59ef41f9ac03a6531af0340b8d0c",
+    "bytes": 553955,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/NotACat-2.svg": {
+    "key": "archive-images/03bcf039c3ade1bfa07105c9b6dedf26d25e59ef41f9ac03a6531af0340b8d0c/NotACat-2.svg",
+    "sha256": "03bcf039c3ade1bfa07105c9b6dedf26d25e59ef41f9ac03a6531af0340b8d0c",
+    "bytes": 553955,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/NotACat-3.svg": {
+    "key": "archive-images/03bcf039c3ade1bfa07105c9b6dedf26d25e59ef41f9ac03a6531af0340b8d0c/NotACat-3.svg",
+    "sha256": "03bcf039c3ade1bfa07105c9b6dedf26d25e59ef41f9ac03a6531af0340b8d0c",
+    "bytes": 553955,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-242.png": {
+    "key": "archive-images/6005f3b500c33ae5af4d70cc96669e2aaa8e98b03940f4db166fcdc50947d0f0/image-242.png",
+    "sha256": "6005f3b500c33ae5af4d70cc96669e2aaa8e98b03940f4db166fcdc50947d0f0",
+    "bytes": 252732,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-243.png": {
+    "key": "archive-images/f8ba348c9edba2fdb104d4f61b244091c41ca10de039af5b041d4f3f7a6a79cf/image-243.png",
+    "sha256": "f8ba348c9edba2fdb104d4f61b244091c41ca10de039af5b041d4f3f7a6a79cf",
+    "bytes": 253661,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-244.png": {
+    "key": "archive-images/2f8405ca250dbc511b5e633a0000e560d28d98039db75ea40b11e2e7116a5cba/image-244.png",
+    "sha256": "2f8405ca250dbc511b5e633a0000e560d28d98039db75ea40b11e2e7116a5cba",
+    "bytes": 278250,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-246.png": {
+    "key": "archive-images/63ed6e1a29db2b8755c2655883bb8797919c516ccf87acb8898946acc1c6ecca/image-246.png",
+    "sha256": "63ed6e1a29db2b8755c2655883bb8797919c516ccf87acb8898946acc1c6ecca",
+    "bytes": 268943,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-250.png": {
+    "key": "archive-images/a7bc21fb70561ff85fc437c499c7bf66ffe4cbe63cb1ca2926431d4989b9e5e0/image-250.png",
+    "sha256": "a7bc21fb70561ff85fc437c499c7bf66ffe4cbe63cb1ca2926431d4989b9e5e0",
+    "bytes": 350700,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-248.png": {
+    "key": "archive-images/5057acf628afa632d70e26f63c4dc940afbc3395a90bcd42101d9febcbb2e0b1/image-248.png",
+    "sha256": "5057acf628afa632d70e26f63c4dc940afbc3395a90bcd42101d9febcbb2e0b1",
+    "bytes": 282417,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-313.png": {
+    "key": "archive-images/51ec83442ad052019b26113df4e2aabe73c28a839e4fe2aefd6eb20507efa838/image-313.png",
+    "sha256": "51ec83442ad052019b26113df4e2aabe73c28a839e4fe2aefd6eb20507efa838",
+    "bytes": 2663076,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-252.png": {
+    "key": "archive-images/a639ea5cd818e7c5cfa07dee2448884bfbcea98c5ad2297d726d8bfb95511820/image-252.png",
+    "sha256": "a639ea5cd818e7c5cfa07dee2448884bfbcea98c5ad2297d726d8bfb95511820",
+    "bytes": 100151,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-314.png": {
+    "key": "archive-images/50c7a10af1cd8b6d3785532333d88cf0ea1a088e442851ca290f59b0b7bcdcc1/image-314.png",
+    "sha256": "50c7a10af1cd8b6d3785532333d88cf0ea1a088e442851ca290f59b0b7bcdcc1",
+    "bytes": 268660,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-315.png": {
+    "key": "archive-images/b7658090115a91cd3e0d27db39e1af66564843f798212cba93702006d996f785/image-315.png",
+    "sha256": "b7658090115a91cd3e0d27db39e1af66564843f798212cba93702006d996f785",
+    "bytes": 268684,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-316.png": {
+    "key": "archive-images/797ba925fafee2f991525ea2dd5f6afc233bd5269f2d0d4d5ed79e666aea3d0e/image-316.png",
+    "sha256": "797ba925fafee2f991525ea2dd5f6afc233bd5269f2d0d4d5ed79e666aea3d0e",
+    "bytes": 277622,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-317.png": {
+    "key": "archive-images/c154815b363262192e42fa87b24163f72688bef7d3098edd759c76d37fa88eba/image-317.png",
+    "sha256": "c154815b363262192e42fa87b24163f72688bef7d3098edd759c76d37fa88eba",
+    "bytes": 265155,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-320.png": {
+    "key": "archive-images/c154815b363262192e42fa87b24163f72688bef7d3098edd759c76d37fa88eba/image-320.png",
+    "sha256": "c154815b363262192e42fa87b24163f72688bef7d3098edd759c76d37fa88eba",
+    "bytes": 265155,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-318.png": {
+    "key": "archive-images/df9b0c508a172371cc0d4d551866606ca2797231e53c919f4a9ccb6c1b8f5192/image-318.png",
+    "sha256": "df9b0c508a172371cc0d4d551866606ca2797231e53c919f4a9ccb6c1b8f5192",
+    "bytes": 268193,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-319.png": {
+    "key": "archive-images/4ca626f663b1c6880fb88b99dd6d45c1a3593397a639973b00bca1a2be3af2d0/image-319.png",
+    "sha256": "4ca626f663b1c6880fb88b99dd6d45c1a3593397a639973b00bca1a2be3af2d0",
+    "bytes": 272616,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-321.png": {
+    "key": "archive-images/827af12cd5fb64de8ef0f1da786ff1bee843e33a59f087b95813c3333b7c2888/image-321.png",
+    "sha256": "827af12cd5fb64de8ef0f1da786ff1bee843e33a59f087b95813c3333b7c2888",
+    "bytes": 323605,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-322.png": {
+    "key": "archive-images/73f01f3834d176a4718cf18b3c4fd1adbfa723cce9be55e23d9789272a33f3a1/image-322.png",
+    "sha256": "73f01f3834d176a4718cf18b3c4fd1adbfa723cce9be55e23d9789272a33f3a1",
+    "bytes": 323345,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-323.png": {
+    "key": "archive-images/c59b01421324fd468b2d8607d2b99f21ce5191963386283791d21228b8553dec/image-323.png",
+    "sha256": "c59b01421324fd468b2d8607d2b99f21ce5191963386283791d21228b8553dec",
+    "bytes": 296286,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-324.png": {
+    "key": "archive-images/870c0eb3dd1bd828927bce297d3c4d368dc9f27a66879071aef03190816713ba/image-324.png",
+    "sha256": "870c0eb3dd1bd828927bce297d3c4d368dc9f27a66879071aef03190816713ba",
+    "bytes": 2533732,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-325.png": {
+    "key": "archive-images/c65f1fcbd00485e3b567f0daf7db7d594a02f43e3f80db4cce69f5426dd6dfcd/image-325.png",
+    "sha256": "c65f1fcbd00485e3b567f0daf7db7d594a02f43e3f80db4cce69f5426dd6dfcd",
+    "bytes": 332669,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-328.png": {
+    "key": "archive-images/007b4e5903b2b2e7a76df9430c193b4eb5b2b5ed6829e23b6a384912cdc9cfba/image-328.png",
+    "sha256": "007b4e5903b2b2e7a76df9430c193b4eb5b2b5ed6829e23b6a384912cdc9cfba",
+    "bytes": 317127,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-330.png": {
+    "key": "archive-images/5cf3239893809aee603d04b8a831c1b21060372b1d0fc9498de66cc0c4c9ff53/image-330.png",
+    "sha256": "5cf3239893809aee603d04b8a831c1b21060372b1d0fc9498de66cc0c4c9ff53",
+    "bytes": 331521,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/NotACat3.svg": {
+    "key": "archive-images/b1958f1d4bb202bcd649623277ad82beda0fbd3761fbc02aba2c45d03505ac6c/NotACat3.svg",
+    "sha256": "b1958f1d4bb202bcd649623277ad82beda0fbd3761fbc02aba2c45d03505ac6c",
+    "bytes": 547035,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-332.png": {
+    "key": "archive-images/a9e55b52bccda54107d9f3ffb6a26a357fc40362dc823202e60dd1aa55f597c0/image-332.png",
+    "sha256": "a9e55b52bccda54107d9f3ffb6a26a357fc40362dc823202e60dd1aa55f597c0",
+    "bytes": 326233,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-333.png": {
+    "key": "archive-images/44dcd9c738418f10537c52c095f62b906682e57e7815a719478d154e5427b315/image-333.png",
+    "sha256": "44dcd9c738418f10537c52c095f62b906682e57e7815a719478d154e5427b315",
+    "bytes": 312127,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-334.png": {
+    "key": "archive-images/9f7069c07fb1e3b702b0eb4bc5d3a9cdbeff3eaf2ecc4cabc061806b4e6dad52/image-334.png",
+    "sha256": "9f7069c07fb1e3b702b0eb4bc5d3a9cdbeff3eaf2ecc4cabc061806b4e6dad52",
+    "bytes": 296521,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Twins2-3-1.png": {
+    "key": "archive-images/128dc9a03f36affd7210b9bfb2174bfa57c4f041d23bc25a0c7faad97966e662/Twins2-3-1.png",
+    "sha256": "128dc9a03f36affd7210b9bfb2174bfa57c4f041d23bc25a0c7faad97966e662",
+    "bytes": 281472,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/AltBrieBanner-1-1.svg": {
+    "key": "archive-images/f957ff8c6e4529925572453a5cad21d4e230eb7af17bffd7d1d40b885c1b9883/AltBrieBanner-1-1.svg",
+    "sha256": "f957ff8c6e4529925572453a5cad21d4e230eb7af17bffd7d1d40b885c1b9883",
+    "bytes": 127092,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Bri-blog-banner-6.svg": {
+    "key": "archive-images/f957ff8c6e4529925572453a5cad21d4e230eb7af17bffd7d1d40b885c1b9883/Bri-blog-banner-6.svg",
+    "sha256": "f957ff8c6e4529925572453a5cad21d4e230eb7af17bffd7d1d40b885c1b9883",
+    "bytes": 127092,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/nowhere.svg": {
+    "key": "archive-images/056452e25bd77423ad64328cb9a2bbfa80f10605a81534ede5592d6d67ec9745/nowhere.svg",
+    "sha256": "056452e25bd77423ad64328cb9a2bbfa80f10605a81534ede5592d6d67ec9745",
+    "bytes": 852271,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-194.png": {
+    "key": "archive-images/0744ec173e8b982ad45b1fd175edaf1d1c577617714d599e191dbb9fa7f5f594/image-194.png",
+    "sha256": "0744ec173e8b982ad45b1fd175edaf1d1c577617714d599e191dbb9fa7f5f594",
+    "bytes": 2848005,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_5.svg": {
+    "key": "archive-images/768e1a704d169b1cbf76ac2476b6a35e8e0a3b21ce6547e628bbbc3a6a696aed/ES-Book-Covers_5.svg",
+    "sha256": "768e1a704d169b1cbf76ac2476b6a35e8e0a3b21ce6547e628bbbc3a6a696aed",
+    "bytes": 75017,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Schitzo.png": {
+    "key": "archive-images/daae4b0d1e620f1641447fb30fae3f82e59ac56c72a3aabb4ac13f4cc6a93880/Schitzo.png",
+    "sha256": "daae4b0d1e620f1641447fb30fae3f82e59ac56c72a3aabb4ac13f4cc6a93880",
+    "bytes": 76574,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Screen-Shot-2021-06-03-at-10.58.13-AM-2.png": {
+    "key": "archive-images/05931218a1fe1acff75532f9e5a306fc7b33417666d67493e4d9132770364e38/Screen-Shot-2021-06-03-at-10.58.13-AM-2.png",
+    "sha256": "05931218a1fe1acff75532f9e5a306fc7b33417666d67493e4d9132770364e38",
+    "bytes": 1337863,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Untitled_6.jpg": {
+    "key": "archive-images/8f2e1240fa552f070fefc90d14eb175fca3a5da420c28329074aedc50fa99322/Untitled_6.jpg",
+    "sha256": "8f2e1240fa552f070fefc90d14eb175fca3a5da420c28329074aedc50fa99322",
+    "bytes": 132000,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Untitled_1-1.jpg": {
+    "key": "archive-images/a597a40596f2ab73a2610296b6af21f87b868e084e9071f8ac1fa66c147450f8/Untitled_1-1.jpg",
+    "sha256": "a597a40596f2ab73a2610296b6af21f87b868e084e9071f8ac1fa66c147450f8",
+    "bytes": 89192,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Untitled_3.jpg": {
+    "key": "archive-images/b5cd84dd75baacda68710ca08af35af2af847f3a90f19c5bb496bb2f342ea4e0/Untitled_3.jpg",
+    "sha256": "b5cd84dd75baacda68710ca08af35af2af847f3a90f19c5bb496bb2f342ea4e0",
+    "bytes": 142466,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Untitled_3-2.jpg": {
+    "key": "archive-images/d3653df27cb422b380cbb6dbed9a64a68229fbe1fe6297b52daa265bbe32eb02/Untitled_3-2.jpg",
+    "sha256": "d3653df27cb422b380cbb6dbed9a64a68229fbe1fe6297b52daa265bbe32eb02",
+    "bytes": 108993,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_4.svg": {
+    "key": "archive-images/a96c04e19668009ebc4556b316cb3ae3c5eeffc9f9a14254c65d11c9b789d483/ES-Book-Covers_4.svg",
+    "sha256": "a96c04e19668009ebc4556b316cb3ae3c5eeffc9f9a14254c65d11c9b789d483",
+    "bytes": 94507,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/EVBruisesBanner-1.svg": {
+    "key": "archive-images/8920d5930ab45057d190486762ccd82fb5d1786d309be25c03f7a71941989d91/EVBruisesBanner-1.svg",
+    "sha256": "8920d5930ab45057d190486762ccd82fb5d1786d309be25c03f7a71941989d91",
+    "bytes": 4809490,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/JoePrendergastDec3.svg": {
+    "key": "archive-images/00cdb36cd2aa8709eac48125e183873b7e82cbc8962c43f14ee74a0ee9694c71/JoePrendergastDec3.svg",
+    "sha256": "00cdb36cd2aa8709eac48125e183873b7e82cbc8962c43f14ee74a0ee9694c71",
+    "bytes": 524279,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/IwouldDoAnything.svg": {
+    "key": "archive-images/20411b35bbcb3109aaa7cc78a51d66a871f64eeadeb06c7fd72c9895a0cf2cc0/IwouldDoAnything.svg",
+    "sha256": "20411b35bbcb3109aaa7cc78a51d66a871f64eeadeb06c7fd72c9895a0cf2cc0",
+    "bytes": 339715,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Drugs-1.svg": {
+    "key": "archive-images/6c5ad45796231f2aecfdcd53a88581b971f21a6b4ac420a01262059d4081febc/Drugs-1.svg",
+    "sha256": "6c5ad45796231f2aecfdcd53a88581b971f21a6b4ac420a01262059d4081febc",
+    "bytes": 7922617,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Munchausen2.svg": {
+    "key": "archive-images/c78bfa3e8314b2d99febf37b927d6057da7ad4a1ea5cadd272161b8c75c62049/Munchausen2.svg",
+    "sha256": "c78bfa3e8314b2d99febf37b927d6057da7ad4a1ea5cadd272161b8c75c62049",
+    "bytes": 4176495,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Blue-3.svg": {
+    "key": "archive-images/37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996/Brie-Background-Blue-3.svg",
+    "sha256": "37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996",
+    "bytes": 419707,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Blue-2.svg": {
+    "key": "archive-images/37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996/Brie-Background-Blue-2.svg",
+    "sha256": "37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996",
+    "bytes": 419707,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Blue-1.svg": {
+    "key": "archive-images/37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996/Brie-Background-Blue-1.svg",
+    "sha256": "37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996",
+    "bytes": 419707,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Brie-Background-Blue-7.svg": {
+    "key": "archive-images/37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996/Brie-Background-Blue-7.svg",
+    "sha256": "37030c7823f30878740f198391242d90aa04f07694b842dc020aae8985ea4996",
+    "bytes": 419707,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/D845BCB5-B59A-47BA-A399-71750E06272F.jpeg": {
+    "key": "archive-images/9b8489ecc00c15d0e8ca864f7478aad66fbf67cef91a3894064151477688140a/D845BCB5-B59A-47BA-A399-71750E06272F.jpeg",
+    "sha256": "9b8489ecc00c15d0e8ca864f7478aad66fbf67cef91a3894064151477688140a",
+    "bytes": 104909,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Furious-1.svg": {
+    "key": "archive-images/b44154663d3ed40316c5178ba3e9a23c29bb440c157880e1a15b85f55a85125e/Furious-1.svg",
+    "sha256": "b44154663d3ed40316c5178ba3e9a23c29bb440c157880e1a15b85f55a85125e",
+    "bytes": 225536,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Screen-Shot-2021-05-13-at-1.40.30-PM.png": {
+    "key": "archive-images/dc2e89929f14d5d719cab2f98c7e76bf84cf6eafba34b422c4b1bb0c608ab0a6/Screen-Shot-2021-05-13-at-1.40.30-PM.png",
+    "sha256": "dc2e89929f14d5d719cab2f98c7e76bf84cf6eafba34b422c4b1bb0c608ab0a6",
+    "bytes": 1000331,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/ES-Book-Covers_3.svg": {
+    "key": "archive-images/7ac87793ddb58406e87ea3415dff5c3c6a8124f721c80d9e8fabb9ca9d58aaec/ES-Book-Covers_3.svg",
+    "sha256": "7ac87793ddb58406e87ea3415dff5c3c6a8124f721c80d9e8fabb9ca9d58aaec",
+    "bytes": 76998,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/LieLetter-3.svg": {
+    "key": "archive-images/ad2c87111227bc0996d9c74cb6767b5cb35354e352effd5adc271931e235607b/LieLetter-3.svg",
+    "sha256": "ad2c87111227bc0996d9c74cb6767b5cb35354e352effd5adc271931e235607b",
+    "bytes": 34752,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Get-Out2-1.svg": {
+    "key": "archive-images/9dafbd2560876f939b5b35cb7067d53fbf2a46dd686da62bb4f59f5a991baf34/Get-Out2-1.svg",
+    "sha256": "9dafbd2560876f939b5b35cb7067d53fbf2a46dd686da62bb4f59f5a991baf34",
+    "bytes": 455923,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SleepyEvie.svg": {
+    "key": "archive-images/e50830c135edf7a756343d48b1de5922e0dd50562433f71fcbf0966d0b8902eb/SleepyEvie.svg",
+    "sha256": "e50830c135edf7a756343d48b1de5922e0dd50562433f71fcbf0966d0b8902eb",
+    "bytes": 6069428,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Visit8.svg": {
+    "key": "archive-images/1bca8a6fdd87abe8bf5f74bb2402b334456707a447dbd4021800cd7ff4f0069d/Visit8.svg",
+    "sha256": "1bca8a6fdd87abe8bf5f74bb2402b334456707a447dbd4021800cd7ff4f0069d",
+    "bytes": 7690820,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/First-Steps.svg": {
+    "key": "archive-images/847a621a294a4c7aa7d42894c2a871a2f97a73657ef717ed90d3971942c0cdbe/First-Steps.svg",
+    "sha256": "847a621a294a4c7aa7d42894c2a871a2f97a73657ef717ed90d3971942c0cdbe",
+    "bytes": 11029019,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/AllSmiles-1.svg": {
+    "key": "archive-images/47c8bdb826db06bf476b25cfee36bebf4ee8516cd70c8c8c1e3cb48fb13a3fe1/AllSmiles-1.svg",
+    "sha256": "47c8bdb826db06bf476b25cfee36bebf4ee8516cd70c8c8c1e3cb48fb13a3fe1",
+    "bytes": 2682266,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/AllSmiles-2.svg": {
+    "key": "archive-images/47c8bdb826db06bf476b25cfee36bebf4ee8516cd70c8c8c1e3cb48fb13a3fe1/AllSmiles-2.svg",
+    "sha256": "47c8bdb826db06bf476b25cfee36bebf4ee8516cd70c8c8c1e3cb48fb13a3fe1",
+    "bytes": 2682266,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/SteveWalshYellow.svg": {
+    "key": "archive-images/8ecfc260b1834dcc6d475f20bd02652200ed8eb0fa5e81d6e839c52498bca116/SteveWalshYellow.svg",
+    "sha256": "8ecfc260b1834dcc6d475f20bd02652200ed8eb0fa5e81d6e839c52498bca116",
+    "bytes": 9422169,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/March31Window.svg": {
+    "key": "archive-images/cbcfcf94d17be4e8004e4334834b887967995220bb8cbe253e1a78497bb99fd7/March31Window.svg",
+    "sha256": "cbcfcf94d17be4e8004e4334834b887967995220bb8cbe253e1a78497bb99fd7",
+    "bytes": 224473,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Red-Faced.svg": {
+    "key": "archive-images/cc2bafdaa09d6320404faea3d64e9f822c5cf89a4fd5799985bb0382352d9498/Red-Faced.svg",
+    "sha256": "cc2bafdaa09d6320404faea3d64e9f822c5cf89a4fd5799985bb0382352d9498",
+    "bytes": 431127,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/LookHere.svg": {
+    "key": "archive-images/36ff5584984cf0ba7125e010859f8248e45fb831d2ba688ee7dcdab22be5c514/LookHere.svg",
+    "sha256": "36ff5584984cf0ba7125e010859f8248e45fb831d2ba688ee7dcdab22be5c514",
+    "bytes": 502931,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/EatDaddy.svg": {
+    "key": "archive-images/88d0fe6f5170197827dbf4ca50b4d807587faee98bf00074f1fbc8440cedcb12/EatDaddy.svg",
+    "sha256": "88d0fe6f5170197827dbf4ca50b4d807587faee98bf00074f1fbc8440cedcb12",
+    "bytes": 667011,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/QuickChange.svg": {
+    "key": "archive-images/72878de44eb5c50f79fcf9037956d3f1d55f4971d357bcba2cfab855651ccdd0/QuickChange.svg",
+    "sha256": "72878de44eb5c50f79fcf9037956d3f1d55f4971d357bcba2cfab855651ccdd0",
+    "bytes": 530107,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/MauraBannerY.svg": {
+    "key": "archive-images/dcceea18cc292e82f7f1da7154b8669518ba5954225fccc3355eb8967eed9771/MauraBannerY.svg",
+    "sha256": "dcceea18cc292e82f7f1da7154b8669518ba5954225fccc3355eb8967eed9771",
+    "bytes": 121908,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie_heart_banner.jpg": {
+    "key": "archive-images/40532fce8db59239fb5acdf984ea66a3d43f2eb7dc65dc875cf3d0afb14089fb/Evie_heart_banner.jpg",
+    "sha256": "40532fce8db59239fb5acdf984ea66a3d43f2eb7dc65dc875cf3d0afb14089fb",
+    "bytes": 183364,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Evie_heart_banner-1.jpg": {
+    "key": "archive-images/40532fce8db59239fb5acdf984ea66a3d43f2eb7dc65dc875cf3d0afb14089fb/Evie_heart_banner-1.jpg",
+    "sha256": "40532fce8db59239fb5acdf984ea66a3d43f2eb7dc65dc875cf3d0afb14089fb",
+    "bytes": 183364,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/death_warrant.jpg": {
+    "key": "archive-images/114c870d4dde78479f4b642a3223b8aed366441eed29ddb2a3076b68e4d7f308/death_warrant.jpg",
+    "sha256": "114c870d4dde78479f4b642a3223b8aed366441eed29ddb2a3076b68e4d7f308",
+    "bytes": 148399,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/settlement_offer.jpg": {
+    "key": "archive-images/682c83d72c40a114fa2f194c5521838ddccfd89cc7abc574bcda737d7d167350/settlement_offer.jpg",
+    "sha256": "682c83d72c40a114fa2f194c5521838ddccfd89cc7abc574bcda737d7d167350",
+    "bytes": 164469,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/courson_please.jpg": {
+    "key": "archive-images/fab7e9d9942432cb6ffd0e6c3e4b15cbf3e5897ee0a5f7a121ddbdd9360a4a0b/courson_please.jpg",
+    "sha256": "fab7e9d9942432cb6ffd0e6c3e4b15cbf3e5897ee0a5f7a121ddbdd9360a4a0b",
+    "bytes": 144033,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Evie.sibling.jpg": {
+    "key": "archive-images/99610831befd45b9157e13ec7cabf1d96cf68dfe07ebd8990cae94d665e9d5b8/Evie.sibling.jpg",
+    "sha256": "99610831befd45b9157e13ec7cabf1d96cf68dfe07ebd8990cae94d665e9d5b8",
+    "bytes": 81532,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/no.doctor.jpg": {
+    "key": "archive-images/588d54d3557db0293c2c814003ca72a0e670094de31befc12b648e733d15eed8/no.doctor.jpg",
+    "sha256": "588d54d3557db0293c2c814003ca72a0e670094de31befc12b648e733d15eed8",
+    "bytes": 61472,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/evie_heart_photo-1.jpg": {
+    "key": "archive-images/b99369a29ff6bcc97b909bf996a56a72724d25c2e6cec5ea451f6acd71c0071b/evie_heart_photo-1.jpg",
+    "sha256": "b99369a29ff6bcc97b909bf996a56a72724d25c2e6cec5ea451f6acd71c0071b",
+    "bytes": 115915,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Victim.Act.jpg": {
+    "key": "archive-images/96aa058633bab1532a6a5e8a59b3a17175dc654d73cee2af883be461c4848c08/Victim.Act.jpg",
+    "sha256": "96aa058633bab1532a6a5e8a59b3a17175dc654d73cee2af883be461c4848c08",
+    "bytes": 89222,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/westchester_order_confined.jpg": {
+    "key": "archive-images/5f143e22a0f5f2a7a837f1ea65d5bfd8dfdf013dde729ac26ec1cd606537cc76/westchester_order_confined.jpg",
+    "sha256": "5f143e22a0f5f2a7a837f1ea65d5bfd8dfdf013dde729ac26ec1cd606537cc76",
+    "bytes": 55847,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Brie_Lose_Evie1.png": {
+    "key": "archive-images/eb8c2aa41185e20e294615896919b7008d3799bfb3d3b054bb88b4a94c9374ed/Brie_Lose_Evie1.png",
+    "sha256": "eb8c2aa41185e20e294615896919b7008d3799bfb3d3b054bb88b4a94c9374ed",
+    "bytes": 345843,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/brietired2.png": {
+    "key": "archive-images/641a4c986df4e83a776340c66f4bf7e875aa706387948d485f5498238049d7f7/brietired2.png",
+    "sha256": "641a4c986df4e83a776340c66f4bf7e875aa706387948d485f5498238049d7f7",
+    "bytes": 223917,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/flee.jpg": {
+    "key": "archive-images/5b1bcb4b324261f70563d25353ce3d5e55e3274c15dfcfe6ec3e16564ecd5d91/flee.jpg",
+    "sha256": "5b1bcb4b324261f70563d25353ce3d5e55e3274c15dfcfe6ec3e16564ecd5d91",
+    "bytes": 43371,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_3-1.svg": {
+    "key": "archive-images/56a1974a21d19958bd4eaba12c770b6ac134445e74bc8ef04f79700057425056/Evie-Story-Book-One-1x1-2048-Assets_3-1.svg",
+    "sha256": "56a1974a21d19958bd4eaba12c770b6ac134445e74bc8ef04f79700057425056",
+    "bytes": 311811,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_3.svg": {
+    "key": "archive-images/2d8cff8885c724ee64b7d203906d3595b3fb58f24e2b56facf7bb32d44ecc685/Evie-Story-Book-One-1x1-2048-Assets_3.svg",
+    "sha256": "2d8cff8885c724ee64b7d203906d3595b3fb58f24e2b56facf7bb32d44ecc685",
+    "bytes": 558643,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/WalshDodge.svg": {
+    "key": "archive-images/6b96cfd58cdf524c1454b7160406fdeec21ef2f69495496354607fe880158f2f/WalshDodge.svg",
+    "sha256": "6b96cfd58cdf524c1454b7160406fdeec21ef2f69495496354607fe880158f2f",
+    "bytes": 437548,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/PregTests.svg": {
+    "key": "archive-images/6112d8c88c20b4fe1bbee6293cce188b30ced3cf2ed4e2f62b70b9d55e4b73b9/PregTests.svg",
+    "sha256": "6112d8c88c20b4fe1bbee6293cce188b30ced3cf2ed4e2f62b70b9d55e4b73b9",
+    "bytes": 1470117,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_29.svg": {
+    "key": "archive-images/0033c1551ff5e9bf5e9d28e0f26eaaed37f0b48622be40771b7493e453e00dd8/Evie-Story-Book-One-1x1-2048-Assets_29.svg",
+    "sha256": "0033c1551ff5e9bf5e9d28e0f26eaaed37f0b48622be40771b7493e453e00dd8",
+    "bytes": 1882654,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/ChildTablet.png": {
+    "key": "archive-images/54d00ce7b94e0e955398cbaffd8f8e7b3ce69a39c1d4ae79a6b329f162f88ab4/ChildTablet.png",
+    "sha256": "54d00ce7b94e0e955398cbaffd8f8e7b3ce69a39c1d4ae79a6b329f162f88ab4",
+    "bytes": 560444,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-56.png": {
+    "key": "archive-images/46977e44a02ecf7b519822085a8333f81dee00142477ae90ca873d598028f49d/image-56.png",
+    "sha256": "46977e44a02ecf7b519822085a8333f81dee00142477ae90ca873d598028f49d",
+    "bytes": 6304274,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-25.png": {
+    "key": "archive-images/1dccd9531a5074cc10c88a5383429b35e793914a3600d8e09d69c0fd2d191335/image-25.png",
+    "sha256": "1dccd9531a5074cc10c88a5383429b35e793914a3600d8e09d69c0fd2d191335",
+    "bytes": 145643,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-26.png": {
+    "key": "archive-images/1c2bd87b866ceda8bf512702891fb5a0ada6dd400c4bec7590fe54a61b124c0b/image-26.png",
+    "sha256": "1c2bd87b866ceda8bf512702891fb5a0ada6dd400c4bec7590fe54a61b124c0b",
+    "bytes": 253658,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-24.png": {
+    "key": "archive-images/5c6e2c5ca44dca9bafcbc543a8b50021b554ffe2c339b5b9f23f0e64ea599f8c/image-24.png",
+    "sha256": "5c6e2c5ca44dca9bafcbc543a8b50021b554ffe2c339b5b9f23f0e64ea599f8c",
+    "bytes": 1002888,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/WalshCompoundMap-1.svg": {
+    "key": "archive-images/52c09918c24afbd2ef64eb5821ad120d0fcaccf00a6d0bacdb7d289b29a646b7/WalshCompoundMap-1.svg",
+    "sha256": "52c09918c24afbd2ef64eb5821ad120d0fcaccf00a6d0bacdb7d289b29a646b7",
+    "bytes": 602527,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-16.png": {
+    "key": "archive-images/1cc190d88b4bdc02be9a8fdec6d3eb1fa3560eb32cad55d91e0707f54e07597b/image-16.png",
+    "sha256": "1cc190d88b4bdc02be9a8fdec6d3eb1fa3560eb32cad55d91e0707f54e07597b",
+    "bytes": 1562721,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-14.png": {
+    "key": "archive-images/21f3506ec69b5ddcf712b7789628fd4419ac12909cb857fa2ce750d689973193/image-14.png",
+    "sha256": "21f3506ec69b5ddcf712b7789628fd4419ac12909cb857fa2ce750d689973193",
+    "bytes": 1653513,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-18.png": {
+    "key": "archive-images/6fc6c33845542fd17e3111bdb7e75c7acb64ae8f753d2dbb775d2680c0e502d9/image-18.png",
+    "sha256": "6fc6c33845542fd17e3111bdb7e75c7acb64ae8f753d2dbb775d2680c0e502d9",
+    "bytes": 2894334,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-89.png": {
+    "key": "archive-images/a42892972c25d79831b480ee54bf3aa6e34c48f6109c8bbf9ce785390bd143f5/image-89.png",
+    "sha256": "a42892972c25d79831b480ee54bf3aa6e34c48f6109c8bbf9ce785390bd143f5",
+    "bytes": 6948231,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/rene-muller-VB5bKZlE1G0-unsplash.jpg": {
+    "key": "archive-images/37ceb57185e1b9cd764a09101d6f426cb35d0182ee6298e6b1070580ddc79120/rene-muller-VB5bKZlE1G0-unsplash.jpg",
+    "sha256": "37ceb57185e1b9cd764a09101d6f426cb35d0182ee6298e6b1070580ddc79120",
+    "bytes": 858653,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/image-279.png": {
+    "key": "archive-images/483d6263ecc79ad384f380092848c2e13922aeb28fc68c42473eedb40827c5e8/image-279.png",
+    "sha256": "483d6263ecc79ad384f380092848c2e13922aeb28fc68c42473eedb40827c5e8",
+    "bytes": 237482,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-33.png": {
+    "key": "archive-images/46b54d98dacd29100d2fc5a512fd1c05a18e2a4508ae74bb2c0736f70242045e/image-33.png",
+    "sha256": "46b54d98dacd29100d2fc5a512fd1c05a18e2a4508ae74bb2c0736f70242045e",
+    "bytes": 658450,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Body_CARICATURE-1.svg": {
+    "key": "archive-images/94e01ba125ca35f5051e98a25f754a9f3a3f5d73e4f030f0ff3ca06d8ecc67d7/Body_CARICATURE-1.svg",
+    "sha256": "94e01ba125ca35f5051e98a25f754a9f3a3f5d73e4f030f0ff3ca06d8ecc67d7",
+    "bytes": 2398471,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/image-30.png": {
+    "key": "archive-images/135f76d5c59d5a5423091a8daccced7dbb616780346782e7e10023a9050dd502/image-30.png",
+    "sha256": "135f76d5c59d5a5423091a8daccced7dbb616780346782e7e10023a9050dd502",
+    "bytes": 991323,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-31.png": {
+    "key": "archive-images/13d6ea1dd70dd35714b51a8a0163e11f901bc5d03be37a7cfe8920f801fe9542/image-31.png",
+    "sha256": "13d6ea1dd70dd35714b51a8a0163e11f901bc5d03be37a7cfe8920f801fe9542",
+    "bytes": 2232448,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-32.png": {
+    "key": "archive-images/5b6f8247a10a3ad98c158b1a5410b32c3590bd81c49b80411c9acfcc1dc8e713/image-32.png",
+    "sha256": "5b6f8247a10a3ad98c158b1a5410b32c3590bd81c49b80411c9acfcc1dc8e713",
+    "bytes": 1762119,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-34.png": {
+    "key": "archive-images/77ec1b59c8353747b234f78edf360ca9ffcbb5da39d2739e789ef7ed2b72b819/image-34.png",
+    "sha256": "77ec1b59c8353747b234f78edf360ca9ffcbb5da39d2739e789ef7ed2b72b819",
+    "bytes": 1847028,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-36.png": {
+    "key": "archive-images/62a026dd7948d1e3fc151f2e37532735f404529b88b66deaa723f6514ea3e22e/image-36.png",
+    "sha256": "62a026dd7948d1e3fc151f2e37532735f404529b88b66deaa723f6514ea3e22e",
+    "bytes": 2392052,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-43.png": {
+    "key": "archive-images/2d88511b765946e0d1b03f1b4a82e1db5a4cfd7962fda6e7b0630b139c3b0a71/image-43.png",
+    "sha256": "2d88511b765946e0d1b03f1b4a82e1db5a4cfd7962fda6e7b0630b139c3b0a71",
+    "bytes": 1364080,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-44.png": {
+    "key": "archive-images/5ed01a3235f6524e6b87c3e351a8537a41d0d4c9c726b6b74d64fbb22b0c4c38/image-44.png",
+    "sha256": "5ed01a3235f6524e6b87c3e351a8537a41d0d4c9c726b6b74d64fbb22b0c4c38",
+    "bytes": 1320187,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-46.png": {
+    "key": "archive-images/f0b67b9c5f36043504ddd6612898ceb9f742470e1d636d57803fe9ef7f5adfa9/image-46.png",
+    "sha256": "f0b67b9c5f36043504ddd6612898ceb9f742470e1d636d57803fe9ef7f5adfa9",
+    "bytes": 1322924,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-45.png": {
+    "key": "archive-images/265ed43d69b1b36ef620673c0f398b519c6512834a7b2701c4cdebc10dffb87a/image-45.png",
+    "sha256": "265ed43d69b1b36ef620673c0f398b519c6512834a7b2701c4cdebc10dffb87a",
+    "bytes": 1154786,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-47.png": {
+    "key": "archive-images/b93af297ea42f6acad0f867faebdbab3392e602dbfe7891da433ec71ae4d56b0/image-47.png",
+    "sha256": "b93af297ea42f6acad0f867faebdbab3392e602dbfe7891da433ec71ae4d56b0",
+    "bytes": 1963508,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-48.png": {
+    "key": "archive-images/6998c2dcf32317219564dd1350694b3d5e724e64b303a4445cdfbf779d7201ae/image-48.png",
+    "sha256": "6998c2dcf32317219564dd1350694b3d5e724e64b303a4445cdfbf779d7201ae",
+    "bytes": 270508,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-49.png": {
+    "key": "archive-images/3991babd1dac0dc6c897c78e3166bcefa479e4fcf657c5c72c2be6e42bf81835/image-49.png",
+    "sha256": "3991babd1dac0dc6c897c78e3166bcefa479e4fcf657c5c72c2be6e42bf81835",
+    "bytes": 2342970,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-50.png": {
+    "key": "archive-images/df7cfbed0b941f916466e9230a2f19e18171d50c45f915acc2674402a53887aa/image-50.png",
+    "sha256": "df7cfbed0b941f916466e9230a2f19e18171d50c45f915acc2674402a53887aa",
+    "bytes": 199196,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-52.png": {
+    "key": "archive-images/0433d7695f03b21f3c3a32777183bfb68eed8165862a022197da4995a58d2e41/image-52.png",
+    "sha256": "0433d7695f03b21f3c3a32777183bfb68eed8165862a022197da4995a58d2e41",
+    "bytes": 2857762,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-53.png": {
+    "key": "archive-images/eb9b3e6a048650030e5f477494e354448e31b894b69ecbf53828be904bc1e62d/image-53.png",
+    "sha256": "eb9b3e6a048650030e5f477494e354448e31b894b69ecbf53828be904bc1e62d",
+    "bytes": 2639697,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/image-51.png": {
+    "key": "archive-images/27ae5fddc1d6755cbf2f27e37e2962c0791e4ba1dd1ddaef6ef57cd260b226cd/image-51.png",
+    "sha256": "27ae5fddc1d6755cbf2f27e37e2962c0791e4ba1dd1ddaef6ef57cd260b226cd",
+    "bytes": 238924,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Color-Dungeon.svg": {
+    "key": "archive-images/045e202958452d1f342b87566c5725ac569626f5fac691efd4042db3ceddf11a/Color-Dungeon.svg",
+    "sha256": "045e202958452d1f342b87566c5725ac569626f5fac691efd4042db3ceddf11a",
+    "bytes": 1237343,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/OwnYourError.svg": {
+    "key": "archive-images/0f14783c8e93186c7351cbf457bc176604a489990724479665a11d02cef64a18/OwnYourError.svg",
+    "sha256": "0f14783c8e93186c7351cbf457bc176604a489990724479665a11d02cef64a18",
+    "bytes": 937671,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/D845BCB5-B59A-47BA-A399-71750E06272F-1.jpeg": {
+    "key": "archive-images/a6ca6c2e340470195186a1118b38c6b90a3bf496ec8f8a4acf61c577e3ef8006/D845BCB5-B59A-47BA-A399-71750E06272F-1.jpeg",
+    "sha256": "a6ca6c2e340470195186a1118b38c6b90a3bf496ec8f8a4acf61c577e3ef8006",
+    "bytes": 104889,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Screen-Shot-2021-05-13-at-1.41.36-PM.png": {
+    "key": "archive-images/14159e736a2fcf1747742f4c5c70a426a08965323ce701490740fbebdb19a181/Screen-Shot-2021-05-13-at-1.41.36-PM.png",
+    "sha256": "14159e736a2fcf1747742f4c5c70a426a08965323ce701490740fbebdb19a181",
+    "bytes": 688180,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/attic3-1.svg": {
+    "key": "archive-images/77a5fb54d5c313a77f298d905300ad8e523d9ea406744264580a1def215f80fd/attic3-1.svg",
+    "sha256": "77a5fb54d5c313a77f298d905300ad8e523d9ea406744264580a1def215f80fd",
+    "bytes": 502955,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/WorksForUs2.svg": {
+    "key": "archive-images/59cacbe42c1cf98e55165145b2d9b70041641616a61ad532e6fca5dbf2c7b6f0/WorksForUs2.svg",
+    "sha256": "59cacbe42c1cf98e55165145b2d9b70041641616a61ad532e6fca5dbf2c7b6f0",
+    "bytes": 375071,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/abuse_journal_banner.jpg": {
+    "key": "archive-images/32f99199e29d8470636f66f83cc06974ba8b20e054b5b8025390649d664456f2/abuse_journal_banner.jpg",
+    "sha256": "32f99199e29d8470636f66f83cc06974ba8b20e054b5b8025390649d664456f2",
+    "bytes": 75966,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/abuse-Journal.jpg": {
+    "key": "archive-images/fc0d5c494f881a53ba55ba76438211b3545f92f7ccb58023d5695a8ce3bd520c/abuse-Journal.jpg",
+    "sha256": "fc0d5c494f881a53ba55ba76438211b3545f92f7ccb58023d5695a8ce3bd520c",
+    "bytes": 88169,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/bastard_going_down_email_banner-2.svg": {
+    "key": "archive-images/26f7517d9dfdc3013ce889774719584ed3d7c0a5a4556e1878a3317900977dbe/bastard_going_down_email_banner-2.svg",
+    "sha256": "26f7517d9dfdc3013ce889774719584ed3d7c0a5a4556e1878a3317900977dbe",
+    "bytes": 295227,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/WalshvRussellTexts_PreJune.pdf-1.png.jpeg": {
+    "key": "archive-images/4940b95c65c341e647ebe290b751e84d29c817f5a25f65feb26658d2ef5cfa07/WalshvRussellTexts_PreJune.pdf-1.png.jpeg",
+    "sha256": "4940b95c65c341e647ebe290b751e84d29c817f5a25f65feb26658d2ef5cfa07",
+    "bytes": 68364,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/WalshvRussellTexts_PreJune.pdf--1--2.png.jpeg": {
+    "key": "archive-images/cad71ddf00cf44d4efe29f07c256f5b7a6cf9900a1ed3127a1a56d9d5846a0a5/WalshvRussellTexts_PreJune.pdf--1--2.png.jpeg",
+    "sha256": "cad71ddf00cf44d4efe29f07c256f5b7a6cf9900a1ed3127a1a56d9d5846a0a5",
+    "bytes": 77838,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/image-109.png": {
+    "key": "archive-images/a78b7933c6c51b2d2b55116f8bf89e288f9ef9392c5a480bf7c119b6231db7dc/image-109.png",
+    "sha256": "a78b7933c6c51b2d2b55116f8bf89e288f9ef9392c5a480bf7c119b6231db7dc",
+    "bytes": 126742,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/BB0D2536-43B3-415C-B43F-162E5F2FF250.jpeg": {
+    "key": "archive-images/58991d0d542344a10b29cb3bc875f21d19e51ea0a886a2c7af8e0b1c53a438e2/BB0D2536-43B3-415C-B43F-162E5F2FF250.jpeg",
+    "sha256": "58991d0d542344a10b29cb3bc875f21d19e51ea0a886a2c7af8e0b1c53a438e2",
+    "bytes": 80405,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_48-1.svg": {
+    "key": "archive-images/01d51c6567f9d3c073f754a2e784af5d7f583dd02e5d80a038cf3a8d4885bb9c/Evie-Story-Book-One-1x1-2048-Assets_48-1.svg",
+    "sha256": "01d51c6567f9d3c073f754a2e784af5d7f583dd02e5d80a038cf3a8d4885bb9c",
+    "bytes": 443339,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_43.svg": {
+    "key": "archive-images/8994d603b7bb3cf7ecc77ee0ef33ae38ef53f47e4007ca7e21e23e1ba48ccb2c/Evie-Story-Book-One-1x1-2048-Assets_43.svg",
+    "sha256": "8994d603b7bb3cf7ecc77ee0ef33ae38ef53f47e4007ca7e21e23e1ba48ccb2c",
+    "bytes": 805279,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/CAB29082-4968-4E33-9D1C-B38A68561C8E.jpeg": {
+    "key": "archive-images/135357950f37227b837afd91fb953a4c94239a2c2617ef1d9cb8d30af0c75c10/CAB29082-4968-4E33-9D1C-B38A68561C8E.jpeg",
+    "sha256": "135357950f37227b837afd91fb953a4c94239a2c2617ef1d9cb8d30af0c75c10",
+    "bytes": 99766,
+    "mime": "image/jpeg"
+  },
+  "/Evidence/html/sle_blog/images/image-90.png": {
+    "key": "archive-images/2a89cbcff8969210d59906a3624e5082532a081d6608d089bb6b8bedcf24bff6/image-90.png",
+    "sha256": "2a89cbcff8969210d59906a3624e5082532a081d6608d089bb6b8bedcf24bff6",
+    "bytes": 4547623,
+    "mime": "image/png"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_7.svg": {
+    "key": "archive-images/6e9041fa5ae2af7108b38b481cbab4740ce020d6f6218579851e594dc68eb9d9/Evie-Story-Book-One-1x1-2048-Assets_7.svg",
+    "sha256": "6e9041fa5ae2af7108b38b481cbab4740ce020d6f6218579851e594dc68eb9d9",
+    "bytes": 320631,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_8-1.svg": {
+    "key": "archive-images/dcdcba0dca1ec6258f6a02f36e909ee87434785f973fac28b39a254294a1d9f9/Evie-Story-Book-One-1x1-2048-Assets_8-1.svg",
+    "sha256": "dcdcba0dca1ec6258f6a02f36e909ee87434785f973fac28b39a254294a1d9f9",
+    "bytes": 199467,
+    "mime": "image/svg+xml"
+  },
+  "/Evidence/html/sle_blog/images/Evie-Story-Book-One-1x1-2048-Assets_21-1.svg": {
+    "key": "archive-images/5b67b3530eff3114b055e3ab200a3fca391fb0e9103350225ed8a1df9351c4d6/Evie-Story-Book-One-1x1-2048-Assets_21-1.svg",
+    "sha256": "5b67b3530eff3114b055e3ab200a3fca391fb0e9103350225ed8a1df9351c4d6",
+    "bytes": 889075,
+    "mime": "image/svg+xml"
+  }
+}

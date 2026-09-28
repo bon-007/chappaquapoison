@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 1000" width="680" height="1000">
+  <defs>
+    <style>
+      :root {
+        --bg: #0F1116;
+        --bg-secondary: #1E2633;
+        --steel: #6C7A89;
+        --amber: #D4A35F;
+        --red: #B44C4C;
+        --paper: #E8E2D5;
+        --text-light: #C8C4BC;
+        --text-dark: #2A2A2A;
+        --caption: #8A8680;
+        --divider: #2D3748;
+      }
+
+      text {
+        font-family: inherit;
+        dominant-baseline: auto;
+      }
+
+      .doc-evidence-badge {
+        font-family: JetBrains Mono, Courier New, monospace;
+        font-weight: 600;
+        font-size: 10px;
+        fill: var(--amber);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .doc-exhibit-id {
+        font-family: JetBrains Mono, Courier New, monospace;
+        font-weight: 400;
+        font-size: 14px;
+        fill: var(--text-dark);
+      }
+
+      .doc-title {
+        font-family: Inter, -apple-system, sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+        fill: var(--text-dark);
+      }
+
+      .doc-excerpt {
+        font-family: Source Serif 4, Georgia, serif;
+        font-weight: 400;
+        font-size: 15px;
+        fill: var(--text-dark);
+        line-height: 1.6;
+      }
+
+      .doc-citation {
+        font-family: JetBrains Mono, Courier New, monospace;
+        font-weight: 400;
+        font-size: 12px;
+        fill: var(--steel);
+      }
+
+      .doc-footer-notice {
+        font-family: Inter, -apple-system, sans-serif;
+        font-weight: 400;
+        font-size: 11px;
+        fill: var(--caption);
+      }
+
+      .doc-footer-badge {
+        font-family: JetBrains Mono, Courier New, monospace;
+        font-weight: 400;
+        font-size: 11px;
+        fill: var(--caption);
+      }
+
+      .redaction {
+        fill: #000000;
+      }
+    </style>
+
+    <!-- Document Age Filter -->
+    <filter id="document-age">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.3" />
+      <feColorMatrix type="matrix" values="1 0 0 0 0.05,
+                                            0 0.95 0 0 0.03,
+                                            0 0 0.9 0 0,
+                                            0 0 0 1 0" />
+    </filter>
+  </defs>
+
+  <!-- Background (aged paper) -->
+  <rect width="680" height="1000" fill="var(--paper)" filter="url(#document-age)" />
+
+  <!-- Left Border Accent -->
+  <rect x="0" y="0" width="4" height="1000" fill="var(--amber)" />
+
+  <!-- Header Section -->
+  <g id="doc-header">
+    <!-- Evidence Type Badge -->
+    <text x="40" y="35" class="doc-evidence-badge">CF</text>
+
+    <!-- Exhibit ID -->
+    <text x="40" y="65" class="doc-exhibit-id">Exhibit </text>
+
+    <!-- Document Title -->
+    <text x="40" y="95" class="doc-title">Appellate Division Ruling — Walsh v. Russell, 214 AD3d 890</text>
+
+    <!-- Horizontal Rule -->
+    <line x1="30" y1="110" x2="650" y2="110" stroke="var(--steel)" stroke-width="1" opacity="0.2" />
+  </g>
+
+  <!-- Body Section -->
+  <g id="doc-body">
+    <text x="40" y="145" class="doc-excerpt">
+      <tspan x="40" dy="0"></tspan>
+    </text>
+
+    <!-- Redactions -->
+    
+
+    <!-- Citation -->
+    <text x="40" y="900" class="doc-citation"></text>
+  </g>
+
+  <!-- Footer Section -->
+  <g id="doc-footer">
+    <!-- Separator Line -->
+    <line x1="30" y1="930" x2="650" y2="930" stroke="var(--steel)" stroke-width="1" opacity="0.15" />
+
+    <!-- Reconstruction Notice -->
+    <text x="40" y="950" class="doc-footer-notice">Illustration of excerpt. See source artifact.</text>
+
+    <!-- Source Badge -->
+    <text x="40" y="970" class="doc-footer-badge">constitutional</text>
+
+    <!-- ECS Score -->
+    <rect x="150" y="960" width="12" height="12" fill="var(--steel)" opacity="0.5" />
+    <text x="170" y="972" class="doc-footer-badge">ECS 75</text>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a843"/>
+      <stop offset="50%" style="stop-color:#c49b38"/>
+      <stop offset="100%" style="stop-color:#a07830"/>
+    </linearGradient>
+    <linearGradient id="goldLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8c55a"/>
+      <stop offset="50%" style="stop-color:#d4a843"/>
+      <stop offset="100%" style="stop-color:#b8922e"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="3" stdDeviation="4" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg)"/>
+
+  <!-- Subtle pattern overlay -->
+  <g opacity="0.05">
+    <line x1="0" y1="0" x2="1200" y2="400" stroke="#fff" stroke-width="1"/>
+    <line x1="100" y1="0" x2="1200" y2="340" stroke="#fff" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="1200" y2="280" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="60" x2="1100" y2="400" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="120" x2="1000" y2="400" stroke="#fff" stroke-width="0.5"/>
+  </g>
+
+  <!-- Scales of Justice (left side) -->
+  <g transform="translate(250, 200)" filter="url(#shadow)" opacity="0.15">
+    <!-- Center pole -->
+    <rect x="-3" y="-100" width="6" height="200" fill="#d4a843"/>
+    <!-- Top beam -->
+    <rect x="-80" y="-105" width="160" height="8" rx="3" fill="#d4a843"/>
+    <!-- Left chain -->
+    <line x1="-75" y1="-97" x2="-75" y2="-40" stroke="#d4a843" stroke-width="2"/>
+    <!-- Right chain -->
+    <line x1="75" y1="-97" x2="75" y2="-20" stroke="#d4a843" stroke-width="2"/>
+    <!-- Left pan -->
+    <ellipse cx="-75" cy="-35" rx="35" ry="8" fill="#d4a843"/>
+    <!-- Right pan (higher) -->
+    <ellipse cx="75" cy="-15" rx="35" ry="8" fill="#d4a843"/>
+    <!-- Base -->
+    <rect x="-25" y="95" width="50" height="8" rx="4" fill="#d4a843"/>
+  </g>
+
+  <!-- GAVEL (center) -->
+  <g transform="translate(600, 195) rotate(-25)" filter="url(#shadow)">
+    <!-- Handle -->
+    <rect x="-6" y="-10" width="12" height="140" rx="5" fill="url(#gold)"/>
+    <rect x="-4" y="-8" width="3" height="136" rx="2" fill="#e8c55a" opacity="0.3"/>
+    <!-- Handle grip lines -->
+    <line x1="-5" y1="90" x2="5" y2="90" stroke="#8a6820" stroke-width="1" opacity="0.5"/>
+    <line x1="-5" y1="95" x2="5" y2="95" stroke="#8a6820" stroke-width="1" opacity="0.5"/>
+    <line x1="-5" y1="100" x2="5" y2="100" stroke="#8a6820" stroke-width="1" opacity="0.5"/>
+    <line x1="-5" y1="105" x2="5" y2="105" stroke="#8a6820" stroke-width="1" opacity="0.5"/>
+    <!-- Head -->
+    <rect x="-45" y="-35" width="90" height="35" rx="6" fill="url(#goldLight)"/>
+    <rect x="-43" y="-33" width="86" height="8" rx="3" fill="#e8c55a" opacity="0.3"/>
+    <!-- Head bands -->
+    <rect x="-45" y="-16" width="90" height="3" rx="1" fill="#8a6820" opacity="0.4"/>
+    <!-- Head end caps -->
+    <rect x="-50" y="-38" width="10" height="41" rx="4" fill="url(#gold)"/>
+    <rect x="40" y="-38" width="10" height="41" rx="4" fill="url(#gold)"/>
+  </g>
+
+  <!-- Sound block -->
+  <g transform="translate(520, 280)" filter="url(#shadow)">
+    <ellipse cx="0" cy="0" rx="55" ry="15" fill="url(#gold)"/>
+    <ellipse cx="0" cy="-5" rx="50" ry="12" fill="url(#goldLight)"/>
+    <ellipse cx="0" cy="-5" rx="35" ry="8" fill="#b8922e"/>
+  </g>
+
+  <!-- Scales of Justice (right side, mirrored) -->
+  <g transform="translate(950, 200) scale(-1,1)" filter="url(#shadow)" opacity="0.15">
+    <rect x="-3" y="-100" width="6" height="200" fill="#d4a843"/>
+    <rect x="-80" y="-105" width="160" height="8" rx="3" fill="#d4a843"/>
+    <line x1="-75" y1="-97" x2="-75" y2="-40" stroke="#d4a843" stroke-width="2"/>
+    <line x1="75" y1="-97" x2="75" y2="-20" stroke="#d4a843" stroke-width="2"/>
+    <ellipse cx="-75" cy="-35" rx="35" ry="8" fill="#d4a843"/>
+    <ellipse cx="75" cy="-15" rx="35" ry="8" fill="#d4a843"/>
+    <rect x="-25" y="95" width="50" height="8" rx="4" fill="#d4a843"/>
+  </g>
+
+  <!-- Decorative line -->
+  <line x1="100" y1="370" x2="1100" y2="370" stroke="#d4a843" stroke-width="1" opacity="0.3"/>
+</svg>

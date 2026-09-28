@@ -1,0 +1,488 @@
+28881     
+Accept-Language: en-US
+Authentication-Results: mail20i.protonmail.ch; dmarc=none (p=none dis=none) header.from=enensteinlaw.com
+Authentication-Results: mail20i.protonmail.ch; spf=pass smtp.mailfrom=dse@enensteinlaw.com
+Authentication-Results: mail20i.protonmail.ch; dkim=fail reason="signature verification failed" (1024-bit key) header.d=appriver3651010678.onmicrosoft.com header.i=@appriver3651010678.onmicrosoft.com header.b="X01YI5tJ"
+Cc: "Ned Gelhaar" <ngelhaar@enensteinlaw.com>
+Content-Disposition: inline
+Content-Language: en-US
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Fri, 14 Dec 2018 23:22:38 +0000
+Delivered-To: sgrussell@pm.me
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=appriver3651010678.onmicrosoft.com; s=selector1-enensteinlaw-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=RbkXWTRkmI06/Zc/g563gw9zk2tSkD4khmdcmcq+c50=; b=X01YI5tJPNjeVQvXPK+OGx8sBBTD90LsXbbbD10EaSqNJhxHMzosVovWXWNKqybQ8MzcuLWd7Ig4VuNoL6c8Awey2mR36+QqfqWAKdZA4eikBR6Sq/xhfF408BqlD56YLKeYJQzGziQETMdDZEK6oq9iABYeyL1kgUVPlIp4+DI=
+From: "Darren Enenstein" <dse@enensteinlaw.com>
+In-Reply-To: <TDtraaS6dMjjM2fS2SSyer6Sy65d8dG9b8NVCdjAW0Smov37AOy0BJdhwd4jeyGcTrFuHR1gtNZOXTLD4IoXKrov8lQPQYaWvurSUtNAZvQ=@pm.me>
+Message-Id: <F207B8D4-316D-41ED-B006-CED2603F5513@enensteinlaw.com>
+Mime-Version: 1.0
+Received: from us-smtp-delivery-112.mimecast.com (us-smtp-delivery-112.mimecast.com [216.205.24.112]) (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)) (No client certificate requested) by mail20i.protonmail.ch (Postfix) with ESMTPS id 5E0BB77 for <sgrussell@pm.me>; Fri, 14 Dec 2018 23:22:44 +0000 (UTC)
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com (mail-by2nam01lp2050.outbound.protection.outlook.com [104.47.34.50]) (Using TLS) by relay.mimecast.com with ESMTP id us-mta-171-RouS4E_GPO-06ZkPj_5Zog-1; Fri, 14 Dec 2018 18:22:41 -0500
+Received: from BN6PR11MB1955.namprd11.prod.outlook.com (10.175.100.144) by BN6PR11MB1793.namprd11.prod.outlook.com (10.175.99.20) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.1425.19; Fri, 14 Dec 2018 23:22:38 +0000
+Received: from BN6PR11MB1955.namprd11.prod.outlook.com ([fe80::61e9:ecad:bb78:c4d1]) by BN6PR11MB1955.namprd11.prod.outlook.com ([fe80::61e9:ecad:bb78:c4d1%8]) with mapi id 15.20.1425.021; Fri, 14 Dec 2018 23:22:38 +0000
+References: <MWHPR11MB1966362DABED4E6C7A722980D8A10@MWHPR11MB1966.namprd11.prod.outlook.com> <Rg8EJknwKVRAK07J7nkkCFti7uYFHR1WP4NivyNAvuNZadjiqx6ogcWlMhOMWr-ZQGz2RXR85yOOj-_qCltb2qKX4UKq1UWdQWTBzumwSRM=@pm.me> <MWHPR11MB1966FBAA6AF9E5DAA988D6AED8A10@MWHPR11MB1966.namprd11.prod.outlook.com> <YqCMsLtUTHtYKdfsOixuoxKnH2mNqJlHJjIJvwJc49HPfPqTEH-OfeL983oZo9LljQk78ziexB_BpWITul9-GPH-lOiumzTzcSKEq92526w=@pm.me> <MWHPR11MB19662037C60F5ABE965E08DFD8A10@MWHPR11MB1966.namprd11.prod.outlook.com>,<TDtraaS6dMjjM2fS2SSyer6Sy65d8dG9b8NVCdjAW0Smov37AOy0BJdhwd4jeyGcTrFuHR1gtNZOXTLD4IoXKrov8lQPQYaWvurSUtNAZvQ=@pm.me> <X1-FsZUUPfHE2RTony1Zy5baKAuMpO80Y0cifF1xdJiK2s-9LyMMZ3KOatoJWRbg6EkrGAhFqBhLCkaa82sRlw==@protonmail.internalid> <-1bAe1qz_9unSGweO1hy0PUnRaGHKjku6CeuwnW4nmxNx9HI4Lx7qnwgWcGA_p-GwZM3Fl2aVskIbpI240eWRQ==@protonmail.conversationid>
+Reply-To: "Darren Enenstein" <dse@enensteinlaw.com>
+Return-Path: <dse@enensteinlaw.com>
+Spamdiagnosticmetadata: NSPM
+Spamdiagnosticoutput: 1:99
+Subject: Re: Possible Police Report
+Thread-Index: AQHUlAPnTBVLYSWPFk6OXvCcCUNLkA==
+Thread-Topic: Possible Police Report
+To: "Steve Russell" <sgrussell@pm.me>
+X-Exchange-Antispam-Report-Cfa-Test: BCL:0;PCL:0;RULEID:(3230021)(999002)(6040522)(2401047)(5005006)(8121501046)(93006095)(93001095)(10201501046)(3231475)(944501520)(52105112)(3002001)(148016)(149066)(150057)(6041310)(20161123564045)(20161123562045)(20161123560045)(20161123558120)(2016111802025)(6043046)(201708071742011)(7699051)(76991095);SRVR:BN6PR11MB1793;BCL:0;PCL:0;RULEID:;SRVR:BN6PR11MB1793;
+X-Forefront-Antispam-Report: SFV:SKI;SCL:-1;SFV:NSPM;SFS:(10009020)(136003)(346002)(376002)(396003)(39840400004)(366004)(199004)(189003)(97736004)(5660300001)(7116003)(86362001)(36756003)(82746002)(6512007)(790700001)(6116002)(6306002)(54896002)(71190400001)(236005)(83716004)(606006)(53936002)(2906002)(6246003)(107886003)(71200400001)(99286004)(6916009)(3480700005)(14454004)(508600001)(4326008)(25786009)(6486002)(733005)(46003)(6436002)(5024004)(14444005)(256004)(8936002)(106356001)(105586002)(229853002)(486006)(8676002)(316002)(81166006)(81156014)(68736007)(93886005)(102836004)(446003)(53546011)(11346002)(476003)(2616005)(6506007)(7736002)(33656002)(66574012)(76176011)(186003)(98824002)(350894002);DIR:OUT;SFP:1101;SCL:1;SRVR:BN6PR11MB1793;H:BN6PR11MB1955.namprd11.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;A:1;MX:1;
+X-Forefront-Prvs: 08864C38AC
+X-Mc-Unique: RouS4E_GPO-06ZkPj_5Zog-1
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(7021145)(8989299)(4534185)(7022145)(4603075)(4627221)(201702281549075)(8990200)(7048125)(7024125)(7027125)(7023125)(5600074)(711020)(2017052603328)(7153060)(7193020);SRVR:BN6PR11MB1793;
+X-Microsoft-Antispam-Message-Info: 0g4Qv6Gm5I9yUIn7DNzl4tiYBTlvgUE4eApmrvPx8EYyM3nRadqgNIph438o6qPKAsTs1T9VbRYOQaRaHe7h2cXhbp2i/utkD+4mQVduY0T5ucXx7oWC6Q/6fXf10ZSo0ibeswhbH0m93qrUtOXR2PsXu8ut7UYdE5vZgrFcLHWkx+sDWX75yI32nEM0DUeOJgAH0/OCTJcTVYfuhffEDttXieEBG0LOar9AOc0PlkMX6yJj6Cs8a8MoePLs4lRreJwa6UJ9vlU9NyEVsQ+X0WimvAakEORoQvoYZTWEtU6QHhD+UQMiaob4BrIzSdjE
+X-Microsoft-Antispam-Prvs: <BN6PR11MB17931CF0D6B5110267C0127DD8A10@BN6PR11MB1793.namprd11.prod.outlook.com>
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR11MB1793;20:LwrfaAxrEXuhzKXlVFqD+XE2zi5w6g4cbIrhm7Qv6tngMtNlHnJ7rFTw7VdwRA1klDypviZVu5TBIbYMY/r8ndqHamnpALXCFFK2OtweD2OJOIOr/P5sdPUbHW63QNLDxMM4Sf9RKBmG1nyhqYCLyRyXXPNImjtBypOoFRHusL0=
+X-Mimecast-Spam-Score: 0
+X-Ms-Exchange-Antispam-Srfa-Diagnostics: SOS;SOR;
+X-Ms-Exchange-Crosstenant-Fromentityheader: Hosted
+X-Ms-Exchange-Crosstenant-Id: 65543fef-4e7f-46ea-a1f9-2ba7d1c4a267
+X-Ms-Exchange-Crosstenant-Network-Message-Id: dce4676e-236d-4a71-37b8-08d6621b09b0
+X-Ms-Exchange-Crosstenant-Originalarrivaltime: 14 Dec 2018 23:22:38.4124 (UTC)
+X-Ms-Exchange-Senderadcheck: 1
+X-Ms-Exchange-Transport-Crosstenantheadersstamped: BN6PR11MB1793
+X-Ms-Office365-Filtering-Correlation-Id: dce4676e-236d-4a71-37b8-08d6621b09b0
+X-Ms-Publictraffictype: Email
+X-Ms-Traffictypediagnostic: BN6PR11MB1793:
+X-Original-To: sgrussell@pm.me
+X-Originating-Ip: [2600:1012:b01b:f8c8:bcc3:417:a175:b6ef]
+X-Originatororg: enensteinlaw.com
+X-Pm-Content-Encryption: on-delivery
+X-Pm-Conversationid-Id: -1bAe1qz_9unSGweO1hy0PUnRaGHKjku6CeuwnW4nmxNx9HI4Lx7qnwgWcGA_p-GwZM3Fl2aVskIbpI240eWRQ==
+X-Pm-Date: Fri, 14 Dec 2018 15:22:38 -0800
+X-Pm-External-Id: <F207B8D4-316D-41ED-B006-CED2603F5513@enensteinlaw.com>
+X-Pm-Internal-Id: X1-FsZUUPfHE2RTony1Zy5baKAuMpO80Y0cifF1xdJiK2s-9LyMMZ3KOatoJWRbg6EkrGAhFqBhLCkaa82sRlw==
+X-Pm-Origin: external
+X-Pm-Transfer-Encryption: TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on maili.protonmail.ch
+X-Spam-Status: No, score=-1.1 required=4.0 tests=DKIM_INVALID,DKIM_SIGNED, HTML_MESSAGE,LOTS_OF_MONEY,RCVD_IN_DNSWL_MED,SPF_PASS autolearn=ham autolearn_force=no version=3.4.2
+
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body dir=3D"auto">
+Ok. I am thinking of the best approach.&nbsp;<br>
+<br>
+<div id=3D"AppleMailSignature" dir=3D"ltr">
+<p class=3D"MsoNormal" style=3D"margin: 0in 0in 0.0001pt;"><span style=3D"b=
+ackground-color: rgba(255, 255, 255, 0);">Thanks,<br>
+<br>
+Darren S. Enenstein</span></p>
+</div>
+<div dir=3D"ltr"><br>
+On Dec 14, 2018, at 2:52 PM, Steve Russell &lt;<a href=3D"mailto:sgrussell@=
+pm.me">sgrussell@pm.me</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div dir=3D"ltr">
+<div>I believe there were 3 videos created in NY and several in SF that we =
+know of.</div>
+<div><br>
+</div>
+<div>The =E2=80=9Ccocaine and prostitute=E2=80=9D video was made in Sept or=
+ October of 2017.</div>
+<div><br>
+</div>
+<div>The video of me going through my pills thinking I was poisoned bf Tara=
+ took me to psych ward in NY was in Oct. 2017.</div>
+<div><br>
+</div>
+<div>A video was also likely made of the Jan 30th incident 2018.</div>
+<div><br>
+</div>
+<div>Tara and her friend also made reference to a video of me masturbating =
+to porn or something like that I don=E2=80=99t know when or where was taken=
+ though.</div>
+<div><br>
+</div>
+<div>Beyond that Tara has 3-5 videos of me searching house for cameras abs =
+=E2=80=9Cacting crazy.=E2=80=9D</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div><br>
+</div>
+On Fri, Dec 14, 2018 at 2:39 PM, Darren Enenstein &lt;<a href=3D"mailto:dse=
+@enensteinlaw.com" class=3D"">dse@enensteinlaw.com</a>&gt; wrote:
+<blockquote class=3D"protonmail_quote" type=3D"cite"><!--[if !mso]><![endif=
+]--><!--[if gte mso 9]><xml><o:shapedefaults v:ext=3D"edit" spidmax=3D"1026=
+" /></xml><![endif]--><!--[if gte mso 9]><xml><o:shapelayout v:ext=3D"edit"=
+><o:idmap v:ext=3D"edit" data=3D"1" /></o:shapelayout></xml><![endif]-->
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D">OK.&nbsp; Let=E2=80=99s prepare a detailed narrative.&=
+nbsp; We may want to have signed declarations under penalty of perjury prep=
+ared.&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D">When was the alleged incident involving the video?<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D">Thanks,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D">Darren<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,sans-=
+serif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> Steve Russell [<a href=3D"mail=
+to:sgrussell@pm.me">mailto:sgrussell@pm.me</a>]<br>
+<b>Sent:</b> Friday, December 14, 2018 2:37 PM<br>
+<b>To:</b> Darren Enenstein &lt;<a href=3D"mailto:dse@enensteinlaw.com">dse=
+@enensteinlaw.com</a>&gt;; Ned Gelhaar &lt;<a href=3D"mailto:ngelhaar@enens=
+teinlaw.com">ngelhaar@enensteinlaw.com</a>&gt;<br>
+<b>Subject:</b> Re: RE: Possible Police Report<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal">Kelly witnessed and took notes. The letter from Geor=
+ge and Nir clearly references. Tara=E2=80=99s interactions with Nir are a m=
+atter of public record. The fact that I was secretly videod by her is also =
+a matter of public record and she did so in
+ California.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal">On Fri, Dec 14, 2018 at 2:33 PM, Darren Enenstein &l=
+t;<a href=3D"mailto:dse@enensteinlaw.com">dse@enensteinlaw.com</a>&gt; wrot=
+e:<o:p></o:p></p>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1=
+F497D">There may be extortion.&nbsp; Was this recorded?&nbsp;</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:#1=
+F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,sans-serif">From:</span></b><span style=3D"font-size:11.0pt;font-family:&q=
+uot;Calibri&quot;,sans-serif"> Steve Russell [<a href=3D"mailto:sgrussell@p=
+m.me">mailto:sgrussell@pm.me</a>]<br>
+<b>Sent:</b> Friday, December 14, 2018 1:48 PM<br>
+<b>To:</b> Darren Enenstein &lt;<a href=3D"mailto:dse@enensteinlaw.com">dse=
+@enensteinlaw.com</a>&gt;; Ned Gelhaar &lt;<a href=3D"mailto:ngelhaar@enens=
+teinlaw.com">ngelhaar@enensteinlaw.com</a>&gt;<br>
+<b>Subject:</b> Re: Possible Police Report</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">She told me to drop or settle the cases or she would release the v=
+ideo Nir and George referenced ...and others. &nbsp;Both custody and civil =
+response include desire for $.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Tara has been in active communication with Nir and submitted texts=
+ with him though she knows =E2=80=9Che is a criminal.=E2=80=9D She told Alb=
+ert Nir had asked her to help get his $3m. That fact
+ they both have the same video from Chris Ochoa=E2=80=99s apartment is very=
+ troubling.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">She said that she had told Matan I hacked his computer and I was i=
+n big trouble and strongly implied he was going to hurt me.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Previosly Tara=E2=80=99s friend Jesse Ozari stated that Tara had a=
+sked Matan to fly out and =E2=80=9Cbeat me up.=E2=80=9D &nbsp;Jesse lives i=
+n NY and had flown out instead.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Tara asked me to get back together with her and have another baby =
+on Nov 7. I said no and since then have noticed PIs, or other odd presence =
+similar to what occurred in NY around
+ the time I was gas lighted. Otherwise she has been silent.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">On Fri, Dec 14, 2018 at 1:22 PM, Darren Enenstein &lt;<a href=3D"m=
+ailto:dse@enensteinlaw.com">dse@enensteinlaw.com</a>&gt; wrote:<o:p></o:p><=
+/p>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">Steve,</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">Extortion in California is define=
+d as:</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">Under<b=
+>Penal Code 518</b> PC, the California crime of<b>extortion</b> (also known=
+ as &quot;<b>blackmail</b>&quot;) occurs when&nbsp;a person
+ does any of the following:</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:.5in;text-indent:-.25in">
+<span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">1.</span><span l=
+ang=3D"EN" style=3D"font-size:7.0pt;color:#777777">&nbsp;&nbsp;&nbsp;&nbsp;=
+</span><span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">uses forc=
+e or threats to compel another person to give you money or other
+ property,</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:.5in;text-indent:-.25in">
+<span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">2.</span><span l=
+ang=3D"EN" style=3D"font-size:7.0pt;color:#777777">&nbsp;&nbsp;&nbsp;&nbsp;=
+</span><span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">uses forc=
+e or threats to compel a public officer to perform an official act,
+ or</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:.5in;text-indent:-.25in">
+<span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">3.</span><span l=
+ang=3D"EN" style=3D"font-size:7.0pt;color:#777777">&nbsp;&nbsp;&nbsp;&nbsp;=
+</span><span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">if it is =
+a public official, acts under color of official right to compel
+ another person to give up money or other property.<sup>1</sup></span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt;color:#777777">This ma=
+y sound fairly complicated. And, in fact, California<b>extortion</b> charge=
+s can be brought in a wide variety of scenarios.
+ &nbsp;Just a few<b>examples</b> of behavior that could be considered extor=
+tion/blackmail under California law include:</span><o:p></o:p></p>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"color:#777777;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:auto;mso-list:l0 level1 lfo1">
+<span lang=3D"EN" style=3D"font-size:14.0pt">A man armed with a knife break=
+s into a home and threatens to kill the home's owner if she doesn't open a =
+safe that contains large amounts of cash and expensive jewelry;</span><o:p>=
+</o:p></li><li class=3D"MsoNormal" style=3D"color:#777777;mso-margin-top-al=
+t:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1">
+<span lang=3D"EN" style=3D"font-size:14.0pt">A real estate developer threat=
+ens to expose a city council member's extramarital affair to the media if t=
+he city council member does not vote to approve a project that the develope=
+r wants to build; and</span><o:p></o:p></li><li class=3D"MsoNormal" style=
+=3D"color:#777777;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-li=
+st:l0 level1 lfo1">
+<span lang=3D"EN" style=3D"font-size:14.0pt">An adult daughter with a drug =
+problem threatens to accuse her father of molesting her and have him arrest=
+ed if he does not give her money to buy drugs.<sup>2</sup></span><o:p></o:p=
+></li></ul>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">Is Tara seeking money or property=
+?</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">Separately, if Tara is threatenin=
+g her that her boyfriend will attack Steve at an unknown later date, is thi=
+s an assault?</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">In California an assault is defin=
+ed as</span><span lang=3D"EN" style=3D"font-size:14.0pt">,, under Penal Cod=
+e 240, as: An assault is an unlawful attempt,
+ coupled with a present ability, to commit a violent injury on the person o=
+f another.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt">&nbsp;</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt">I believe the present=
+ ability part is not satisfied.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt">&nbsp;</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt">Steve, there may be a=
+dditional facts I don=E2=80=99t have.&nbsp; Let me know.</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt">&nbsp;</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span lang=3D"EN" style=3D"font-size:14.0pt">Thanks,</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:14.0pt">^</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Darren S. Enenstein</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Enenstein Pham &amp; Glass, APC</spa=
+n><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#44546A"><img border=3D"0" width=3D"351" heig=
+ht=3D"135" id=3D"Picture_x0020_1" src=3D"data:image/jpg;base64,iVBORw0KGgoA=
+AAANSUhEUgAAAV8AAACHCAIAAAA&#43;zc0gAAAAA3NCSVQFBgUzC42AAAAAAXNSR0IArs4c6QA=
+APU5JREFUeF7tfX&#43;IHNedZ8nXylXnepaq3Myma3cmpwqaoNZKOfdgHTdz5z88wQse4QNLJE=
+c8OJBMsrCRN8etfIFLtGHZU/ZgN85CVs5BNspCghRYIwXOSIEzO4bzMmNOYtogozYrkxIncdWsB=
+6pYD9d1cSPf5/u&#43;r16//jnVMz0/1HqPttxT/eq9V99638/7/nrfd&#43;Cjjz6yTDEUMBQw=
+FOigwGOGJoYChgKGAl0pYNDBTAxDAUOB7hQw6GBmhqGAoYBBBzMHDAUMBQahgJEdBqGWqWso8Ch=
+RwKDDo/S2zbMaCgxCAYMOg1DL1DUUeJQocODhjndoWMmGZeUs2xYvLWdZDfHvVktiWUliJWhQNM=
+Kt8r/tBR1xj/u1JIIU3Qe/X8dsxrWvKPBwokPDiuOk&#43;m64VqnE74d23vWKRcfJ2wXH81y7Y=
+Ls2CthagAYYuI2HeyAIQYNlrbxTu3onsh3XG7Odgu05lmNbbs4GXuCTF/zGn31eanGC8RuA2Oev=
+aT8P7yFBB7VQC1wI3iNcCIIw3khIWEgLYYJt5fHPWN4pOO64C/ZwXcd28m5B/Ih/FVJ0LPuMDld=
+uBi9XkgSVRQVAAxDByVnuWL4ImLAFZNiWJ/pCHXdTKWP337&#43;Av8rdGoEmBrn7AzA9jgQFHh=
+J0AK2BCxtJ8G6wcqMaMi5Q6TPzE7lsCj7PkyCQdx0HAOFALvA8&#43;h84h3g8Yc0ECkUMdHi79=
+sqtKLFdoafUBfokuoph5&#43;w8rtgADhuQAZjAFw/NEmRQS/lUuGgi0S7PFYEOy29X/cM&#43;=
+BmbQYZfJPzLdPQzoIOSFtRvVyjvV8F6YwDAAUMiJOS9lCttqCLDARflFe0GCvfUXRuxCaoJNkOG=
+QbFF0XEKOcRfMvRJEF9&#43;LiftzBBuiWXE3tQPGF23l6tygTYOxHPEDqR6ACTvvjNluwWK8YB=
+0HH4gYu6mSYFhXbwalw14J0DUys9U8yO5SYO/QoYvyL9heFVEhXk/WKsCFAPJCAs5vENN2Kf2Nk=
+W2/NpURiRpACmHaBF64UT2p4HLBscbsOqQEZm7ggNYvvjdFF021acEggRcABcKIMfyb9wk7LOg4=
+pO8Umo/atGJsz6Sq9x5b1is3a7OHivPjuzuhTG8jRIG9Q4euRFTskVi19XjtVrVy83YYxmLdToG=
+juZKLJtSffdwHPdEhbSHlcPAz2L5ai0Wz1CMv/QQNBRd4QeIJcXO&#43;LgAlydFP&#43;Fd/Gp=
+Yr3BbUEGoOCSRJXoCBY7tezoLhszguBA1cydn&#43;8GwEccM6/2YwX/IWYCwxxVBgSxTYT&#43=
+;jAPJxYQS2uAhfeTnGBGVUx21DQQccUzeTJPtGwFrISoQogQ9oeBChYtmPl8nWYGFjEAEBAyig4=
+DBb4U2ggQATJmbiCkm/kxVPUuRcbH7qMhhMvZ89Muc8/UQRADKXUEuv8G9X5kn/q0JBaHMqwTCM=
+PFQX2ATqohb0BeQH2hQpwIXo/Fho9mxLSFV5RVl&#43;WB5Ud2hQBDpGgjtJYCUKHuP0lpoIJgg=
+gEt0lFA7ERGGEdMsGkb015ScGJ2YVB/yaEFKI6wAICRR7uFIEO9GRACnER/eYbdaeRzBTds08WS=
+0Pi5SCxzv2yevK49/xh56GakGaw&#43;4gC&#43;yJWEhFNwbvx5VeXL/zg4vXXlsN7cUL2BXwc=
+EvTpi8AIZmNdiNhOMJLu2ky/M292KgvolIKLWNlgM2cjsfHBjeOOVfIT34/HPUgQ4MViI7bjmlU=
+L7Q2SF/IJiQx53JXUk4aABgIFSBB1&#43;EqBDvVcHkKHtHMOY26QpEMDTur4dxgNmjYeTQrsMT=
+pAQKi&#43;VwMiXL58ZeXNCnwTEguYCUmsEG4IfAQj6dENXV6YQhD&#43;rYe9UDCndrcCnRas0=
+dmKOVcxNrO3FTt2ctivl44mh0qx4wqJoG4nNet&#43;1bq1ktwLID1I9UGKJ5AX&#43;KNKPU8C=
+BD6AkGEWQoc2V80wmzdtPRIU2EV00HkVcxe4g" alt=3D"cid:image001.png@01D30EBC.199=
+85310"></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-family:&quot;Candara&quot;,sans-serif;color:#0=
+02060">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Los Angeles Office</span><o:p></o:p>=
+</p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">12121 Wilshire Boulevard</span><o:p>=
+</o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Suite 600</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Los Angeles, CA 90025</span><o:p></o=
+:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Tel: 310-899-2070</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Fax: 310-496-1930</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">San Francisco Office</span><o:p></o:=
+p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">44 Montgomery Street</span><o:p></o:=
+p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Suite 2405</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">San Francisco, CA 94104</span><o:p><=
+/o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Tel: 415-423-1434</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Fax: 415-423-1435</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D"><a href=3D"mailto:dse@enensteinlaw.c=
+om">dse@enensteinlaw.com</a></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D"><a href=3D"http://www.enensteinlaw.c=
+om/">www.enensteinlaw.com</a></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">Admitted in California, New York, Di=
+strict of Columbia.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"color:#1F497D">This email, including any attachment=
+s, is confidential and privileged. If you are not an intended recipient, pl=
+ease delete the email and notify the sender.
+ We are not tax advisors and any communications by us should not be constru=
+ed as tax advice or used for the purpose of (i) avoiding tax-related penalt=
+ies or (ii) promoting, marketing or recommending to another party any tax-r=
+elated matters addressed herein.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+</blockquote>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+</div>
+</blockquote>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</div>
+</blockquote>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+</blockquote>
+</body>
+</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conversation-id</key>
+	<integer>5863</integer>
+	<key>date-last-viewed</key>
+	<integer>0</integer>
+	<key>date-received</key>
+	<integer>1544829758</integer>
+	<key>flags</key>
+	<integer>8590195713</integer>
+	<key>remote-id</key>
+	<string>2053</string>
+</dict>
+</plist>
