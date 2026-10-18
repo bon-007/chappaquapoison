@@ -3926,13 +3926,14 @@ The event was not just experienced. It was produced.
 
 Tags: Abby Tedla, Bryan Crutcher, Dan Ochoa, Discovery, Interior Moment, Millennium Tower, North Beach, Poisoning, Seroquel, Tara Walsh, Text Messages
 
-Selected evidence references: 33
+Selected evidence references: 34
   - C-6_03
   - QUOTE-TARA-CRAZY-TOO-TOGETHER
   - LEGAL-DVRO-GOPAL-TEXT
   - C-6
   - ExQQ_05
   - LEGAL-TEDLA-DECLARATION
+  - ExG_01
   - G-20
   - DOC_RUSSELL_AFFIDAVIT_AUG2018
   - EMAIL_1921
@@ -4123,7 +4124,7 @@ Weeks later, when Tara filed her sworn response to Steve's domestic violence res
 </div>
 
 
-In Tara's sworn version, the number was two. Two incidents. Both in May 2018. Both during "psychotic episodes" where Steve was "clearly out of touch with reality." The nanny had helped. The security guard had helped. Everyone had helped because Steve was a danger to himself and everyone else.
+In Tara's sworn version, the number was two. Two incidents. Both in May 2018. Both during "psychotic episodes" where Steve was "clearly out of touch with reality." The nanny had helped. The security guard had helped. That was not Abby's account at the August 29, 2018 hearing. Asked whether she had ever assisted Tara in putting the drug into Steve's alcoholic drink, Abby answered: "No." Asked whether Steve had been threatening her, Tara or anyone else in the room just before the drug was administered: "No." Asked whether she had been concerned for her safety: "No, I was not concerned."
 
 But the text to Dr. Gopal said "sometimes." The admission to Dan and Abby said "all the time." And in February 2020, in an email to Steve's attorneys proposing settlement, Tara would write: "The two times I have openly admitted to putting Seroquel in his wine, Steve was not even working." The confession that began as "all the time" had become "twice." The woman who had crushed pills into powder and dissolved them in red wine was asking what damages he could possibly have suffered.
 
@@ -4176,7 +4177,7 @@ Something had changed between the kitchen and the deposition room. The sworn dec
 
 She had also testified under oath at the August 29, 2018 restraining-order hearing, with a court reporter taking down her words: "I saw her putting some pills on his drink one time." Asked what Tara said she was doing: "To calm him down." Eight months later, in the deposition room, she refused to testify.
 
-At the February 2022 battery trial, the jury heard the nanny's account through Steve's sworn testimony: she had come forward and told him what she had witnessed. Tara was questioned about it too. Asked whether the nanny had caught her putting Seroquel in his wine, Tara answered, "She didn't catch me; she assisted me." Their accounts differed about the nanny's participation. The disclosure itself was before the jury.
+At the February 2022 battery trial, the jury heard the nanny's account through Steve's sworn testimony: she had come forward and told him what she had witnessed. Tara was questioned about it too. Asked whether the nanny had caught her putting Seroquel in his wine, Tara answered, "She didn't catch me; she assisted me." Their accounts differed about the nanny's participation. The disclosure itself was before the jury. The jury found for Steve and against Tara on battery, domestic violence and intentional infliction of emotional distress. It rejected self-defense. [Read the jury verdict and judgment.](../Evidence/pdf/court_filings/ExG_01_SF_Jury_Verdict_Judgment.pdf)
 
 Her declaration endured. So did the account she had given in the kitchen.
 
@@ -4765,7 +4766,7 @@ The choice had cost something: Steve was giving up his challenge to New York dec
 
 Steve had already been flying to New York. He had come in mid-August and stayed for two weeks, trying to see his daughter. The court's original order had designated Walsh Sr., Tara's father, as the person who would supervise Steve's visits with Evie. But Walsh Sr. had refused. When Steve's attorney Katherine Chestnut contacted Maura Walsh about supervising instead, Walsh Sr. came to the law office in person: "Don't contact my wife. This is harassment. How dare you?"
 
-The September 11 transcript separates the unsuccessful August attempt from the later visit. Chestnut told the court that the August stipulation could not be finalized, Steve returned to California, and he came back to New York in the week before the hearing. Apart from a July visit, she said, the negotiations had produced one visit. Antoncic identified it as Sunday and said Steve used an hour and a half of the three hours available. The judge responded that, given the breakdown in the relationship, she could understand why. The transcript does not give Steve’s own reason for ending the visit at that point.
+The September 11 transcript separates the unsuccessful August attempt from the later visit. Chestnut told the court that the August stipulation could not be finalized, Steve returned to California, and he came back to New York in the week before the hearing. Apart from a July visit, she said, the negotiations had produced one visit; it had taken a long time, her client was here, and “his number one priority is to see this child.” Antoncic answered with an allegation: the visit had been Sunday, he “only used one hour-and-a-half of the three hours,” and he had “declined access yesterday” — the day before the September 11 conference — “when it was offered to him.” The judge’s response was that if the relationship had broken down, “I can understand why.”
 
 <div class="evidence-embed email-facsimile" data-exhibit="EB2_MASTER_019">
   <div class="embed-header">
@@ -5360,7 +5361,7 @@ Farquharson, the corrupted supervisor from the previous chapter, was now "unable
 
 On February 6, 2020, the case came before Judge Nilda Morales-Horowitz at White Plains Family Court. Gordon-Oliver had recused herself. Horowitz had inherited a file that contained sixteen visits, six supervisors, and a unanimous professional finding that was never contested.
 
-Steve was not present. His fiancée had surgery; he had booked a flight that landed at JFK at 3 p.m. for a 2:30 hearing. The court noted that anyone who lands at JFK is not going anywhere for three hours.
+Steve had asked to appear by telephone while caring for Aunt K after an emergency medical procedure. His counsel made the request on January 24 and followed up on February 4. The court denied it late on February 5, the afternoon before the conference. Steve booked the next available flight, at 6:20 the following morning. DiFabio was in court. He explained the surgery, the refused telephone request and the flight due into JFK that afternoon, then asked for an adjournment. "That's not happening," Horowitz answered.
 
 His attorney, Max DiFabio, tried to explain the supervisor situation: "They have had a problem with each and every supervisor, including the last one, Claudette LaMelle, which Mr. Guttridge unilaterally fired."
 
@@ -5368,7 +5369,7 @@ The court's response: "It happens once, it happens twice. Let's go three times. 
 
 DiFabio: "My client had no problem with the supervisors."
 
-The court entered a default — the legal mechanism by which a court treats absence as forfeiture, ruling against a party who did not appear as though silence were the same as concession. It awarded Tara sole legal and physical custody. It issued a five-year order of protection, at a visitation conference, not a hearing. No testimony was taken. No supervisor reports were reviewed. No evidence was heard regarding the sixteen visits and what the six supervisors had observed.
+The court entered a default — the legal mechanism by which a court treats absence as forfeiture, ruling against a party who did not appear as though silence were the same as concession. It awarded Tara sole legal and physical custody. It issued a two-year order of protection, expiring February 6, 2022, at a visitation conference rather than a contested custody trial. No testimony was taken. No supervisor reports were reviewed. No evidence was heard regarding the sixteen visits and what the six supervisors had observed.
 
 Then the court turned to Tara and offered advice about the father she had just been given sole control over.
 
@@ -5833,7 +5834,7 @@ Guttridge, Tara's attorney, eventually discovered what he had been used to cover
 
 Judge Gordon-Oliver recused herself without comment. The stated reason, disclosed later through counsel: "issues relating to cronyism in the Westchester Court for which my client is a registered whistleblower." She recused not just from Steve's case but from all of attorney DiFabio's cases, eliminating roughly a third of his Westchester family court practice.
 
-Her replacement, Judge Morales-Horowitz, eventually recused as well. Then the third and final judge in Westchester. With only three family court judges in the county, there were no judges left. The case was transferred to Yonkers.
+Her replacement, Judge Morales-Horowitz, eventually recused as well. Then the third judge. All three Family Court judges who sat in White Plains had now recused, and the case was transferred to the Yonkers part.
 
 Gordon-Oliver was the first judge to recuse. She would not be the last.
 
@@ -6026,10 +6027,11 @@ It filed them.
 
 Tags: Aunt K, StevieLovesEvie, Ring, Jamie Siminoff, Evidence Books
 
-Selected evidence references: 9
+Selected evidence references: 10
   - CORR-TURNURE-FURMAN
   - SLE-010
   - CORR-TURNURE-EGITTO
+  - ExO_05
   - CORR-TURNURE-DAVIDSON
   - EMAIL_1424
   - SLE-081
@@ -6116,9 +6118,9 @@ In February 2021, Aunt K wrote to Judge Furman at Westchester Family Court. On h
 
 She told the judge who they actually were. Not the people Tara had described to the court, the extravagant lifestyle, the private jets, the hidden wealth. A Ford. A pop-up camper. A waitress who had put herself through college. She corrected the record because no one else was going to correct it, and the court was making decisions based on a version of reality that did not exist.
 
-A month later, she wrote to Judge Davidson. The letter was longer. She described reading every court document, every email, every piece of evidence. She called the case what it was: one of the most egregious miscarriages of justice she had ever seen or heard. She noted that three judges had recused themselves, six attorneys had withdrawn or been fired, and nearly three years had passed without a hearing.
+A month later, she wrote to Judge Davidson. The letter was longer. She described reading every court document, every email, every piece of evidence. She called the case what it was: one of the most egregious miscarriages of justice she had ever seen or heard. She noted that two judges had recused themselves; Humphrey was still presiding. She wrote that more than two and a half years had passed without a hearing.
 
-Six weeks after that, she wrote to Judge Egitto. This letter was different. Something had happened between the Davidson letter and the Egitto letter. Steve had requested to appear by phone at a visitation conference because Aunt K was recovering from a medical procedure under anesthesia. The court denied the request at 5:30 PM the night before, after it would have been possible to fly in from California. No request was made for documentation of the medical procedure. No accommodation was offered.
+On May 10, she wrote to Judge Egitto. Humphrey had now recused too. Both letters went back to the February 6, 2020 default, more than a year before either was written. As she told Judge Davidson in March, Steve had requested to appear by phone at a visitation conference because Aunt K was recovering from a medical procedure under anesthesia. The court denied the request at 5:30 PM the night before, after it would have been possible to fly in from California. No request was made for documentation of the medical procedure. No accommodation was offered. To Judge Egitto in May she put it in one line: he had been "represented and available by phone in February 2020 as COVID began."
 
 Aunt K woke in an apartment with a pain she could not yet name and no one to bring her water.
 
@@ -6301,21 +6303,23 @@ The distance between the act and its consequence — that, in his reading, was t
 
 # [B32] Five O'Clock
 
-> Aunt K undergoes surgery days before the hearing. Steve's attorneys request remote appearance at a visitation conference. At the last minute — the afternoon before — the court denies the request. Steve boards an overnight flight. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a five-year order of protection at what was scheduled as a status conference. Fourteen months later, his motion to vacate is still pending when the third judge recuses.
+> Aunt K undergoes surgery days before the hearing. Steve's attorneys request remote appearance at a visitation conference. At the last minute — the afternoon before — the court denies the request. Steve books the next available flight, 6:20 the next morning. When he arrives, Judge Horowitz has already entered a default — granting permanent custody and a two-year order of protection at what was scheduled as a status conference. Fourteen months later, his motion to vacate is still pending when the third judge recuses.
 
 **Phase VII | The Jury | February 6, 2020**
 
 Tags: Custody, DiFabio, Horowitz, Judge Humphrey, Aunt K, NY Family Court, Pontius Pilate, Tara Walsh, Westchester
 
-Selected evidence references: 18
+Selected evidence references: 20
   - LEGAL-RUSSELL-AFFIDAVIT-DEFAULT
   - ExO_01
-  - B-4_014
+  - LEGAL-OP-2020-02-06
   - B-7_020
   - A-7_02
   - ExO_04
   - ExTR_01
   - ExTR_02
+  - ExTR_03
+  - ExTR_05_03
   - B-7_019
   - ExO_05
   - ExR_04
@@ -6359,17 +6363,17 @@ On February 4, two days before the conference, DiFabio sent a follow-up. Still n
 
 Late afternoon. The day before.
 
-The denial arrived at the hour when the act itself was the message. They had waited weeks. Two letters. No response. And then, at the last possible moment — late afternoon the day before a morning conference three thousand miles away — the court informed them that the request to appear by telephone was denied. In-person attendance required.
+The denial arrived at the hour when the act itself was the message. They had waited weeks. Two letters. No response. And then, at the last possible moment — late afternoon the day before a next-day conference three thousand miles away — the court informed them that the request to appear by telephone was denied. In-person attendance required.
 
 The timing was not an accident. A denial issued weeks earlier would have given them time to arrange travel. A denial issued at the last minute forced a choice between an impossible scramble and an absence the court would treat as voluntary. The denial was timed to produce the absence.
 
-Steve booked the only available flight: 6:20 a.m. the next morning. Six hours in the air. The arithmetic was simple and the answer did not change — it depended on the landing, on the ground transit, on the traffic between JFK and White Plains, on whether the court would wait.
+Steve booked the only available flight: 6:20 a.m. the next morning, due into JFK at three in the afternoon, by the confirmation DiFabio would describe to the court; the conference had been scheduled for 2:30. Six hours in the air. The arithmetic was simple and the answer did not change — it depended on the landing, on the ground transit, on the traffic between JFK and White Plains, on whether the court would wait.
 
 The court did not wait.
 
 Steve arrived at the Westchester County courthouse in White Plains. DiFabio was in the hallway. The conference had been called. Steve's name had been called. The record had noted his absence. The orders had been entered. The case was over.
 
-At the counsel table, DiFabio had tried. His client's fiancée was recovering from surgery. Two letters requesting a phone appearance, both unanswered. The denial at five o'clock — the evening before a morning conference three thousand miles away. His client had booked a six a.m. flight and was crossing the continent at that moment, represented, with meritorious defenses. A brief continuance.
+At the counsel table, DiFabio had tried. His client's fiancée was recovering from surgery. Two letters requesting a phone appearance, both unanswered. The denial at five o'clock — the evening before a next-day conference three thousand miles away. His client had booked a 6:20 a.m. flight and was crossing the continent at that moment, represented, with meritorious defenses. A brief continuance.
 
 "Anybody knows that if you land at JFK you're not going to be anywhere for three hours."
 
@@ -6386,16 +6390,16 @@ Judge Horowitz entered a default. Not the kind from an empty courtroom. This one
 What happened next was not a scheduling conference.
 
 
-<div class="evidence-embed embed-document" data-exhibit="B-4_014" data-type="court-order">
+<div class="evidence-embed embed-document" data-exhibit="LEGAL-OP-2020-02-06" data-type="court-order">
   <div class="embed-header">
       <span class="embed-type">Court Order</span>
       <span class="embed-date">2020-02-06</span>
       <span class="embed-source">Westchester Family Court</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>On the finding of default, Judge Morales-Horowitz entered a permanent order of protection against Steve — a five-year restraining order — and granted Tara sole legal and physical custody of Evie. The court released Tara from the requirement of a mental health examination that Gordon-Oliver had ordered. It reversed Gordon-Oliver's determination that Tara should remain confined to her family's Chappaqua compound for Evie's safety. The final order was drafted by Tara's attorney, signed without edit, and given to Tara ex parte. To this date it has never been provided to Steve.</p></div>
+    <div class="document-text"><p>"Order of Protection." "Upon Default." "A petition under Article 8 of the Family Court Act, having been filed on March 27, 2019 in this Court and After Hearing, and Stephen Grant Russell having been not present in Court. NOW, THEREFORE, IT IS HEREBY ORDERED that Stephen Grant Russell … observe the following conditions of behavior: [01] Stay away from: [A] [E.V.] … and Tara Katelyn Walsh …; [B] the home of [E.V.] … and Tara Katelyn Walsh … EXCEPT FOR COURT ORDERED SUPERVISED VISITATION; [E] the place of employment of Tara Katelyn Walsh …; [14] Refrain from communication or any other contact by mail, telephone, e-mail, voice-mail or other electronic or any other means with [E.V.] … and Tara Katelyn Walsh … EXCEPT FOR EMAIL REGARDING THE SUBJECT CHILD; … [99] Observe such other conditions as are necessary to further the purposes of protection: RESPONDENT SHALL REFRAIN POSTING, COMMENTING, TAGGING, OR OTHERWISE CONTACTING AND OR REFERENCING THE PETITIONER AND THE SUBJECT CHILD ON ANY SOCIAL MEDIA FORUM, INTERNET BASED MESSAGING APPLICATION OR WEBSITE OR ON ANY WEBSITE WHATSOEVER."</p><p>"It is further ordered that this order of protection shall remain in force until and including February 06, 2022." "Check Applicable Box(es): … [x] Service directed by other means: Petitioner to Arrange."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Temporary Order of Protection, Entered on Default, February 6, 2020</span>, <span class="embed-caption-text">A visitation conference converted into permanent orders. Custody, protection, mental health evaluation — all entered without hearing.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Order of Protection, Upon Default — Order No. 2020-000846, Docket O-12635-19, Hon. Nilda Morales Horowitz, February 6, 2020 (Form GF-5a, two pages)</span>, <span class="embed-caption-text">The order itself. The recital says "After Hearing" and, in the same sentence, that Stephen Grant Russell was "not present in Court." In force until and including February 6, 2022. One service box is checked: Petitioner to Arrange. Editorial redaction in this extract: the child's name is given as [E.V.] and all dates of birth are omitted; the form's standard [02] and [12] conditions are also omitted. The custody disposition is not in this order; the account of how the orders were drafted and delivered is Aunt K's, in her May 10, 2021 letter.</span></div>
 </div>
 
 
@@ -6403,7 +6407,7 @@ A visitation conference, a scheduling matter, a procedural checkpoint, had been 
 
 ---
 
-He filed a motion to vacate the default on January 12, 2021, eleven months later, after assembling the record: the two letters to the court, the court's denial, the flight confirmation, the surgical records, Aunt K's testimony. His affidavit was fourteen pages. It described the January 24 request, the twelve days of silence, the five o'clock denial, the overnight flight, the meritorious defenses: the California restraining order against Tara, her sworn admission to drugging him, the sixteen supervised visits, the five supervisors' consistent findings.
+He filed a motion to vacate the default on January 12, 2021, eleven months later, after assembling the record: the two letters to the court, the court's denial, the flight confirmation, the surgical records, Aunt K's testimony. His affidavit was fourteen pages. It described the January 24 request, the twelve days of silence, the five o'clock denial, the next-morning flight, the meritorious defenses: the California restraining order against Tara, her sworn admission to drugging him, the sixteen supervised visits, the five supervisors' consistent findings.
 
 The motion argued what the record showed: Steve's absence was not willful. His attorney had appeared. The conference was not a hearing. The orders were entered without testimony, without evidence, without argument. There was no default — there was a manufactured absence, converted into a permanent disposition.
 
@@ -6425,21 +6429,31 @@ The motion was transferred to Judge Humphrey.
 
 Wayne Humphrey wore a bow tie. He had spent twenty-two years in the Westchester County Attorney's Office before being elected to the bench in 2019, the same government office that, decades earlier, had produced Guttridge, the attorney who now represented Tara. The pipeline was not complex. It was a single hallway in a single building in a single county, and the people who walked it in one direction as government attorneys walked it in the other direction as private practitioners, and eventually some of them walked it a third time as judges, and by that point everybody knew everybody and the system operated less on precedent than on familiarity.
 
-Aunt K sat in Humphrey's courtroom and watched. She sat in the gallery, the wooden bench that held her weight the way courtroom benches hold the weight of every person who has ever waited for a system to do the right thing. Humphrey was on the bench. She watched his eyes. They did not meet Steve's. They did not meet DiFabio's. They moved across papers and toward the clerk and toward the far wall of the courtroom, everywhere except toward the people the proceeding concerned. His voice carried the tone of a man performing an unpleasant task he had already decided to complete — not anger, not authority, but the particular flatness of someone who does not want to be observed doing what he is doing. Court staff, the clerks and officers who inhabit a courtroom as permanent residents, went quiet when the case was called. One by one they found reasons to leave the room. They knew the case by its file number. They knew what the judge was performing. Aunt K watched them go and understood: the system's own employees recognized the thing the system was doing, and they did not want to witness it.
+On January 26, 2021, the case came before Judge Humphrey for the first time. The transcript's cover calls it a Virtual Proceeding: numbers 15 through 26 on the day's calendar, in the matter of Walsh and Russell. DiFabio appeared for Steve. Jennifer Jackman appeared for the child. Tara appeared for herself. The court officer swore the two parties and asked each for a name and address "unless confidential." Tara gave hers. Steve gave his name: "My address is confidential."
 
-Steve invoked the California restraining order — the permanent DVRO, issued after a full evidentiary hearing, protecting his identity, carrying conditions a California judge had deemed necessary for his safety.
+"Mr. DiFabio, has your client filed the appropriate papers in court to establish that his address should be confidential?" DiFabio believed he had, "a while ago with Judge Horowitz" — "Either I filed them or prepared them for my client's signature; I'm not entirely sure." "Well, Counsel, I did a deep dive in this court file yesterday, and I don't see it in there anywhere." "So then he needs — he needs to put his address on the record, please."
 
-"Sir, I'm in New York," Humphrey said. "I'm not in California. Please put your name and your address on the record, sir."
+"I'd rather keep it confidential per the permanent restraining order against her in San Francisco court," Steve said, "not in your file."
 
-The court officer noted on the transcript that Russell was "ignoring" the judge. He was not ignoring. He was watching a prior judgment on the merits — the hearing that had been held, the evidence that had been weighed, the order that was in force — set aside because it had been entered in a different state.
+"Sir, I'm in New York. I'm not in California. Please put your name and your address on the record, sir."
 
-He told the attorneys he had done "a deep dive" in the court file. His characterization of the Horowitz default was a single clause: "she dismissed it because he defaulted and failed to appear in court." The detail of the phone request denied at five o'clock did not appear in his summary. The overnight flight DiFabio had described on the record did not appear. The attorney who had appeared and been told his represented client's circumstances did not matter — that did not appear either. What the judge carried forward from his deep dive was a simple factual finding: the party had failed to appear. The record, distilled to its essence, said he was not there. Everything else — the reasons, the letters, the flight, the timing — was context the judge's file had already decided to forget.
+The court officer repeated it — "Mr. Russell, Judge asked you to put your current address on the record" — and then, to the bench: "It appears Respondent's ignoring you, Judge." The next lines of the transcript are DiFabio calling into the line, "Mr. Russell, can you hear me? Steve? Hello?", and Steve's answer coming back as "(Inaudible) you, Max." DiFabio explained that with no order of confidentiality filed, "the law requires that you put your address on the record." "Okay," Steve said. "Please provide him my address." The officer: "He wants you to put it on the record, sir, now." DiFabio: "Judge, I'm sorry, I'm not hearing completely well." The officer told him Steve wanted to provide it to the court separately, and that he had just advised Steve the judge wanted it on the record "right now in open court." "Steve, I can't do that for you. The judge wants you to do it." "Still nothing, Judge." "Mr. Russell, do you hear the Court?"
 
-The hearing spent its hour on procedural housekeeping: Jackman's fee application — twenty-four thousand dollars for representing a child neither parent was allowed to discuss — a jurisdictional challenge from DiFabio, an 18b attorney assigned to Walsh, who had appeared without counsel. The motion to vacate, the fourteen pages with the surgical records and the flight confirmation, was not reached. It was calendared. The court set a briefing schedule.
+He did. He read the address — [my California address] — into the open record, spelling the street and the town, and added that it "should be kept confidential per my (inaudible) restraining order."
 
-Tara was given until March 26 to respond. Reply papers were due April 2.
+"Sir —" and, over an inaudible word from Steve, "— sir, don't tell me why (inaudible), please. Sir, don't tell me what's inappropriate."
 
-On April 6, 2021, Humphrey recused himself, not from the default motion but from all matters involving DiFabio, citing what he described as a pattern of "disrespectful, discourteous, and borderline unethical" behavior by counsel. Humphrey's decision and order ran two pages. One paragraph was devoted to the recusal. The rest was an itemized criticism of DiFabio's courtroom demeanor, appearing in a bathrobe on a virtual conference, being hostile to chamber staff, engaging in "questionable and unproductive litigation tactics."
+The word "ignoring" stayed in the transcript. So did the rest. Before the sixteen-minute proceeding ended, the court would say, twice, that it could not hear him: "Can't hear you again, sir." "I can't hear you again, sir."
+
+The deep dive had taken in the default. When DiFabio, on the fee dispute, said that "Judge Horowitz dismissed this case without a trial. We never had the opportunity to present or —", the judge finished the sentence for him: "She dismissed — she dismissed it because he defaulted and failed to appear in court; is that right?" "That's correct," DiFabio said. "He failed to appear but he did not default, is our position, Your Honor." "That's your position but Judge Horowitz felt it was a default and dismissed those petitions and granted (inaudible) requested." "Correct, Judge. There's an appeal pending presently. It's fully submitted at the Appellate Division 2nd with respect to that issue." "Okay." The phone request denied the afternoon before is not in the transcript. The 6:20 a.m. flight is not in the transcript. What is in it, in three lines: he failed to appear but he did not default; the court's "felt it was a default"; and the appeal of that default, fully submitted.
+
+The hearing spent its sixteen minutes on procedural housekeeping: Jackman's fee application — twenty-four thousand dollars for representing a child neither parent was allowed to discuss — a jurisdictional challenge from DiFabio, an 18b attorney assigned to Walsh, who had appeared without counsel. The motion to vacate, the fourteen pages with the surgical records and the flight confirmation, was noted — "I do see that you have a Motion to Vacate the judgment issued by Judge Horowitz; is that correct?" — and not reached. The court adjourned the matter to April 27 at 3:00.
+
+The briefing schedule came later, in writing. By the order of March 10, 2021, Tara was given until March 26 to respond. Reply papers were due April 2.
+
+Aunt K was watching. On March 23, 2021, she wrote to Judge Kathie M. Davidson at the Westchester County Family Court; the letter's CC line lists Judges Gordon-Oliver, Morales-Horowitz and Humphrey, among others, "by certified mail." Two judges, she wrote, had recused themselves "not just from Steve's cases - but from ALL of his cases. We expect the same of Judge Humphrey. Beyond that, each bright-eyed clerk who has promised to get Mr. DiFabio the docket 'by the end of the day' goes silent and disappears after learning the case." Near the letter's end: "two weeks ago I had an opportunity to witness an interaction between Hon. Humphrey and Steve. The Judge refused to make eye contact. His voice and body language were that of someone who knew what he was doing something wrong, even shameful."
+
+On April 6, 2021, Humphrey recused himself. DiFabio had moved for it. The decision and order recites the motion, dated March 24, 2021: recusal requested "based on what counsel perceives to be 'persistent hostility and personal animus' toward counsel by the undersigned which counsel claims creates 'an appearance of impropriety' requiring recusal pursuant to 22 NYCRR 100.3(E)(1)," with a memorandum in which counsel said the judge had "displayed animosity" against him "in many cases." The motion was granted. The order ran two pages. In it the judge wrote that counsel "has displayed a pattern of behavior that the undersigned has found to be disrespectful, discourteous, and borderline unethical in various matters before this Court," and listed some of it: "appearing on a virtual conference in a bathrobe, conducting himself in a disrespectful and hostile fashion toward chamber staff and attempting to abandon clients after he has engaged in questionable and unproductive litigation tactics." Then: "in an effort to avoid even the slightest appearance that the undersigned cannot be impartial, the undersigned will be recusing himself from any and all matters involving Max Di Fabio, Esq." The decretal paragraph recused him from this matter, "any and all related matters and any and all future matters" involving DiFabio, and sent the case to "a part to be determined by the Clerk's Office."
 
 The motion to vacate the default went with him. The case was transferred again, to Yonkers, to Judge Schauer — and it was she who undid it, in 2021, on consent: the Horowitz orders entered on default, the permanent order of protection and the custody order, were vacated, and Steve's family-offense petition reinstated. In November she said she should have specified that the interim order giving Tara sole legal and physical custody came back with them. The default orders were vacated. The custody arrangement continued.
 
@@ -6503,16 +6517,20 @@ Steve had an attorney. His attorney had appeared at the conference. His attorney
 
 # [B33] Two Defaults
 
-> Steve seeks a Temporary Order of Protection in New York. The TOP is granted. On January 26, 2021, Judge Wayne Humphrey states the fail-to-appear rule on the record — citing Horowitz as precedent. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. The same judge who announced the rule does not apply it. Humphrey recuses himself — trashing Steve's attorney on the way out. Aunt K investigates the court's own evaluator.
+> Steve seeks recognition in New York of the protection he won against Tara after a San Francisco hearing. Humphrey warns Steve about nonappearance, but gives him no ruling after Tara and her attorney miss two hearings. Humphrey then recuses. Aunt K investigates the court's evaluator.
 
 **Phase VII | The Jury | 2020–2021**
 
 Tags: Custody, Institutional, Judge Humphrey, Aunt K, NY Family Court, Two Court Systems, Pontius Pilate
 
-Selected evidence references: 32
+Selected evidence references: 36
   - B-4
   - LEGAL-HUMPHREY-RECUSAL
   - ExTR_03
+  - ExTR_01
+  - ExTR_02
+  - ExO_01
+  - B-12
   - B-3
   - DOCX_RUSSELL_AFFIDAVIT
   - PDF_DEMAND_PROSECUTION
@@ -6543,20 +6561,22 @@ Selected evidence references: 32
   - SLE-081
   - SLE-005
 
-The Temporary Order of Protection was granted at the first hearing.
+Steve came to Westchester holding an order he had already won. In 2018, after a hearing in San Francisco, a court had issued a restraining order protecting him from Tara. When it expired he asked Westchester to carry its terms forward: a family-offense petition against Tara, docket O-03599-20, filed June 16, 2020.
 
-The application was filed in Westchester County Family Court. The court issued the TOP.
+What became of that petition is in two records. The court's was read from the file fourteen months later, on August 27, 2021, by the fourth judge, Judge Schauer: the petition "that you filed that was dismissed, I guess by Judge Morales Horowitz, was reinstated. I reinstated that." On its docket, O-03599-20, "there is actually a current Order of Protection that I signed on July 23rd requiring that Ms. Walsh stay away from you, your home, your place of employment." The history as she read it: "This — this was filed in June of 2020. It looks like it was heard by the duty judge on that date and then it went to Judge Morales Horowitz and she dismissed it." Aunt K's record is her May 10, 2021 letter to the Supervising Judge, written after the judge in this chapter had come and gone: Steve "requested protection in Westchester and a temporary order of protection was granted by Hon. Naber after reviewing the case and questioning Steve. But that mysteriously disappeared, without comment, from police databases in November 2020 after Hon. Morales-Horowitz recused herself according to police." He "reapplied for protection," she wrote. "Hon. Humphrey refused to provide protection on a temporary basis."
+
+The order below is the later one on that petition, dated August 27, 2021 — by Judge Schauer's account that day, she had already signed one on July 23. It is interim protection on Steve's petition. It is not the ruling he asked for on Tara's two missed appearances before Judge Humphrey. Those appearances are this chapter.
 
 <div class="evidence-embed embed-document" data-exhibit="B-4" data-type="court-order">
   <div class="embed-header">
       <span class="embed-type">Court Order</span>
-      <span class="embed-date">2020</span>
-      <span class="embed-source">Westchester County Family Court — File No. 154703</span>
+      <span class="embed-date">2021-08-27</span>
+      <span class="embed-source">Yonkers Family Court — File No. 154703 — Docket O-03599-20</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Temporary Order of Protection issued in the matter of Tara Walsh (Petitioner/Respondent) against Stephen G. Russell (Respondent/Petitioner). Extended Order under Docket Nos. V/F641-18/19F/19G/19H/20M/21O. The TOP established protective conditions while the court scheduled a full evidentiary hearing to determine whether a permanent order was warranted.</p></div>
+    <div class="document-text"><p>"Temporary Order of Protection." "Both Parties Present in Court." "In the Matter of a FAMILY OFFENSE Proceeding: Stephen Grant Russell …, Petitioner, – against – Tara Katelyn Walsh …, Respondent." "A petition under Article 8 of the Family Court Act, having been filed on June 16, 2020 in this Court and good cause having been shown, and Tara Katelyn Walsh having been present in Court and advised of the issuance and contents of this Order. NOW, THEREFORE, IT IS HEREBY ORDERED that Tara Katelyn Walsh … observe the following conditions of behavior: [01] Stay away from: [A] Stephen Grant Russell …; [B] the home of Stephen Grant Russell …; [E] the place of employment of Stephen Grant Russell …; [14] Refrain from communication or any other contact by mail, telephone, e-mail, voice-mail or other electronic or any other means with Stephen Grant Russell …; …"</p><p>"It is further ordered that this temporary order of protection shall remain in force until and including October 01, 2021, but if you fail to appear in court on this date, the order may be extended and continue in effect until a new date set by the Court." "[x] Party against whom order was issued was advised in Court of issuance and contents of Order. [x] Order personally served in Court upon party against whom order was issued."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Temporary Order of Protection, Westchester Family Court</span><span class="embed-caption-text">The TOP was granted. The evidentiary hearing was scheduled. The other side never showed up.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Temporary Order of Protection, Order No. 2021-005878, Docket O-03599-20, Hon. Michelle I. Schauer, Yonkers Family Court, August 27, 2021 (Form GF-5, two pages)</span><span class="embed-caption-text">The later order on Steve's June 2020 petition — by Judge Schauer's account that day, she had already signed one on July 23, 2021: Tara restrained, Steve protected, in force to October 1, 2021, Tara present in court and served. Signed in Yonkers, after the events of this chapter. Dates of birth and the form's standard [02] condition are omitted from this extract.</span></div>
 </div>
 
 On January 26, 2021, months before the evidentiary hearing would be reached, the parties appeared for the first time before Judge Wayne A. Humphrey in Part 2 of the Westchester Family Court. The proceeding was virtual. Steve was at his desk in Novato. Tara was somewhere in Chappaqua. DiFabio was in his office. Humphrey was on the bench in White Plains. The Court Officer put them on the record.
@@ -6693,6 +6713,22 @@ Aunt K drove with Steve to the Westchester courthouse for these hearings.
 She had been writing up every visit, every observation, every detail of what she witnessed during supervised time with Evie. She wrote letters to the judicial review board. She documented patterns. She sent the documentation into the system and the system did not respond. She wrote more. She sent more. The silence on the other end was not the silence of consideration. It was the silence of a machine that does not have an input for what she was sending.
 
 The case file grew thicker. The number of judges who had handled it grew longer. The distance between Evie and her father remained the same.
+
+---
+
+The word kept its place in the file. The record has the dates.
+
+February 6, 2020, White Plains: Steve on the next available flight from California, due into JFK that afternoon; his attorney at the table, objecting. The court: a default. Custody and an order of protection entered against him.
+
+March 10 and March 24, 2021, White Plains, before the judge of this chapter: neither Tara nor her attorney. The court rescheduled, then recused. The ruling Steve had asked for on those two absences, Humphrey did not make.
+
+November 5, 2021, Yonkers, before the fourth judge: Steve not present, and no one appearing for him. He had told this judge on August 27 that he would not attend further conferences, that he would "be present with an attorney at trial," and had asked when the trial would be. "At this point, Mr. Russell has not appeared. He's in default. It doesn't seem like there's really much of a case." An inquest was set for January 5, 2022, "given that Mr. Russell has failed to appear in this proceeding for quite some time."
+
+January 5, 2022: Steve not present in person; his attorney present, objecting and cross-examining. The order that followed, dated February 2, 2022, gave Tara sole legal and physical custody.
+
+March 22, 2023, the Appellate Division, Second Department, on that order: "contrary to the contention of the mother and the AFC, the order appealed from was not entered upon the father's default. Although the father failed to appear in person at the hearing, his counsel appeared on his behalf and participated in the hearing."
+
+That sentence is about February 2022. Steve's attorney had been at the table in February 2020.
 
 ---
 
@@ -6956,7 +6992,9 @@ Selected evidence references: 7
   - ExTR_02
   - B-12
 
-Three judges had recused. Only three family court judges sat in Westchester County. The case was transferred to Yonkers.
+Steve came before the fourth judge holding an order he had already won. In 2018, after a hearing in San Francisco, a court had issued a restraining order protecting him from Tara. When that order expired he asked Westchester to carry its terms forward: a petition, O-03599-20, filed in June 2020, that the protection California had found warranted be recognized here. By Steve's account to the court, Judge Humphrey took it up at two appearances at which neither Walsh nor her attorney appeared, and decided nothing; on April 6, 2021 he recused. The request was still open when the file reached Yonkers. What the new judge did with it is this chapter.
+
+Three judges had recused. Those three Family Court judges sat in White Plains. The case was transferred to Yonkers.
 
 The Yonkers Family Court occupied the third floor of a municipal building on Warburton Avenue, a branch courthouse, twelve miles south of White Plains, with three courtrooms and a children's center and the particular atmosphere of a facility that processes custody disputes at volume.
 
@@ -6992,7 +7030,7 @@ Then Tara asked to say something fast.
   <div class="embed-body">
     <div class="document-text"><p>MS. WALSH: "I'm very concerned with Mr. Russell having an Order of Protection against me for a variety of reasons. I don't communicate with him. You know, I really try and keep my distance. I haven't communicated with him now for years so —"<br><br>THE COURT: "Then how could there be a violation?"<br><br>MS. WALSH: "It's just that he will use that in civil court to say that I've been like harassing and intimidating him because he has numerous civil cases against me in California right now, one against me and my parents and another one just against me, one of which is set to go to trial on June 7th."<br><br>THE COURT: "All right. Well, it's a Temporary Order. It will be in effect just for a couple of weeks."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Schauer First Appearance Transcript, May 19, 2021</span><span class="embed-caption-text">The one party who objected to being restrained was the one who had administered the drugs. Her stated reason: the order might be used against her at the California trial, nineteen days away.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Schauer First Appearance Transcript, May 19, 2021</span><span class="embed-caption-text">The party who objected to her own restraint was the one who had administered the drugs; her stated reason was the California trial, nineteen days away. DiFabio's position was to vacate every order of protection on both sides.</span></div>
 </div>
 
 
@@ -7012,25 +7050,23 @@ Twenty-three minutes on the record. "We'll email the Orders of Protection." Next
   <div class="embed-body">
     <div class="document-text"><p>Temporary Order of Protection, Docket O-12635-19, Order No. 2021-003506. Petitioner: Tara Katelyn Walsh. Respondent: Stephen Grant Russell. "A petition under Article 8 of the Family Court Act, having been filed on March 27, 2019 in this Court and good cause having been shown ... IT IS HEREBY ORDERED that Stephen Grant Russell observe the following conditions of behavior: Stay away from Tara Katelyn Walsh, the home of Tara Katelyn Walsh, the place of employment of Tara Katelyn Walsh; refrain from communication or any other contact by mail, telephone, e-mail, voice-mail or other electronic or any other means ... This temporary order of protection shall remain in force until and including June 01, 2021." Form GF-5 1/2020. Printed notice at the top of the form: "YOUR FAILURE TO OBEY THIS ORDER MAY SUBJECT YOU TO MANDATORY ARREST AND CRIMINAL PROSECUTION, WHICH MAY RESULT IN YOUR INCARCERATION FOR UP TO SEVEN YEARS FOR CRIMINAL CONTEMPT."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Temporary Order of Protection, May 19, 2021 (O-12635-19)</span><span class="embed-caption-text">One of the two mirroring orders issued on consent that afternoon and emailed to the parties. The capitalized notice is the statutory warning printed on every GF-5 temporary order in New York State; the order restraining Walsh carried the same words. The petition it recites was filed March 27, 2019 and had never been tried.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Temporary Order of Protection, May 19, 2021 (O-12635-19)</span><span class="embed-caption-text">One of the two mirroring orders issued on consent that afternoon; the court said it would email them. The capitalized notice is the warning printed on the state's Form GF-5; the order restraining Walsh on the same docket family (August 27, 2021, O-03599-20) carries the same words. The petition it recites was filed March 27, 2019 and had never been tried.</span></div>
 </div>
 
 
-The form that arrived by email did not say consent. It did not say mirroring. It said Petitioner: Tara Katelyn Walsh. Respondent: Stephen Grant Russell. It recited a petition filed March 27, 2019 — twenty-six months earlier, never tried, carried from one judge to the next — and "good cause having been shown." Handed to a police officer, it read like a finding. The order restraining Tara on the same terms was printed on the same form and carried the same warning. The only difference between the two sheets was the order of the names.
+The form that arrived did not say consent. It did not say mirroring. It said Petitioner: Tara Katelyn Walsh. Respondent: Stephen Grant Russell. It recited a petition filed March 27, 2019 — twenty-six months earlier, never tried, carried from one judge to the next — and "good cause having been shown." Handed to a police officer, it read like a finding. The order restraining Tara on the same terms — the copy in the file is Schauer's of August 27, 2021 — is printed on the same form and carries the same warning, word for word.
 
-Nothing in either sheet referred to the permanent restraining order a San Francisco court had already issued against Tara. The only mention of the California cases that afternoon had been Tara's: the trial on June 7. The court had issued a mutual stay-away on consent, vacated the defaults, and set a date two weeks out.
+Nothing in either sheet referred to the restraining order a San Francisco court had issued against Tara after a hearing in 2018. The only mention of the California cases that afternoon had been Tara's: the trial on June 7. The court had issued a mutual stay-away on consent, vacated the defaults, and set a date two weeks out.
 
 ---
 
-Twelve days later, on June 1, 2021, Schauer convened her first full hearing on the case. The supervised visits that had been ordered for Steve's mother, Linda Russell, had not occurred. The parties had failed to agree on a schedule. The court had been open for an hour and a half, and the conference had produced nothing.
+Thirteen days later, on June 1, 2021, the parties were back before Schauer by video. The transcript calls it a conference. The attorneys had been conferring with the court off the record since two o'clock; the recording opened at 3:23 in the afternoon. After the oaths, the court said what it understood had happened since May 19: "the Court issued a temporary Order of Custody and Visitation for Mr. Russell. My understanding is that the visits, which were supposed to be supervised by Jennifer Cully, did not occur." Those were Steve's visits — his supervised contact with Evie. Linda Russell's visits were a separate arrangement under the May 19 order, to be worked out with Tara; what had become of them came out later in the afternoon, in Steve's words. "We have had a lengthy attorneys' conference," Schauer said, "and I believe we have a framework for a new order moving forward."
 
-DiFabio proposed three visits per week, Monday, Tuesday, Wednesday, starting at two hours, escalating to eight. Steve's mother would supervise. Steve would have FaceTime access, facilitated by an independent monitor, with an eye toward his own visits beginning in the third week.
+DiFabio put Steve's proposal on the record. Linda would visit with the child every Monday, Tuesday, and Wednesday — two hours at first, then four, then eight. During those visits Steve would have FaceTime with Evie, supervised or facilitated by Cully, "with an eye towards, perhaps in the third week," Steve flying in to spend those hours with the child, his mother, and Cully on the call.
 
-Weddle, Tara's attorney, countered with alternating weekends, three hours Saturday and Sunday. He asked that Tara be present at the beginning of each visit. He asked that Steve not be physically present for any visit. He noted that the Walsh grandparents were unwilling to help facilitate transfers. The reason: they were tired of being sued by Steve.
+Weddle, for Tara, countered with alternating weekends: three hours Saturday, three hours Sunday, in the town of New Castle, with twenty-four hours' confirmation that Linda was in fact coming, Tara present at the start "just to make sure that Evie is comfortable with her grandmother," and an order that Steve not be physically present.
 
-Then DiFabio said something that stopped the hearing.
-
-Steve's mother had made the drive. She had driven six and a half hours from Punxsutawney, Pennsylvania, arrived at the Walsh compound, and been told to leave. The Walshes had spoken to her directly.
+DiFabio answered that Judge Horowitz had already refused to let Tara sit in on the visits — "it's fine if you want to observe from afar, but you can't stay there during the visit" — and that Tara's own mother was babysitting the child on weekdays anyway. Weddle came back: Horowitz's comments were over a year old, there had been "minimal contact" during the pandemic, and the Walsh grandparents would not help with transfers — "they are sort of getting tired of being sued by Mr. Russell." Jackman, for the child, thought weekends were "a start." The court was ready to order every other weekend when Steve said his mother was not available on weekends. DiFabio asked Steve whether he and Linda could do five to seven in the evening instead. The answer, at page 8, is recorded under Weddle's name:
 
 
 <div class="evidence-embed embed-document" data-exhibit="ExTR_10_03" data-type="hearing-transcript">
@@ -7040,27 +7076,47 @@ Steve's mother had made the drive. She had driven six and a half hours from Punx
       <span class="embed-source">Yonkers Family Court</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>MR. RUSSELL: "You should know that the Walshes spoke to my mother and very strongly stated they would never allow the visits to happen. And even went so far to say that any orders from this Court would be put in the trash, so it was very, very tough and very clear."<br><br>THE COURT: "That's something that can easily be dealt with, if that's what happens. There are consequences for violating court orders, but let's — let's not go down that [path]."</p></div>
+    <div class="document-text"><p>MR. WEDDLE [as labeled in the transcript]: "No, I think we've offered a couple things so, yeah, my mom is flexible during the workday. You know, she's almost 70 years old and so she's asked for that but she could pickup, you know, Evie in the morning and half-day, arrange for Evie to be dropped back off through a sitter if there's some tension. You should know that the Walshes spoke to my mother and very strongly stated they would never allow the visits to happen. And even went so far to say that any orders from this Court would be put in the trash, so it was very, very tough and very clear."<br><br>THE COURT: "That's something that can easily be dealt with, if that's what happens. There are consequences for violating court orders, but let's — let's not go down that (inaudible). Mr. —"<br><br>MR. RUSSELL: "May I make one more comment on scheduling, Your Honor?"</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, June 1, 2021</span><span class="embed-caption-text">Court orders in the trash. Schauer acknowledged the threat and moved on.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, June 1, 2021, p. 8</span><span class="embed-caption-text">Excerpt, p. 8. The transcript gives the statement to Weddle. The speaker refers to "my mom," almost seventy, and to the Walshes speaking to "my mother"; the next speaker line is MR. RUSSELL. Compare Steve's own account at pp. 13–14 of his mother being told to drive home. The label is the transcript's; the anomaly is reproduced as it appears, not resolved.</span></div>
 </div>
 
 
-Court orders in the trash. Schauer acknowledged the threat and moved on. There would be consequences, she said, if that's what happened. No further inquiry. No follow-up order. No enforcement mechanism.
+Court orders in the trash. The court's answer was that it "can easily be dealt with, if that's what happens," and then: "let's — let's not go down that (inaudible)." There was no inquiry into what the Walshes had said or when. No order ran against them; later in the afternoon she said she was "not quite sure what the Walshes — why they should have anything to do with this." What she did instead was build the schedule so that a breach could be proved. A specific day and specific hours, she explained, make it "easier down the road if there's further litigation for there to be a court order saying certain time and certain day and then to prove who — where the gap was if it wasn't complied with."
 
-Steve answered from the record.
+Steve's "one more comment on scheduling," very quickly: the battery trial in San Francisco was starting in one week, June 7th or 8th. Two court systems, three thousand miles apart, processing the same set of facts simultaneously. In California, a jury was scheduled to hear the battery, domestic violence, and intentional-infliction-of-emotional-distress claims, including Steve's evidence of poisoning. In New York, the court was negotiating how many hours a week a grandmother could spend with the child whose father had been poisoned.
 
-"There never have been in the past, Your Honor."
+Tara described her work: into the city three days a week, "accountable" even from home, "jeopardizing my business and income" if she rearranged three weekdays. Linda, she said, "doesn't work. She's retired," and it was "a little unreasonable to say she can't come any weekends." The court floated one weekday a week. Then: "if you don't agree, I'm going to just make up a schedule that sounds fair to me and it will probably inconvenience one or maybe all of you. It will be a court order." She had started the conference at two o'clock, she said — an hour and a half — "and I don't feel like we've made much progress." DiFabio told Steve on the record that the judge "is not going to entertain your argument or Tara's."
+
+Steve answered with his mother's logistics. Punxsutawney, Pennsylvania, to Westchester is a six-and-a-half-hour drive. She was a nurse; she had sent two kids to Stanford; she would "provide free childcare for Evie during an eight-hour day." The court asked whether she stayed the night in Westchester.
+
+"Well, the last time she drove out and then she got here and was told to drive home and then she drove home, and then she got home and said she could have 20 minutes that day if she drove back out. So she left a little bit just exasperated at that."
+
+That was what had become of the grandmother's visits "as arranged." The court moved to the calendar.
+
+Tara chose Thursday. Drop-off at 8:30 in the morning, before work; pick up "around 5:30, 6?" The Kittle House "would be fine" for the transfer; she wanted a contact number and for Evie to stay within New Castle. DiFabio thought Westchester would be sufficient. Steve: "Mom loves the Kittle House," but sometimes they have no rooms.
+
+Schauer issued the order on the record. Every Thursday, 8:30 a.m. to 5:30 p.m. — nine hours. Pickup and drop-off by Tara at Linda's hotel; Linda to confirm twenty-four hours in advance so Tara would know where to go. Linda to stay within New Castle for now — "because we're only dealing with a few weeks … I don't think that's really going to be reasonable moving forward" — and, on DiFabio's caveat, Westchester if the Kittle House was unavailable: "Yes, good point." No tape recording. No public dissemination of photographs or video, past or future. Linda could facilitate FaceTime with Steve, supervised or observed by Cully. Steve not to be physically present. The schedule to stand "unless everyone agrees in writing." Start June 3. Back on June 25 at 11:00. Someone would submit a written interim order; Jackman agreed to it; Steve asked to see it in writing.
+
+"My visits will be denied again, unfortunately," Steve said.
+
+"I understand there's hostilities here but if the visits —"
+
+"Not on my part."
+
+"— I know, but there will be consequences."
+
+"There never have been in the past, Your Honor. The police report is that I threatened to kill my daughter. And she said it was a lie. There were no consequences."
+
+Tara interjected that it was "very unfair that he's going on and on about this stuff because it's just not reality."
 
 "I've never seen consequences."
 
-Schauer: "You've not had me as a judge before." She repeated the promise four more times before adjourning. "I expect that my court orders will be followed. I expect that there will be consequences to those who don't follow my court order."
+Schauer: "But you've not had me as a judge before so —" Steve: "Fair enough." Schauer: "— I expect that my court orders will be followed. I expect that there will be consequences to those who don't follow my court order, so if this court order is not followed, there will be consequences. It's a little difficult because you're in California but we'll deal with it."
 
-The hearing continued for another forty-five minutes. The parties could not agree on a day of the week, the number of hours, the transfer location, or who would be present. Schauer grew impatient. She told the room that if they could not reach agreement, she would impose a schedule herself: one that would inconvenience everyone. She meant it. She issued the order on the record: one visit per week, every Thursday, 8:30 AM to 5:30 PM. Grandmother picks up Evie from Tara, keeps her for the day, returns her by end of day. No tape recording. No public dissemination of photographs or video. Steve would not be physically present. Transfers at the Kittle House, within the town of New Castle.
+The recording ended at 3:50. Twenty-seven minutes on the record; the conference, by the court's own account, had begun at two.
 
-One day a week for a grandmother who had driven thirteen hours round trip to be offered twenty minutes.
-
-Steve mentioned, almost as an aside, that the Battery trial in San Francisco was starting in one week, June 7th or 8th. Two court systems, three thousand miles apart, processing the same set of facts simultaneously. In California, a jury was scheduled to hear the battery, domestic violence, and intentional-infliction-of-emotional-distress claims, including Steve’s evidence of poisoning. In New York, the court was negotiating whether a grandmother could spend eight hours with the child whose father had been poisoned.
+One day a week, nine hours, for a grandmother who — by Steve's account to the court that afternoon — had driven thirteen hours round trip to be offered twenty minutes.
 
 Schauer came from Albert Rosenblatt's mentorship — Harvard Law, former Chief Administrative Judge, ethics authority — and had spent eleven years building Baby Court before assuming this case.
 
@@ -7068,15 +7124,15 @@ Schauer came from Albert Rosenblatt's mentorship — Harvard Law, former Chief A
 
 Schauer had done two things at that first appearance.
 
-She vacated the Horowitz default. The order that had been entered when Steve arrived at a closed door — the default built on a remote appearance denied at five o'clock, the next flight that could not get him there in time — was undone. On consent, with Walsh's attorney agreeing, the procedural defect was acknowledged and removed. The permanent Order of Protection and the custody order that had rested on that default were vacated.
+She vacated the Horowitz default — the default entered after the court refused Steve's telephone appearance late on the afternoon before, when the first flight could not land him in White Plains in time. On consent, with Walsh's attorney agreeing, the defaults were vacated, and with them the permanent Order of Protection and the custody order that had rested on them.
 
-But in vacating the default, Schauer reinstated the interim custody order giving Tara sole legal and physical custody. The procedural error was corrected. The custody arrangement remained identical. Schauer acknowledged the arrangement in her own words: "When in the very beginning of this case I vacated the Order of Custody which was issued on default against Mr. Russell, I probably should have said that the interim Order of Custody giving Ms. Walsh sole legal and physical custody was reinstated."
+But in vacating the default, Schauer reinstated the interim custody order giving Tara sole legal and physical custody. The defaults were gone. The custody arrangement remained identical. Schauer acknowledged the arrangement in her own words: "When in the very beginning of this case I vacated the Order of Custody which was issued on default against Mr. Russell, I probably should have said that the interim Order of Custody giving Ms. Walsh sole legal and physical custody was reinstated."
 
 The default was removed from the record. The custody order survived the surgery.
 
 The second thing Schauer did was not rule on either party's petition.
 
-The California restraining order against Tara existed. Two defaults by Tara in the New York proceedings existed, she had failed to appear twice, and no consequence followed. The poisoning evidence existed. The laboratory reports existed. Humphrey had recused rather than hear any of it. Schauer's answer was the mutual stay-away: identical restraint on both parties, no hearing on either petition. On July 23 she continued both orders — the 2019 order against Steve, and an order on Steve's reinstated June 2020 petition, O-03599-20, requiring Walsh to stay away from him, his home, his place of employment. On August 27 she extended the order against Walsh to October 1; the order against Steve remained in force. The poisoner and the poisoned were placed under identical restraint, on identical forms, as though the court could not distinguish between them.
+The California restraining order against Tara existed. Tara's two non-appearances before Judge Humphrey were on the record. The poisoning evidence existed. The laboratory reports existed. Humphrey, by Steve's account to Schauer on August 27, had taken up Steve's petition at two hearings at which Walsh and her attorney did not appear, and had rendered no decision; on April 6, 2021, on DiFabio's motion dated March 24, he recused himself from the matter and from every future matter involving DiFabio. Schauer's answer was the mutual stay-away: identical restraint on both parties, no hearing on either petition. On July 23 she continued both orders — the 2019 order against Steve, and an order on Steve's reinstated June 2020 petition, O-03599-20, requiring Walsh to stay away from him, his home, his place of employment. On August 27 she extended the order against Walsh to October 1; the order against Steve remained in force. The poisoner and the poisoned were placed under identical restraint, on identical forms, as though the court could not distinguish between them.
 
 At the August 27, 2021 hearing, when the procedural confusion had consumed more than an hour of argument and counterargument, Tara's attorney described the arrangement and the court confirmed it:
 
@@ -7092,7 +7148,7 @@ At the August 27, 2021 hearing, when the procedural confusion had consumed more 
       <span class="embed-source">Yonkers Family Court</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>THE COURT: "Ms. Walsh filed a Family Offense petition, docket O-12635 of '19. That Temporary Order of Protection on behalf of her against Mr. Russell was continued and I signed, also on July 23rd, the Order of Protection that Mr. Russell stay away from Ms. Walsh ..." MR. RUSSELL: "When is the hearing scheduled for Ms. Walsh's temporary order against me?" THE COURT: "I've not scheduled that hearing." MR. RUSSELL: "Why has it not been scheduled?" THE COURT: "Why? Because every time we come into court, I'm dealing with new petitions that you've filed ... At this point, you both have Temporary Orders of Protection, so you're both protected and we'll have a hearing at an appropriate time." MR. RUSSELL: "A permanent Temporary Order of Protection does not give me a chance to face my accuser." THE COURT: "Well, exactly, Mr. Russell. You're both in the same position with respect to Temporary Orders of Protection that are full stay-aways."</p></div>
+    <div class="document-text"><p>THE COURT: "Ms. Walsh filed a Family Offense petition, docket O-12635 of '19. That Temporary Order of Protection on behalf of her against Mr. Russell was continued and I signed, also on July 23rd, the Order of Protection that Mr. Russell stay away from Ms. Walsh ..." MR. RUSSELL: "When is the hearing scheduled for Ms. Walsh's temporary order against me?" THE COURT: "I've not scheduled that hearing." MR. RUSSELL: "Why has it not been scheduled?" THE COURT: "Why? Because every time we come into court, I'm dealing with new petitions that you've filed ... At this point, you both have Temporary Orders of Protection, so you're both protected and we'll have a hearing at an appropriate time." MR. RUSSELL: "A permanent Temporary Order of Protection does not give me a chance to face my accuser." THE COURT: "Well, exactly, Mr. Russell. You're both in the same position with respect to Temporary Orders of Protection that are full stay-aways. Which, by the way, are only on behalf of the two of you. There's no Order of Protection that involves your daughter."</p></div>
   </div>
   <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, August 27, 2021</span><span class="embed-caption-text">Continued, not heard. "I've not scheduled that hearing."</span></div>
 </div>
@@ -7104,11 +7160,11 @@ The court told him he was going down irrelevant paths.
 
 The mutual arrangement treated the two sides as equivalent threats. The person who had been poisoned with lithium, quetiapine, and mycophenolic acid and the person who had administered those substances were restrained from contacting each other on identical terms. The symmetry was the court's answer to asymmetry. Walsh Sr. had told Tara what settling would cost, Evie, transferred to the grandparents. Only one party in the mutual arrangement could not afford to end the case.
 
-August 27, 2021. A video proceeding, as every appearance before Schauer had been — the judge in Part 17 at 131 Warburton Avenue, the lawyers and the parties in rectangles on a screen, a court officer telling people they were muted. Steve's Teams link had not arrived; DiFabio resent it and texted him what the judge was saying while the clerk sent it again. "We're letting him in now." Steve appeared from San Francisco, pro se.
+August 27, 2021. A video proceeding, like the May 19 and June 1 appearances before it. Steve's Teams link had not reached him; DiFabio resent it, the clerk sent it again, and the court let him in a few minutes late. The first business was DiFabio's own application to be relieved — from representing Steve and from representing Linda Russell. "I'm ready to represent myself, Your Honor. I understand the risks." Linda: "He's no longer my attorney." "You're free to go, Mr. DiFabio." "Good luck, everyone." Steve appeared pro se, from San Francisco, for the rest of the morning.
 
-The hearing was a procedural marathon. Over an hour of appearances, motions, clarifications about which petitions were pending, which orders had been vacated, which dockets were active. Weddle, Tara's attorney, said at one point: "When we started this conference, I thought I knew what was going on and now procedurally I'm lost." Christopher Weddle had been practicing family law in Westchester for twenty-nine years. He was a member of the 18B panel — the same panel Cambareri screened — and would later become a Support Magistrate at the very courthouse where he now stood as counsel. He lived in Chappaqua. The file had defeated even the people who were winning.
+The hearing was a procedural marathon. Over an hour of appearances, motions, clarifications about which petitions were pending, which orders had been vacated, which dockets were active. Weddle, Tara's attorney, said at one point: "When we started this conference, I thought I knew what was going on and now procedurally I'm lost." Christopher Weddle had been practicing family law in Westchester for twenty-nine years. He was a member of the 18B panel — the same panel Cambareri screened — and would later be listed in the court system's directory as a Support Magistrate in Westchester Family Court. He lived in Chappaqua. The file had defeated even the people who were winning.
 
-The court was not lost. The court knew exactly what it wanted to address and resented being asked to address anything else.
+The court was not lost. It knew what it wanted to address.
 
 Steve attempted to explain the complex procedural history, the two final orders Horowitz had issued, one secretly given to Walsh ex parte, the Motion to Vacate that was "deliberately written" to address one order while preserving the other. Schauer cut him off.
 
@@ -7122,13 +7178,13 @@ Steve attempted to explain the complex procedural history, the two final orders 
 
 "I strongly encourage you to get an attorney."
 
-Steve had an attorney. DiFabio was present, the same attorney who had stood beside him at the June 1 hearing, who had filed the recusal motion that triggered Humphrey's retaliatory order. But Humphrey's blanket recusal had eliminated roughly a third of DiFabio's Westchester practice. Every case, present and future. The financial damage cascaded through the summer. By August, DiFabio could no longer service Steve's representation at the level the case required. He transitioned to representing Linda Russell, Steve's mother, and Steve was left to address the court himself, navigating a file the judge described as the largest she had ever seen, without counsel, because the previous judge had punished his attorney for filing a motion the court had granted.
+Steve had come into the year with an attorney. DiFabio had appeared for him on June 1 and had filed the recusal motion that produced Humphrey's retaliatory order — a recusal from every DiFabio matter in Westchester, present and future. Steve's understanding was that the order had taken roughly a third of DiFabio's Westchester practice with it and that by August he could no longer carry the case. On August 27 DiFabio asked to be relieved from representing Steve and Linda both, and neither opposed him. Later in the same appearance the court told the man it had just excused counsel for: "I strongly encourage you to get an attorney."
 
-Schauer's rhetoric carried a particular quality. She was not interested in whether what Steve was saying was true. She was interested in whether he was saying it correctly, in the right form, at the right time, in the right sequence, with the right deference. When he said something accurate but procedurally inconvenient, it was "muddying the record." When he tried to address the substance beneath the procedure, he was "going down paths that are irrelevant."
+Schauer's rhetoric carried a particular quality. On the record, the question was never whether what Steve was saying was true. The question was whether he was saying it correctly, in the right form, at the right time, in the right sequence, with the right deference. When he said something accurate but procedurally inconvenient, it was "muddying the record." When he tried to address the substance beneath the procedure, he was "going down paths that are irrelevant."
 
-"Scattered gunshot." The court's preferred metaphor. The image belongs to hunting — a shotgun that disperses pellets because it cannot aim. What the metaphor described was a pro se litigant filing motions across multiple docket numbers because the procedural history demanded it: the default had generated separate orders, the vacatur had spawned new proceedings, the mutual TOPs sat on a docket of their own. The scatter was the record's architecture, not the litigant's — though the court, which had inherited a file assembled by four judges in three courthouses across three years, read the record's incoherence as the litigant's disorganization and prescribed the cure of an attorney it had made impossible for him to retain.
+"Scattered gunshot." The court's preferred metaphor. The image belongs to hunting — a shotgun that disperses pellets because it cannot aim. What the metaphor described was a pro se litigant filing motions across multiple docket numbers because the procedural history demanded it: the default had generated separate orders, the vacatur had spawned new proceedings, the mutual TOPs sat on a docket of their own. The scatter was the record's architecture, not the litigant's — though the court, which had inherited a file assembled by four judges in three courthouses across three years, read the record's incoherence as the litigant's disorganization and prescribed the cure of an attorney on the morning Steve's attorney had just been relieved — a departure Steve traced to Humphrey's April 6 order recusing him from every DiFabio matter.
 
-Standing at the table in the courtroom on Warburton Avenue, without counsel, in front of the fourth judge to inherit a file assembled by three predecessors, Steve could see for the first time not the individual appointments but the architecture that produced them. Each person was individually unremarkable. Together they were not four judges, two supervisors, an evaluator, and an attorney for the child. They were the building. The building produced appointments from its own inventory and called them independent determinations.
+Appearing by video, without counsel, before the fourth judge to inherit a file assembled by three predecessors, Steve could see for the first time not the individual appointments but the architecture that produced them. Each person was individually unremarkable. Together they were not four judges, two supervisors, an evaluator, and an attorney for the child. They were the building. The building produced appointments from its own inventory and called them independent determinations.
 
 He was not arguing against a judge. He was arguing against the building.
 
@@ -7136,23 +7192,23 @@ He was not arguing against a judge. He was arguing against the building.
 
 At the same hearing, the Attorney for the Child was relieved.
 
-Jennifer Jackman had been the AFC since the case began in Westchester. She had been present at the June 1 hearing eight weeks earlier, recommending weekend visits as a starting point, speaking in the measured cadences of a professional managing a difficult case. She had been present when the bruises were documented and when Guttridge wrote his letter denying any bruises existed. She had dismissed the pinch marks on Evie with scare quotes and declined to investigate Steve's poisoning reports. She had received his correspondence about the laboratory evidence. She had watched four judges cycle through the case and done nothing to alter the trajectory.
+Jennifer Jackman had been the AFC since the case began in Westchester. She had been present at the June 1 hearing twelve weeks earlier, recommending weekend visits as a starting point, speaking in the measured cadences of a professional managing a difficult case. She had been present when the bruises were documented and when Guttridge wrote his letter denying any bruises existed. She had dismissed the pinch marks on Evie with scare quotes and declined to investigate Steve's poisoning reports. She had received his correspondence about the laboratory evidence. She had watched four judges cycle through the case and done nothing to alter the trajectory.
 
-On August 27, 2021, Jackman filed an Order to Show Cause to be relieved as AFC. No explanation was offered. No final report. No account of what she had observed across three years and four judges. The court granted it on consent.
+Her application to be relieved had been filed the night before. Steve had not read it in detail; he had spoken to her by phone. "I do not object. I appreciate her services very much and I think she's making the right decision." Weddle had no objection.
 
 "You are relieved, Ms. Jackman."
 
 "Thank you, Your Honor. May I be excused?"
 
-Five sentences. The woman who had been charged with representing a child's interests through a poisoning case, a custody dispute, an ambush, and the discovery of bruises excused herself without documenting any of it. The silence was itself a form of the Pontius Pilate pattern — not washing her hands of the evidence, but walking out of the room where the evidence sat.
+The application was not read into the record. What the record holds of her departure, after three years and four judges, a poisoning case, a custody dispute, an ambush, and the discovery of bruises, is that exchange.
 
-That left the case without an attorney for the child. The court noted that "limited progress" could be made until a new one was appointed.
+That left the case without an attorney for the child. "There will be limited progress we can make with today's proceeding until I assign a new attorney to represent the child."
 
 ---
 
-The case had been reset. The procedural error was undone. But the reset did not return the visits that had been lost. It did not address the poisoning. It did not examine the supervision manipulation or the ambush or the bruises or the disappeared reports. It did not give Steve a hearing on the temporary order that restrained him. It corrected procedure and left everything else exactly where it had been.
+The case had been reset. The defaults had been vacated — on consent, not on any finding about how they had been entered. But the reset did not return the visits that had been lost. The drugging was spoken of in these appearances. On August 27 the court read the word aloud from a September 2018 order; Weddle called it "this alleged drugging," said the petition it had produced was still pending, and announced his intention to move to dismiss it; Steve told the court what that petition had asked for — filed when the San Francisco protective order expired, it sought "that those specific terms be extended in Westchester," and it described "the effect" the absence of that order "was having on my ability to see my daughter." Spoken of, and not tried: in these three appearances no evidentiary determination of the drugging was made. There was no hearing on the temporary order that restrained Steve, and none on his petition against Walsh — the one on which, by his account, she had twice defaulted before Humphrey. The proceedings themselves moved: a grandmother's Thursdays were scheduled, Steve's and Linda's counsel was relieved, the attorney for the child withdrew, and on August 27 the court said it was issuing an order for a forensic evaluation that day; Steve answered that the case should go to trial. What did not move was what Steve had come to Westchester for: a ruling on the poisoning, recognition of the protection he had already won in California, and his contact with his daughter. The reset corrected procedure. The substance waited.
 
-The case had been reset. The clock returned to zero. Evie was three now — old enough to ask questions, old enough to notice who came to the door and who did not. Every procedural reset consumed months. Every month was time that could not be recovered. The file got thicker. The child got older. And each new judge started from scratch with a case she described as the largest she had ever seen, in a courtroom where the only acceptable form of participation was silence.
+The case had been reset. The clock returned to zero. Evie was three now — old enough to ask questions, old enough to notice who came to the door and who did not. Every procedural reset consumed months. Every month was time that could not be recovered. The file got thicker. The child got older. And each new judge started from scratch.
 
 Aunt K's letters continued that season — addressed to yet another judge, CC'd to yet another supervising justice, with the same evidence attached that every previous letter had attached and every previous recipient had declined to examine. Four judges. Four courtrooms. The same outcome: nothing changed for Evie.
 
@@ -7308,13 +7364,16 @@ A grandmother drove thirteen.
 
 Tags: StevieLovesEvie, ChappaquaPoison, DiFabio, Documentation, Gag Order, Institutional, Jennifer Jackman, Judge Schauer, Aunt K, Linda Russell, NY Family Court, Privacy Inversion, Prior Restraint, Yonkers
 
-Selected evidence references: 6
+Selected evidence references: 9
   - ExTR_02
   - ExTR_01
   - B-12
   - ExL_02
   - ExOO_07
   - ExTR_02_02
+  - ExPP_01
+  - ExR_02
+  - B-10
 
 Jennifer Jackman had asked to be relieved on August 27, 2021. She had been the Attorney for the Child since the case arrived in Westchester — across four judges, three courthouses, the bruises, the ambush, the defaults, the revolving supervisors. She had seen the laboratory reports. She had received Steve's correspondence about the poisoning evidence. She had watched the case file grow into the largest Schauer had ever encountered.
 
@@ -7348,11 +7407,11 @@ The motion was not filed by Tara. It was not filed by Tara's attorney. It was fi
 
 Steve was served. The hearing was set for November 5, 2021, at 3:30 PM in Yonkers.
 
-Among the papers filed in support of the suppression was a sworn declaration from Walsh Sr., signed October 7, 2021, in Chappaqua. The declaration was filed. The motion went forward. The hearing was set.
+In the same October, Walsh Sr. signed a two-page declaration under penalty of perjury — "Signed this 7th of October, 2021, in Chappaqua, New York" — captioned for the San Francisco civil case, as Tara's response to a motion for summary judgment there. The motion in Yonkers went forward. The hearing was set.
 
-Walsh Sr.'s declaration denied what it admitted. It said the depositions never happened. It said the questions were not relevant to any actions witnessed in California. It said the family was highly upset and felt harassed. And then it said: "I do not think there is any merit to any of his accusations against my daughter, Tara."
+Walsh Sr.'s declaration denied and admitted in consecutive paragraphs. Paragraph one, as printed: "I never gave any deposition, nor agreed to any deposition, on October 21, 2021. I only gave a deposition when forced to do so in an order from New York State courts. I also know that my wife, Maura Walsh, and son, Brendan Walsh, did not give any depositions on October 22, 2020 and never agreed to do so." Paragraph two: "I gave a deposition on April 26, 2021 that was moderated by Joy Llaguna. The deposition lasted six hours and was a series of questions that were not relevant to any actions witnessed in California for the period of 2017 to 2018. My wife and son also gave depositions at the end of April 2021. They also were highly upset and felt harassed as to the nature of questioning in the depositions." And then: "I do not think there is any merit to any of his accusations against my daughter, Tara."
 
-The document did not explain how the depositions could be both irrelevant and harassing — if the questions were not relevant, they could not have been harassing; if they were harassing, they were relevant enough to cause distress. The signature was at the bottom of page two, under the penalty of perjury, under the laws of the State of California and the State of New York. A sworn statement denying what a sworn signature would later confirm. The declaration was filed. The motion went forward. The hearing was set.
+The document did not explain how the depositions could be both irrelevant and harassing — if the questions were not relevant, they could not have been harassing; if they were harassing, they were relevant enough to cause distress. The signature was at the bottom of page two, under penalty of perjury, under the laws of the State of California and the State of New York. Four months after he signed it, the jury in that San Francisco case found Tara liable to Steve for battery, domestic violence and intentional infliction of emotional distress.
 
 ---
 
@@ -7360,7 +7419,7 @@ November 5, 2021. 131 Warburton Avenue, Third Floor. The same courtroom, the sam
 
 The proceeding opened at 3:38 PM. Weddle appeared for Tara. DiFabio appeared for Linda — not for Steve, for Linda — who was present in court. She had driven from Punxsutawney again, six and a half hours each way, and she was sitting in the gallery in a courtroom in Yonkers because the case had consumed her family and there was no version of being a good mother and grandmother that did not include being in the room where the decisions were made. Genovese appeared for the child.
 
-Steve was not present. He was in California, three thousand miles from the courtroom where the order to suppress his documentation was about to be entered on default.
+Steve was not present. He was in California, three thousand miles from the courtroom. He had told this judge on August 27 where he would and would not be: "I won't be present at any further conferences. And you're welcome to make a ruling and take negative inference for that. I will be present with an attorney at trial." The same day he had asked when that trial would be — "I'm looking forward to the trial, Your Honor" — and, now representing himself, for a copy of the court file. The answer was that files are not sent: "You sit in the Clerk's Office and, under supervision, you can review the court file." The orders to suppress his documentation were about to be granted from the bench. The written orders would come later.
 
 
 <div class="evidence-embed embed-document" data-exhibit="ExTR_02" data-type="hearing-transcript">
@@ -7390,7 +7449,7 @@ The stammer mattered. DiFabio knew the legal arguments existed — prior restrai
 
 The court noted that Steve had not appeared. It was 3:41 — eleven minutes past the scheduled start. "Normally I would give a party a fair amount of time to appear, but I think we'll proceed."
 
-What followed was Tara's financial disclosure. Weddle told the court that Tara had depleted her life savings — $120,000 — paying for private counsel. Her income was roughly $40,000 a year. The court pointed out that with child support, her total income was $100,000. Weddle said child support was not income. They went back and forth. The court held off on the question.
+What followed was Tara's financial disclosure. Weddle told the court that Tara had depleted her life savings — $120,000 — paying for private counsel. Her income was roughly $40,000 a year. The court pointed out that with child support, her total income was $100,000. Weddle said child support was not income. They went back and forth. The court held off on the question, and said why: "At this point, Mr. Russell has not appeared. He's in default. It doesn't seem like there's really much of a case."
 
 Then Genovese spoke. She adjusted her mask — "sorry with the mask" — and told the court what she had found that morning. The Chappaqua Poison website continued. There were new postings as recently as November 4. The blog addressed the court's own gag order. She wanted the postings stopped.
 
@@ -7398,9 +7457,9 @@ DiFabio asked to respond. He separated his client from the blog. "I'd like to fo
 
 "She's capable. She's a nurse, a retired nurse. She's raised children. You can see her demeanor. She's not a monster. She huffs it all the way up here from Pennsylvania to do this."
 
-Weddle was not reassured. He told the court that Steve's actions had been erratic, irrational, unpredictable, frankly contrary to his own best interests. The concern was not about Linda. The concern was about Steve through Linda — that the grandmother could not be trusted to keep her son away from his daughter.
+Weddle was not reassured. "Because of what has transpired thus far, we are not confident of Ms. Russell's ability to keep her son away from Evie until the Court makes a decision. There was an order before. Mr. DiFabio argues that it was a misunderstanding with respect to the Court's direction. I am not inclined to agree." Earlier, before Genovese spoke, he had put his characterization of Steve on the record: "really it's Mr. Russell that's our concern, is that his actions in this matter have been erratic, irrational. They have been unpredictable. They have been frankly contrary to his own best interests, and we are very concerned about Ms. Russell's ability to keep Mr. Russell away from Evie until these issues can be resolved." Counsel's argument; no witness was examined on it. DiFabio's answer had come before it and came after it. Before: "Because her son, in the Court's view, may be misbehaving or not complying, she shouldn't be punished for that." After, on the FaceTime order Weddle meant: "You're not going to take my word for that? It was my misunderstanding, Chris." "I read the transcript. In good faith, I brought it to the Court's attention. I brought it to Counsel's attention, and I showed passages in the transcript where I believe, Your Honor, perhaps incorrectly, I believe Your Honor permitted FaceTime access with my client, Linda, and Mr. Russell so long as my client was present." "— that was a mistake, and I've admitted to that."
 
-The court agreed with the concern and named it.
+The court, in the discussion of what visits might look like, stated its own premise and its own concern. "Things involving the visits between your client and Evie wound up online. That's a fact."
 
 "I am concerned that your client is controlled or bullied or fearful of Mr. Russell, and —"
 
@@ -7411,6 +7470,8 @@ Linda stood. She interrupted from the gallery, her voice cutting across the cour
 The judge was telling the room that the grandmother was controlled by her son, and the grandmother was answering. The sentence didn't finish. The transcript records it as inaudible. Schauer continued past the interruption as though Linda had not spoken, as though the woman sitting in the courtroom, the woman whose attorney had just consented her into silence, did not have the right to speak her own objection to the characterization of her.
 
 "— that she can't control him."
+
+"And so if I were to come up with a solution for this access, I would have her have supervised visits. And that's not because I think she's not capable of being safe around Evie. I think she certainly is. It's that I think she can be manipulated by her son to do whatever it is he wants to do." DiFabio answered the premise: "I disagree that it's a fact that there was stuff shared from that visit. I think it was old stuff." The court: "Whatever it is, Mr. DiFabio, whatever it is, it was inappropriate, improper." DiFabio: "But it wasn't Linda." The parties had been sworn; no one was examined on any of it.
 
 Schauer laid out the conditions. If there were to be visits, they would be conditioned. If one sliver of what happened at a visit got posted online, the visits would end. The court would find it was not in Evie's best interest to have any contact with this grandmother.
 
@@ -7430,6 +7491,8 @@ The third interjection came as DiFabio finished. Linda was asking for less than 
 
 "Sometimes I am," DiFabio said.
 
+Asked whether he needed time with his client, Weddle said no. "My client is not reassured that Mr. Russell won't manage to insert himself into any arrangement that the Court comes up with. I mean, Mr. Russell hasn't followed a court order so far. Why would we expect him to now?" DiFabio: "Mr. Russell has not traveled back from California during any of the visits my client had with the child. That's a fact. He hasn't been in the state in, I would say … two years minimally. The last time he was here, I think we went to court. There's no risk of Mr. Russell coming here. And Ms. Russell will have a duty to report."
+
 DiFabio had once been willing to fight. He had filed a Petition for Enforcement on Steve's behalf, challenged the court's unilateral decisions, pushed back on the rotating judges. The court's response was structural. Judge Gordon-Oliver blanket-recused from all DiFabio cases — not just Steve's, all of them. A second judge followed. A third. The blanket recusals eliminated roughly a third of DiFabio's Westchester Family Court practice. The stick was not subtle: represent this client, lose your other clients.
 
 During the case, a Democratic Party official approached Steve directly and asked for $30,000. Steve told DiFabio. DiFabio's response was not surprise. That's how things are done in Westchester. The attorney who knew the constitutional arguments existed and chose not to raise them also knew how the local political apparatus worked and did not pretend otherwise. The $30,000 was never paid. The request was never repeated. But the fact of it — the party's fundraising arm intersecting with active litigation, the attorney unsurprised — illuminated the room in which the consent was given.
@@ -7440,11 +7503,11 @@ At 4:01, the court asked the parties to step out so the lawyers could stay on fo
 
 At 4:29, they came back.
 
-At 4:30 — fifty-eight seconds after the record resumed — the court declared Steve in default.
+The record resumed at 4:29:58. Then the court granted both motions from the bench.
 
 "At this point, it's 4:30. It's clear that Mr. Russell's not appearing so both of those Orders to Show Cause are granted, and you may submit the orders on notice."
 
-Both orders. The one against Steve. The one against Linda. Granted. The grandmother who was sitting in the room, who had driven from Punxsutawney, whose attorney had consented on her behalf — her order was granted too. She was present. She had spoken three times. She had agreed. And she was defaulted alongside the person who was absent.
+Both orders. The one against Steve, on his absence. The one against Linda, on the consent her attorney had given at the start: "we'll consent to the relief." Her own words in the room — "So would I," "Or less" — came in the discussion of visits and of what might wind up online, not on the motion itself. The grandmother who was sitting in the room, who had driven from Punxsutawney, whose attorney had consented on her behalf — her order was granted too. She was present. She had spoken three times. She had agreed. The proposed orders that followed carried two headings: for Steve, ORDER ON DEFAULT; for Linda, ORDER ON CONSENT. Consent was the paper's word for what she had agreed to under the conditions the court had just described.
 
 ---
 
@@ -7474,9 +7537,9 @@ The order raised a constitutional question the court did not address in the hear
 
 A prior restraint on speech, a court order prohibiting publication before it occurs, carries the heaviest burden in First Amendment law. The standard requires demonstration that the speech would produce a clear and present danger of a serious, substantive evil that rises far above public inconvenience, annoyance, or unrest. The restraint must be tailored as precisely as possible to the exact needs of the case.
 
-The November 5 order was not tailored. It was total. Erase everything. Delete everything. And it was entered on default — against a party who was not present to argue that the speech being suppressed was documentation of harm to a child, not the cause of harm to a child.
+What the court granted on November 5 was not tailored. It was total. Erase everything. Delete everything. It was granted from the bench, on Steve's absence, with the written orders to be submitted on notice; the written order on the motion is dated December 3, 2021, on the father's default. He was not present to argue that the speech being suppressed was documentation of harm to a child, not the cause of harm to a child.
 
-In November 2021, the order was in effect. The blog was ordered taken down. The documentation was ordered erased.
+From the bench on November 5, the blog was ordered taken down. The documentation was ordered erased.
 
 And the court scheduled the inquest. January 5, 2022. In person. A half day.
 
@@ -7492,9 +7555,10 @@ The court had read the blog. The court had seen the letter. And the court's answ
 
 Tags: Custody, Gag Order, Institutional, Interior Moment, Jason Advocate, Judge Schauer, NY Family Court, Pontius Pilate, Privacy Inversion
 
-Selected evidence references: 10
-  - ExTR_10
+Selected evidence references: 11
+  - LEGAL-INQUEST-TRANSCRIPT
   - D-12
+  - ExTR_01
   - ExTR_10_03
   - B-12
   - LEGAL-INQUEST-RULING
@@ -7571,33 +7635,35 @@ January 5, 2022.
 
 The Four Seasons in Bora Bora advertised the fastest internet connection on the island. Steve had set up his laptop and his phone in the bungalow that morning. He knew the inquest was scheduled for 9:30 Eastern, 4:30 in Bora Bora. He had the connection. He had the camera. Behind him, through the window, the lagoon extended to Mount Otemanu, the volcano centered in the frame like something from a postcard. It would have been funny. A man appearing by video from an overwater bungalow in the South Pacific to defend custody of his daughter in Westchester County Family Court.
 
-He knew he could not be defaulted as long as his attorney was present. Schauer had already ruled on it. Jason Advocate was in the courtroom. Steve was available remotely.
+He knew, as he understood it, that he could not be defaulted as long as his attorney was present — Schauer, by his account, had already ruled on it. Jason Advocate was in the courtroom. Steve was available remotely.
 
 
-The court would not allow it.
+The court would not allow it. "Your Honor, my client is available by telephone or electronically; is there any way to —" "No." "There's no way to —" "No, I don't know how many times I can say this, and I know this is your first appearance before me, but you should be aware, and you probably are aware, of the websites that have been posted, and the things that are online that I know Mr. Russell's not acknowledged that they came from him, but it's certainly been clear that he had control over whoever was posting that stuff. I had to issue orders to prevent him from doing that." Advocate asked whether recordings of court proceedings had been posted. "I'm unaware of that, but I don't go on that website." Then: "So that is one of the reasons I'm not permitting your client to appear electronically. He needs to be here, in person, and under control, so that I can be sure he's not recording. Certainly, he's entitled to order transcripts and, apparently, he has ordered the transcripts of every proceeding. And there are references to court proceedings online. I'm not saying that he got that through recording, maybe he got that through transcripts, maybe he got that through his attorney, I don't know." The court gave Advocate five minutes to reach his client, "to see whether you're going to remain mute, or whether you will participate," and said it was "taking a negative inference against your client." Then it proceeded.
 
 
-Westchester County Family Court. The inquest had been scheduled for 9:30 in the morning, in person, and Jason Advocate was there. He was doing the work an attorney does — raising objections, conducting cross-examination, putting arguments on the record. The transcript would show his voice on every page.
+Westchester County Family Court. The inquest had been scheduled for 9:30 in the morning, in person, and Jason Advocate was there. He was doing the work an attorney does — raising objections, conducting cross-examination, putting arguments on the record. The transcript would record his objections and cross-examination.
 
-An inquest is what happens when one side has been deemed absent. But Steve was not absent. He was represented by counsel. His attorney was in the room. The transcript would record Advocate's voice on every page, his objections, his cross-examination, his participation in every phase of the proceeding.
+An inquest is what happens when one side has been deemed absent. But Steve was not absent. He was represented by counsel. His attorney was in the room. The transcript would record Advocate's objections and his cross-examination of the mother.
 
 The proceeding moved forward anyway.
 
 Walsh testified. Genovese spoke. The evidence that had accumulated across six years of filings — the laboratory reports, the poisoning documentation, the supervisor accounts, the bruises, the ambush, the Walsh Abuse Memo, Brienne's published writings, Abby Tedla's confession — all of it existed in the court file. All of it was available.
 
-The court did not allow Advocate to ask Tara about her mental illness or her medication.
+On direct, Tara had testified to her diagnoses — ADHD, bipolar 2 — and to taking four medications. On cross, when Advocate asked what the four medications were, Weddle objected to relevance. The court said: "I think you can just ask general questions about any side effects of any medication." Advocate's answer: "I can't judge what the possible side effects are unless I know what the drugs — unless I know what the drugs are, Judge." And: "I can ask about whether she's experiencing those particular side effects of a medication, but I don't know what to ask without knowing what the medications are. I also don't know what the purposes of any prescriptions are, if they're all for bipolar and some are for ADHD, it leaves me totally in the dark."
+
+The court narrowed the permitted questions: "I said I would allow you to ask about specific side effects that you think some drugs could have that would be having a negative impact on her ability to parent, but otherwise, it's irrelevant." Advocate asked: "How do I know what to ask? If we're talking about, you know, Klonopin, I can tell you — I can ask some questions about what the side effects might be, but if it's Zyrtec, it's a totally different line of questions. I just have no way of knowing." He asked the court to confirm its ruling: "So, Judge, just for the record to be clear, you sustained the objection on the issue of the question of what medications she's on, correct?" "Yes."
 
 
-<div class="evidence-embed embed-document" data-exhibit="ExTR_10" data-type="hearing-transcript">
+<div class="evidence-embed embed-document" data-exhibit="LEGAL-INQUEST-TRANSCRIPT" data-type="hearing-transcript">
   <div class="embed-header">
       <span class="embed-type">Hearing Transcript</span>
       <span class="embed-date">2022-01-05</span>
-      <span class="embed-source">Westchester Family Court &mdash; Inquest</span>
+      <span class="embed-source">White Plains Family Court &mdash; Hon. Michelle I. Schauer</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Official transcript of the January 5, 2022 inquest before Judge Schauer. The proceeding treated Steve as absent while his attorney was present, objecting, and cross-examining. The transcript records Advocate's voice on every page — and the court's refusal to allow him to question Tara about her mental illness or medication history.</p></div>
+    <div class="document-text"><p>APPEARANCES: "JASON ANDREW ADVOCATE, ESQ. Appearing for Stephen G. Russell." MR. ADVOCATE: "Your Honor, my client is available by telephone or electronically; is there any way to —" THE COURT: "No." … "So that is one of the reasons I'm not permitting your client to appear electronically. He needs to be here, in person, and under control, so that I can be sure he's not recording. … I'm not saying that he got that through recording, maybe he got that through transcripts, maybe he got that through his attorney, I don't know." (printed pp. 15–17) … THE COURT: "On Mr. Russell's default on inquest, I do find it appropriate and in the child's best interest for Ms. Walsh to be awarded sole legal and physical custody." (p. 94) … "He has failed and refused to participate in these court proceedings, to allow me to hear his voice, and to be able to help him." (p. 96)</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Default/Inquest Hearing Transcript, January 5, 2022</span><span class="embed-caption-text">His attorney was in the courtroom. The court treated Steve as absent anyway.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Transcript, Walsh v. Russell, January 5, 2022 — 114 pages, certified May 18, 2022</span><span class="embed-caption-text">His attorney appeared for him, objected and cross-examined. The court called it an inquest on his default, refused the telephone at page 16, and at page 96 said he had failed to let it hear his voice. Ellipses mark omitted passages, within and between the cited pages.</span></div>
 </div>
 
 
@@ -7609,7 +7675,6 @@ Steve picked it up from the desk where it had been charging, the screen bright w
 
 Steve was not surprised. Or perhaps he was, not that the court had ruled against him but that the court had gone as far as it had. Sole custody awarded to the other parent.
 
-<
 
 An order requiring that existing postings, blogs, and likenesses be erased, deactivated, and deleted.
 
@@ -7621,7 +7686,7 @@ Four poisoning discoveries. Sixteen supervised visits where six supervisors foun
 
 None of it had been tested the way evidence is tested in a full trial.
 
-Judge Schauer had vacated the Horowitz default. She had recognized it as procedurally defective — a permanent order entered without hearing. Then she scheduled an inquest, entered a second default, and produced orders that reached the same destination through a different procedural route.
+Judge Schauer had vacated the Horowitz default at her first appearance; the motion to vacate was granted. Then she scheduled an inquest. Steve had told her on August 27 that he would not attend further conferences but would "be present with an attorney at trial." What was held on January 5 was, in her word, an inquest, and his attorney was present at it. From the bench: "On Mr. Russell's default on inquest, I do find it appropriate and in the child's best interest for Ms. Walsh to be awarded sole legal and physical custody." Near the end: "He has failed and refused to participate in these court proceedings, to allow me to hear his voice, and to be able to help him." The voice she would not take by telephone that morning was the one she said he had failed to let her hear. The orders reached the same destination as the Horowitz orders: sole custody to Tara, an order of protection against Steve. Tara's two missed appearances before Judge Humphrey had produced an adjournment. In March 2023 the Appellate Division, Second Department, said of the February 2, 2022 order that it "was not entered upon the father's default. Although the father failed to appear in person at the hearing, his counsel appeared on his behalf and participated in the hearing." The custody award stood.
 
 
 After the call, Steve probably walked to the pool and ordered a piña colada.
@@ -7673,10 +7738,11 @@ The volcano was centered in the frame. The lagoon held its color. The fish did n
 
 Tags: Brendan Walsh, ChappaquaPoison, Documentation, Gag Order, Institutional, Narrative Inversion, Petrella, Walsh Sr.
 
-Selected evidence references: 6
+Selected evidence references: 7
   - ExMM_11
   - INT-003_04
   - ExOO_31
+  - ExG_01
   - SCREENSHOT_SGT_CARAWAY_COURT_ORDER
   - ExOO_05
   - ExOO_07
@@ -7751,7 +7817,9 @@ In San Francisco, Sergeant Caraway of the SFPD Special Victims Unit had been inv
 
 The SVU office was on the second or third floor of a building downtown. The walls in the waiting area were covered with domestic violence resources — hotline numbers, safety planning pamphlets, instructions for survivors. The materials were there because the work of the unit involved documenting harm done by one person to another. Someone had designed this space to help people who had been poisoned, controlled, isolated. A conference room off the waiting area. This was where the investigation into the poisoning of Steve Russell had a case number and a detective assigned to it. And this was where a family member would walk in carrying a court order from three thousand miles away, placing it on a desk in a room built to protect people from exactly what the document was designed to conceal.
 
-Caraway texted Steve. The case was never reopened. There were "underlying issues discovered during investigations" that made it "difficult to prosecute." And the critical detail: "I never spoke to judge. I was provided court order by a party of this investigation."
+Steve had asked why Caraway had been talking to Roger Chan if the case was closed. The reply: "Mr Russel, this case was never reopen. Out of respect I continued to update case file and follow leads. But we still haven't developed probable cause and underlying issues discovered during investigations make this case difficult to prosecute. I never spoke to judge, I was provided court order by a party of this investigation."
+
+Steve answered: "I really do appreciate everything you are doing. It is just heartbreaking to have something like this happen." He offered to keep supplying information as it became available through the civil cases. The civil case did produce a jury verdict. In February 2022, the jury found for Steve and against Tara on battery, domestic violence and intentional infliction of emotional distress. It rejected self-defense.
 
 Steve read the text. A family member of the woman being investigated for poisoning had walked into a building whose walls were covered with domestic violence resources and handed the detective a piece of paper from a family court three thousand miles away. The last institutional channel that might have examined the evidence — the criminal investigation in the jurisdiction where the crime occurred — was closed by the family the investigation targeted. Steve was holding his phone. The words on the screen were telling him that the family had reached into a police station and turned off the investigation the way they had turned off Petrella, the way they had turned off DiFabio, the way they had turned off LaMelle — by making the cost of looking higher than the cost of looking away.
 
@@ -7942,7 +8010,7 @@ The California jury heard the evidence and reached a verdict. The Westchester fa
 
 Tags: Walsh Sr., Brendan Walsh, Maura Walsh, Matan Gavish, Deposition, Aunt K, Two Court Systems, Attorney Destruction
 
-Selected evidence references: 31
+Selected evidence references: 32
   - ExQQ_02
   - ExQQ_01c
   - ExQQ_03
@@ -7951,6 +8019,7 @@ Selected evidence references: 31
   - ExOO_26
   - SLE-013
   - ExQQ_01
+  - C-5
   - DEPO_STILLS_BRENDAN_WALSH
   - DEPO_STILLS_MAURA_WALSH
   - DEPO_STILL_MATAN_GAVISH
@@ -8204,67 +8273,43 @@ The admission sat in the transcript like a stone in a river. He had written Stev
 
 "I would — I would — I would humor him because I — I — you know, I viewed him as unstable and dangerous."
 
-Llaguno asked him to confirm what he had just said. "So you... wouldn't be completely genuine so as to humor him?" 
-
-The deponent did not answer. Moore spoke before Walsh Sr. could: "He himself decided not to answer the question."
-
-Llaguno: "So your client is declining to confirm his own admission?"
-
-Walsh Sr.: "That is correct."
+Llaguno asked him to confirm what he had just said: "So you — with your responses, you wouldn't be completely genuine so as to humor him; is that —" Moore objected: "misstates the testimony; argumentative." "You can respond, Mr. Walsh." "No response." "You do not want to respond to that question?" "That is correct." Moore: "I'm instructing him not to answer. He's already decided not to answer. So move on." Asked whether he was instructing, Moore clarified "that he himself decided not to answer the question." And the deponent added: "I — I am making the decision myself not to respond. It has nothing to do — with Frank."
 
 The man who had admitted deception refused to confirm his own admission when it was restated back to him — and the moment landed not as an outburst or a retreat but as an institutional performance, his attorney framing the refusal as a right rather than an evasion.
 
 The word was *humor*. Not "manage" or "de-escalate" or any of the clinical terms that might suggest concern for a person Walsh Sr. believed to be unwell. *Humor* — the verb of condescension, the verb a parent uses for a child's fantasy, the verb that means: I let him believe I cared because it was easier than telling the truth. He had used the word before. In an email to Audrey Courson months earlier, Walsh Sr. had written that Steve's own security guards "were only humoring his fantasies." The word lived in his correspondence before it surfaced under oath, the same word, the same contempt, the same conviction that the man who documented his daughter's bruises was performing delusion rather than recording evidence.
 
-He claimed Dr. Gopal, the psychiatrist Walsh Sr. himself had insisted Steve retain, had called Steve "a whack job" during a phone conversation while Walsh Sr. sat in a car at his daughter's swim meet. When pressed on whether those were Gopal's exact words, Walsh Sr. admitted he was paraphrasing. The psychiatrist he had attacked as "ethically challenged" and "not to be trusted" had never used the phrase Walsh Sr. attributed to him. Walsh Sr. had taken his own contempt and placed it in a doctor's mouth, under oath.
+He claimed Dr. Gopal, the psychiatrist Walsh Sr. himself had insisted Steve retain, had called Steve "a whack job" during a phone conversation while Walsh Sr. sat in a car at his daughter's swim meet. When pressed on whether those were Gopal's exact words, Walsh Sr. admitted he was paraphrasing. "No, no. It's — I'm — I'm paraphrasing." The psychiatrist he had attacked as "ethically challenged" and "not to be trusted" is on this record only in Walsh Sr.'s paraphrase. What the doctor put in writing about Steve, over his own signature, was something else.
 
-When asked whether he had any psychiatric training to support his repeated claims that Steve was psychotic, Walsh Sr. delivered the line he had come prepared to deliver:
+When asked whether he had any psychiatric training to support his repeated claims that Steve was psychotic, Walsh Sr. delivered the line — to Steve's ear, one he had come prepared to deliver:
 
-"If I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn't need psychiatric counseling to think that there was something wrong."
+"Well, if — if I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn't need psychiatric counseling to think that there was something wrong."
 
-It arrived too complete. The imagery too specific, the structure too polished, the hypothetical too perfectly suited to the question it answered — not wrong, exactly, but wrong in the way a memorized speech is wrong when delivered as conversation. A man who stuttered through four consecutive pronouns on every dangerous question produced a fully formed analogy with a street name and a musical instrument and a rhetorical pivot, without a single hesitation. It was a prepared line delivered as spontaneity.
+It arrived too complete. The imagery too specific, the structure too polished, the hypothetical too perfectly suited to the question it answered — not wrong, exactly, but wrong in the way a memorized speech is wrong when delivered as conversation. A man who stuttered through four consecutive pronouns on every dangerous question produced, after one repeated "if," an analogy with a street name and a musical instrument and a rhetorical pivot. To Steve it was a prepared line delivered as spontaneity.
 
 Llaguno followed up: "But you did not witness someone walking down naked down Fifth Avenue playing the violin —"
 
-Walsh Sr. interrupted. "I witnessed someone drilling holes in walls, running wires, painting mirrors, painting walls, hearing voices. So you — you make the determination."
+Walsh Sr. interrupted. "I — I witnessed someone drilling holes in walls, running wires, painting mirrors, painting walls, hearing voices. So you — you make the determination."
+
+"And your statement today is that you witnessed Steve Russell hearing voices and drilling holes; is that accurate?" "Yes, absolutely, amongst — among other things." The other things were security guards and "the Ukrainians." Asked whether he had known of Steve's business dealings in Ukraine: "I did not. I did not." Asked whether he had known that guards who said they were former FBI and CIA had told Steve of foreign threats: "I wouldn't have believed him if he did, but I don't —" Llaguno began, "You —" Walsh Sr. continued: "— I don't believe he ever told me that, no."
+
+The doctor Walsh Sr. had telephoned, Dr. Gopal, had put his own assessment in writing for the Westchester court, in response to the family-offense petition, signed under penalty of perjury, from a treatment relationship that began in June 2018: "Mr. Russell has been genuine, forthcoming, and compliant with regards to our treatment relationship and my recommendations." And: "Mr. Russell does not appear paranoid, psychotic, or abusive but rather concerned about a number of significant and difficult issues in his life, including the welfare of his young daughter and a dysfunctional relationship with Ms. Walsh. Interviews with Mr. Russell's mother and chief of staff as well as a statement from the nanny corroborate these findings, and each has vouched for Mr. Russell's character and conduct." Of the chief of staff, the doctor wrote: "He also observed Ms. Walsh to put an unknown substance in Mr. Russell's drink surreptitiously, after which she confessed to him that she had done so."
 
 The court reporter intervened. "Stop. Counsel, please speak one at a time, or your record will not be clear." Her name was Monica. She had introduced herself at 12:03 PM and would not speak again for the record until this moment, the neutral professional, the one person in the room whose job was to preserve the record, attempting to do her work while Moore attempted to make the record useless and Walsh Sr. attempted to make it a performance.
 
 Flying six hours was not something Walsh Sr. would do for his daughter. But performing outrage for a video camera — that he could sustain all afternoon.
 
-<div class="court-facsimile" data-exhibit="ExQQ_01c">
+<div class="court-facsimile" data-exhibit="ExQQ_01">
   <div class="court-header">
     <div class="court-jurisdiction">SUPERIOR COURT OF CALIFORNIA — SAN FRANCISCO</div>
     <div class="court-case-caption">Russell v. Walsh, Case No. CGC-18-570137</div>
-    <div class="court-docket">DEPOSITION OF STEPHEN WALSH SR. — April 26, 2021 — Pages 49–50</div>
+    <div class="court-docket">DEPOSITION OF STEPHEN WALSH SR. — April 26, 2021 — Selected passages, printed pages 46–47, 49–50, 67</div>
   </div>
   <div class="court-body">
     <div class="witness-block">
       <div class="witness-name">STEPHEN WALSH SR., Deponent</div>
       <div class="witness-role">Represented by Frank S. Moore</div>
     </div>
-    <div class="court-qa">
-      <div class="qa-line">
-        <span class="qa-label">Q:</span>
-        <span class="qa-text">Would you say you were not being genuine when you thanked Steve Russell for the timely updates?</span>
-      </div>
-      <div class="qa-line">
-        <span class="qa-label">A:</span>
-        <span class="qa-text">I would be less than 100 percent genuine, yes.</span>
-      </div>
-    </div>
-    <p style="margin: 1em 0; font-style: italic; color: #8a8070; font-size: 0.92em;">[ . . . ]</p>
-    <div class="court-qa">
-      <div class="qa-line">
-        <span class="qa-label">A:</span>
-        <span class="qa-text">So I — I — I — I — I didn't necessarily pay a lot of attention to — to that stuff either.</span>
-      </div>
-      <div class="qa-line">
-        <span class="qa-label">A:</span>
-        <span class="qa-text">I would — I would — I would humor him because I — I — you know, I viewed him as unstable and dangerous.</span>
-      </div>
-    </div>
-    <p style="margin: 1em 0; font-style: italic; color: #8a8070; font-size: 0.92em;">[ . . . ]</p>
     <div class="court-qa">
       <div class="qa-line">
         <span class="qa-label">Q:</span>
@@ -8283,10 +8328,43 @@ Flying six hours was not something Walsh Sr. would do for his daughter. But perf
         <span class="qa-text">I — I witnessed someone drilling holes in walls, running wires, painting mirrors, painting walls, hearing voices. So you — you make the determination.</span>
       </div>
     </div>
+    <p style="margin: 1em 0; font-style: italic; color: #8a8070; font-size: 0.92em;">[ . . . intervening passages omitted . . . ]</p>
+    <div class="court-qa">
+      <div class="qa-line">
+        <span class="qa-label">Q:</span>
+        <span class="qa-text">Would you say you were not being genuine when you thanked Steve Russell for the timely updates then?</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">I would say —</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">MR. MOORE:</span>
+        <span class="qa-text">Objection —</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">— I — I would be less than 100 percent genuine, yes.</span>
+      </div>
+    </div>
+    <p style="margin: 1em 0; font-style: italic; color: #8a8070; font-size: 0.92em;">[ . . . intervening passages omitted . . . ]</p>
+    <div class="court-qa">
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">So I — I — I — I — I didn't necessarily pay a lot of attention to — to that stuff either.</span>
+      </div>
+    </div>
+    <p style="margin: 1em 0; font-style: italic; color: #8a8070; font-size: 0.92em;">[ . . . intervening passages omitted . . . ]</p>
+    <div class="court-qa">
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">I would — I would — I would humor him because I — I — you know, I viewed him as unstable and dangerous.</span>
+      </div>
+    </div>
   </div>
   <div class="court-caption">
     <span class="embed-exhibit-id">Stephen Walsh Sr. Deposition, April 26, 2021</span>
-    <span class="embed-caption-text">Sworn testimony. Pages 46–50. The stutter correlating with proximity to truth. The Fifth Avenue line arriving fully formed.</span>
+    <span class="embed-caption-text">Sworn testimony. Selected passages, printed pages 46–47, 49–50 and 67, in transcript order; omissions marked; hesitations as transcribed. Steve read the stutter as tracking the questions that approached the truth.</span>
   </div>
 </div>
 
@@ -8413,7 +8491,7 @@ But first, the appellate court would speak.
 
 Tags: Walsh Sr., Maura Walsh, Tara Walsh, Attorney Destruction, Default
 
-Selected evidence references: 27
+Selected evidence references: 29
   - LEGAL-KIDNAP-MAURA-TENNIS-PHOTO
   - LEGAL-KIDNAP-SHERIFF-LIE
   - LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT
@@ -8422,6 +8500,8 @@ Selected evidence references: 27
   - ExOO_34
   - LEGAL-KIDNAP-DEFAULT-REJECT
   - ExMM_11
+  - LEGAL-RUSSELL-AFFIDAVIT-DEFAULT
+  - ExTR_04
   - SLE-024
   - SLE-025
   - ExOO_31
@@ -8619,7 +8699,7 @@ Six attorneys. Six departures. One man funding and directing the pattern from a 
 
 What happened next took four years. It is best understood as a comparison.
 
-In Westchester County Family Court, on February 6, 2020, Steve's failure to appear at a hearing produced automatic results. Default entered. Sole custody to Tara. Order of Protection granted. The mechanism operated with frictionless efficiency — a man who did not appear lost his daughter in the time it took a clerk to file the papers.
+In Westchester County Family Court, on February 6, 2020, Steve's attorney was present. Steve had asked to appear by telephone while caring for Aunt K after an emergency medical procedure. The request had gone to the court on January 24, with a follow-up on February 4. The denial came late in the afternoon of February 5. He booked the next available flight, at 6:20 the following morning. DiFabio explained the surgery, the refused phone request and the flight due into JFK that afternoon. He asked for an adjournment. Horowitz answered: "That's not happening." The court proceeded to sole custody for Tara and an order of protection against Steve on default. When DiFabio asked whether the custody decision was temporary, the answer was: "Oh, nope. Nope, no temporary." This was the visitation conference Steve had asked to attend by phone. His attorney was there. The court had refused the telephone and would not wait for the flight.
 
 In San Francisco Superior Court, Steve's attempts to default the Walshes for their failure to respond were rejected three times.
 
@@ -8724,9 +8804,9 @@ The procedural history was this.
 
 In July 2018, Tara commenced a custody proceeding seeking sole legal and physical custody of the child. She subsequently commenced a family offense proceeding against Steve. In October 2021, the Attorney for the Child moved to prohibit Steve from posting, uploading blogs, and displaying likenesses of the child regarding the proceedings, and from disparaging the child's relatives in any and all public forums. The motion also sought to direct Steve to erase, deactivate, and delete all existing postings, blogs, and likenesses of the child.
 
-Steve failed to oppose the AFC's motion. He failed to appear on the return date.
+The Appellate Division later recounted that Steve had not opposed the AFC's motion or appeared on its return date. His position on further conferences had been stated to Schauer on August 27: he would not attend more conferences, but he wanted the trial scheduled and would be there with counsel. "I will be present with an attorney at trial."
 
-On December 3, 2021, the Family Court granted the AFC's motion upon the father's default. On this record, the motion had gone unopposed and the court granted the requested speech restrictions.
+On November 5, Schauer declared him in default and later granted the AFC's motion against him, directing that a written order be submitted on notice. The resulting motion order was dated December 3, 2021. That was the default order. The January hearing and the February 2 custody and publication order were still to come.
 
 In January 2022, the Family Court held a hearing on the mother's petitions. Steve did not appear in person at the hearing. But his attorney appeared on his behalf. His attorney made objections. His attorney cross-examined the mother.
 
@@ -9009,9 +9089,9 @@ The presiding juror signed five verdict forms.
 
 <div class="photo-card" data-exhibit="B-9_03">
   <div class="embed-body">
-    <img src="../Evidence/photos/evidence/B-9_jury-verdict-findings.jpg" alt="Page 2 of the Second Amended Judgment on Jury Verdict (page 3 of the preserved filing packet), Russell v. Walsh, CGC-18-570137. Typed judgment incorporating jury findings: battery established, self-defense rejected, damages awarded ($185,000 past economic loss, $90,000 past noneconomic loss). San Francisco Superior Court. Verdict returned February 22, 2022; judgment filed August 11, 2022." loading="lazy">
+    <img src="../Evidence/photos/evidence/B-9_jury-verdict-findings.jpg" alt="Page 2 of the Second Amended Judgment on Jury Verdict, Russell v. Walsh, San Francisco Superior Court No. CGC-18-570137 (page 3 of 15 of the copy filed with the Westchester County Clerk, October 5, 2022). Typed judgment page: trial before Hon. Garrett L. Wong beginning February 16, 2022; the jury returned a verdict for Russell of $325,000 — $185,000 past economic loss, $90,000 past noneconomic loss including physical pain and mental suffering, and $50,000 punitive damages; on April 15, 2022 the court granted Walsh a partial JNOV removing the $50,000 punitive award; costs awarded to Russell as prevailing party, revised to $5,275.87; Russell entitled to judgment on his main action; Walsh's cross-complaint dismissed with prejudice." loading="lazy">
   </div>
-  <div class="photo-card-caption"><span class="embed-exhibit-id">Second Amended Judgment, Jury Findings on Battery — Verdict of February 22, 2022</span><span class="embed-caption-text">The judgment recording what the jury found. Every question answered. Every answer against Walsh. The self-defense claim rejected.</span></div>
+  <div class="photo-card-caption"><span class="embed-exhibit-id">Second Amended Judgment on Jury Verdict — page 2 (Russell v. Walsh, CGC-18-570137)</span><span class="embed-caption-text">The typed judgment page recording the jury's verdict for Russell: $325,000, later reduced by the $50,000 punitive award on Walsh's motion; his costs as prevailing party; and Walsh's cross-complaint dismissed with prejudice. The jury's handwritten verdict forms are separate pages — on the battery form the jury answered questions 1 through 5 and the damages question 7, and skipped question 6 as the form instructs after a "no" to question 5. Battery found; self-defense rejected.</span></div>
 </div>
 
 
@@ -9080,16 +9160,17 @@ One legal system had compensated. The other still had the child.
 
 # [B46] Affirmed
 
-> Tara appeals the battery verdict. Three arguments. The appellate court finds none of them persuasive. The jury's findings survive review. The judgment is domesticated in the same county where the family court orders remain in effect.
+> Tara appeals the civil judgment. The Court of Appeal affirms, explaining why the evidence supports the jury’s findings of battery, domestic violence and intentional infliction of emotional distress. Steve filed the judgment in New York before the appeal decision, while the custody arrangement continued.
 
 **Phase VIII | Civil Rights | September 15, 2023**
 
 Tags: Two Court Systems, Westchester, Resolution
 
-Selected evidence references: 6
+Selected evidence references: 7
   - B-13
   - B-10
   - ExG_01
+  - ExG_05
   - TEXT_TARA_JURY_VERDICT_DISMISSAL
   - ExTR_19d
   - SLE-001
@@ -9151,7 +9232,7 @@ The appeal had taken more than a year after the verdict. The legal system had pr
 
 ---
 
-The judgment was then exemplified and domesticated in Westchester County Supreme Court under Index No. 55523/2023. Full Faith and Credit. The Constitution requires it. A judgment entered in one state must be recognized and enforced by another.
+Steve had already taken the judgment to Westchester County Supreme Court under Index No. 55523/2023. The affidavit in support of registration was filed on January 13, 2023, eight months before the appeal was decided. Full Faith and Credit. The Constitution requires it. A judgment entered in one state must be recognized and enforced by another.
 
 
 <div class="evidence-embed embed-document" data-exhibit="B-13" data-type="court-filing">
@@ -9173,7 +9254,7 @@ Both records existed simultaneously. The California record said Steve had been b
 
 The battery verdict was final. The custody situation was unchanged.
 
-Evie was five. She had never seen a courtroom. She did not know that two appellate courts in two states had reviewed the facts of her life and reached conclusions about the people who raised her. She knew only what the people around her told her, and the people around her were the people the courts had found liable, and the courts that found them liable could not reach her.
+Evie was five. She had never seen a courtroom. She did not know that two appellate courts in two states had reviewed the facts of her life and reached conclusions about the people who raised her. She knew only what the people around her told her, and her mother was the person the jury had found liable, and the affirmed judgment had not brought her back to her father.
 
 ---
 
@@ -9305,9 +9386,11 @@ The draft did not ask the court to decide who was the better parent. It argued t
 
 The February 2022 order was not entered on default. The Appellate Division said so because the father’s counsel appeared and participated. The transcript shows objections and cross-examination.
 
-The draft also challenged the sufficiency of the proceedings. The January 2022 transcript cannot support a statement that no witness testified or that no cross-examination occurred: Tara testified and Steve’s lawyer cross-examined her. Steve’s challenge concerns the basis and adequacy of that inquest, not the absence of those events.
+The draft also challenged what the January 2022 proceeding was. It says, on its own page five, that Steve’s attorney was present, made objections, and cross-examined the petitioner — which is why, it argues, the Appellate Division found no default. Its point is what follows from that. An inquest, it says, is the procedure the law provides after a default, and if there was no default there was nothing for an inquest to do; the judge, the draft says, had stated on the record that the proceeding “was not a hearing”; and the Family Court Act, it argues, requires a hearing, with findings made on evidence taken at it, before a custody or protection order is entered. The draft asks for that hearing — one “at which both parties may present evidence, call and cross-examine witnesses, and be heard on the merits.” That is the challenge: not that nothing happened on January 5, 2022, but that what happened was not the hearing a custody order requires.
 
-The draft challenged New York’s jurisdiction, arguing that California was Evie’s home state with custody proceedings open there. The September 11, 2018 conference transcript records communications between the courts. Steve’s counsel referred to “the communications that went on between the two courts” and said his client was willing to drop the jurisdictional issue and let the New York court address custody (pp. 21–23, 36). The draft’s assertion that no communication occurred conflicts with that record.
+The draft challenged New York’s jurisdiction on two grounds, set out at pages nine and ten: that the emergency New York relied on — the allegation that Steve had threatened to kill Tara and the baby — was withdrawn in writing by Tara herself on November 23, 2020; and that Evie had been taken out of California while proceedings were open there, under a California protective order that identified Tara as the aggressor, so that California, first in time, was the state with jurisdiction. It does not say the two courts never spoke; they had, and the draft does not claim otherwise.
+
+What is true is that on September 11, 2018, Steve’s lawyer told Judge Gordon-Oliver that his client was “willing to drop the jurisdictional issue and let this Court address the custody” (p. 36). The transcript shows what that sentence was attached to. Counsel had just said they wanted to proceed with the jurisdictional hearing “especially in light of the communications that went on between the two courts”; the willingness to let it go came with a condition — “he would like a more formal visitation arrangement right now” — and a proposal: Steve’s mother would come from California, they would rent a place near the Walshes’ in Chappaqua, his mother and the nanny would be there, and he would get “more time, overnights and access” (pp. 36–37). The attorney for the child called that a safety concern; Steve’s counsel said the parties were not in agreement. The court’s answer was that it was “really not a deal for me” and that the jurisdiction question would stay on the calendar (p. 38). Counsel then asked for three weeks, for Farquharson’s reports to come in, and, if they were favorable, for the supervision to end: “he should not have to be under the orders of supervision when there has been no evidentiary basis established in Court … we haven’t had a trial on the issue” (pp. 38–39). The court: “If we have good reports. It’s too premature at this time.” No promises, and forensics first (p. 40); no overnights for a seven-month-old — “It’s not because of this dad before me” (pp. 41–42). Counsel offered to consent to an order that Steve could not move the jurisdiction (pp. 40–41). The court kept the supervised visits in place, as many as Farquharson could provide, and counsel confirmed consent to drug and substance testing of both parents (p. 44). Read whole, the words were an offer: a father proposing to stop contesting the forum if it got him more of his daughter. The court kept the jurisdiction question on its calendar, and kept the supervision.
 
 Tara withdrew the threat complaint in writing. In a signed letter dated November 23, 2020, addressed to the Chappaqua Police Department, she wrote: “I would like to let this police department know that Mr. Stephen Russell never made a threat to kill myself or our daughter Evelyn. I would like to withdraw any complaints regarding this made to the police department.” The copy is preserved as Exhibit D, page 8 of Steve’s reconsideration packet; it does not establish when the police received it.
 
@@ -9419,11 +9502,13 @@ On March 22, 2023, the appellate court reviewed the February 2, 2022 order, a se
 
 It was not the only order that produced the trap.
 
-A mutual order of protection treated Steve and Tara as symmetrical threats — the person who committed the poisoning and the person who documented it, placed under identical restrictions, as though documentation were a form of violence equivalent to covert pharmaceutical administration. Steve's compliance with the order meant staying away from his daughter. His violation of it meant arrest.
+Steve had already won a restraining order against Tara after a hearing in San Francisco. When that protection expired, he asked Westchester to extend its terms. Before Schauer, he described the two appearances Tara and her attorney had missed before Humphrey, and the ruling he was still waiting for. Humphrey had recused. The case had passed to Schauer. Steve had come asking New York to carry forward protection he had obtained in California.
+
+On August 27, 2021, Schauer described the two adults as "both in the same position with respect to Temporary Orders of Protection that are full stay-aways." The person who had obtained protection after hearing and the person it restrained were now being placed in the same position. Schauer immediately clarified that this pair of orders covered the adults, not their daughter. Steve's attempts to see Evie still ran through separate custody and supervised-visitation orders. The mutual restrictions were not a finding that the two had committed equivalent acts. The protection he had won and the terms he had asked New York to recognize had brought him to a court that was telling him they stood in the same position.
 
 Three judges recused from the case. Gordon-Oliver first. Morales-Horowitz followed without public explanation. Then the third, Humphrey, whose April 6, 2021 order recused him from this case and other matters involving Steve's attorney. The case transferred to Yonkers. Each recusal was individually defensible. Collectively they were an evacuation — the judges who had seen the most leaving first, in the order of their proximity to what they had seen.
 
-At Visit 11, Walsh Sr. denied Steve access at the compound door. At Visit 12, Tara filed a Temporary Order of Protection based on events she had not witnessed — she was a quarter mile away at the compound while her father turned Steve away at the gate. Then, on February 6, 2020, Judge Morales-Horowitz decided custody on default, at a visitation conference, not a hearing, as the pandemic began. Steve's attorney was present. Steve had asked to appear by phone; the request was denied. The court record shows the order. The court record does not show a hearing, because there was no hearing.
+At Visit 11, Walsh Sr. denied Steve access at the compound door. At Visit 12, Tara filed a Temporary Order of Protection based on events she had not witnessed — she was a quarter mile away at the compound while her father turned Steve away at the gate. Then, on February 6, 2020, Judge Morales-Horowitz decided custody on default at a visitation conference. Steve had asked to appear by phone while caring for Aunt K after an emergency medical procedure. The court denied the request late the previous afternoon; he booked the next available morning flight. His attorney was present, explained the surgery and the travel, and asked for an adjournment. "That's not happening," Horowitz said. There had been no contested custody trial. When DiFabio asked whether the custody decision was temporary, she answered: "Oh, nope. Nope, no temporary."
 
 Three forced choices stacked in sequence: attempt the visit and be blocked at the door, document the denial and face a retaliatory filing, wait for the court and watch it issue an order without a hearing. Each step punished the step before it. The legal system did not merely fail to protect Steve. It constructed the conditions of his entrapment — order by order, recusal by recusal, default by default — until the court itself became the instrument through which fatherhood was made impossible.
 
@@ -9515,15 +9600,15 @@ Selected evidence references: 19
 <p>At Visit 15, a Sunday in 2019, Walsh Sr. followed Steve&rsquo;s car up Bedford Road and blocked access to the compound. He exited his vehicle, red-faced and shaking, and told Steve he was taking the girls home from school. It was Sunday. There were no girls to take home. But when he noticed the nanny in the passenger seat — Talia, a witness who could document what she saw — he stopped. He got back in his car. He left.</p>
 <p>The man who had confronted a father in a public roadway could not hold his position in the presence of a witness who might write it down.</p>
 <p>On the night of September 21, the compound&rsquo;s electronic gate opened for the supervised visit and closed behind the court-appointed supervisor. Walsh Sr. was inside the house. His son was in a blacked-out car parked among the bushes at the bottom of the driveway with what appeared to be a bat between his legs. His compound. His gate. His son. His absence from the car was not incidental. It was the design.</p>
-<p>When Tara was in San Francisco and the apartment was becoming dangerous and Steve was texting for help, Walsh Sr. emailed from Chappaqua: <em>I am giving Tara permission to leave.</em> An adult father granting permission for his adult daughter to travel with her own child — conditioning, framing, authorizing, managing. He did not arrive. Under oath, two years later, he offered his explanation: &ldquo;A six-hour flight is not something people simply do on demand.&rdquo;</p>
+<p>When Tara was in San Francisco and the apartment was becoming dangerous and Steve was texting for help, Walsh Sr. emailed from Chappaqua: <em>I am giving Tara permission to leave.</em> An adult father granting permission for his adult daughter to travel with her own child — conditioning, framing, authorizing, managing. He did not arrive. Under oath in April 2021, he was asked whether anyone in his family had gone to San Francisco to help Tara. &ldquo;No. Nobody in our family went to San Francisco.&rdquo; Asked why: &ldquo;Why not? San Francisco is a six-hour flight, right, from New York. It&rsquo;s not something you just go and do.&rdquo;</p>
 <p>Linda Russell drove six and a half hours from Punxsutawney, Pennsylvania, to Chappaqua. Four times in a single month. Linda Russell is a retired nurse from a small town. Walsh Sr. purchased a seven-acre estate with proceeds from an era when the proceeds were substantial. The resources were not the issue. The movement toward the child was the issue. One person moved. The other managed.</p>
 <p>When Linda arrived at the compound, Walsh Sr. met her at the door. He informed her she could not see Evie. He required two weeks&rsquo; notice. He told her the court order did not apply to him and his wife. He refused lunch. He refused dinner. He would call her if he ever needed to talk to her. A grandmother who had driven thirteen hours round-trip, alone, was told to turn around by a man standing in his own doorway on his own property — a man who would not have said any of it if someone with institutional power had been standing beside her.</p>
 <p>He was brave against Linda because Linda was alone. He retreated from the nanny because the nanny could write a letter. The word <em>brave</em> is doing too much work in that sentence — what he showed at the door was not courage but the specific confidence of a man who knows no one is watching. The pattern holds across every scene in which Walsh Sr. appears in this story: he confronts when he has power and anonymity; he retreats the instant he might be observed by someone who can document what she sees.</p>
 <hr />
 <p>Under oath, the pattern became audible.</p>
-<p>&ldquo;I — I — I — I — I&rdquo; — the stammer arrived whenever the questioning approached the truth. But when asked whether he had psychiatric credentials to diagnose Steve, Walsh Sr. delivered a rehearsed line without a single break in fluency: &ldquo;If I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn&rsquo;t need psychiatric counseling to think that there was something wrong.&rdquo; It was the only smooth sentence in the deposition. It was not testimony. It was performance — prepared in advance, deployed on cue, designed to sound like common sense while accomplishing the work of a clinical diagnosis he was not qualified to make. And when pressed for specifics, the performance continued: drilling holes in walls, running wires, painting mirrors, hearing voices, Ukrainians trying to kill him. A catalog of claims delivered with the confidence of a man who knows that the claims themselves do not need to be verified — only repeated, in the right room, to the right people.</p>
+<p>&ldquo;I — I — I — I — I&rdquo; — the stammer arrived whenever the questioning approached the truth. But when asked whether he had psychiatric credentials to diagnose Steve, Walsh Sr. delivered a line that sounded rehearsed to Steve: &ldquo;Well, if — if I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn&rsquo;t need psychiatric counseling to think that there was something wrong.&rdquo; The answer contained a street name, a musical instrument and a finished rhetorical turn. To Steve it was performance — prepared in advance, deployed on cue, designed to sound like common sense while accomplishing the work of a clinical diagnosis he was not qualified to make. And when pressed for specifics, the performance continued: drilling holes in walls, running wires, painting mirrors, hearing voices, Ukrainians trying to kill him. A catalog of claims delivered with the confidence of a man who knows that the claims themselves do not need to be verified — only repeated, in the right room, to the right people.</p>
 <p>When the questioning returned to his own conduct — his texts, his coordination, his knowledge — the stammer returned with it. The Chromebook&rsquo;s camera, recording the deposition from his living room on Whippoorwill Road, captured both versions of the same man in the same chair. He could perform authority without dissolving. He could not perform honesty without the mechanism of his speech breaking down.</p>
-<p>Confronted with his own messages — texts thanking Steve for &ldquo;timely updates&rdquo; about Evie while privately dismissing everything Steve reported — Walsh Sr. offered his word for it: &ldquo;I would be less than 100 percent genuine, yes.&rdquo; When pressed on why, the mechanism revealed itself: &ldquo;I would humor him because I viewed him as unstable and dangerous.&rdquo; Not lying. <em>Defray.</em> The communications were not a lapse in honesty but a strategy of management — keep the lines open, keep the information flowing in, give nothing back that could be held. A bond trader&rsquo;s verb for distributing risk across counterparties until no single party holds enough of the loss to complain. That is what he had done with the truth. He distributed the cost of it — across his daughter, across the courts, across the attorneys, across the nannies and supervisors and grandmothers — until none of it was his to carry.</p>
+<p>Confronted with his own messages — texts thanking Steve for &ldquo;timely updates&rdquo; while privately dismissing everything Steve reported — Walsh Sr. offered his word for it: &ldquo;I would be less than 100 percent genuine, yes.&rdquo; Asked why he had responded that way, he said: &ldquo;To kind of defray the situation and — and make sure that Tara and the baby were safe and keep the lines of communication open for that purpose.&rdquo; Later, asked what he had meant by &ldquo;Hopefully some solutions exist,&rdquo; he first said he did not know, then described his correspondence: &ldquo;I would — I would — I would humor him because I — I — you know, I viewed him as unstable and dangerous.&rdquo; Not lying. <em>Defray.</em> The communications were not a lapse in honesty but a strategy of management — keep the lines open, keep the information flowing in, give nothing back that could be held. A bond trader&rsquo;s verb for distributing risk across counterparties until no single party holds enough of the loss to complain. That is what he had done with the truth. He distributed the cost of it — across his daughter, across the courts, across the attorneys, across the nannies and supervisors and grandmothers — until none of it was his to carry.</p>
 <p>He did not search for documents responsive to the subpoena. He had not searched his email. He had not searched his phone. When asked if he would search after the deposition and provide what the subpoena required, the stammer disappeared. &ldquo;No.&rdquo; Clean. Twice.</p>
 <hr />
 <p>There is another father in this story. The contrast is not sentimental. It is not good father against bad father. It is behavioral.</p>
@@ -9542,9 +9627,10 @@ Selected evidence references: 19
 
 Tags: Criminalization Architecture, Evie, Pontius Pilate, Resolution, Tara Walsh, Walsh Sr., Westchester
 
-Selected evidence references: 6
+Selected evidence references: 7
   - KEY-TEXT-MESSAGES-D1-D11
   - ExG_01
+  - PDF_INCIDENT_REPORT_180415167
   - ExPP_17
   - ExPP_06
   - ExPP_13
@@ -9563,9 +9649,9 @@ Selected evidence references: 6
     <span class="contact-label">iMessage</span>
   </div>
   <div class="imessage-thread">
-    <div class="msg-timestamp">Tuesday, August 26, 2025</div>
+    <div class="msg-timestamp">Tue, Aug 26</div>
     <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">You put money is some escrow that I can use for lawyers before you see Evie. If you don't start suing me everywhere after that, then you get the money.</div>
+    <div class="msg-bubble msg-incoming">My concern is you are way richer than me and I can’t afford a protracted legal battle again. Both mentally and financially. So there are two options 1) You help me get rich so I can afford a legal battle 2) You put money is some escrow that I can use for lawyers before you see Evie. If you don’t start suing me everywhere after that, then you get the money.</div>
   </div>
   <div class="imessage-inputbar">
     <div class="input-pill"></div>
@@ -9577,7 +9663,7 @@ Selected evidence references: 6
 </div>
 
 <p>The second condition: stop filing court actions. Tara stated she was afraid that if Steve saw Evie, he would start court actions again. She could not afford another round, financially, mentally, physically. The condition was explicit: assure me you will not file court actions. Only then could they discuss a visit.</p>
-<p>The third condition: show respect to the Walsh family. Drop the judgment. The judgment that twelve strangers had returned after hearing the evidence, battery, domestic violence, malice, fraud, must be abandoned as the price of contact with his daughter.</p>
+<p>The third condition: show respect to the Walsh family. Drop the judgment. The judgment that twelve strangers had returned after hearing the evidence, battery, domestic violence and intentional infliction of emotional distress, must be abandoned as the price of contact with his daughter.</p>
 <p>Three conditions. Not negotiation. Not mediation. Not the language of co-parents finding common ground. Terms — the right to see his daughter priced at the surrender of everything the legal system had confirmed.</p>
 <p>Steve did not accept the terms. He offered something else. He told Tara he would say whatever she wanted him to say: tell me what you&rsquo;d like me to admit to, and I will say it, if it meant seeing Evie. The offer was rejected.</p>
 <hr />
@@ -9604,7 +9690,7 @@ Selected evidence references: 6
   <div class="imessage-thread">
     <div class="msg-timestamp">Date not shown</div>
     <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">Evie was begging to be able to see you last night. Pretty heartbreaking. I don't know what to do.</div>
+    <div class="msg-bubble msg-incoming">Evie was begging to be able to see you last night. Pretty heartbreaking. I don’t know what to do. I can’t leave NY with her on my own.</div>
   </div>
   <div class="imessage-inputbar">
     <div class="input-pill"></div>
@@ -9616,10 +9702,10 @@ Selected evidence references: 6
 </div>
 
 <p>Evie was begging to be able to see her father.</p>
-<p>The child&rsquo;s own desire was not in question. Tara acknowledged it. Described it as heartbreaking. And in the same thread, conditioned any contact on financial payment, surrender of the judgment, and a promise not to seek legal relief.</p>
+<p>The child&rsquo;s own desire was not in question. Tara acknowledged it. Described it as heartbreaking. And in her other messages to him, conditioned any contact on financial payment, surrender of the judgment, and a promise not to seek legal relief.</p>
 <p>In another message, Tara told Evie that her father was &ldquo;trying to take our house.&rdquo; The child who was begging to see her father was being told a story about him that bore no relationship to what the evidence showed.</p>
 <hr />
-<p>Tara later admitted to police that she was &ldquo;not a victim of any crime&rdquo;, contradicting the sworn filings that had formed the basis of the court orders.</p>
+<p>On June 4, 2018, Tara had told a San Francisco police officer, in the officer&rsquo;s summary of her statement, that &ldquo;she is not the victim of a crime and that her and her baby were in good health&rdquo; (<a href="../Evidence/sorted_tara_letters/Doc_29_02_20_16_55_36.pdf">SFPD Incident Report 180415167</a>). She refused shelter and any other services.</p>
 <p>Steve Walsh and Maura Walsh said nothing publicly. The broader institutions involved remained silent. The Family Court had received the motion to vacate. The six grounds were before it. The record was complete.</p>
 <p>The demand remained on the table: drop the judgment, pay the money, stop the court actions, and show the Walsh family respect.</p>
 <p>The judgment remained in the record.</p>
@@ -9796,4 +9882,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: 81ed0aa4811f
+- Content hash: 0f086007166c

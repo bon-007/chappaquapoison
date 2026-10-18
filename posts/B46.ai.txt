@@ -3,7 +3,7 @@
 Chapter: B46
 URL: https://chappaquapoison.com/posts/B46.html
 
-Tara appeals the battery verdict. Three arguments. The appellate court finds none of them persuasive. The jury's findings survive review. The judgment is domesticated in the same county where the family court orders remain in effect.
+Tara appeals the civil judgment. The Court of Appeal affirms, explaining why the evidence supports the jury’s findings of battery, domestic violence and intentional infliction of emotional distress. Steve filed the judgment in New York before the appeal decision, while the custody arrangement continued.
 
 ## Chapter text
 
@@ -31,7 +31,7 @@ The opinion was filed September 15, 2023. Justice Goldman wrote for the court. J
 Stephen Russell v. Tara Walsh
 , A165356. It was not certified for publication in the official reports.
 The appeal had taken more than a year after the verdict. The legal system had processed briefs, assembled the appellate record, reviewed the transcript, considered the arguments, and produced a reasoned opinion affirming the judgment — in the time it takes a child to grow from four to five and a half. Steve received word the way litigants receive appellate opinions: as a filed opinion carrying the authority of three justices who had reviewed the record and found nothing to disturb. The judgment had survived this appeal. The verdict remained in the record, a foundation for what Steve hoped would follow. And it changed nothing. Evie was behind the same gate. The custody order was the same order. The permanence of the verdict produced a strange new weight — not the heaviness of “real” that had arrived in the courtroom, but the heaviness of knowing that permanent and irreversible are not the same as effective. The stone was carved. The stone could not reach Chappaqua.
-The judgment was then exemplified and domesticated in Westchester County Supreme Court under Index No. 55523/2023. Full Faith and Credit. The Constitution requires it. A judgment entered in one state must be recognized and enforced by another.
+Steve had already taken the judgment to Westchester County Supreme Court under Index No. 55523/2023. The affidavit in support of registration was filed on January 13, 2023, eight months before the appeal was decided. Full Faith and Credit. The Constitution requires it. A judgment entered in one state must be recognized and enforced by another.
 Domestication affidavit filed under the Full Faith and Credit Clause, bringing the California jury verdict into New York. The judgment from San Francisco Superior Court — battery, intentional infliction of emotional distress, and domestic violence, with a punitive finding of malice, oppression or fraud — was now registered and enforceable in Westchester County. The same jurisdiction whose family courts had treated Steve as the threat now carried a judgment identifying Tara as the adjudicated aggressor.
 Domestication of California Judgment, Westchester County, Index No. 55523/2023
 The same jurisdiction whose family courts treated Steve as the threat now carried a judgment identifying Tara as the adjudicated aggressor.
@@ -41,11 +41,12 @@ In California, the battery verdict was final. The jury’s determination that Ta
 In New York, the Appellate Division had held that the February 2022 order was not entered on default and replaced the blanket deletion command with a narrower directive. It upheld the remaining speech restrictions.
 Both records existed simultaneously. The California record said Steve had been battered. The New York record narrowed the speech restrictions and rejected the default characterization of the February 2022 order. And in the space between those two records — in the gap between what the courts had found and what had changed as a result — the custody order remained. The child remained in New York.
 The battery verdict was final. The custody situation was unchanged.
-Evie was five. She had never seen a courtroom. She did not know that two appellate courts in two states had reviewed the facts of her life and reached conclusions about the people who raised her. She knew only what the people around her told her, and the people around her were the people the courts had found liable, and the courts that found them liable could not reach her.
+Evie was five. She had never seen a courtroom. She did not know that two appellate courts in two states had reviewed the facts of her life and reached conclusions about the people who raised her. She knew only what the people around her told her, and her mother was the person the jury had found liable, and the affirmed judgment had not brought her back to her father.
 
 ## Evidence references
 
 - B-13 Domestication Affidavit — California Judgment to New York Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=B-13
 - B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137 Court Record: https://chappaquapoison.com/evidence.html?search=B-10
 - ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=ExG_01
-- Explore all 16 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B46
+- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?search=ExG_05
+- Explore all 17 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B46

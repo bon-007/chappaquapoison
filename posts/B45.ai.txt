@@ -12,8 +12,8 @@ Department 504 of the San Francisco Superior Court, Judge Garrett L. Wong presid
 Twelve people sat in a room with the evidence. The testimony. The documents. The text messages projected on a screen. A nanny’s account, given through Steve’s testimony, of having been asked to take part in drugging a man’s wine without his knowledge. Laboratory reports showing substances in a man’s body that no doctor had prescribed. And the defendant’s own words, under oath, constructing a denial that collapsed under the weight of what her own devices had recorded.
 They returned on Tuesday, February 22, 2022.
 The presiding juror signed five verdict forms.
-Second Amended Judgment, Jury Findings on Battery — Verdict of February 22, 2022
-The judgment recording what the jury found. Every question answered. Every answer against Walsh. The self-defense claim rejected.
+Second Amended Judgment on Jury Verdict — page 2 (Russell v. Walsh, CGC-18-570137)
+The typed judgment page recording the jury's verdict for Russell: $325,000, later reduced by the $50,000 punitive award on Walsh's motion; his costs as prevailing party; and Walsh's cross-complaint dismissed with prejudice. The jury's handwritten verdict forms are separate pages — on the battery form the jury answered questions 1 through 5 and the damages question 7, and skipped question 6 as the form instructs after a "no" to question 5. Battery found; self-defense rejected.
 The first form addressed battery. The jury answered six questions.
 Did Tara Walsh touch Stephen Russell, or cause him to be touched, with the intent to harm or offend? Yes. Did Stephen Russell consent to be touched? No. Was Stephen Russell harmed or offended by Tara Walsh’s conduct? Yes. Would a reasonable person in Stephen Russell’s situation have been offended by the touching? Yes.
 Question five asked whether Tara Walsh reasonably believed that Stephen Russell was going to harm her. The answer was no. The self-defense claim — the claim that had structured Tara’s narrative across two states and multiple years, the premise on which restraining orders had been obtained and court orders weaponized and a gag order imposed — was rejected by the people who had heard the evidence.
@@ -41,7 +41,7 @@ One legal system had compensated. The other still had the child.
 
 ## Evidence references
 
-- B-9_03 jury-verdict-findings Court Record: https://chappaquapoison.com/evidence.html?search=B-9_03
+- B-9_03 Second Amended Judgment on Jury Verdict — page 2 Court Record: https://chappaquapoison.com/evidence.html?search=B-9_03
 - ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1 Court record: https://chappaquapoison.com/evidence.html?search=ExG_01
 - B-9 B 9 Judgment on Jury Verdict Feb 2022: https://chappaquapoison.com/evidence.html?search=B-9
 - B-9_02 jury-verdict-cover: https://chappaquapoison.com/evidence.html?search=B-9_02

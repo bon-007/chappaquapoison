@@ -3,18 +3,20 @@
 Chapter: B33
 URL: https://chappaquapoison.com/posts/B33.html
 
-Steve seeks a Temporary Order of Protection in New York. The TOP is granted. On January 26, 2021, Judge Wayne Humphrey states the fail-to-appear rule on the record — citing Horowitz as precedent. At the evidentiary hearing, Tara and her attorneys fail to appear. Twice. The same judge who announced the rule does not apply it. Humphrey recuses himself — trashing Steve's attorney on the way out. Aunt K investigates the court's own evaluator.
+Steve seeks recognition in New York of the protection he won against Tara after a San Francisco hearing. Humphrey warns Steve about nonappearance, but gives him no ruling after Tara and her attorney miss two hearings. Humphrey then recuses. Aunt K investigates the court's evaluator.
 
 ## Chapter text
 
-The Temporary Order of Protection was granted at the first hearing.
-The application was filed in Westchester County Family Court. The court issued the TOP.
+Steve came to Westchester holding an order he had already won. In 2018, after a hearing in San Francisco, a court had issued a restraining order protecting him from Tara. When it expired he asked Westchester to carry its terms forward: a family-offense petition against Tara, docket O-03599-20, filed June 16, 2020.
+What became of that petition is in two records. The court’s was read from the file fourteen months later, on August 27, 2021, by the fourth judge, Judge Schauer: the petition “that you filed that was dismissed, I guess by Judge Morales Horowitz, was reinstated. I reinstated that.” On its docket, O-03599-20, “there is actually a current Order of Protection that I signed on July 23rd requiring that Ms. Walsh stay away from you, your home, your place of employment.” The history as she read it: “This — this was filed in June of 2020. It looks like it was heard by the duty judge on that date and then it went to Judge Morales Horowitz and she dismissed it.” Aunt K’s record is her May 10, 2021 letter to the Supervising Judge, written after the judge in this chapter had come and gone: Steve “requested protection in Westchester and a temporary order of protection was granted by Hon. Naber after reviewing the case and questioning Steve. But that mysteriously disappeared, without comment, from police databases in November 2020 after Hon. Morales-Horowitz recused herself according to police.” He “reapplied for protection,” she wrote. “Hon. Humphrey refused to provide protection on a temporary basis.”
+The order below is the later one on that petition, dated August 27, 2021 — by Judge Schauer’s account that day, she had already signed one on July 23. It is interim protection on Steve’s petition. It is not the ruling he asked for on Tara’s two missed appearances before Judge Humphrey. Those appearances are this chapter.
 Court Order
-2020
-Westchester County Family Court — File No. 154703
-Temporary Order of Protection issued in the matter of Tara Walsh (Petitioner/Respondent) against Stephen G. Russell (Respondent/Petitioner). Extended Order under Docket Nos. V/F641-18/19F/19G/19H/20M/21O. The TOP established protective conditions while the court scheduled a full evidentiary hearing to determine whether a permanent order was warranted.
-Temporary Order of Protection, Westchester Family Court
-The TOP was granted. The evidentiary hearing was scheduled. The other side never showed up.
+2021-08-27
+Yonkers Family Court — File No. 154703 — Docket O-03599-20
+"Temporary Order of Protection." "Both Parties Present in Court." "In the Matter of a FAMILY OFFENSE Proceeding: Stephen Grant Russell …, Petitioner, – against – Tara Katelyn Walsh …, Respondent." "A petition under Article 8 of the Family Court Act, having been filed on June 16, 2020 in this Court and good cause having been shown, and Tara Katelyn Walsh having been present in Court and advised of the issuance and contents of this Order. NOW, THEREFORE, IT IS HEREBY ORDERED that Tara Katelyn Walsh … observe the following conditions of behavior: [01] Stay away from: [A] Stephen Grant Russell …; [B] the home of Stephen Grant Russell …; [E] the place of employment of Stephen Grant Russell …; [14] Refrain from communication or any other contact by mail, telephone, e-mail, voice-mail or other electronic or any other means with Stephen Grant Russell …; …"
+"It is further ordered that this temporary order of protection shall remain in force until and including October 01, 2021, but if you fail to appear in court on this date, the order may be extended and continue in effect until a new date set by the Court." "[x] Party against whom order was issued was advised in Court of issuance and contents of Order. [x] Order personally served in Court upon party against whom order was issued."
+Temporary Order of Protection, Order No. 2021-005878, Docket O-03599-20, Hon. Michelle I. Schauer, Yonkers Family Court, August 27, 2021 (Form GF-5, two pages)
+The later order on Steve's June 2020 petition — by Judge Schauer's account that day, she had already signed one on July 23, 2021: Tara restrained, Steve protected, in force to October 1, 2021, Tara present in court and served. Signed in Yonkers, after the events of this chapter. Dates of birth and the form's standard [02] condition are omitted from this extract.
 On January 26, 2021, months before the evidentiary hearing would be reached, the parties appeared for the first time before Judge Wayne A. Humphrey in Part 2 of the Westchester Family Court. The proceeding was virtual. Steve was at his desk in Novato. Tara was somewhere in Chappaqua. DiFabio was in his office. Humphrey was on the bench in White Plains. The Court Officer put them on the record.
 The judge began by telling counsel he had done a deep dive in the file the day before.
 “I don’t see it in there anywhere,” Humphrey said, when DiFabio tried to explain that an order of confidentiality for Steve’s address had been filed under the prior judge. Whether the document existed or not, it was not in the file Humphrey had read. The judge directed Steve to put his address on the record.
@@ -79,16 +81,27 @@ Evie was learning colors and animals. She knew her father’s name. She was bein
 Aunt K drove with Steve to the Westchester courthouse for these hearings.
 She had been writing up every visit, every observation, every detail of what she witnessed during supervised time with Evie. She wrote letters to the judicial review board. She documented patterns. She sent the documentation into the system and the system did not respond. She wrote more. She sent more. The silence on the other end was not the silence of consideration. It was the silence of a machine that does not have an input for what she was sending.
 The case file grew thicker. The number of judges who had handled it grew longer. The distance between Evie and her father remained the same.
+The word kept its place in the file. The record has the dates.
+February 6, 2020, White Plains: Steve on the next available flight from California, due into JFK that afternoon; his attorney at the table, objecting. The court: a default. Custody and an order of protection entered against him.
+March 10 and March 24, 2021, White Plains, before the judge of this chapter: neither Tara nor her attorney. The court rescheduled, then recused. The ruling Steve had asked for on those two absences, Humphrey did not make.
+November 5, 2021, Yonkers, before the fourth judge: Steve not present, and no one appearing for him. He had told this judge on August 27 that he would not attend further conferences, that he would “be present with an attorney at trial,” and had asked when the trial would be. “At this point, Mr. Russell has not appeared. He’s in default. It doesn’t seem like there’s really much of a case.” An inquest was set for January 5, 2022, “given that Mr. Russell has failed to appear in this proceeding for quite some time.”
+January 5, 2022: Steve not present in person; his attorney present, objecting and cross-examining. The order that followed, dated February 2, 2022, gave Tara sole legal and physical custody.
+March 22, 2023, the Appellate Division, Second Department, on that order: “contrary to the contention of the mother and the AFC, the order appealed from was not entered upon the father’s default. Although the father failed to appear in person at the hearing, his counsel appeared on his behalf and participated in the hearing.”
+That sentence is about February 2022. Steve’s attorney had been at the table in February 2020.
 
 ## Evidence references
 
 - B-4 Temporary Order of Protection document — core of the double default narrative Court Record: https://chappaquapoison.com/evidence.html?search=B-4
 - LEGAL-HUMPHREY-RECUSAL Judge Humphrey Recusal — Trashes DiFabio While Granting His Motion (Apr 2021) Official court order — Notice of Entry: https://chappaquapoison.com/evidence.html?search=LEGAL-HUMPHREY-RECUSAL
 - ExTR_03 Humphrey hearing transcript, January 26, 2021 (White Plains Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_03
+- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_01
+- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_02
+- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021: https://chappaquapoison.com/evidence.html?search=ExO_01
+- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?search=B-12
 - B-3 3-family offense petition abuse 8-27-21: https://chappaquapoison.com/evidence.html?search=B-3
 - DOCX_RUSSELL_AFFIDAVIT Russell Affidavit v2 — August 7, 2018: https://chappaquapoison.com/evidence.html?search=DOCX_RUSSELL_AFFIDAVIT
 - PDF_DEMAND_PROSECUTION Demand for Prosecution — DA Letter (74 pages): https://chappaquapoison.com/evidence.html?search=PDF_DEMAND_PROSECUTION
 - SLE-096 Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.: https://chappaquapoison.com/evidence.html?search=SLE-096
 - G-27 OASAS Stipulation of Settlement — Raymond Griffin, August 2019: https://chappaquapoison.com/evidence.html?search=G-27
 - ExOO_14 ExOO 14 AFC Jackman Griffin Exchange: https://chappaquapoison.com/evidence.html?search=ExOO_14
-- Explore all 51 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B33
+- Explore all 55 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B33
