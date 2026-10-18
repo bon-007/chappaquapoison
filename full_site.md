@@ -6941,15 +6941,16 @@ The evidence had always been there. It just needed someone to put the pieces nex
 
 # [B35] Equal Threats
 
-> The case passes to a fourth judge. Schauer vacates the Horowitz default and issues two temporary orders of protection — one against each party. The poisoner and the poisoned are treated as symmetrical threats. Steve tells the court a permanent temporary order does not give him a chance to face his accuser. The court tells him he is muddying the record.
+> The case passes to a fourth judge. At a twenty-three-minute video appearance Schauer vacates the Horowitz default on consent and issues mirroring stay-away orders — one against each party — rather than address the California restraining order against Tara. The poisoner and the poisoned are treated as symmetrical threats, and neither petition is heard. Steve tells the court a permanent temporary order does not give him a chance to face his accuser. The court tells him he is muddying the record.
 
 **Phase VII | The Jury | May 19, 2021**
 
 Tags: Chappaqua, DiFabio, Family System, Judge Humphrey, Institutional, Judge Schauer, Aunt K, Linda Russell, NY Family Court, Two Court Systems, Walsh Sr., Westchester, Yonkers
 
-Selected evidence references: 6
-  - ExTR_10_03
+Selected evidence references: 7
+  - ExTR_26
   - LEGAL-TOP-2021-05-19
+  - ExTR_10_03
   - ExTR_01
   - ExTR_05_03
   - ExTR_02
@@ -6961,6 +6962,46 @@ The Yonkers Family Court occupied the third floor of a municipal building on War
 
 Judge Michelle I. Schauer assumed control of File No. 154703 in May 2021.
 
+Her first appearance was May 19, 2021, by video. The matter had been calendared for 9:30 in the morning. The attorneys conferenced with the court for hours while the parties waited, and the record opened at 2:53 in the afternoon. DiFabio for Steve. Weddle for Tara. Jackman for the child. Both parties were sworn. Steve gave a San Francisco address. Tara said hers was confidential; the court looked through the file and could not find the confidentiality order.
+
+"This is my first appearance with this matter," Schauer said, and had Weddle put on the record what the lawyers had worked out.
+
+The two Horowitz orders entered on default — February 6 and February 18, 2020 — were vacated. Walsh was "consenting to the relief requested in Mr. Russell's motion." Tara would have temporary legal and physical custody pending further order. Steve would be reintroduced to Evie by Zoom, a minimum of three times a week, supervised. Linda Russell could visit as arranged with Tara, consent "not to be unreasonably withheld." All of it without prejudice. And: "It's also my understanding that the Court will issue mirroring Orders of Protection on behalf of each party which will include a Stay Away Provision and a Refrain From Provision and a prohibition against communication until further order of this Court."
+
+DiFabio put his client's position on the record. "Our goal, our objective, was to resend [rescind] all Orders of Protections for all parties so that these people can begin to communicate and to coparent without the fear of police involvement." The likelihood of Steve coming to New York or having anything to do with Ms. Walsh was "slim to none." He would be back in two weeks "with the hopes of vacating all Orders of Protections."
+
+Schauer: "I do echo Mr. DiFabio in that I hope there'll be some peace in this interim period of time before we come back and that at some point the two of you will agree that it's not necessary to have these Orders of Protection. But for today's purposes, I'm going to issue an Order of Protection that each of you shall not harass, assault, threaten, intimidate or commit any criminal offense against the other, that you're to stay away from each other, the home, place of business of each other and that you're to have no communication by any means."
+
+"Do you understand, Mr. Russell, if you violate this Order of Protection you could be arrested and incarcerated?"
+
+"I do, Your Honor."
+
+"And do you, Ms. Walsh, understand if you violate the Order of Protection you could be arrested and incarcerated? You're muted."
+
+"I do, Your Honor."
+
+Then Tara asked to say something fast.
+
+
+<div class="evidence-embed embed-document" data-exhibit="ExTR_26" data-type="hearing-transcript">
+  <div class="embed-header">
+      <span class="embed-type">Hearing Transcript</span>
+      <span class="embed-date">2021-05-19</span>
+      <span class="embed-source">Yonkers Family Court</span>
+  </div>
+  <div class="embed-body">
+    <div class="document-text"><p>MS. WALSH: "I'm very concerned with Mr. Russell having an Order of Protection against me for a variety of reasons. I don't communicate with him. You know, I really try and keep my distance. I haven't communicated with him now for years so —"<br><br>THE COURT: "Then how could there be a violation?"<br><br>MS. WALSH: "It's just that he will use that in civil court to say that I've been like harassing and intimidating him because he has numerous civil cases against me in California right now, one against me and my parents and another one just against me, one of which is set to go to trial on June 7th."<br><br>THE COURT: "All right. Well, it's a Temporary Order. It will be in effect just for a couple of weeks."</p></div>
+  </div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Schauer First Appearance Transcript, May 19, 2021</span><span class="embed-caption-text">The one party who objected to being restrained was the one who had administered the drugs. Her stated reason: the order might be used against her at the California trial, nineteen days away.</span></div>
+</div>
+
+
+DiFabio: "If she's concerned that he's going to use an order against her in civil court, back to my original argument, why don't we vacate all the orders here so that we don't — she doesn't have that worry?"
+
+That was for Ms. Walsh to discuss with her attorney, the court said. Mr. DiFabio and his client "have agreed to withdraw their Family Offense Petition against you if you agree to withdraw against them." Any withdrawal would be without prejudice. "Otherwise, these Temporary Orders will be in effect until we come back in two or three weeks."
+
+Twenty-three minutes on the record. "We'll email the Orders of Protection." Next date June 1 at two o'clock.
+
 
 <div class="evidence-embed embed-document" data-exhibit="LEGAL-TOP-2021-05-19" data-type="court-order">
   <div class="embed-header">
@@ -6969,15 +7010,15 @@ Judge Michelle I. Schauer assumed control of File No. 154703 in May 2021.
       <span class="embed-source">Yonkers Family Court</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Temporary Order of Protection issued May 19, 2021. Stephen Grant Russell ordered to: stay away from Tara Katelyn Walsh, her home, her place of employment; refrain from communication by mail, telephone, email, voicemail, or other electronic means; refrain from assault, stalking, harassment, menacing, reckless endangerment, strangulation, criminal obstruction of breathing, disorderly conduct, criminal mischief, sexual abuse, intimidation, threats, identity theft, grand larceny, coercion. "YOUR FAILURE TO OBEY THIS ORDER MAY SUBJECT YOU TO MANDATORY ARREST AND CRIMINAL PROSECUTION, WHICH MAY RESULT IN YOUR INCARCERATION FOR UP TO SEVEN YEARS."</p></div>
+    <div class="document-text"><p>Temporary Order of Protection, Docket O-12635-19, Order No. 2021-003506. Petitioner: Tara Katelyn Walsh. Respondent: Stephen Grant Russell. "A petition under Article 8 of the Family Court Act, having been filed on March 27, 2019 in this Court and good cause having been shown ... IT IS HEREBY ORDERED that Stephen Grant Russell observe the following conditions of behavior: Stay away from Tara Katelyn Walsh, the home of Tara Katelyn Walsh, the place of employment of Tara Katelyn Walsh; refrain from communication or any other contact by mail, telephone, e-mail, voice-mail or other electronic or any other means ... This temporary order of protection shall remain in force until and including June 01, 2021." Form GF-5 1/2020. Printed notice at the top of the form: "YOUR FAILURE TO OBEY THIS ORDER MAY SUBJECT YOU TO MANDATORY ARREST AND CRIMINAL PROSECUTION, WHICH MAY RESULT IN YOUR INCARCERATION FOR UP TO SEVEN YEARS FOR CRIMINAL CONTEMPT."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Temporary Order of Protection, May 19, 2021</span><span class="embed-caption-text">Seven years incarceration threatened. The person restrained was the person who had been poisoned.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Temporary Order of Protection, May 19, 2021 (O-12635-19)</span><span class="embed-caption-text">One of the two mirroring orders issued on consent that afternoon and emailed to the parties. The capitalized notice is the statutory warning printed on every GF-5 temporary order in New York State; the order restraining Walsh carried the same words. The petition it recites was filed March 27, 2019 and had never been tried.</span></div>
 </div>
 
 
-On her first appearance date, Schauer issued a Temporary Order of Protection against Steve. The boilerplate language threatened seven years of incarceration. Stay away from Tara. No communication. No contact. The order carried the weight of criminal enforcement and the precision of a form completed in minutes.
+The form that arrived by email did not say consent. It did not say mirroring. It said Petitioner: Tara Katelyn Walsh. Respondent: Stephen Grant Russell. It recited a petition filed March 27, 2019 — twenty-six months earlier, never tried, carried from one judge to the next — and "good cause having been shown." Handed to a police officer, it read like a finding. The order restraining Tara on the same terms was printed on the same form and carried the same warning. The only difference between the two sheets was the order of the names.
 
-The language was identical to every temporary order issued by this court. The facts underlying it were not. The person restrained was the person who had been poisoned.
+Nothing in either sheet referred to the permanent restraining order a San Francisco court had already issued against Tara. The only mention of the California cases that afternoon had been Tara's: the trial on June 7. The court had issued a mutual stay-away on consent, vacated the defaults, and set a date two weeks out.
 
 ---
 
@@ -7025,7 +7066,7 @@ Schauer came from Albert Rosenblatt's mentorship — Harvard Law, former Chief A
 
 ---
 
-Schauer did two things in the months that followed.
+Schauer had done two things at that first appearance.
 
 She vacated the Horowitz default. The order that had been entered when Steve arrived at a closed door — the default built on a remote appearance denied at five o'clock, the next flight that could not get him there in time — was undone. On consent, with Walsh's attorney agreeing, the procedural defect was acknowledged and removed. The permanent Order of Protection and the custody order that had rested on that default were vacated.
 
@@ -7033,11 +7074,9 @@ But in vacating the default, Schauer reinstated the interim custody order giving
 
 The default was removed from the record. The custody order survived the surgery.
 
-The second thing Schauer did was not grant Steve's order of protection.
+The second thing Schauer did was not rule on either party's petition.
 
-The California DVRO existed. Two defaults by Tara in the New York proceedings existed, she had failed to appear twice, and no consequence followed. The poisoning evidence existed. The laboratory reports existed.
-
-Instead Schauer issued a second Temporary Order of Protection, this one on behalf of Steve against Tara. Now there were two. One against each party. Symmetrical restrictions. Each side restrained equally. The poisoner and the poisoned placed under identical restraint as though the court could not distinguish between them. The two orders were printed on the same form — the same boilerplate, the same checkboxes, the same penalty of up to seven years' imprisonment for violation — one with Steve's name in the protected-party field and one with Tara's. Steve received his order — a printed sheet stating his restraint, the seven-year threat made physical in a rectangle of paper with checkboxes he did not check.
+The California restraining order against Tara existed. Two defaults by Tara in the New York proceedings existed, she had failed to appear twice, and no consequence followed. The poisoning evidence existed. The laboratory reports existed. Humphrey had recused rather than hear any of it. Schauer's answer was the mutual stay-away: identical restraint on both parties, no hearing on either petition. On July 23 she continued both orders — the 2019 order against Steve, and an order on Steve's reinstated June 2020 petition, O-03599-20, requiring Walsh to stay away from him, his home, his place of employment. On August 27 she extended the order against Walsh to October 1; the order against Steve remained in force. The poisoner and the poisoned were placed under identical restraint, on identical forms, as though the court could not distinguish between them.
 
 At the August 27, 2021 hearing, when the procedural confusion had consumed more than an hour of argument and counterargument, Tara's attorney described the arrangement and the court confirmed it:
 
@@ -7053,9 +7092,9 @@ At the August 27, 2021 hearing, when the procedural confusion had consumed more 
       <span class="embed-source">Yonkers Family Court</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>"You both have Temporary Orders of Protection, so you're both protected and we'll have a hearing at an appropriate time." Steve responds: "A permanent Temporary Order of Protection does not give me a chance to face my accuser." The court tells him to listen to the questions and answer what is asked. The hearing has consumed over an hour discussing "issues that don't even relate to the merits of this case." Schauer: "Every time we come into court, I'm dealing with new petitions that you've filed." "Your time to appeal has expired." "Scattered gunshot and it's not organized and it's not helpful to me as a judge."</p></div>
+    <div class="document-text"><p>THE COURT: "Ms. Walsh filed a Family Offense petition, docket O-12635 of '19. That Temporary Order of Protection on behalf of her against Mr. Russell was continued and I signed, also on July 23rd, the Order of Protection that Mr. Russell stay away from Ms. Walsh ..." MR. RUSSELL: "When is the hearing scheduled for Ms. Walsh's temporary order against me?" THE COURT: "I've not scheduled that hearing." MR. RUSSELL: "Why has it not been scheduled?" THE COURT: "Why? Because every time we come into court, I'm dealing with new petitions that you've filed ... At this point, you both have Temporary Orders of Protection, so you're both protected and we'll have a hearing at an appropriate time." MR. RUSSELL: "A permanent Temporary Order of Protection does not give me a chance to face my accuser." THE COURT: "Well, exactly, Mr. Russell. You're both in the same position with respect to Temporary Orders of Protection that are full stay-aways."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, August 27, 2021</span><span class="embed-caption-text">A permanent Temporary Order of Protection does not give me a chance to face my accuser.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, August 27, 2021</span><span class="embed-caption-text">Continued, not heard. "I've not scheduled that hearing."</span></div>
 </div>
 
 
@@ -7065,7 +7104,7 @@ The court told him he was going down irrelevant paths.
 
 The mutual arrangement treated the two sides as equivalent threats. The person who had been poisoned with lithium, quetiapine, and mycophenolic acid and the person who had administered those substances were restrained from contacting each other on identical terms. The symmetry was the court's answer to asymmetry. Walsh Sr. had told Tara what settling would cost, Evie, transferred to the grandparents. Only one party in the mutual arrangement could not afford to end the case.
 
-August 27, 2021. The courtroom at 131 Warburton Avenue was smaller than the ones in White Plains — lower ceiling, closer walls, the bench and the counsel table near enough that a judge did not need to raise her voice to fill the room. The fluorescent lights hummed at a frequency you stopped noticing after ten minutes. Security screening at the building entrance, the elevator to the third floor, the hallway where the children's center shared the corridor with the courtrooms. Schauer's bench occupied the front wall. Steve stood at the counsel table without an attorney beside him.
+August 27, 2021. A video proceeding, as every appearance before Schauer had been — the judge in Part 17 at 131 Warburton Avenue, the lawyers and the parties in rectangles on a screen, a court officer telling people they were muted. Steve's Teams link had not arrived; DiFabio resent it and texted him what the judge was saying while the clerk sent it again. "We're letting him in now." Steve appeared from San Francisco, pro se.
 
 The hearing was a procedural marathon. Over an hour of appearances, motions, clarifications about which petitions were pending, which orders had been vacated, which dockets were active. Weddle, Tara's attorney, said at one point: "When we started this conference, I thought I knew what was going on and now procedurally I'm lost." Christopher Weddle had been practicing family law in Westchester for twenty-nine years. He was a member of the 18B panel — the same panel Cambareri screened — and would later become a Support Magistrate at the very courthouse where he now stood as counsel. He lived in Chappaqua. The file had defeated even the people who were winning.
 
@@ -7115,7 +7154,7 @@ The case had been reset. The procedural error was undone. But the reset did not 
 
 The case had been reset. The clock returned to zero. Evie was three now — old enough to ask questions, old enough to notice who came to the door and who did not. Every procedural reset consumed months. Every month was time that could not be recovered. The file got thicker. The child got older. And each new judge started from scratch with a case she described as the largest she had ever seen, in a courtroom where the only acceptable form of participation was silence.
 
-Aunt K walked out of the Yonkers courthouse that afternoon. She carried the legal pad she brought to every hearing — the notes she would type into a letter that evening, addressed to yet another judge, CC'd to yet another supervising justice, with the same evidence attached that every previous letter had attached and every previous recipient had declined to examine. Four judges. Four courtrooms. The same outcome: nothing changed for Evie.
+Aunt K's letters continued that season — addressed to yet another judge, CC'd to yet another supervising justice, with the same evidence attached that every previous letter had attached and every previous recipient had declined to examine. Four judges. Four courtrooms. The same outcome: nothing changed for Evie.
 
 ---
 
@@ -9757,4 +9796,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: 3c2a5c636fad
+- Content hash: 81ed0aa4811f
