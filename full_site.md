@@ -1960,7 +1960,7 @@ What Steve did not know was what Tara was building on the other end of the silen
     <div class="msg-bubble msg-incoming">See she cries!</div>
     <div class="msg-sender-label msg-label-right">Dad</div>
     <div class="msg-bubble msg-secondary">Oh gosh she's beautiful. I am less worried for sure</div>
-    <div class="msg-bubble msg-secondary">Evelyn will have a difficult time dethroning the queen</div>
+    <div class="msg-bubble msg-secondary">[E.V.] will have a difficult time dethroning the queen</div>
     <div class="msg-timestamp">Friday, February 2, 2018</div>
     <div class="msg-sender-label msg-label-right">Dad</div>
     <div class="msg-bubble msg-secondary">How are you feeling ?</div>
@@ -2308,9 +2308,9 @@ He held her. Seven pounds. Her eyes were closed and her mouth was open and her e
 
 Her head. The smell of her head. There is no way to describe this to someone who has not held a newborn. It is a signal, biological, chemical, ancient, that arrives through the nose and lands somewhere below language. Steve held his daughter against his chest and breathed her in and something in him rearranged permanently.
 
-Evelyn Grace Walsh. January 27, 2018. New York Presbyterian Hospital.
+Evie. January 27, 2018. New York Presbyterian Hospital.
 
-He had chosen the name months earlier. Evelyn, from the Irish, *aibhilín*, the light of evening. He wanted her name to carry something older than the city and the hospital and the fluorescent light she had arrived into. The specific light that comes when the sun is low and the world is warm and the day has not yet ended but will.
+He had chosen the name months earlier, from the Irish *aibhilín*, the light of evening. He wanted her name to carry something older than the city and the hospital and the fluorescent light she had arrived into. The specific light that comes when the sun is low and the world is warm and the day has not yet ended but will.
 
 <div class="photo-card" data-exhibit="D-13_05">
   <img src="../Evidence/photos/evidence/D-13_pressuring-texts.jpg" alt="Steve Russell playing with toddler Evie — she stands in a red-striped dress, he kneels in a blue polo and baseball cap, offering her an orange ball, colorful toys on the floor" loading="lazy">
@@ -3274,7 +3274,7 @@ She was asking Jesse to be her extraction team. Would he fly out? Would he help 
 
 While Tara was in the cab to Teterboro, her father texted.
 
-"What is Evelyn's SSN?"
+"What is [E.V.]'s SSN?"
 
 <div class="imessage-embed" data-exhibit="MSG-WALSHSR-003" data-date="March 3, 2018">
   <div class="imessage-statusbar">
@@ -3289,7 +3289,7 @@ While Tara was in the cab to Teterboro, her father texted.
     <div class="msg-bubble msg-secondary">Will call around 6/5</div>
     <div class="msg-timestamp">Saturday, March 3, 2018 (UTC)</div>
     <div class="msg-sender-label msg-label-right">Dad — 4:08 PM</div>
-    <div class="msg-bubble msg-secondary">What is Evelyn's SSN ?</div>
+    <div class="msg-bubble msg-secondary">What is [E.V.]'s SSN ?</div>
     <div class="msg-sender-label">Tara</div>
     <div class="msg-bubble msg-incoming">I can't access it right now headed to airport cab give it to you later or tomorrow</div>
     <div class="msg-sender-label">Tara</div>
@@ -5515,7 +5515,7 @@ Steve called the police.
 
 The Chappaqua police responded. They went to the Walsh household. The Walsh grandparents, Steve and Maura Walsh, told the responding officer the bruises were normal. Kids get bruises.
 
-Detective Ragni would later confirm in writing that bruising and a rash were observed on Evelyn. But he determined the information did not reach the level of criminality. What does criminality mean in a context where the supervisor's report documents the bruises, the body diagram marks their locations, the police have been called, and a detective's professional judgment is that none of it crosses the threshold he is empowered to recognize?
+Detective Ragni would later confirm in writing that bruising and a rash were observed on Evie. But he determined the information did not reach the level of criminality. What does criminality mean in a context where the supervisor's report documents the bruises, the body diagram marks their locations, the police have been called, and a detective's professional judgment is that none of it crosses the threshold he is empowered to recognize?
 
 Both parents had reported the injuries as concerning. The grandparents had not.
 
@@ -5955,7 +5955,7 @@ He had been punished once, in federal court, for the crime of naming names. He h
 
 Now, in 2019, he was writing to a judge to silence someone else.
 
-Before the recusal, Walsh Sr. had written to Gordon-Oliver directly. The letter — addressed "Dear Judge Gordon-Oliver," typed single-spaced, the format of a man accustomed to addressing authority as a peer — described a process server arriving at his home on a Friday afternoon. His wife had been in the kitchen. She turned around to find a man on the back deck. She was frightened, the letter noted, and with their granddaughter Evelyn in her arms. Walsh Sr. characterized the subpoena as "yet another effort to harass and threaten my family" — though *family*, in the letter's usage, meant something closer to *perimeter*: a boundary to be defended against legal process, not a household to be examined under oath. He asked the judge to require Steve Russell to seek court permission before issuing further subpoenas — to make the instruments of discovery subject to the approval of the family being discovered. He added, near the bottom, that he had been hospitalized over the weekend and was unable to attend court on Tuesday. The man who had positioned two men in camouflage at a custody exchange, who had denied a court-ordered visit at his own gate while shaking and red-faced, who had followed Steve's car and blocked his exit on a Sunday evening while claiming to be returning from school, was writing to a judge to describe himself as the one being harassed.
+Before the recusal, Walsh Sr. had written to Gordon-Oliver directly. The letter — addressed "Dear Judge Gordon-Oliver," typed single-spaced, the format of a man accustomed to addressing authority as a peer — described a process server arriving at his home on a Friday afternoon. His wife had been in the kitchen. She turned around to find a man on the back deck. She was frightened, the letter noted, and with their granddaughter Evie in her arms. Walsh Sr. characterized the subpoena as "yet another effort to harass and threaten my family" — though *family*, in the letter's usage, meant something closer to *perimeter*: a boundary to be defended against legal process, not a household to be examined under oath. He asked the judge to require Steve Russell to seek court permission before issuing further subpoenas — to make the instruments of discovery subject to the approval of the family being discovered. He added, near the bottom, that he had been hospitalized over the weekend and was unable to attend court on Tuesday. The man who had positioned two men in camouflage at a custody exchange, who had denied a court-ordered visit at his own gate while shaking and red-faced, who had followed Steve's car and blocked his exit on a Sunday evening while claiming to be returning from school, was writing to a judge to describe himself as the one being harassed.
 
 Gordon-Oliver had been the judge longest. She had seen the jurisdiction dispute. She had watched the supervisory record accumulate. She had the memorandum in front of her, the ambush, the manipulation, the abuse, Brienne's own words.
 
@@ -9392,7 +9392,7 @@ The draft challenged New York’s jurisdiction on two grounds, set out at pages 
 
 What is true is that on September 11, 2018, Steve’s lawyer told Judge Gordon-Oliver that his client was “willing to drop the jurisdictional issue and let this Court address the custody” (p. 36). The transcript shows what that sentence was attached to. Counsel had just said they wanted to proceed with the jurisdictional hearing “especially in light of the communications that went on between the two courts”; the willingness to let it go came with a condition — “he would like a more formal visitation arrangement right now” — and a proposal: Steve’s mother would come from California, they would rent a place near the Walshes’ in Chappaqua, his mother and the nanny would be there, and he would get “more time, overnights and access” (pp. 36–37). The attorney for the child called that a safety concern; Steve’s counsel said the parties were not in agreement. The court’s answer was that it was “really not a deal for me” and that the jurisdiction question would stay on the calendar (p. 38). Counsel then asked for three weeks, for Farquharson’s reports to come in, and, if they were favorable, for the supervision to end: “he should not have to be under the orders of supervision when there has been no evidentiary basis established in Court … we haven’t had a trial on the issue” (pp. 38–39). The court: “If we have good reports. It’s too premature at this time.” No promises, and forensics first (p. 40); no overnights for a seven-month-old — “It’s not because of this dad before me” (pp. 41–42). Counsel offered to consent to an order that Steve could not move the jurisdiction (pp. 40–41). The court kept the supervised visits in place, as many as Farquharson could provide, and counsel confirmed consent to drug and substance testing of both parents (p. 44). Read whole, the words were an offer: a father proposing to stop contesting the forum if it got him more of his daughter. The court kept the jurisdiction question on its calendar, and kept the supervision.
 
-Tara withdrew the threat complaint in writing. In a signed letter dated November 23, 2020, addressed to the Chappaqua Police Department, she wrote: “I would like to let this police department know that Mr. Stephen Russell never made a threat to kill myself or our daughter Evelyn. I would like to withdraw any complaints regarding this made to the police department.” The copy is preserved as Exhibit D, page 8 of Steve’s reconsideration packet; it does not establish when the police received it.
+Tara withdrew the threat complaint in writing. In a signed letter dated November 23, 2020, addressed to the Chappaqua Police Department, she wrote: “I would like to let this police department know that Mr. Stephen Russell never made a threat to kill myself or our daughter [E.V.]. I would like to withdraw any complaints regarding this made to the police department.” The copy is preserved as Exhibit D, page 8 of Steve’s reconsideration packet; it does not establish when the police received it.
 
 The forensic foundation was fraudulent. Raymond Griffin had been appointed by the court as a CASAC, a Credentialed Alcoholism and Substance Abuse Counselor, to prepare the forensic evaluation that would govern custody. In a case involving multiple poisoning substances, a woman who had admitted under oath to drugging her partner with an antipsychotic, and a post-provocation urine report whose commentary called the lithium result unexpectedly high, the court's chosen instrument for evaluating the chemical dimension of the dispute was a substance abuse counselor whose credential was issued by the Office of Addiction Services and Supports and whose clinical authority extended to alcoholism counseling, not forensic toxicology.
 
@@ -9882,4 +9882,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: 0f086007166c
+- Content hash: d52b2142ec79
