@@ -35,7 +35,7 @@ Specimen Type:
 Urine
 Collected:
 03/07/2018 |
-Reported:
+Received:
 03/09/2018 4:52 PM
 Final Result Summary:
 Carboxyzolpidem detected by LC/MS/MS (2360 ng/mL)

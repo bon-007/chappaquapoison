@@ -379,7 +379,7 @@ She explained that the bags were manufactured in China through a contact her fri
   </div>
   <div class="embed-body">
     <div class="document-text">
-      <p>Mom started a handbag business that features practical and professional purses with plenty of pockets. Tara Knoll — the name that sounded less like a brand than a place. Soft leather, hidden zippers, layers within layers.</p>
+      <p>Mom has a handbag business that uses cheap labor in China to make designer purses. She learned the business from her best friend Jesse and almost got on Shark Tank. Her best friend Jesse's dad is like the largest importer of handbags from China in the US, or something.</p>
     </div>
   </div>
   <div class="embed-caption">
@@ -447,7 +447,7 @@ He said yes.
   </div>
   <div class="embed-body">
     <div class="document-text">
-      <p>I'm on a boat — Mom and Dad meet on a boat on the Hudson River. The origin of the story that would become everything. A Saturday afternoon, a marina near Wall Street, a girl in a red-and-white dress.</p>
+      <p>Mom has her rascally, but lovable, dog Riley in tow and chain smokes a special brand of nicotine vape cigarettes for the entirety of the trip. She does not drink. She is in AA, she explains and has recently given up smoking.</p>
     </div>
   </div>
   <div class="embed-caption">
@@ -1201,21 +1201,7 @@ He did not know why he was being watched.
 The lab report sat in a folder on his naturopath's desk, unread. Lithium, which the laboratory called unexpectedly high. No prescription, Steve says. A data point without a story.
 
 
-<div class="evidence-embed embed-document" data-exhibit="ExI_02" data-type="lab-report">
-  <div class="embed-header">
-    <span class="embed-type">LABORATORY REPORT</span>
-    <span class="embed-source">LabCorp — Heavy Metals Toxicology Panel</span>
-  </div>
-  <div class="embed-body">
-    <div class="document-text">
-      <p>LabCorp heavy metals toxicology report documenting Stephen Russell's exposure levels. The second laboratory to flag anomalous results — confirming what Doctor's Data had found. Two labs. Two methodologies. The same answer.</p>
-    </div>
-  </div>
-  <div class="embed-caption">
-    <span class="embed-exhibit-id">LabCorp Heavy Metals Toxicology</span>
-    <span class="embed-caption-text">A second lab confirmed the first. The numbers were not artifacts. Discovery production, Russell v. Walsh.</span>
-  </div>
-</div>
+
 
 
 The fog came in over the hill the way it did every night. The house on Vermont Street was quiet.
@@ -1230,7 +1216,7 @@ The fog came in over the hill the way it did every night. The house on Vermont S
 
 Tags: Escalation, Narrative Inversion, Poisoning, Potrero Hill, Tara Walsh
 
-Selected evidence references: 52
+Selected evidence references: 53
   - C-6
   - ExMM_UBER_04
   - IMESSAGE_DB_TARA_2017_2018
@@ -1242,6 +1228,7 @@ Selected evidence references: 52
   - EX_34_DROPPED_BABY
   - ExTR_19
   - SCREENSHOT_TARA_FAKE_CRYING_ZAR
+  - ExG_05
   - ExN_02
   - D-33
   - A-4
@@ -1408,6 +1395,8 @@ Not thrown. Dissolved. The attachment to the DV-120 response contains a step-by-
 
 In the response, she described the two May 2018 Seroquel incidents as acts taken for safety during what she called psychotic episodes.
 
+Her account was later tested in court. In Steve's civil suit, Russell v. Walsh (San Francisco Superior Court No. CGC-18-570137), she admitted in her own testimony, as the Court of Appeal recounted, that on at least two occasions she put Seroquel into his wine "without asking his permission or telling him she was doing so." The jury found her liable for battery, intentional infliction of emotional distress and domestic violence. She appealed, and on September 15, 2023, the Court of Appeal affirmed, holding that the evidence supported the verdict on all three torts. His lack of consent, the court wrote, "follows from the testimony showing that he was ignorant of Walsh's conduct and panicked upon feeling the drug's effects." Her claim that she drugged him in self-defense failed: he testified that he never physically harmed her or threatened her with physical harm, and the jury "apparently resolved this question of credibility against her." The two cases she cited for consent concerned signed medical consent forms, and the court found neither relevant to her claim of implied consent. For the emotional-distress claim, the court wrote that her extreme and outrageous conduct "consisted of her drugging Russell's wine without his knowledge or consent." [Read the Court of Appeal opinion.](../Evidence/pdf/court_filings/ExG_05_CA_Appeal_A165356_Affirmed.pdf)
+
 On June 4, 2018, a recording captured what she told her father on the phone in the back of an Uber, their four-month-old daughter beside her.
 
 
@@ -1495,7 +1484,7 @@ The next day a video arrived.
 
 Tara, crying. Shaking. Her face filling the screen, mascara streaked, the trembling voice of a woman in distress. She said she might be pregnant and didn't want to be. She said she couldn't even bring herself to take a test.
 
-<div class="imessage-embed" data-exhibit="D-7" data-date="2017-09-23">
+<div class="imessage-embed" data-exhibit="D-7" data-date="2017-05-23">
   <div class="imessage-statusbar">
     <div class="status-notch"></div>
   </div>
@@ -1504,7 +1493,7 @@ Tara, crying. Shaking. Her face filling the screen, mascara streaked, the trembl
     <span class="contact-label">iChat</span>
   </div>
   <div class="imessage-thread">
-    <div class="msg-timestamp">September 23, 2017</div>
+    <div class="msg-timestamp">May 23, 2017</div>
     <div class="msg-sender-label">Tara</div>
     <div class="msg-bubble msg-incoming">If I take any more meds I will be a zombie</div>
     <div class="msg-bubble msg-incoming">In an electric wheelchair</div>
@@ -1526,7 +1515,7 @@ Tara, crying. Shaking. Her face filling the screen, mascara streaked, the trembl
   </div>
 </div>
 <div class="imessage-caption">
-  <span class="embed-exhibit-id">Tara Walsh to Zar, September 23, 2017</span>
+  <span class="embed-exhibit-id">Tara Walsh to Zar, May 23, 2017</span>
   <span class="embed-caption-text">iChat desktop. Recovered from device backup. The Backup archive, Russell v. Walsh.</span>
 </div>
 
@@ -2949,33 +2938,7 @@ First, she blamed her parents. The conflict, the apartment, the fumes, the depar
 Then she promised cooperation.
 
 
-<div class="imessage-embed" data-exhibit="TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL" data-date="July 21, 2018">
-  <div class="imessage-statusbar">
-    <div class="status-notch"></div>
-  </div>
-  <div class="imessage-header">
-    <span class="contact-name">Walsh</span>
-    <span class="contact-label">iMessage</span>
-  </div>
-  <div class="imessage-thread">
-    <div class="msg-timestamp">Saturday, July 21, 2018</div>
-    <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">I know the miscarriage was really hard on you too and I'm sorry you had to go through that</div>
-    <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">But you need to get sober and get yourself together before you can see Evie</div>
-    <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">Please don't start court proceedings- that will only make things worse for everyone especially Evie</div>
-    <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">Thank you for paying the child support</div>
-  </div>
-  <div class="imessage-inputbar">
-    <div class="input-pill"></div>
-  </div>
-</div>
-<div class="imessage-caption">
-  <span class="embed-exhibit-id">Tara Walsh iMessage, July 21, 2018</span>
-  <span class="embed-caption-text">Empathy as opening, stability-questioning as leverage, Evie access conditional on compliance, court deterrence.</span>
-</div>
+
 
 She would bring Evie to California. They could share time. They could figure out the logistics. She would be reasonable. She wanted what was best for Evie. She said this in a tone Steve had heard before, the sincere, specific voice she used when the words were exactly what the listener needed to hear. He could not tell whether she meant it. He could never tell whether she meant it. What he could tell was that the tone was always the same, whether the promise was kept or broken.
 
@@ -3350,23 +3313,22 @@ He did not know about the Rules List. He did not know about the exit planning, o
 
 Within days of the landing, Tara shared an iCloud photo album called "My Life in San Francisco."
 
-It arrived on Steve's phone because she had sent it, her album, her photos, her decision to share. Steve's response, in a message to someone else: "Well you sent them so, it's a big whatever. Prob some auto sharing thing, but way to be dramatic."
+It arrived on Steve's phone because she had sent it, her album, her photos, her decision to share. Steve's response, in a message back to her: "Well you sent them so, it's a big whatever. Prob some auto sharing thing, but way to be dramatic."
 
-<div class="imessage-embed" data-exhibit="SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP" data-date="March 2018">
+<div class="imessage-embed" data-exhibit="SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP">
   <div class="imessage-statusbar">
     <div class="status-notch"></div>
   </div>
   <div class="imessage-header">
     <span class="contact-name">Walsh</span>
-    <span class="contact-label">iMessage</span>
+    <span class="contact-label">Message screenshot</span>
   </div>
   <div class="imessage-thread">
-    <div class="msg-timestamp">March 2018</div>
-    <div class="msg-sender-label">Walsh</div>
-    <div class="msg-bubble msg-incoming">[Shared iCloud Photo Album: "My Life in San Francisco"]</div>
-    <div class="msg-sender-label">Walsh — 3 hours later</div>
+    <div class="msg-sender-label">Walsh — 3 HR AGO</div>
     <div class="msg-bubble msg-incoming">That's a lie, doesn't scare me and has nothing to do with Evie.</div>
-    <div class="msg-timestamp">Steve, to someone else:</div>
+    <div class="msg-sender-label msg-label-right">Steve — 1 MIN AGO</div>
+    <div class="msg-bubble msg-outgoing">[Screenshot of the Photos app: MONDAY, JANUARY 7 · For You · Memories · MY LIFE IN SAN FRANCISCO 2016 – 2017]</div>
+    <div class="msg-sender-label msg-label-right">Steve</div>
     <div class="msg-bubble msg-outgoing">Well you sent them so, it's a big whatever. Prob some auto sharing thing, but way to be dramatic.</div>
   </div>
   <div class="imessage-inputbar">
@@ -3374,8 +3336,8 @@ It arrived on Steve's phone because she had sent it, her album, her photos, her 
   </div>
 </div>
 <div class="imessage-caption">
-  <span class="embed-exhibit-id">iMessage Device Capture, March 2018</span>
-  <span class="embed-caption-text">Tara sent the album. Then built a case from the fact that it arrived. Discovery — Device Capture.</span>
+  <span class="embed-exhibit-id">Message screenshot, Walsh conversation</span>
+  <span class="embed-caption-text">Her message, then his screenshot of the Photos memory and his reply. The screenshot gives no year for the exchange. Tara sent the album. Then built a case from the fact that it arrived.</span>
 </div>
 
 The album would later appear in court filings — not as evidence that Tara had shared her own photos, but as evidence that Steve had violated the Temporary Order of Protection by receiving them. She manufactured the contact, then weaponized it. The scheme was running before the first week in San Francisco was over.
@@ -3866,7 +3828,7 @@ He knew this sensation. Not from poison. Not from drugs. From exercise supplemen
   <div class="embed-body">
     <div class="document-text">
       <p><strong>Patient:</strong> Stephen Russell Per M. Hatcher | <strong>Specimen Type:</strong> Urine</p>
-      <p><strong>Collected:</strong> 03/07/2018 | <strong>Reported:</strong> 03/09/2018 4:52 PM</p>
+      <p><strong>Collected:</strong> 03/07/2018 | <strong>Received:</strong> 03/09/2018 4:52 PM</p>
       <p><strong>Final Result Summary:</strong></p>
       <p>Carboxyzolpidem detected by LC/MS/MS (2360 ng/mL)<br>Zolpidem detected by LC/MS/MS (1 ng/mL)</p>
     </div>
@@ -9882,4 +9844,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: d52b2142ec79
+- Content hash: 926efdd86587
