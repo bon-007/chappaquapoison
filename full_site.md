@@ -2283,7 +2283,7 @@ Selected evidence references: 22
 Four days before Evie's birth, Walsh Sr. sent a text message to his daughter:
 
 > "Delete delete"
->, Stephen Walsh Sr., iMessage (January 23, 2018)
+> — Stephen Walsh Sr., iMessage (January 23, 2018)
 
 Two days before Evie's birth, Tara sent a text message to her sister asking her to bring Seroquel and Adderall to the hospital. The messages to Brienne — from triage, through the C-section announcement, through "It's crazy I will have a baby in a few hours" — had already shown the sister who would later claim no involvement was the first person Tara called.
 
@@ -2415,7 +2415,7 @@ Steve knew Tara was struggling with her medications. He had watched it, the adju
 At 10:54 that night, six feet from the bassinet where Evie slept, Tara sat in the hospital bed with her phone and sent a text to her sister asking for drugs.
 
 > "No signs of withdrawal from my drugs."
->, Tara Walsh, iMessage (January 27, 2018, 10:54 PM)
+> — Tara Walsh, iMessage (January 27, 2018, 10:54 PM)
 
 Steve was in the room. The recliner. The monitor beeping. His daughter's fingers curling and uncurling in her sleep. And Tara, on her phone, managing the other life, the pharmaceutical one, that ran parallel to the one they were supposed to be sharing.
 
@@ -3846,7 +3846,7 @@ They did not go to the hospital. The flush subsided over the next hour. The redn
 But the recording existed. The texts existed. The next day, Tara emailed the videos to Matan Gavish with two words:
 
 > "Listen. Save."
->, Tara Walsh, email to Matan Gavish (April 2018)
+> — Tara Walsh, email to Matan Gavish (April 2018)
 
 Tara had not caused the flush. Or she had. The mechanism was unclear, niacin could have been in the wine or in the food or in the glass before either was poured. Steve did not know.
 
@@ -9844,4 +9844,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: 926efdd86587
+- Content hash: 06be1cf2b2ed
