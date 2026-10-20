@@ -3631,7 +3631,7 @@ The alternative was the Millennium Tower.
 
 ---
 
-The building stood at 301 Mission Street in SoMa, fifty-eight stories of steel and glass and reinforced concrete, the tallest residential structure in the city. Steve signed the lease on a penthouse not because it was beautiful, though it was, but because it offered what Presidio Heights could not: controlled access. One entrance. A lobby with security personnel who checked identification before allowing anyone past the desk. Elevators that required key cards. Hallways with cameras. The infrastructure of a building designed to keep people out, which was, by the spring of 2018, exactly what Steve needed to keep his daughter safe.
+The building stood in SoMa, fifty-eight stories of steel and glass and reinforced concrete, the tallest residential structure in the city. Steve signed the lease on a penthouse not because it was beautiful, though it was, but because it offered what Presidio Heights could not: controlled access. One entrance. A lobby with security personnel who checked identification before allowing anyone past the desk. Elevators that required key cards. Hallways with cameras. The infrastructure of a building designed to keep people out, which was, by the spring of 2018, exactly what Steve needed to keep his daughter safe.
 
 Evie's crib went in the bedroom. Her toys went in the living room. The floor-to-ceiling windows looked out over the city and the bay and, on clear mornings, the East Bay hills beyond. The penthouse had the particular stillness of a residence at the top of a building, no street noise, no neighbors through the walls, just the hum of systems designed to make life at that altitude feel like the ground.
 
@@ -3666,7 +3666,7 @@ Steve wrote Caraway an email. The subject line was "Lithium in My System."
 
 <div class="email-facsimile" data-exhibit="EMAIL_9330">
   <div class="email-header">
-    <div class="email-field"><span class="email-label">From:</span> Steve Russell &lt;sgrussell@pm.me&gt;</div>
+    <div class="email-field"><span class="email-label">From:</span> Steve Russell &lt;[personal email withheld]&gt;</div>
     <div class="email-field"><span class="email-label">To:</span> Caraway, Brendan (POL) &lt;Brendan.T.Caraway@sfgov.org&gt;; Stacey Poole; Jason [Advocate LLP]</div>
     <div class="email-field"><span class="email-label">Date:</span> July 23, 2018</div>
     <div class="email-field"><span class="email-label">Subject:</span> Lithium in My System</div>
@@ -3858,7 +3858,7 @@ Four and a half months later, Steve sent an email to Sergeant Brendan Caraway at
 
 <div class="email-facsimile" data-exhibit="EMAIL_9330">
   <div class="email-header">
-    <span class="email-from"><strong>From:</strong> Steve Russell &lt;sgrussell@pm.me&gt;</span>
+    <span class="email-from"><strong>From:</strong> Steve Russell &lt;[personal email withheld]&gt;</span>
     <span class="email-to"><strong>To:</strong> Sgt. Caraway, SFPD; Stacey Poole; Jason (Advocate LLP)</span>
     <span class="email-date"><strong>Date:</strong> July 23, 2018</span>
     <span class="email-subject"><strong>Subject:</strong> Lithium in My System</span>
@@ -4415,7 +4415,7 @@ To Matan, the night before the jet left Teterboro, she was more direct. "Maybe y
 
 ---
 
-On June 4, 2018, Tara picked up Evie from the crib, put on her coat, grabbed a bag, and walked out of the penthouse at 301 Mission Street without saying where she was going.
+On June 4, 2018, Tara picked up Evie from the crib, put on her coat, grabbed a bag, and walked out of the penthouse without saying where she was going.
 
 The security team noticed. Bryan Crutcher noticed.
 
@@ -4423,7 +4423,7 @@ Bryan had been with the household since the early days of the Millennium Tower. 
 
 Tara bypassed the arranged transport. The security team had drivers for this: cars that were available, drivers who knew the routes, a system that existed precisely so that Tara and Evie could move safely around the city. She did not use them. She called an Uber.
 
-The Uber arrived at 301 Mission and stopped in a red zone where buses were loading and unloading passengers. Tara carried Evie into the back seat.
+The Uber arrived at the building and stopped in a red zone where buses were loading and unloading passengers. Tara carried Evie into the back seat.
 
 Bryan had seconds to decide. The family car was in the Millennium Tower's valet parking structure, two floors underground. Heavy traffic was moving through Mission Street. The red zone had buses loading and unloading around them. By the time he retrieved the car and cleared the garage, the Uber would be on the highway. He walked to the Uber, opened the door, sat in the front passenger seat, and explained to the driver that he had been instructed by the father of the baby to ensure the child's safe arrival and boarding of the plane to New York.
 
@@ -5355,7 +5355,7 @@ The carrier pigeons never arrived.
 
 # [B27] The Bruises
 
-> During Visit 15, Steve and two other adults discover bruises on Evie consistent with deliberate injury. Both parents report the bruises as concerning. Tara tells the Attorney for the Child. Steve tells his attorneys, and then the police. Within ten days, the story migrates three times — from concerning to normal to nonexistent — and the court accepts the final version. Months later, Tara's own attorney recuses from the case.
+> During Visit 15, Steve and two other adults discover bruises on Evie consistent with deliberate injury. Both parents report the bruises as concerning. Tara tells the Attorney for the Child. Steve tells his attorneys, and then the police. Within ten days, the story migrates three times — from concerning to normal to "utterly untrue" — and the court accepts the final version. Months later, Tara's own attorney recuses from the case.
 
 **Phase V | The Cover | March–April 2019**
 
@@ -5505,17 +5505,17 @@ The pinch bruise on the upper right thigh, the deep mark at the diaper line, the
 
 ---
 
-Then the story moved again.
+Before Jackman's email, the story had already moved again.
 
-On April 10, 2019, ten days after the visit, Tara's attorney John C. Guttridge wrote to the court.
+On April 10, 2019, ten days after the visit and the day after the police came to the Walsh house, Tara's attorney John C. Guttridge wrote to Steve's lawyers, Jason Advocate and Larry Carlin, with copies to Jackman, to Tara and to two other lawyers.
 
 Guttridge had started his career in the Westchester County Attorney's Office, the prosecution bureau that handled abuse, neglect, and juvenile delinquency in the same courthouse where he now appeared as a private practitioner representing the person he would formerly have been prosecuting. He had spent four years there, from 1988 to 1992, before moving through two firms and opening his own practice — Guttridge & Cambareri, P.C. — in White Plains.
 
 He was, in other words, the man the system produced. And the letter he was about to write, calling the bruise documentation "utterly untrue" without offering evidence, calling the police report "false," describing the father's behavior as "signs of real instability", would be accepted by the court without examination, in the way that letters from men the system has produced are accepted by the system that produced them.
 
-<div class="evidence-embed embed-document" data-exhibit="ExX_01" data-type="court-filing">
+<div class="evidence-embed embed-document" data-exhibit="ExX_01" data-type="correspondence">
   <div class="embed-header">
-    <span class="embed-type">Attorney Correspondence</span>
+    <span class="embed-type">Attorney correspondence (condensed)</span>
     <span class="embed-date">April 10, 2019</span>
     <span class="embed-source">Guttridge &amp; Cambareri</span>
   </div>
@@ -5523,16 +5523,16 @@ He was, in other words, the man the system produced. And the letter he was about
     <div class="document-text">
       <p><strong>John C. Guttridge</strong> to Jason Advocate and Larry Carlin</p>
       <p>Re: Walsh v. Russell, File No. 154703</p>
-      <p>Russell filed a police report claiming their daughter was being abused, reporting bruises as if she were pinched, red marks around her neck, and diarrhoea. Both these statements are utterly untrue, and Mr. Russell fully aware of same. This is the third false police report Russell has made against the family in less than one month. There are signs of real instability in Russell's manner. Russell must cease and desist from filing false police reports.</p>
+      <p>Russell filed a police report claiming their daughter was being abused, reporting bruises as if she were pinched, red marks around her neck, and diarrhoea. He apparently also said something about my client being abused. Both these statements are utterly untrue, and Mr. Russell fully aware of same. This is the third false police report Russell has made against the family in less than one month. There are signs of real instability in Russell's manner. Russell must cease and desist from filing false police reports.</p>
     </div>
   </div>
   <div class="embed-caption">
     <span class="embed-exhibit-id">Guttridge Letter — Cease and Desist, April 2019</span>
-    <span class="embed-caption-text">Ten days. Concerning became normal became nonexistent.</span>
+    <span class="embed-caption-text">To Steve's lawyers, ten days after the visit. Concerning became normal became "utterly untrue."</span>
   </div>
 </div>
 
-The letter stated that the Chappaqua police had come to the Walsh house. That Russell had filed a report claiming their daughter was being abused, that she had bruises as if she were "pinched," red marks around her neck, and diarrhoea. Guttridge called both statements utterly untrue, and Russell fully aware of same. He called the police report retaliation. He called it the third false police report Russell had made against the family in less than one month. He described signs of real instability in Russell's manner, instability, in the letter's usage, meaning the behavior of a father who photographs his daughter's bruises and reports them to the police, which is to say the behavior the system had instructed him to perform. He demanded Russell cease and desist from filing false police reports or he would seek court intervention.
+The letter stated that the Chappaqua police had come to the Walsh house. That Russell had filed a report claiming their daughter was being abused, that she had bruises as if she were "pinched," red marks around her neck, and diarrhoea. That he had apparently also said something about Tara being abused. Guttridge called both statements utterly untrue, and Russell fully aware of same. He called the police report retaliation. He called it the third false police report Russell had made against the family in less than one month. He described signs of real instability in Russell's manner, instability, in the letter's usage, meaning the behavior of a father who photographs his daughter's bruises and reports them to the police, which is to say the behavior the system had instructed him to perform. He demanded Russell cease and desist from filing false police reports or he would seek court intervention.
 
 No evidence was offered to support Guttridge's claims. No medical examination was ordered. No investigation was opened. The supervisor's documentation of the bruises, the photographs, the body diagram, the police report, the contemporaneous accounts from three adults, the nanny's written statement, Steve's same-day email to his attorneys, all of it existed. None of it was weighed against an attorney's assertion on letterhead.
 
@@ -5544,11 +5544,11 @@ Ten days. That is how long it took for the story to migrate.
 
 On March 31, the bruises were concerning. Both parents said so. Tara reported them to the Attorney for the Child. Steve reported them to his attorney, to Jackman, and to the police.
 
-Within a week, the Walsh grandparents told the responding officer the bruises were normal. The Attorney for the Child told Tara the shin bruise was not unusual for a walking child.
+More than a week later, on the evening of April 9, the Walsh grandparents told the responding officer the bruises were normal. The Attorney for the Child later wrote that she had told Tara the shin bruise was not unusual for a walking child.
 
-On April 10, Tara's attorney wrote the court that there were no bruises at all, and no history of abuse at the Walsh household. He called Steve a liar. He called the police report false.
+On April 10, Tara's attorney wrote to Steve's lawyers that Steve's police report, as the letter described it — that Evie was being abused, with bruises as if she were "pinched," red marks around her neck and diarrhoea — was "utterly untrue," and so was what Steve had apparently said about Tara herself being abused. He called Steve a liar. He called the police report false and warned that if Steve did not stop filing such reports, he would ask the court to intervene.
 
-Concerning. Normal. Nonexistent.
+Concerning. Normal. "Utterly untrue."
 
 The court accepted the final version.
 
@@ -5738,7 +5738,7 @@ LaMelle was too anxious from the encounter to respond.
 
 ---
 
-On Monday morning, September 23rd, the phone call came. Guttridge, the man the system produced, who had written the letter calling documented bruises nonexistent, called Claudette LaMelle directly, without Steve's attorney present, in violation of Provision 9 of the court order. He informed her that his client had complained about her supervision of the visit and about having Steve in the car when she returned Evie.
+On Monday morning, September 23rd, the phone call came. Guttridge, the man the system produced, who had written the April 10 letter calling Steve's report of Evie's documented bruises "utterly untrue," called Claudette LaMelle directly, without Steve's attorney present, in violation of Provision 9 of the court order. He informed her that his client had complained about her supervision of the visit and about having Steve in the car when she returned Evie.
 
 LaMelle attempted to explain that Steve had not entered the property and was left off on the public street.
 
@@ -5778,19 +5778,19 @@ The court order had been violated three ways in a single evening: family members
 
 The visits stopped.
 
-Guttridge, Tara's attorney, eventually discovered what he had been used to cover up. Months earlier he had written a letter to the court claiming there were "no bruises" on Evie and "no history of abuse" at the Walsh household, claims that were provably false. When he realized he had been used to facilitate a cover-up of deliberate child abuse, he recused himself from the case.
+Guttridge, Tara's attorney, eventually discovered what he had been used to cover up. Months earlier, on April 10, he had written to Steve's lawyers calling Steve's report of Evie's documented bruises "utterly untrue." When he realized he had been used to facilitate a cover-up of deliberate child abuse, he recused himself from the case.
 
 
 <div class="evidence-embed embed-document" data-exhibit="LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS">
   <div class="embed-header">
-      <span class="embed-type">Attorney Correspondence</span>
-      <span class="embed-date">2019-04</span>
-      <span class="embed-source">Court Record</span>
+      <span class="embed-type">Summary of attorney correspondence</span>
+      <span class="embed-date">April 10, 2019</span>
+      <span class="embed-source">Guttridge &amp; Cambareri</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Guttridge's letter to the court denied any bruises and any history of abuse at the Walsh household — after the court-appointed supervisor had documented concerning bruises on Evie minutes into a visit with Steve. When the Walshes told police "the bruises were normal — kids get bruises," and Guttridge wrote that the father had made the whole matter up, the cover-up required an attorney willing to put his name on it. Guttridge eventually discovered the role he had played. His replacement, Christopher Weddle, continued representing Tara — and was subsequently appointed as a Support Magistrate at Westchester Family Court.</p></div>
+    <div class="document-text"><p>Guttridge's April 10 letter to Steve's lawyers called Steve's police report about Evie's bruises, and what Steve had apparently said about Tara herself being abused, "utterly untrue" — after the court-appointed supervisor had documented concerning bruises on Evie minutes into a visit with Steve. When the Walshes told police "the bruises were normal — kids get bruises," and Guttridge wrote that the father had made the whole matter up, the cover-up required an attorney willing to put his name on it. Guttridge eventually discovered the role he had played. His replacement, Christopher Weddle, continued representing Tara — and was subsequently appointed as a Support Magistrate at Westchester Family Court.</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Attorney John Guttridge, Letter to Court, 2019</span><span class="embed-caption-text">The attorney who discovered what he had been used to cover up. His replacement was appointed Support Magistrate.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Attorney John Guttridge, letter to Steve's lawyers, April 10, 2019</span><span class="embed-caption-text">The attorney who discovered what he had been used to cover up. His replacement was appointed Support Magistrate.</span></div>
 </div>
 
 
@@ -6775,7 +6775,7 @@ Two incidents. One documented, one not. No connection visible between them unles
 
 2018. The apartment on Vermont Street, San Francisco.
 
-Abrehet Tedla, Abby, had been Evie's nanny since March 2018. She lived with Steve and Tara in the apartment at 301 Mission Street. She worked eighteen to twenty-two hours a day, seven days a week, because Tara's medication prevented her from caring for Evie at night and often during the day. Abby loved Evie. She described her as the happiest baby she had ever seen in her life.
+Abrehet Tedla, Abby, had been Evie's nanny since March 2018. She lived with Steve and Tara in the apartment. She worked eighteen to twenty-two hours a day, seven days a week, because Tara's medication prevented her from caring for Evie at night and often during the day. Abby loved Evie. She described her as the happiest baby she had ever seen in her life.
 
 What Abby saw in that apartment she put under oath.
 
@@ -7154,7 +7154,7 @@ He was not arguing against a judge. He was arguing against the building.
 
 At the same hearing, the Attorney for the Child was relieved.
 
-Jennifer Jackman had been the AFC since the case began in Westchester. She had been present at the June 1 hearing twelve weeks earlier, recommending weekend visits as a starting point, speaking in the measured cadences of a professional managing a difficult case. She had been present when the bruises were documented and when Guttridge wrote his letter denying any bruises existed. She had dismissed the pinch marks on Evie with scare quotes and declined to investigate Steve's poisoning reports. She had received his correspondence about the laboratory evidence. She had watched four judges cycle through the case and done nothing to alter the trajectory.
+Jennifer Jackman had been the AFC since the case began in Westchester. She had been present at the June 1 hearing twelve weeks earlier, recommending weekend visits as a starting point, speaking in the measured cadences of a professional managing a difficult case. She had been the AFC when the bruises were documented, and she was copied on Guttridge's letter calling Steve's report of the bruises "utterly untrue." She had dismissed the pinch marks on Evie with scare quotes and declined to investigate Steve's poisoning reports. She had received his correspondence about the laboratory evidence. She had watched four judges cycle through the case and done nothing to alter the trajectory.
 
 Her application to be relieved had been filed the night before. Steve had not read it in detail; he had spoken to her by phone. "I do not object. I appreciate her services very much and I think she's making the right decision." Weddle had no objection.
 
@@ -9712,7 +9712,7 @@ Selected evidence references: 4
   <div class="imessage-thread">
     <div class="msg-timestamp">Date not shown</div>
     <div class="msg-sender-label">Tara</div>
-    <div class="msg-bubble msg-incoming">Evie was begging to be able to see you last night. Pretty heartbreaking. I don't know what to do.</div>
+    <div class="msg-bubble msg-incoming">Evie was begging to be able to see you last night. Pretty heartbreaking. I don't know what to do. I can't leave NY with her on my own.</div>
   </div>
   <div class="imessage-inputbar">
     <div class="input-pill"></div>
@@ -9751,7 +9751,7 @@ Selected evidence references: 4
 <hr />
 <p>There is a room upstairs.</p>
 <p>Books on the shelves, the books a girl her age would read. Board games in the closet. Photographs on the wall. The room has been ready for years.</p>
-<p>The room has been ready for years.</p>
+<p><em>The room has been ready for years.</em></p>
 <p>Steve stands in the doorway sometimes. Not often, not as a ritual or a performance of grief, just occasionally, the way a person pauses at a threshold. The books are the right books for a girl her age. He updates them as she grows, although he has not seen her grow; the titles change from picture books to chapter books by the age ranges printed on spines, not by watching a daughter discover what she loves to read. He does not know what she loves. He knows what a girl her age might love. Each book he sets on the shelf is a choice — to keep preparing a room for a daughter who may never arrive, or to stop, and in stopping become the absent father the court already described.</p>
 <p>Across the yard there is a small guest house, for if she is older when she comes.</p>
 <p>It is never too late for one person to do the right thing. He still believes that. If no one in Chappaqua ever does, the record will be here when it is needed — and the one person, in the end, may be Evie herself.</p>
@@ -9844,4 +9844,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: 06be1cf2b2ed
+- Content hash: dcaaf08c6da1

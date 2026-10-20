@@ -1,7 +1,7 @@
 # Uber Recording Transcript — June 5, 2018
 
 ## Source
-Email from Steve Russell (sgrussell@pm.me) to Stacey Poole (stacey@cafamilylaw.com)
+Email from Steve Russell (personal email address removed) to Stacey Poole (stacey@cafamilylaw.com)
 Date: July 29, 2018
 Subject: "Uber Driver Recordings"
 Attachments: Uber 3.m4a, Uber 4 Tara Ad Drugging.m4a, Uber 4.m4a

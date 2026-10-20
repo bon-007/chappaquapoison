@@ -10,7 +10,7 @@ def stage(root, destination, media_map):
     verify(root)
     manifest=json.loads((root/'release-manifest.json').read_text())
     media=json.loads(Path(media_map).read_text())
-    if len(media)!=311: raise ValueError('Unexpected reviewed media inventory')
+    if len(media)!=44: raise ValueError('Unexpected reviewed media inventory')
     for url,e in media.items():
         if not url.startswith('/') or url.startswith('//') or '?' in url or '#' in url or '..' in Path(url).parts: raise ValueError('Unsafe media path')
         if manifest['files'].get(url[1:])!=e['sha256']: raise ValueError('Media differs from accepted artifact')
