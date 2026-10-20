@@ -167,17 +167,13 @@ In hindsight. As if what happened in San Francisco were the result of a departur
 
 ## Evidence references
 
-- MSG-JESSE-001 The Rules List — Pre-SF Move Demands (Feb 18, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=MSG-JESSE-001
-- MSG-MATAN-006 Tara Walsh and Matan Gavish messages, February 20, 2018 Rendered message-export page; native extraction not verified in this review: https://chappaquapoison.com/evidence.html?search=MSG-MATAN-006
-- QUOTE-TARA-LEAVE-COMPOUND 'Things Get Bad When I Say I Want to Leave' — Tara on the Walsh Compound Social media post / text message — Tara's own words: https://chappaquapoison.com/evidence.html?search=QUOTE-TARA-LEAVE-COMPOUND
-- MSG-MATAN-005 'Kidnap Me and Evie So We Don't Have to Leave' — Night Before SF (Mar 2, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?search=MSG-MATAN-005
-- MSG-JESSE-002 Exit Planning Before Arrival — 'I could never leave in a court' (Mar 3, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=MSG-JESSE-002
-- MSG-WALSHSR-003 Walsh Sr. Requests Evie's SSN on Private Jet Departure Day (Mar 3, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?search=MSG-WALSHSR-003
-- SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP Walsh message exchange — Photos memory and Steve’s reply Primary Source — iPhone Screenshot: https://chappaquapoison.com/evidence.html?search=SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP
-- TEXT_TARA_HINDSIGHT_ADMISSION Tara Walsh Admission — 'I wish I hadn't left the way I did. I was not in my right mind' Direct — Authenticated iMessage: https://chappaquapoison.com/evidence.html?search=TEXT_TARA_HINDSIGHT_ADMISSION
-- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?search=MSG-JESSE
-- MSG-MATAN Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-MATAN
-- F-036 Attic Confinement: https://chappaquapoison.com/evidence.html?search=F-036
-- MSG-WALSHSR Tara–Steve Walsh Sr. (Dad) Full iMessage Conversation: https://chappaquapoison.com/evidence.html?search=MSG-WALSHSR
-- MSG-STEVE Tara–Steve Russell Full iMessage Conversation (Mar 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-STEVE
+- MSG-JESSE-001 The Rules List — Pre-SF Move Demands (Feb 18, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=MSG-JESSE-001
+- MSG-MATAN-006 Tara Walsh and Matan Gavish messages, February 20, 2018 Rendered message-export page; native extraction not verified in this review: https://chappaquapoison.com/evidence.html?id=MSG-MATAN-006
+- QUOTE-TARA-LEAVE-COMPOUND 'Things Get Bad When I Say I Want to Leave' — Tara on the Walsh Compound Social media post / text message — Tara's own words: https://chappaquapoison.com/evidence.html?id=QUOTE-TARA-LEAVE-COMPOUND
+- MSG-MATAN-005 'Kidnap Me and Evie So We Don't Have to Leave' — Night Before SF (Mar 2, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-MATAN-005
+- MSG-JESSE-002 Exit Planning Before Arrival — 'I could never leave in a court' (Mar 3, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=MSG-JESSE-002
+- MSG-WALSHSR-003 Walsh Sr. Requests Evie's SSN on Private Jet Departure Day (Mar 3, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-WALSHSR-003
+- SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP Walsh message exchange — Photos memory and Steve’s reply Primary Source — iPhone Screenshot: https://chappaquapoison.com/evidence.html?id=SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP
+- TEXT_TARA_HINDSIGHT_ADMISSION Tara Walsh Admission — 'I wish I hadn't left the way I did. I was not in my right mind' Direct — Authenticated iMessage: https://chappaquapoison.com/evidence.html?id=TEXT_TARA_HINDSIGHT_ADMISSION
+- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?id=MSG-JESSE
 - Explore all 29 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B17

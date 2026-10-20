@@ -532,7 +532,7 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=LEGAL-INQUEST-TRANSCRIPT" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-TRANSCRIPT" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-INQUEST-TRANSCRIPT</span>
           <span class="hero-exhibit-title">Inquest Transcript — Westchester Family Court, January 5, 2022</span>
           <span class="hero-reliability">Official court transcript — digitally recorded proceeding</span>
@@ -540,23 +540,23 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=D-12" class="exhibit-chip">
+        <a href="../evidence.html?id=D-12" class="exhibit-chip">
           <span class="exhibit-id">D-12</span>
           <span class="exhibit-title">Genovese service letter with proposed orders — November 8, 2021</span>
         </a>
-        <a href="../evidence.html?search=ExTR_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_01" class="exhibit-chip">
           <span class="exhibit-id">ExTR_01</span>
           <span class="exhibit-title">Schauer hearing transcript, August 27, 2021 (Yonkers Family Court)</span>
         </a>
-        <a href="../evidence.html?search=ExTR_10_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_10_03" class="exhibit-chip">
           <span class="exhibit-id">ExTR_10_03</span>
           <span class="exhibit-title">Schauer hearing transcript, June 1, 2021 (Yonkers Family Court)</span>
         </a>
-        <a href="../evidence.html?search=B-12" class="exhibit-chip">
+        <a href="../evidence.html?id=B-12" class="exhibit-chip">
           <span class="exhibit-id">B-12</span>
           <span class="exhibit-title">Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-INQUEST-RULING" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-RULING" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-INQUEST-RULING</span>
           <span class="exhibit-title">Judge Schauer Ruling: Sole Custody to Walsh, Websites Must Be Deleted (Jan 2022)</span>
         </a>
@@ -3859,7 +3859,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3873,9 +3873,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

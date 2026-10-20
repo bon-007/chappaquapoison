@@ -79,16 +79,16 @@ After this, the system would make it complicated.
 
 ## Evidence references
 
-- EB2_MASTER_019 Steve Russell email to the Walsh grandparents — visits, September 8, 2018 Documented Record: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_019
-- EB2_MASTER_020 Statement excerpt attributed to Abby Tedla and Aunt K — Crabtree’s visit Unsigned excerpt; execution not established: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_020
-- EB2_MASTER_001 Book 2 Image 1/134 — Steve playing with toddler Evie — stuffed elephant, she reac Documented Record: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_001
-- EB2_MASTER_002 Book 2 Image 2/134 — Steve and Evie — she holds green toy phone, laughing. Same r: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_002
-- EB2_MASTER_075 Book 2 Image 75/134 — Walsh compound front gate — black wrought iron gates, ADT si: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_075
-- ExL_04 Gordon-Oliver temporary visitation order — 2018: https://chappaquapoison.com/evidence.html?search=ExL_04
-- ExTR_08 Gordon-Oliver hearing transcript, September 11, 2018: https://chappaquapoison.com/evidence.html?search=ExTR_08
-- SLE-069 Mom ordered by the court to live with Grimma & Grumpa for Evie’s safety: https://chappaquapoison.com/evidence.html?search=SLE-069
-- PHOTO_WALSH_COMPOUND_DRIVEWAY Walsh Compound — Long Gated Driveway, Brienne's Children in Toy Car: https://chappaquapoison.com/evidence.html?search=PHOTO_WALSH_COMPOUND_DRIVEWAY
-- ExOO_41 July 2018 Gordon-Oliver order to show cause and Walsh custody petition: https://chappaquapoison.com/evidence.html?search=ExOO_41
-- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137: https://chappaquapoison.com/evidence.html?search=B-10
-- ExTR_06 Gordon/Oliver Hearing — July 15, 2019: https://chappaquapoison.com/evidence.html?search=ExTR_06
+- EB2_MASTER_019 Steve Russell email to the Walsh grandparents — visits, September 8, 2018 Documented Record: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_019
+- EB2_MASTER_020 Statement excerpt attributed to Abby Tedla and Aunt K — Crabtree’s visit Unsigned excerpt; execution not established: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_020
+- EB2_MASTER_001 Book 2 Image 1/134 — Steve playing with toddler Evie — stuffed elephant, she reac Documented Record: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_001
+- EB2_MASTER_002 Book 2 Image 2/134 — Steve and Evie — she holds green toy phone, laughing. Same r: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_002
+- EB2_MASTER_075 Book 2 Image 75/134 — Walsh compound front gate — black wrought iron gates, ADT si: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_075
+- ExL_04 Gordon-Oliver temporary visitation order — 2018: https://chappaquapoison.com/evidence.html?id=ExL_04
+- ExTR_08 Gordon-Oliver hearing transcript, September 11, 2018: https://chappaquapoison.com/evidence.html?id=ExTR_08
+- SLE-069 Mom ordered by the court to live with Grimma & Grumpa for Evie’s safety: https://chappaquapoison.com/evidence.html?id=SLE-069
+- PHOTO_WALSH_COMPOUND_DRIVEWAY Walsh Compound — Long Gated Driveway, Brienne's Children in Toy Car: https://chappaquapoison.com/evidence.html?id=PHOTO_WALSH_COMPOUND_DRIVEWAY
+- ExOO_41 July 2018 Gordon-Oliver order to show cause and Walsh custody petition: https://chappaquapoison.com/evidence.html?id=ExOO_41
+- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137: https://chappaquapoison.com/evidence.html?id=B-10
+- ExTR_06 Gordon/Oliver Hearing — July 15, 2019: https://chappaquapoison.com/evidence.html?id=ExTR_06
 - Explore all 42 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B24

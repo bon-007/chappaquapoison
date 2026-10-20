@@ -99,15 +99,14 @@ Steve had an attorney. His attorney had appeared at the conference. His attorney
 
 ## Evidence references
 
-- LEGAL-RUSSELL-AFFIDAVIT-DEFAULT Stephen Russell — Signed Affidavit in Support of Motion to Reargue and Vacate, January 14, 2021 Signed January 14, 2021 affidavit, ¶¶3–4: telephone-appearance denial and flight. The previously linked August 2018 affidavit was a different document. Signed Under Penalty of Perjury: https://chappaquapoison.com/evidence.html?search=LEGAL-RUSSELL-AFFIDAVIT-DEFAULT
-- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021 Letter to the court: https://chappaquapoison.com/evidence.html?search=ExO_01
-- LEGAL-OP-2020-02-06 Order of Protection, Upon Default — Order No. 2020-000846, Docket O-12635-19, Hon. Nilda Morales Horowitz, February 6, 2020 The February 6, 2020 order itself (redacted public copy), replacing B-4_014 — the August 27, 2021 order protecting Steve — as the displayed 2020 instrument. In force to February 6, 2022. The custody disposition is a separate instrument; the drafting, ex parte and non-service account is Aunt K's May 10, 2021 letter (ExO_01), in her words. Court Record: https://chappaquapoison.com/evidence.html?search=LEGAL-OP-2020-02-06
-- B-7_020 Walsh v. Russell — Signed Order Motion Schedule Documented Record: https://chappaquapoison.com/evidence.html?search=B-7_020
-- A-7_02 Court-Office Acknowledgment of Correspondence — May 12, 2021 Court-office correspondence: https://chappaquapoison.com/evidence.html?search=A-7_02
-- ExO_04 Kelly Turnure letter to Hon. Esther Furman re interim support (February 2021): https://chappaquapoison.com/evidence.html?search=ExO_04
-- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court) August27 2021, pp10,12–13 and44: vacated default orders and reinstated petition.: https://chappaquapoison.com/evidence.html?search=ExTR_01
-- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court) November5 2021, p19: interim custody after vacatur.: https://chappaquapoison.com/evidence.html?search=ExTR_02
-- ExTR_03 Humphrey hearing transcript, January 26, 2021 (White Plains Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_03
-- ExTR_05_03 Humphrey Decision and Order (recusal), April 6, 2021: https://chappaquapoison.com/evidence.html?search=ExTR_05_03
-- B-7 O 03599 20 Temporary Order of Protection Extended Order Order 2021 005878 OPType: https://chappaquapoison.com/evidence.html?search=B-7
+- LEGAL-RUSSELL-AFFIDAVIT-DEFAULT Stephen Russell — Signed Affidavit in Support of Motion to Reargue and Vacate, January 14, 2021 Signed January 14, 2021 affidavit, ¶¶3–4: telephone-appearance denial and flight. The previously linked August 2018 affidavit was a different document. Signed Under Penalty of Perjury: https://chappaquapoison.com/evidence.html?id=LEGAL-RUSSELL-AFFIDAVIT-DEFAULT
+- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021 Letter to the court: https://chappaquapoison.com/evidence.html?id=ExO_01
+- LEGAL-OP-2020-02-06 Order of Protection, Upon Default — Order No. 2020-000846, Docket O-12635-19, Hon. Nilda Morales Horowitz, February 6, 2020 The February 6, 2020 order itself (redacted public copy), replacing B-4_014 — the August 27, 2021 order protecting Steve — as the displayed 2020 instrument. In force to February 6, 2022. The custody disposition is a separate instrument; the drafting, ex parte and non-service account is Aunt K's May 10, 2021 letter (ExO_01), in her words. Court Record: https://chappaquapoison.com/evidence.html?id=LEGAL-OP-2020-02-06
+- B-7_020 Walsh v. Russell — Signed Order Motion Schedule Documented Record: https://chappaquapoison.com/evidence.html?id=B-7_020
+- A-7_02 Court-Office Acknowledgment of Correspondence — May 12, 2021 Court-office correspondence: https://chappaquapoison.com/evidence.html?id=A-7_02
+- ExO_04 Kelly Turnure letter to Hon. Esther Furman re interim support (February 2021): https://chappaquapoison.com/evidence.html?id=ExO_04
+- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court) August27 2021, pp10,12–13 and44: vacated default orders and reinstated petition.: https://chappaquapoison.com/evidence.html?id=ExTR_01
+- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court) November5 2021, p19: interim custody after vacatur.: https://chappaquapoison.com/evidence.html?id=ExTR_02
+- ExTR_03 Humphrey hearing transcript, January 26, 2021 (White Plains Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_03
+- ExTR_05_03 Humphrey Decision and Order (recusal), April 6, 2021: https://chappaquapoison.com/evidence.html?id=ExTR_05_03
 - Explore all 52 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B32

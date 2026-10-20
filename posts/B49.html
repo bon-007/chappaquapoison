@@ -472,31 +472,31 @@
 
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=ExQQ_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExQQ_01" class="exhibit-chip">
           <span class="exhibit-id">ExQQ_01</span>
           <span class="exhibit-title">Stephen Walsh deposition, April 26, 2021 — full transcript (CGC-18-570137)</span>
         </a>
-        <a href="../evidence.html?search=ExQQ_01c" class="exhibit-chip">
+        <a href="../evidence.html?id=ExQQ_01c" class="exhibit-chip">
           <span class="exhibit-id">ExQQ_01c</span>
           <span class="exhibit-title">Stephen Walsh deposition, April 26, 2021 — excerpt (NDT 50631)</span>
         </a>
-        <a href="../evidence.html?search=SLE-053" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-053" class="exhibit-chip">
           <span class="exhibit-id">SLE-053</span>
           <span class="exhibit-title">Visit 15 (Part 3) Steve Walsh had been warned by police twice not to be present at Evie&#39;s pickups and drop-offs</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-WALSHSR-DECL-2021" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-WALSHSR-DECL-2021" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-WALSHSR-DECL-2021</span>
           <span class="exhibit-title">Walsh Sr. Declaration — &#34;I do not think there is any merit to any of his accusations&#34; (Oct 2021; jury verdict Feb 2022)</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_075" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_075" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_075</span>
           <span class="exhibit-title">Book 2 Image 75/134 — Walsh compound front gate — black wrought iron gates, ADT si</span>
         </a>
-        <a href="../evidence.html?search=PHOTO_WALSH_COMPOUND_DRIVEWAY" class="exhibit-chip">
+        <a href="../evidence.html?id=PHOTO_WALSH_COMPOUND_DRIVEWAY" class="exhibit-chip">
           <span class="exhibit-id">PHOTO_WALSH_COMPOUND_DRIVEWAY</span>
           <span class="exhibit-title">Walsh Compound — Long Gated Driveway, Brienne&#39;s Children in Toy Car</span>
         </a>
-        <a href="../evidence.html?search=ExOO_31" class="exhibit-chip">
+        <a href="../evidence.html?id=ExOO_31" class="exhibit-chip">
           <span class="exhibit-id">ExOO_31</span>
           <span class="exhibit-title">Walsh Sr Threatened Two Lawyers Audio</span>
         </a>
@@ -3799,7 +3799,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3813,9 +3813,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

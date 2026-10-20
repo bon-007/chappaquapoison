@@ -114,12 +114,12 @@ He did not know it was the last time. That is the particular cruelty of last tim
 
 ## Evidence references
 
-- ExT_01 Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury) Supervisor report (sworn): https://chappaquapoison.com/evidence.html?search=ExT_01
-- ExMM_07 Walsh 911 Call Media Record: https://chappaquapoison.com/evidence.html?search=ExMM_07
-- LEGAL-INQUEST-LAMELLE-VISIT Tara on Claudette LaMelle Visit — Claims Steve Hiding in Van (Sep 2019) Sworn testimony under oath: https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-LAMELLE-VISIT
-- LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS Guttridge & Cambareri letter to Advocate and Carlin re police report, April 10, 2019 (duplicate of ExX_01) Counsel letter: https://chappaquapoison.com/evidence.html?search=LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS
-- PDF_LETTER_COURT_ABUSE Letter to Judge Gordon-Oliver re Abuse (Nov 18, 2019): https://chappaquapoison.com/evidence.html?search=PDF_LETTER_COURT_ABUSE
-- PHOTO_WALSH_COMPOUND_DRIVEWAY Walsh Compound — Long Gated Driveway, Brienne's Children in Toy Car: https://chappaquapoison.com/evidence.html?search=PHOTO_WALSH_COMPOUND_DRIVEWAY
-- E-7_03 Supervised visitation order — provisions 1–9, page image: https://chappaquapoison.com/evidence.html?search=E-7_03
-- LEGAL-INQUEST-TRANSCRIPT Inquest Transcript — Westchester Family Court, January 5, 2022: https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-TRANSCRIPT
+- ExT_01 Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury) Supervisor report (sworn): https://chappaquapoison.com/evidence.html?id=ExT_01
+- ExMM_07 Walsh 911 Call Media Record: https://chappaquapoison.com/evidence.html?id=ExMM_07
+- LEGAL-INQUEST-LAMELLE-VISIT Tara on Claudette LaMelle Visit — Claims Steve Hiding in Van (Sep 2019) Sworn testimony under oath: https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-LAMELLE-VISIT
+- LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS Guttridge & Cambareri letter to Advocate and Carlin re police report, April 10, 2019 (duplicate of ExX_01) Counsel letter: https://chappaquapoison.com/evidence.html?id=LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS
+- PDF_LETTER_COURT_ABUSE Letter to Judge Gordon-Oliver re Abuse (Nov 18, 2019): https://chappaquapoison.com/evidence.html?id=PDF_LETTER_COURT_ABUSE
+- PHOTO_WALSH_COMPOUND_DRIVEWAY Walsh Compound — Long Gated Driveway, Brienne's Children in Toy Car: https://chappaquapoison.com/evidence.html?id=PHOTO_WALSH_COMPOUND_DRIVEWAY
+- E-7_03 Supervised visitation order — provisions 1–9, page image: https://chappaquapoison.com/evidence.html?id=E-7_03
+- LEGAL-INQUEST-TRANSCRIPT Inquest Transcript — Westchester Family Court, January 5, 2022: https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-TRANSCRIPT
 - Explore all 94 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B28

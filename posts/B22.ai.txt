@@ -96,16 +96,15 @@ It was not theater. It was a plan.
 
 ## Evidence references
 
-- SLE-094 Mom abandons Evie and heads to the airport after being caught by the nanny putting drugs in Dad's wine Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-094
-- LEGAL-DVRO-TEDLA-NAMES-QUIET Tedla: Walsh Called Russell 'Fat, Stupid, Drug Addict' — 'He's Quiet All the Time' (Aug 29, 2018) Sworn eyewitness testimony under oath: https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-TEDLA-NAMES-QUIET
-- LEGAL-DVRO-WILLIAMS-EYEWITNESS Williams Under Oath: Tara Pushing Steve, Kicking His Shin — 'Russell Was Calm' (Aug 29, 2018) Sworn eyewitness testimony under oath — retired police officer: https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-WILLIAMS-EYEWITNESS
-- LEGAL-INQUEST-VIOLENCE-ACCUSATION Tara Accuses Steve of March 2018 SF Violence — Bruises, Broken Phone, Smashed Laptop (Jan 2022) Sworn testimony under oath: https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-VIOLENCE-ACCUSATION
-- EB1_P049 Book 1 Image 24/69 — Tara fake crying selfie — performative distress, lying on co Document: https://chappaquapoison.com/evidence.html?search=EB1_P049
-- LEGAL-DVRO-APPEASE-LYING Tara Under Oath: 'I Intentionally Was Telling Him Things to Appease Him' (Aug 29, 2018): https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-APPEASE-LYING
-- LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS Tara on Brienne's Statement: 'Beautifully Written' But Steve Never Beat Her Unconscious (Aug 29, 2018): https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS
-- LEGAL-INQUEST-NO-POLICE-REPORT March 2018 Violence: No Police Report, No Photos in Evidence (Jan 2022): https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-NO-POLICE-REPORT
-- PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018 Email, Matan Gavish ↔ Tara Walsh, March 9, 2018 (duplicate of ExB_02): https://chappaquapoison.com/evidence.html?search=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018
-- ExA_01 Works for us — archived email reproduction, June 8, 2018: https://chappaquapoison.com/evidence.html?search=ExA_01
-- PDF_DV_TRIAL_TRANSCRIPT DV Trial Day 1 Transcript — Russell v Walsh (Aug 29, 2018): https://chappaquapoison.com/evidence.html?search=PDF_DV_TRIAL_TRANSCRIPT
-- LEGAL-INQUEST-TRANSCRIPT Inquest Transcript — Westchester Family Court, January 5, 2022: https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-TRANSCRIPT
+- SLE-094 Mom abandons Evie and heads to the airport after being caught by the nanny putting drugs in Dad's wine Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-094
+- LEGAL-DVRO-TEDLA-NAMES-QUIET Tedla: Walsh Called Russell 'Fat, Stupid, Drug Addict' — 'He's Quiet All the Time' (Aug 29, 2018) Sworn eyewitness testimony under oath: https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-TEDLA-NAMES-QUIET
+- LEGAL-DVRO-WILLIAMS-EYEWITNESS Williams Under Oath: Tara Pushing Steve, Kicking His Shin — 'Russell Was Calm' (Aug 29, 2018) Sworn eyewitness testimony under oath — retired police officer: https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-WILLIAMS-EYEWITNESS
+- LEGAL-INQUEST-VIOLENCE-ACCUSATION Tara Accuses Steve of March 2018 SF Violence — Bruises, Broken Phone, Smashed Laptop (Jan 2022) Sworn testimony under oath: https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-VIOLENCE-ACCUSATION
+- EB1_P049 Book 1 Image 24/69 — Tara fake crying selfie — performative distress, lying on co Document: https://chappaquapoison.com/evidence.html?id=EB1_P049
+- LEGAL-DVRO-APPEASE-LYING Tara Under Oath: 'I Intentionally Was Telling Him Things to Appease Him' (Aug 29, 2018): https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-APPEASE-LYING
+- LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS Tara on Brienne's Statement: 'Beautifully Written' But Steve Never Beat Her Unconscious (Aug 29, 2018): https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS
+- LEGAL-INQUEST-NO-POLICE-REPORT March 2018 Violence: No Police Report, No Photos in Evidence (Jan 2022): https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-NO-POLICE-REPORT
+- PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018 Email, Matan Gavish ↔ Tara Walsh, March 9, 2018 (duplicate of ExB_02): https://chappaquapoison.com/evidence.html?id=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018
+- ExA_01 Works for us — archived email reproduction, June 8, 2018: https://chappaquapoison.com/evidence.html?id=ExA_01
+- LEGAL-INQUEST-TRANSCRIPT Inquest Transcript — Westchester Family Court, January 5, 2022: https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-TRANSCRIPT
 - Explore all 32 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B22

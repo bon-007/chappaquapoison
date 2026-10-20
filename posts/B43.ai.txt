@@ -54,7 +54,7 @@ Being right in two jurisdictions is not the same as being restored in one.
 
 ## Evidence references
 
-- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced Documented Record: https://chappaquapoison.com/evidence.html?search=B-12
-- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_02
-- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_01
+- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced Documented Record: https://chappaquapoison.com/evidence.html?id=B-12
+- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_02
+- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_01
 - Explore all 58 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B43

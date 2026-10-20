@@ -27,10 +27,10 @@ Stephen stood on the pavement and watched them go. Then the taillights vanished 
 
 ## Evidence references
 
-- ExT_01 Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury): https://chappaquapoison.com/evidence.html?search=ExT_01
-- DOC_NY_DEMAND_PROSECUTION NY Demand for Prosecution — 33rd Precinct: https://chappaquapoison.com/evidence.html?search=DOC_NY_DEMAND_PROSECUTION
-- PHOTO_WALSH_COMPOUND_DRIVEWAY Walsh Compound — Long Gated Driveway, Brienne's Children in Toy Car: https://chappaquapoison.com/evidence.html?search=PHOTO_WALSH_COMPOUND_DRIVEWAY
-- PHOTO_FUNERAL_ECARD_THREAT Funeral E-Card Death Threat Received in Chappaqua: https://chappaquapoison.com/evidence.html?search=PHOTO_FUNERAL_ECARD_THREAT
-- SLE-053 Visit 15 (Part 3) Steve Walsh had been warned by police twice not to be present at Evie's pickups and drop-offs: https://chappaquapoison.com/evidence.html?search=SLE-053
-- EX_35_FIRST_VISIT_CHAPPAQUA Russell First Visit to Chappaqua (8/20/2018) - Chronology: https://chappaquapoison.com/evidence.html?search=EX_35_FIRST_VISIT_CHAPPAQUA
+- ExT_01 Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury): https://chappaquapoison.com/evidence.html?id=ExT_01
+- DOC_NY_DEMAND_PROSECUTION NY Demand for Prosecution — 33rd Precinct: https://chappaquapoison.com/evidence.html?id=DOC_NY_DEMAND_PROSECUTION
+- PHOTO_WALSH_COMPOUND_DRIVEWAY Walsh Compound — Long Gated Driveway, Brienne's Children in Toy Car: https://chappaquapoison.com/evidence.html?id=PHOTO_WALSH_COMPOUND_DRIVEWAY
+- PHOTO_FUNERAL_ECARD_THREAT Funeral E-Card Death Threat Received in Chappaqua: https://chappaquapoison.com/evidence.html?id=PHOTO_FUNERAL_ECARD_THREAT
+- SLE-053 Visit 15 (Part 3) Steve Walsh had been warned by police twice not to be present at Evie's pickups and drop-offs: https://chappaquapoison.com/evidence.html?id=SLE-053
+- EX_35_FIRST_VISIT_CHAPPAQUA Russell First Visit to Chappaqua (8/20/2018) - Chronology: https://chappaquapoison.com/evidence.html?id=EX_35_FIRST_VISIT_CHAPPAQUA
 - Explore all 9 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B00

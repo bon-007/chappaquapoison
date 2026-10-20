@@ -521,17 +521,17 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=CORR-TURNURE-FURMAN" class="evidence-hero-chip">
+        <a href="../evidence.html?id=CORR-TURNURE-FURMAN" class="evidence-hero-chip">
           <span class="hero-exhibit-id">CORR-TURNURE-FURMAN</span>
           <span class="hero-exhibit-title">Kelly Turnure letter to Hon. Esther Furman re interim support (duplicate of ExO_04)</span>
           <span class="hero-reliability">Letter to the court</span>
         </a>
-        <a href="../evidence.html?search=SLE-010" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-010" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-010</span>
           <span class="hero-exhibit-title">About</span>
           <span class="hero-reliability">Archived family blog</span>
         </a>
-        <a href="../evidence.html?search=CORR-TURNURE-EGITTO" class="evidence-hero-chip">
+        <a href="../evidence.html?id=CORR-TURNURE-EGITTO" class="evidence-hero-chip">
           <span class="hero-exhibit-id">CORR-TURNURE-EGITTO</span>
           <span class="hero-exhibit-title">Kelly Turnure letter to Hon. Joseph Egitto, May 10, 2021 (duplicate of ExO_01)</span>
           <span class="hero-reliability">Letter to the court</span>
@@ -539,23 +539,23 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=ExO_05" class="exhibit-chip">
+        <a href="../evidence.html?id=ExO_05" class="exhibit-chip">
           <span class="exhibit-id">ExO_05</span>
           <span class="exhibit-title">Kelly Turnure letter to Hon. Kathie M. Davidson, Westchester County Family Court, March 23, 2021</span>
         </a>
-        <a href="../evidence.html?search=CORR-TURNURE-DAVIDSON" class="exhibit-chip">
+        <a href="../evidence.html?id=CORR-TURNURE-DAVIDSON" class="exhibit-chip">
           <span class="exhibit-id">CORR-TURNURE-DAVIDSON</span>
           <span class="exhibit-title">Aunt K Letter to Judge Davidson</span>
         </a>
-        <a href="../evidence.html?search=EMAIL_1424" class="exhibit-chip">
+        <a href="../evidence.html?id=EMAIL_1424" class="exhibit-chip">
           <span class="exhibit-id">EMAIL_1424</span>
           <span class="exhibit-title">Book 1 Notes — Aunt K Research</span>
         </a>
-        <a href="../evidence.html?search=ExO_04" class="exhibit-chip">
+        <a href="../evidence.html?id=ExO_04" class="exhibit-chip">
           <span class="exhibit-id">ExO_04</span>
           <span class="exhibit-title">Kelly Turnure letter to Hon. Esther Furman re interim support (February 2021)</span>
         </a>
-        <a href="../evidence.html?search=ExO_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExO_01" class="exhibit-chip">
           <span class="exhibit-id">ExO_01</span>
           <span class="exhibit-title">Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021</span>
         </a>
@@ -3858,7 +3858,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3872,9 +3872,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

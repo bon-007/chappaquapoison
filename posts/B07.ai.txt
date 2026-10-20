@@ -81,16 +81,16 @@ He didn’t know about the wine yet.
 
 ## Evidence references
 
-- C-6 Tara Walsh’s DV-120 response and attachment — signed August 7, 2018 Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=C-6
-- ExMM_UBER_04 Audio Recording — Uber Departure, June 4, 2018 (file metadata 2018-06-04T20:26Z) Media Record: https://chappaquapoison.com/evidence.html?search=ExMM_UBER_04
-- IMESSAGE_DB_TARA_2017_2018 Tara Walsh Complete iMessage Database — Mar 2017 to Mar 2018 (24,312 messages): https://chappaquapoison.com/evidence.html?search=IMESSAGE_DB_TARA_2017_2018
-- DEPO_TARA_WINE_BOTTLE_THROWN Stephen Russell testimony about the wine-bottle incident — August 29, 2018: https://chappaquapoison.com/evidence.html?search=DEPO_TARA_WINE_BOTTLE_THROWN
-- PHOTO_TARA_KNIFE_SELFIE Tara Holding Knife - Selfie: https://chappaquapoison.com/evidence.html?search=PHOTO_TARA_KNIFE_SELFIE
-- EX_21_BPD_TEXTS Tara Texts: BPD and Prism Calls: https://chappaquapoison.com/evidence.html?search=EX_21_BPD_TEXTS
-- DEPO_TARA_SEROQUEL_SWORN Tara Walsh hearing testimony about Seroquel and her text to Dr. Gopal — August 29, 2018: https://chappaquapoison.com/evidence.html?search=DEPO_TARA_SEROQUEL_SWORN
-- ExO_06 Linda Russell letter to Hon. Michelle Schauer re grandmother visits (sent June 27, 2021, about the June 24 visit): https://chappaquapoison.com/evidence.html?search=ExO_06
-- EX_34_DROPPED_BABY Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.”: https://chappaquapoison.com/evidence.html?search=EX_34_DROPPED_BABY
-- ExTR_19 Walsh trial testimony about Seroquel — February 17, 2022, pages 13–15: https://chappaquapoison.com/evidence.html?search=ExTR_19
-- SCREENSHOT_TARA_FAKE_CRYING_ZAR Tara Admits Fake Crying to Zar (iChat 2017-05-23): https://chappaquapoison.com/evidence.html?search=SCREENSHOT_TARA_FAKE_CRYING_ZAR
-- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?search=ExG_05
+- C-6 Tara Walsh’s DV-120 response and attachment — signed August 7, 2018 Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=C-6
+- ExMM_UBER_04 Audio Recording — Uber Departure, June 4, 2018 (file metadata 2018-06-04T20:26Z) Media Record: https://chappaquapoison.com/evidence.html?id=ExMM_UBER_04
+- IMESSAGE_DB_TARA_2017_2018 Tara Walsh Complete iMessage Database — Mar 2017 to Mar 2018 (24,312 messages): https://chappaquapoison.com/evidence.html?id=IMESSAGE_DB_TARA_2017_2018
+- DEPO_TARA_WINE_BOTTLE_THROWN Stephen Russell testimony about the wine-bottle incident — August 29, 2018: https://chappaquapoison.com/evidence.html?id=DEPO_TARA_WINE_BOTTLE_THROWN
+- PHOTO_TARA_KNIFE_SELFIE Tara Holding Knife - Selfie: https://chappaquapoison.com/evidence.html?id=PHOTO_TARA_KNIFE_SELFIE
+- EX_21_BPD_TEXTS Tara Texts: BPD and Prism Calls: https://chappaquapoison.com/evidence.html?id=EX_21_BPD_TEXTS
+- DEPO_TARA_SEROQUEL_SWORN Tara Walsh hearing testimony about Seroquel and her text to Dr. Gopal — August 29, 2018: https://chappaquapoison.com/evidence.html?id=DEPO_TARA_SEROQUEL_SWORN
+- ExO_06 Linda Russell letter to Hon. Michelle Schauer re grandmother visits (sent June 27, 2021, about the June 24 visit): https://chappaquapoison.com/evidence.html?id=ExO_06
+- EX_34_DROPPED_BABY Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.”: https://chappaquapoison.com/evidence.html?id=EX_34_DROPPED_BABY
+- ExTR_19 Walsh trial testimony about Seroquel — February 17, 2022, pages 13–15: https://chappaquapoison.com/evidence.html?id=ExTR_19
+- SCREENSHOT_TARA_FAKE_CRYING_ZAR Tara Admits Fake Crying to Zar (iChat 2017-05-23): https://chappaquapoison.com/evidence.html?id=SCREENSHOT_TARA_FAKE_CRYING_ZAR
+- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?id=ExG_05
 - Explore all 82 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B07

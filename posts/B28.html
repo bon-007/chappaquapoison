@@ -603,22 +603,22 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=ExT_01" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExT_01" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExT_01</span>
           <span class="hero-exhibit-title">Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury)</span>
           <span class="hero-reliability">Supervisor report (sworn)</span>
         </a>
-        <a href="../evidence.html?search=ExMM_07" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExMM_07" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExMM_07</span>
           <span class="hero-exhibit-title">Walsh 911 Call</span>
           <span class="hero-reliability">Media Record</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-INQUEST-LAMELLE-VISIT" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-LAMELLE-VISIT" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-INQUEST-LAMELLE-VISIT</span>
           <span class="hero-exhibit-title">Tara on Claudette LaMelle Visit — Claims Steve Hiding in Van (Sep 2019)</span>
           <span class="hero-reliability">Sworn testimony under oath</span>
         </a>
-        <a href="../evidence.html?search=LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS</span>
           <span class="hero-exhibit-title">Guttridge &amp; Cambareri letter to Advocate and Carlin re police report, April 10, 2019 (duplicate of ExX_01)</span>
           <span class="hero-reliability">Counsel letter</span>
@@ -626,19 +626,19 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=PDF_LETTER_COURT_ABUSE" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_LETTER_COURT_ABUSE" class="exhibit-chip">
           <span class="exhibit-id">PDF_LETTER_COURT_ABUSE</span>
           <span class="exhibit-title">Letter to Judge Gordon-Oliver re Abuse (Nov 18, 2019)</span>
         </a>
-        <a href="../evidence.html?search=PHOTO_WALSH_COMPOUND_DRIVEWAY" class="exhibit-chip">
+        <a href="../evidence.html?id=PHOTO_WALSH_COMPOUND_DRIVEWAY" class="exhibit-chip">
           <span class="exhibit-id">PHOTO_WALSH_COMPOUND_DRIVEWAY</span>
           <span class="exhibit-title">Walsh Compound — Long Gated Driveway, Brienne&#39;s Children in Toy Car</span>
         </a>
-        <a href="../evidence.html?search=E-7_03" class="exhibit-chip">
+        <a href="../evidence.html?id=E-7_03" class="exhibit-chip">
           <span class="exhibit-id">E-7_03</span>
           <span class="exhibit-title">Supervised visitation order — provisions 1–9, page image</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-INQUEST-TRANSCRIPT" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-TRANSCRIPT" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-INQUEST-TRANSCRIPT</span>
           <span class="exhibit-title">Inquest Transcript — Westchester Family Court, January 5, 2022</span>
         </a>
@@ -3941,7 +3941,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3955,9 +3955,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

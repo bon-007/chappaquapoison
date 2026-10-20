@@ -65,6 +65,6 @@ Dad
 
 ## Evidence references
 
-- SLE-054 Evie arrived for Visit 15 (Part 1) with strange bruises on her right leg Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-054
-- KEY-TEXT-MESSAGES-D1-D11 Text-message screenshot compilation — exhibits D-1 through D-11: https://chappaquapoison.com/evidence.html?search=KEY-TEXT-MESSAGES-D1-D11
+- SLE-054 Evie arrived for Visit 15 (Part 1) with strange bruises on her right leg Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-054
+- KEY-TEXT-MESSAGES-D1-D11 Text-message screenshot compilation — exhibits D-1 through D-11: https://chappaquapoison.com/evidence.html?id=KEY-TEXT-MESSAGES-D1-D11
 - Explore all 4 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B51

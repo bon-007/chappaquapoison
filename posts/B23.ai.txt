@@ -153,17 +153,16 @@ The recording answered that question on June 4, 2018. It took the courts until J
 
 ## Evidence references
 
-- ExMM_UBER_04 Audio Recording — Uber Departure, June 4, 2018 (file metadata 2018-06-04T20:26Z) Media Record: https://chappaquapoison.com/evidence.html?search=ExMM_UBER_04
-- LEGAL-CRUTCHER-UBER-SFPD Crutcher declaration, page 4 — the June 4, 2018 Uber ride Declaration page image: https://chappaquapoison.com/evidence.html?search=LEGAL-CRUTCHER-UBER-SFPD
-- DOCX_HYMOWITZ_DISCREPANCIES Author analysis — comparison of two versions of Walsh's narrative to Dr. Hymowitz (v4.0) Author analysis: https://chappaquapoison.com/evidence.html?search=DOCX_HYMOWITZ_DISCREPANCIES
-- SLE-088 "Works for us" Dad, Mom and her father Steve Walsh agree to a two-three week supervised vacation to NY Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-088
-- ExF_01 Tara Walsh–Matan Gavish email chain — June 6–7, 2018 Bates-stamped discovery copy: https://chappaquapoison.com/evidence.html?search=ExF_01
-- ExQQ_01c Stephen Walsh deposition, April 26, 2021 — excerpt (NDT 50631) Court-reporter record: https://chappaquapoison.com/evidence.html?search=ExQQ_01c
-- INT-002 Hamptons Turtle Pond — Steve, Tara, Chris Ochoa, Riley (August 2015) Author Account: https://chappaquapoison.com/evidence.html?search=INT-002
-- MSG-JESSE-002 Exit Planning Before Arrival — 'I could never leave in a court' (Mar 3, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=MSG-JESSE-002
-- MSG-MATAN-005 'Kidnap Me and Evie So We Don't Have to Leave' — Night Before SF (Mar 2, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?search=MSG-MATAN-005
-- F-013 Site summary: SLE F-013 — "What do you think of my abuse journal? Spent all day writing it.": https://chappaquapoison.com/evidence.html?search=F-013
-- PDF_INCIDENT_REPORT_180415167 SFPD Incident Report 180415167 — narrative page, June 4, 2018: https://chappaquapoison.com/evidence.html?search=PDF_INCIDENT_REPORT_180415167
-- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?search=MSG-JESSE
-- MSG-MATAN Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-MATAN
+- ExMM_UBER_04 Audio Recording — Uber Departure, June 4, 2018 (file metadata 2018-06-04T20:26Z) Media Record: https://chappaquapoison.com/evidence.html?id=ExMM_UBER_04
+- LEGAL-CRUTCHER-UBER-SFPD Crutcher declaration, page 4 — the June 4, 2018 Uber ride Declaration page image: https://chappaquapoison.com/evidence.html?id=LEGAL-CRUTCHER-UBER-SFPD
+- DOCX_HYMOWITZ_DISCREPANCIES Author analysis — comparison of two versions of Walsh's narrative to Dr. Hymowitz (v4.0) Author analysis: https://chappaquapoison.com/evidence.html?id=DOCX_HYMOWITZ_DISCREPANCIES
+- SLE-088 "Works for us" Dad, Mom and her father Steve Walsh agree to a two-three week supervised vacation to NY Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-088
+- ExF_01 Tara Walsh–Matan Gavish email chain — June 6–7, 2018 Bates-stamped discovery copy: https://chappaquapoison.com/evidence.html?id=ExF_01
+- ExQQ_01c Stephen Walsh deposition, April 26, 2021 — excerpt (NDT 50631) Court-reporter record: https://chappaquapoison.com/evidence.html?id=ExQQ_01c
+- INT-002 Hamptons Turtle Pond — Steve, Tara, Chris Ochoa, Riley (August 2015) Author Account: https://chappaquapoison.com/evidence.html?id=INT-002
+- MSG-JESSE-002 Exit Planning Before Arrival — 'I could never leave in a court' (Mar 3, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=MSG-JESSE-002
+- MSG-MATAN-005 'Kidnap Me and Evie So We Don't Have to Leave' — Night Before SF (Mar 2, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-MATAN-005
+- F-013 Site summary: SLE F-013 — "What do you think of my abuse journal? Spent all day writing it.": https://chappaquapoison.com/evidence.html?id=F-013
+- PDF_INCIDENT_REPORT_180415167 SFPD Incident Report 180415167 — narrative page, June 4, 2018: https://chappaquapoison.com/evidence.html?id=PDF_INCIDENT_REPORT_180415167
+- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?id=MSG-JESSE
 - Explore all 89 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B23

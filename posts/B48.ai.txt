@@ -71,16 +71,16 @@ The trap had an architect. And the architect’s defining quality was not cunnin
 
 ## Evidence references
 
-- TEXT_TARA_EVIE_SLEEPING_GUILT Tara Sends Evie Sleeping Photo — 'When you harass and abuse her mother, it affects her': https://chappaquapoison.com/evidence.html?search=TEXT_TARA_EVIE_SLEEPING_GUILT
-- TEXT_THREAD_TARA_2025_JUN_DEC Collected message screenshots — 26 captures from the January 13 hearing exhibit folder: https://chappaquapoison.com/evidence.html?search=TEXT_THREAD_TARA_2025_JUN_DEC
-- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137: https://chappaquapoison.com/evidence.html?search=B-10
-- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?search=B-12
-- ExT_01 Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury): https://chappaquapoison.com/evidence.html?search=ExT_01
-- E-7_03 Supervised visitation order — provisions 1–9, page image: https://chappaquapoison.com/evidence.html?search=E-7_03
-- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_02
-- EB2_MASTER_122 Book 2 Image 122/134 — Brendan Walsh and Brian Meenan in SUV at night — through dir: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_122
-- B-4 Temporary Order of Protection document — core of the double default narrative: https://chappaquapoison.com/evidence.html?search=B-4
-- ExTR_04 Morales-Horowitz hearing transcript, February 6, 2020 (White Plains): https://chappaquapoison.com/evidence.html?search=ExTR_04
-- TEXT_TARA_SPERM_DONOR_BLOCK Tara Walsh — 'You're nothing more than a sperm donor' / 'I'm blocking you': https://chappaquapoison.com/evidence.html?search=TEXT_TARA_SPERM_DONOR_BLOCK
-- TEXT_TARA_DEC2025_MATAN_ADMISSION Tara Walsh Message — Matan, Depression and Request to Keep Communications Outside Courts and Family: https://chappaquapoison.com/evidence.html?search=TEXT_TARA_DEC2025_MATAN_ADMISSION
+- TEXT_TARA_EVIE_SLEEPING_GUILT Tara Sends Evie Sleeping Photo — 'When you harass and abuse her mother, it affects her': https://chappaquapoison.com/evidence.html?id=TEXT_TARA_EVIE_SLEEPING_GUILT
+- TEXT_THREAD_TARA_2025_JUN_DEC Collected message screenshots — 26 captures from the January 13 hearing exhibit folder: https://chappaquapoison.com/evidence.html?id=TEXT_THREAD_TARA_2025_JUN_DEC
+- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137: https://chappaquapoison.com/evidence.html?id=B-10
+- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?id=B-12
+- ExT_01 Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury): https://chappaquapoison.com/evidence.html?id=ExT_01
+- E-7_03 Supervised visitation order — provisions 1–9, page image: https://chappaquapoison.com/evidence.html?id=E-7_03
+- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_02
+- EB2_MASTER_122 Book 2 Image 122/134 — Brendan Walsh and Brian Meenan in SUV at night — through dir: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_122
+- B-4 Temporary Order of Protection document — core of the double default narrative: https://chappaquapoison.com/evidence.html?id=B-4
+- ExTR_04 Morales-Horowitz hearing transcript, February 6, 2020 (White Plains): https://chappaquapoison.com/evidence.html?id=ExTR_04
+- TEXT_TARA_SPERM_DONOR_BLOCK Tara Walsh — 'You're nothing more than a sperm donor' / 'I'm blocking you': https://chappaquapoison.com/evidence.html?id=TEXT_TARA_SPERM_DONOR_BLOCK
+- TEXT_TARA_DEC2025_MATAN_ADMISSION Tara Walsh Message — Matan, Depression and Request to Keep Communications Outside Courts and Family: https://chappaquapoison.com/evidence.html?id=TEXT_TARA_DEC2025_MATAN_ADMISSION
 - Explore all 54 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B48

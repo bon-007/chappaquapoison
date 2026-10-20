@@ -41,11 +41,11 @@ One legal system had compensated. The other still had the child.
 
 ## Evidence references
 
-- B-9_03 Second Amended Judgment on Jury Verdict — page 2 Court Record: https://chappaquapoison.com/evidence.html?search=B-9_03
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1 Court record: https://chappaquapoison.com/evidence.html?search=ExG_01
-- B-9 B 9 Judgment on Jury Verdict Feb 2022: https://chappaquapoison.com/evidence.html?search=B-9
-- B-9_02 jury-verdict-cover: https://chappaquapoison.com/evidence.html?search=B-9_02
-- TXT_VERDICT_JUDGMENT_EXCERPT Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=TXT_VERDICT_JUDGMENT_EXCERPT
-- D-15 Brendan-Walsh-Depo-6.48.08-PM 4: https://chappaquapoison.com/evidence.html?search=D-15
-- D-15_02 Restraining order document: https://chappaquapoison.com/evidence.html?search=D-15_02
+- B-9_03 Second Amended Judgment on Jury Verdict — page 2 Court Record: https://chappaquapoison.com/evidence.html?id=B-9_03
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1 Court record: https://chappaquapoison.com/evidence.html?id=ExG_01
+- B-9 B 9 Judgment on Jury Verdict Feb 2022: https://chappaquapoison.com/evidence.html?id=B-9
+- B-9_02 jury-verdict-cover: https://chappaquapoison.com/evidence.html?id=B-9_02
+- TXT_VERDICT_JUDGMENT_EXCERPT Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?id=TXT_VERDICT_JUDGMENT_EXCERPT
+- D-15 Brendan-Walsh-Depo-6.48.08-PM 4: https://chappaquapoison.com/evidence.html?id=D-15
+- D-15_02 Restraining order document: https://chappaquapoison.com/evidence.html?id=D-15_02
 - Explore all 30 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B45

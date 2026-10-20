@@ -61,10 +61,10 @@ in quotation marks — the question of what happened had finally been placed in 
 
 ## Evidence references
 
-- B-9_02 jury-verdict-cover Court Record: https://chappaquapoison.com/evidence.html?search=B-9_02
-- ExQQ_06 Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy Blog printout, p. 2: Brienne's childhood account. Not a deposition or proof this particular post was admitted at trial. Published Personal Account: https://chappaquapoison.com/evidence.html?search=ExQQ_06
-- ExTR_19d Reporter's transcript excerpt, February 16, 2022, from p.173 (duplicate of ExTR_19_07) Court-reporter record: https://chappaquapoison.com/evidence.html?search=ExTR_19d
-- B-9 B 9 Judgment on Jury Verdict Feb 2022: https://chappaquapoison.com/evidence.html?search=B-9
-- B-9_03 Second Amended Judgment on Jury Verdict — page 2: https://chappaquapoison.com/evidence.html?search=B-9_03
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=ExG_01
+- B-9_02 jury-verdict-cover Court Record: https://chappaquapoison.com/evidence.html?id=B-9_02
+- ExQQ_06 Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy Blog printout, p. 2: Brienne's childhood account. Not a deposition or proof this particular post was admitted at trial. Published Personal Account: https://chappaquapoison.com/evidence.html?id=ExQQ_06
+- ExTR_19d Reporter's transcript excerpt, February 16, 2022, from p.173 (duplicate of ExTR_19_07) Court-reporter record: https://chappaquapoison.com/evidence.html?id=ExTR_19d
+- B-9 B 9 Judgment on Jury Verdict Feb 2022: https://chappaquapoison.com/evidence.html?id=B-9
+- B-9_03 Second Amended Judgment on Jury Verdict — page 2: https://chappaquapoison.com/evidence.html?id=B-9_03
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?id=ExG_01
 - Explore all 68 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B44

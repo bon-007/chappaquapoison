@@ -78,9 +78,9 @@ In the fall of 2018, the case sat in the system, and the building leaned, and bo
 
 ## Evidence references
 
-- EMAIL_9330 Lithium in My System — To SFPD and Attorneys Documented Record: https://chappaquapoison.com/evidence.html?search=EMAIL_9330
-- PDF_DEMAND_PROSECUTION Demand for Prosecution — DA Letter (74 pages) Legal Correspondence — Demand Letter: https://chappaquapoison.com/evidence.html?search=PDF_DEMAND_PROSECUTION
-- QUOTE-GOOD-VICTIM You Didn't Make a Good Victim Documented Record: https://chappaquapoison.com/evidence.html?search=QUOTE-GOOD-VICTIM
-- SCREENSHOT_SGT_CARAWAY_COURT_ORDER Sgt. Caraway Text — 'I was provided court order by a party of this investigation': https://chappaquapoison.com/evidence.html?search=SCREENSHOT_SGT_CARAWAY_COURT_ORDER
-- PDF_SUPPLEMENTAL_MEMORANDUM Supplemental Memorandum to Sgt. Caraway — SFPD SVU (83 pages): https://chappaquapoison.com/evidence.html?search=PDF_SUPPLEMENTAL_MEMORANDUM
+- EMAIL_9330 Lithium in My System — To SFPD and Attorneys Documented Record: https://chappaquapoison.com/evidence.html?id=EMAIL_9330
+- PDF_DEMAND_PROSECUTION Demand for Prosecution — DA Letter (74 pages) Legal Correspondence — Demand Letter: https://chappaquapoison.com/evidence.html?id=PDF_DEMAND_PROSECUTION
+- QUOTE-GOOD-VICTIM You Didn't Make a Good Victim Documented Record: https://chappaquapoison.com/evidence.html?id=QUOTE-GOOD-VICTIM
+- SCREENSHOT_SGT_CARAWAY_COURT_ORDER Sgt. Caraway Text — 'I was provided court order by a party of this investigation': https://chappaquapoison.com/evidence.html?id=SCREENSHOT_SGT_CARAWAY_COURT_ORDER
+- PDF_SUPPLEMENTAL_MEMORANDUM Supplemental Memorandum to Sgt. Caraway — SFPD SVU (83 pages): https://chappaquapoison.com/evidence.html?id=PDF_SUPPLEMENTAL_MEMORANDUM
 - Explore all 46 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B19

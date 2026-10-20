@@ -578,32 +578,32 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=ExX_01" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExX_01" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExX_01</span>
           <span class="hero-exhibit-title">Guttridge &amp; Cambareri letter to Advocate and Carlin re police report, April 10, 2019</span>
           <span class="hero-reliability">Counsel letter</span>
         </a>
-        <a href="../evidence.html?search=SLE-051-DIAGRAM" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-051-DIAGRAM" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-051-DIAGRAM</span>
           <span class="hero-exhibit-title">Bruise Location Diagram — Visit 15</span>
           <span class="hero-reliability">Media Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_100" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_100" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_100</span>
           <span class="hero-exhibit-title">Talia Kleiman email screenshot — Visits with Evie 3/30 and 3/31</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=G-2" class="evidence-hero-chip">
+        <a href="../evidence.html?id=G-2" class="evidence-hero-chip">
           <span class="hero-exhibit-id">G-2</span>
           <span class="hero-exhibit-title">45) Jennifer Jackman email 4.16.19 copy 2</span>
           <span class="hero-reliability">Device Backup / Digital Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_087" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_087" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_087</span>
           <span class="hero-exhibit-title">Book 2 Image 87/134 — Steve email March 29, 2019: Evie&#39;s doctor found no illness, </span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=SLE-053" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-053" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-053</span>
           <span class="hero-exhibit-title">Visit 15 (Part 3) Steve Walsh had been warned by police twice not to be present at Evie&#39;s pickups and drop-offs</span>
           <span class="hero-reliability">Archived family blog</span>
@@ -611,15 +611,15 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=SLE-054" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-054" class="exhibit-chip">
           <span class="exhibit-id">SLE-054</span>
           <span class="exhibit-title">Evie arrived for Visit 15 (Part 1) with strange bruises on her right leg</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_101" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_101" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_101</span>
           <span class="exhibit-title">Book 2 Image 101/134 — Brienne Walsh Childhood Abuse Excerpt: &#39;I never talk about my childhood being abusive, which it was&#39;</span>
         </a>
-        <a href="../evidence.html?search=ExP_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExP_01" class="exhibit-chip">
           <span class="exhibit-id">ExP_01</span>
           <span class="exhibit-title">Source not yet located — injury photograph/report to AFC Jackman</span>
         </a>
@@ -3922,7 +3922,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3936,9 +3936,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

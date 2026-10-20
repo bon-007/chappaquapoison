@@ -586,22 +586,22 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=EB1_P107" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB1_P107" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB1_P107</span>
           <span class="hero-exhibit-title">Book 1 Image 53/69 — Shattered iPhone screen — multiple impact points, spider-web</span>
           <span class="hero-reliability">Document</span>
         </a>
-        <a href="../evidence.html?search=TRIAL-BATTERY-PHONE-STABBING" class="evidence-hero-chip">
+        <a href="../evidence.html?id=TRIAL-BATTERY-PHONE-STABBING" class="evidence-hero-chip">
           <span class="hero-exhibit-id">TRIAL-BATTERY-PHONE-STABBING</span>
           <span class="hero-exhibit-title">Russell Battery Trial Testimony: Phone Stabbing with Knife Sharpener (Feb 17, 2022)</span>
           <span class="hero-reliability">Sworn testimony under oath — plaintiff, before jury</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE-008" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-JESSE-008" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-JESSE-008</span>
           <span class="hero-exhibit-title">SF Suicidal Ideation — &#39;I Want to Fall Asleep and Not Wake Up&#39; (Mar 7, 2018)</span>
           <span class="hero-reliability">Device forensic extraction</span>
         </a>
-        <a href="../evidence.html?search=EB1_P105" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB1_P105" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB1_P105</span>
           <span class="hero-exhibit-title">Book 1 Image 52/69 — Steve with Evie diptych — LEFT: kissing baby, glasses, patte</span>
           <span class="hero-reliability">Document</span>
@@ -609,35 +609,31 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=C-4" class="exhibit-chip">
+        <a href="../evidence.html?id=C-4" class="exhibit-chip">
           <span class="exhibit-id">C-4</span>
           <span class="exhibit-title">Linda Russell Sworn Declaration — Eyewitness to Phone Destruction and Household Violence (June 2018)</span>
         </a>
-        <a href="../evidence.html?search=EB1_P111" class="exhibit-chip">
+        <a href="../evidence.html?id=EB1_P111" class="exhibit-chip">
           <span class="exhibit-id">EB1_P111</span>
           <span class="exhibit-title">Book 1 Image 55/69 — Modern kitchen interior — pendant lights, granite island wit</span>
         </a>
-        <a href="../evidence.html?search=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018" class="exhibit-chip">
           <span class="exhibit-id">PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018</span>
           <span class="exhibit-title">Email, Matan Gavish ↔ Tara Walsh, March 9, 2018 (duplicate of ExB_02)</span>
         </a>
-        <a href="../evidence.html?search=ExI_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExI_03" class="exhibit-chip">
           <span class="exhibit-id">ExI_03</span>
           <span class="exhibit-title">Redwood Toxicology urine report — collected March 7, 2018</span>
         </a>
-        <a href="../evidence.html?search=ExH_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExH_03" class="exhibit-chip">
           <span class="exhibit-id">ExH_03</span>
           <span class="exhibit-title">Reporter&#39;s transcript, SF Superior Court, DVRO hearing before Judge Roger Chan, August 29, 2018 (FPT-18-377425)</span>
 <span class="evidence-context">Employment context: August 29, 2018 testimony, pp. 106–107. Tedla gives her hiring date and work schedule; these pages do not establish her presence at each reconstructed scene.</span>        </a>
-        <a href="../evidence.html?search=EB1_SPREAD_P105-107" class="exhibit-chip">
+        <a href="../evidence.html?id=EB1_SPREAD_P105-107" class="exhibit-chip">
           <span class="exhibit-id">EB1_SPREAD_P105-107</span>
           <span class="exhibit-title">Book 1 Spread pp.105-107 — Steve holding baby Evie diptych beside shattered iPho</span>
         </a>
-        <a href="../evidence.html?search=ExTR_23" class="exhibit-chip">
-          <span class="exhibit-id">ExTR_23</span>
-          <span class="exhibit-title">Civil battery trial document</span>
-        </a>
-        <a href="../evidence.html?search=MSG-JESSE" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-JESSE" class="exhibit-chip">
           <span class="exhibit-id">MSG-JESSE</span>
           <span class="exhibit-title">Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled</span>
         </a>
@@ -3940,7 +3936,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3954,9 +3950,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

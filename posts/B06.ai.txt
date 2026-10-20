@@ -83,17 +83,17 @@ The fog came in over the hill the way it did every night. The house on Vermont S
 
 ## Evidence references
 
-- D-12_02 Woman in a high-rise interior — photograph Source image; identity checked: https://chappaquapoison.com/evidence.html?search=D-12_02
-- A-1 Doctor's Data Urine Elements Report — March 2017 Laboratory Analysis: https://chappaquapoison.com/evidence.html?search=A-1
-- ExI_02 Doctor's Data Urine Elements Report — March 9, 2017 Laboratory Analysis: https://chappaquapoison.com/evidence.html?search=ExI_02
-- G-34 Russell Supplemental Declaration ISO DVRO — Surreptitious Recordings, Blackmail, Sweet Revenge (July 2019): https://chappaquapoison.com/evidence.html?search=G-34
-- A-1_02 Doctor's Data Urine Elements Report — March 9, 2017: https://chappaquapoison.com/evidence.html?search=A-1_02
-- A-1_06 Doctor's Data Urine Elements Report — March 2017 (image): https://chappaquapoison.com/evidence.html?search=A-1_06
-- PHOTO_BATTERY_DYSKINESIA Steve Head Injury from Dyskinesia Fall: https://chappaquapoison.com/evidence.html?search=PHOTO_BATTERY_DYSKINESIA
-- PHOTO_BLOODIED_HEAD_CLOSEUP Head Injury Close-Up — Dyskinesia Fall from Poisoning: https://chappaquapoison.com/evidence.html?search=PHOTO_BLOODIED_HEAD_CLOSEUP
-- ExJ_01 Lethal Dose Seroquel Screenshot: https://chappaquapoison.com/evidence.html?search=ExJ_01
-- HERO-1 Tara's Seroquel Admission Email (January 2020): https://chappaquapoison.com/evidence.html?search=HERO-1
-- EMAIL_9243 Lithium in My System — To Attorney Katherine Chesnut: https://chappaquapoison.com/evidence.html?search=EMAIL_9243
-- DOC_DECLARATION_STEPHEN_RUSSELL Declaration of Stephen Russell: https://chappaquapoison.com/evidence.html?search=DOC_DECLARATION_STEPHEN_RUSSELL
-- Decl_03 Dr. Gopal Declaration July 2018: https://chappaquapoison.com/evidence.html?search=Decl_03
+- D-12_02 Woman in a high-rise interior — photograph Source image; identity checked: https://chappaquapoison.com/evidence.html?id=D-12_02
+- A-1 Doctor's Data Urine Elements Report — March 2017 Laboratory Analysis: https://chappaquapoison.com/evidence.html?id=A-1
+- ExI_02 Doctor's Data Urine Elements Report — March 9, 2017 Laboratory Analysis: https://chappaquapoison.com/evidence.html?id=ExI_02
+- G-34 Russell Supplemental Declaration ISO DVRO — Surreptitious Recordings, Blackmail, Sweet Revenge (July 2019): https://chappaquapoison.com/evidence.html?id=G-34
+- A-1_02 Doctor's Data Urine Elements Report — March 9, 2017: https://chappaquapoison.com/evidence.html?id=A-1_02
+- A-1_06 Doctor's Data Urine Elements Report — March 2017 (image): https://chappaquapoison.com/evidence.html?id=A-1_06
+- PHOTO_BATTERY_DYSKINESIA Steve Head Injury from Dyskinesia Fall: https://chappaquapoison.com/evidence.html?id=PHOTO_BATTERY_DYSKINESIA
+- PHOTO_BLOODIED_HEAD_CLOSEUP Head Injury Close-Up — Dyskinesia Fall from Poisoning: https://chappaquapoison.com/evidence.html?id=PHOTO_BLOODIED_HEAD_CLOSEUP
+- ExJ_01 Lethal Dose Seroquel Screenshot: https://chappaquapoison.com/evidence.html?id=ExJ_01
+- HERO-1 Tara's Seroquel Admission Email (January 2020): https://chappaquapoison.com/evidence.html?id=HERO-1
+- EMAIL_9243 Lithium in My System — To Attorney Katherine Chesnut: https://chappaquapoison.com/evidence.html?id=EMAIL_9243
+- DOC_DECLARATION_STEPHEN_RUSSELL Declaration of Stephen Russell: https://chappaquapoison.com/evidence.html?id=DOC_DECLARATION_STEPHEN_RUSSELL
+- Decl_03 Dr. Gopal Declaration July 2018: https://chappaquapoison.com/evidence.html?id=Decl_03
 - Explore all 101 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B06

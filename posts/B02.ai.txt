@@ -103,10 +103,10 @@ He did.
 
 ## Evidence references
 
-- PHOTO_TARA_BOAT_RILEY_RED_DRESS Tara Walsh on the Hudson River Boat — Red-and-White Dress, Riley the Chihuahua, Summer 2015 Documented Record: https://chappaquapoison.com/evidence.html?search=PHOTO_TARA_BOAT_RILEY_RED_DRESS
-- SLE-131 I'm on a boat! Mom and Dad meet in a boat on the Hudson River in the Summer of 2015 Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-131
-- SLE-129 Mom started a handbag business that features practical and professional purses with pockets Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-129
-- BLOG-034 Brienne Walsh — Life is Not Fair Except If You’re Caleb (May 17, 2019): https://chappaquapoison.com/evidence.html?search=BLOG-034
-- BR-17 Brienne Walsh — Life is Not Fair Except If You’re Caleb (May 17, 2019): https://chappaquapoison.com/evidence.html?search=BR-17
-- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled from device database): https://chappaquapoison.com/evidence.html?search=MSG-JESSE
+- PHOTO_TARA_BOAT_RILEY_RED_DRESS Tara Walsh on the Hudson River Boat — Red-and-White Dress, Riley the Chihuahua, Summer 2015 Documented Record: https://chappaquapoison.com/evidence.html?id=PHOTO_TARA_BOAT_RILEY_RED_DRESS
+- SLE-131 I'm on a boat! Mom and Dad meet in a boat on the Hudson River in the Summer of 2015 Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-131
+- SLE-129 Mom started a handbag business that features practical and professional purses with pockets Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-129
+- BLOG-034 Brienne Walsh — Life is Not Fair Except If You’re Caleb (May 17, 2019): https://chappaquapoison.com/evidence.html?id=BLOG-034
+- BR-17 Brienne Walsh — Life is Not Fair Except If You’re Caleb (May 17, 2019): https://chappaquapoison.com/evidence.html?id=BR-17
+- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled from device database): https://chappaquapoison.com/evidence.html?id=MSG-JESSE
 - Explore all 33 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B02

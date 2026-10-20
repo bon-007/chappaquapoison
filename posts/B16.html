@@ -564,22 +564,22 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE</span>
           <span class="hero-exhibit-title">Tara Texts — Walsh Household Abuse: &#39;It&#39;s honestly horrible living here,&#39; Physical Fights, Brendan Controls WiFi</span>
           <span class="hero-reliability">Primary Source — iPhone Screenshots (Multiple)</span>
         </a>
-        <a href="../evidence.html?search=TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL" class="evidence-hero-chip">
+        <a href="../evidence.html?id=TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL" class="evidence-hero-chip">
           <span class="hero-exhibit-id">TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL</span>
           <span class="hero-exhibit-title">Tara Walsh Text — Miscarriage Sympathy Pivot to Conditional Evie Access (Jul 21)</span>
           <span class="hero-reliability">Screenshot copy</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE-001" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-JESSE-001" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-JESSE-001</span>
           <span class="hero-exhibit-title">The Rules List — Pre-SF Move Demands (Feb 18, 2018)</span>
           <span class="hero-reliability">Device Backup / Digital Record</span>
         </a>
-        <a href="../evidence.html?search=MSG-MATAN-006" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-MATAN-006" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-MATAN-006</span>
           <span class="hero-exhibit-title">Tara Walsh and Matan Gavish messages, February 20, 2018</span>
           <span class="hero-reliability">Rendered message-export page; native extraction not verified in this review</span>
@@ -587,29 +587,25 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=ExA_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExA_01" class="exhibit-chip">
           <span class="exhibit-id">ExA_01</span>
           <span class="exhibit-title">Works for us — archived email reproduction, June 8, 2018</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE-005" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-JESSE-005" class="exhibit-chip">
           <span class="exhibit-id">MSG-JESSE-005</span>
           <span class="exhibit-title">Jesse Confronts the Cycle — &#39;You manipulate me into thinking you&#39;re making progress&#39; (Dec 29, 2017)</span>
         </a>
-        <a href="../evidence.html?search=MSG-WALSHSR-004" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-WALSHSR-004" class="exhibit-chip">
           <span class="exhibit-id">MSG-WALSHSR-004</span>
           <span class="exhibit-title">Valentine&#39;s Day Office Visit — Tara Brings Steve and Baby to Walsh Sr. (Feb 14, 2018)</span>
         </a>
-        <a href="../evidence.html?search=B-10" class="exhibit-chip">
+        <a href="../evidence.html?id=B-10" class="exhibit-chip">
           <span class="exhibit-id">B-10</span>
           <span class="exhibit-title">Second Amended Judgment on Jury Verdict, CGC-18-570137</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-JESSE" class="exhibit-chip">
           <span class="exhibit-id">MSG-JESSE</span>
           <span class="exhibit-title">Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled</span>
-        </a>
-        <a href="../evidence.html?search=MSG-MATAN" class="exhibit-chip">
-          <span class="exhibit-id">MSG-MATAN</span>
-          <span class="exhibit-title">Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018)</span>
         </a>
       </div>
 
@@ -3910,7 +3906,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3924,9 +3920,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

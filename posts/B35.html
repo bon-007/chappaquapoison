@@ -584,22 +584,22 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=ExTR_26" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExTR_26" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExTR_26</span>
           <span class="hero-exhibit-title">Schauer first-appearance transcript, May 19, 2021 (Yonkers Family Court, virtual)</span>
 <span class="evidence-context">May 19 2021, pp. 5–12: mirroring orders on consent; Walsh&#39;s objection; DiFabio&#39;s objective; both parties warned.</span>          <span class="hero-reliability">Court-reporter record (digital recording transcribed; certified June 21, 2021)</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-TOP-2021-05-19" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-TOP-2021-05-19" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-TOP-2021-05-19</span>
           <span class="hero-exhibit-title">Temporary Order of Protection — May 19, 2021</span>
           <span class="hero-reliability">Issued court order</span>
         </a>
-        <a href="../evidence.html?search=ExTR_10_03" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExTR_10_03" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExTR_10_03</span>
           <span class="hero-exhibit-title">Schauer hearing transcript, June 1, 2021 (Yonkers Family Court)</span>
           <span class="hero-reliability">Court-reporter record</span>
         </a>
-        <a href="../evidence.html?search=ExTR_01" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExTR_01" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExTR_01</span>
           <span class="hero-exhibit-title">Schauer hearing transcript, August 27, 2021 (Yonkers Family Court)</span>
 <span class="evidence-context">August27 2021: court’s explanation of the prior vacatur.</span>          <span class="hero-reliability">Court-reporter record</span>
@@ -607,25 +607,21 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=ExTR_05_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_05_03" class="exhibit-chip">
           <span class="exhibit-id">ExTR_05_03</span>
           <span class="exhibit-title">Humphrey Decision and Order (recusal), April 6, 2021</span>
         </a>
-        <a href="../evidence.html?search=ExTR_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_01" class="exhibit-chip">
           <span class="exhibit-id">ExTR_01</span>
           <span class="exhibit-title">Schauer hearing transcript, August 27, 2021 (Yonkers Family Court)</span>
 <span class="evidence-context">August27 2021: court’s explanation of the prior vacatur.</span>        </a>
-        <a href="../evidence.html?search=ExTR_02" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_02" class="exhibit-chip">
           <span class="exhibit-id">ExTR_02</span>
           <span class="exhibit-title">Schauer hearing transcript, November 5, 2021 (Yonkers Family Court)</span>
 <span class="evidence-context">November5 2021, p19: source of the quoted explanation.</span>        </a>
-        <a href="../evidence.html?search=B-12" class="exhibit-chip">
+        <a href="../evidence.html?id=B-12" class="exhibit-chip">
           <span class="exhibit-id">B-12</span>
           <span class="exhibit-title">Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced</span>
-        </a>
-        <a href="../evidence.html?search=ExTR_10" class="exhibit-chip">
-          <span class="exhibit-id">ExTR_10</span>
-          <span class="exhibit-title">Genovese service letter with proposed orders — November 8, 2021</span>
         </a>
       </div>
 
@@ -3926,7 +3922,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3940,9 +3936,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

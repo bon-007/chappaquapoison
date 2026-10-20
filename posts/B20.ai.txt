@@ -68,9 +68,9 @@ The event was not just experienced. It was produced.
 
 ## Evidence references
 
-- EMAIL_9330 Lithium in My System — To SFPD and Attorneys Documented Record: https://chappaquapoison.com/evidence.html?search=EMAIL_9330
-- ExI_03 Redwood Toxicology urine report — collected March 7, 2018 Laboratory report: https://chappaquapoison.com/evidence.html?search=ExI_03
-- EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K: https://chappaquapoison.com/evidence.html?search=EMAIL_9755
-- EMAIL_9243 Lithium in My System — To Attorney Katherine Chesnut: https://chappaquapoison.com/evidence.html?search=EMAIL_9243
-- SLE-096 Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.: https://chappaquapoison.com/evidence.html?search=SLE-096
+- EMAIL_9330 Lithium in My System — To SFPD and Attorneys Documented Record: https://chappaquapoison.com/evidence.html?id=EMAIL_9330
+- ExI_03 Redwood Toxicology urine report — collected March 7, 2018 Laboratory report: https://chappaquapoison.com/evidence.html?id=ExI_03
+- EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K: https://chappaquapoison.com/evidence.html?id=EMAIL_9755
+- EMAIL_9243 Lithium in My System — To Attorney Katherine Chesnut: https://chappaquapoison.com/evidence.html?id=EMAIL_9243
+- SLE-096 Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.: https://chappaquapoison.com/evidence.html?id=SLE-096
 - Explore all 8 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B20

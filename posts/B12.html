@@ -546,22 +546,22 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=D-13_05" class="evidence-hero-chip">
+        <a href="../evidence.html?id=D-13_05" class="evidence-hero-chip">
           <span class="hero-exhibit-id">D-13_05</span>
           <span class="hero-exhibit-title">Steve Russell with Toddler Evie — Father-Daughter Photograph</span>
           <span class="hero-reliability">Media Record</span>
         </a>
-        <a href="../evidence.html?search=EMAIL_9755" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EMAIL_9755" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EMAIL_9755</span>
           <span class="hero-exhibit-title">Walsh v. Russell — Drugging Summary to Aunt K</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=SLE-109" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-109" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-109</span>
           <span class="hero-exhibit-title">Evie is Born Jan 27, 2018 after a high risk pregnancy in emergency procedure after Mom&#39;s blood pressure skyrockets</span>
           <span class="hero-reliability">Archived family blog</span>
         </a>
-        <a href="../evidence.html?search=MSG-BRIENNE-013" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-BRIENNE-013" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-BRIENNE-013</span>
           <span class="hero-exhibit-title">Evie&#39;s Birth Through Brienne&#39;s Lens — Hospital Plea (Jan 26-27, 2018)</span>
           <span class="hero-reliability">Device forensic extraction</span>
@@ -569,29 +569,25 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=MSG-MATAN-007" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-MATAN-007" class="exhibit-chip">
           <span class="exhibit-id">MSG-MATAN-007</span>
           <span class="exhibit-title">Matan as Domestic Infrastructure — Apartment Keys, Dog Care, Steve Avoidance (Jan 2018)</span>
         </a>
-        <a href="../evidence.html?search=MSG-MATAN-003" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-MATAN-003" class="exhibit-chip">
           <span class="exhibit-id">MSG-MATAN-003</span>
           <span class="exhibit-title">&#39;No signs of withdrawal from my drugs&#39; — Newborn Evie (Jan 27, 2018)</span>
         </a>
-        <a href="../evidence.html?search=MSG-WALSHSR-001" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-WALSHSR-001" class="exhibit-chip">
           <span class="exhibit-id">MSG-WALSHSR-001</span>
           <span class="exhibit-title">Walsh Sr. Blocks Steve from Carriage House — &#39;Not a chance&#39; (Jan 24, 2018)</span>
         </a>
-        <a href="../evidence.html?search=MSG-BRENDAN-006" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-BRENDAN-006" class="exhibit-chip">
           <span class="exhibit-id">MSG-BRENDAN-006</span>
           <span class="exhibit-title">Seroquel Dependency at Hospital on Birth Day (Jan 27, 2018)</span>
         </a>
-        <a href="../evidence.html?search=MSG-RHODES-002" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-RHODES-002" class="exhibit-chip">
           <span class="exhibit-id">MSG-RHODES-002</span>
           <span class="exhibit-title">Dr. Rhodes: &#39;I want you knocked out&#39; — Seroquel as Sedation (Jan 27, 2018)</span>
-        </a>
-        <a href="../evidence.html?search=MSG-BRIENNE" class="exhibit-chip">
-          <span class="exhibit-id">MSG-BRIENNE</span>
-          <span class="exhibit-title">Tara–Brienne Walsh (Sister) Full iMessage Conversation (Mar 2017 – Mar 2018)</span>
         </a>
       </div>
 
@@ -3892,7 +3888,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3906,9 +3902,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

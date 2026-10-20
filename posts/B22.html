@@ -588,27 +588,27 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=SLE-094" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-094" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-094</span>
           <span class="hero-exhibit-title">Mom abandons Evie and heads to the airport after being caught by the nanny putting drugs in Dad&#39;s wine</span>
           <span class="hero-reliability">Archived family blog</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-DVRO-TEDLA-NAMES-QUIET" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-DVRO-TEDLA-NAMES-QUIET" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-DVRO-TEDLA-NAMES-QUIET</span>
           <span class="hero-exhibit-title">Tedla: Walsh Called Russell &#39;Fat, Stupid, Drug Addict&#39; — &#39;He&#39;s Quiet All the Time&#39; (Aug 29, 2018)</span>
           <span class="hero-reliability">Sworn eyewitness testimony under oath</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-DVRO-WILLIAMS-EYEWITNESS" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-DVRO-WILLIAMS-EYEWITNESS" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-DVRO-WILLIAMS-EYEWITNESS</span>
           <span class="hero-exhibit-title">Williams Under Oath: Tara Pushing Steve, Kicking His Shin — &#39;Russell Was Calm&#39; (Aug 29, 2018)</span>
           <span class="hero-reliability">Sworn eyewitness testimony under oath — retired police officer</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-INQUEST-VIOLENCE-ACCUSATION" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-VIOLENCE-ACCUSATION" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-INQUEST-VIOLENCE-ACCUSATION</span>
           <span class="hero-exhibit-title">Tara Accuses Steve of March 2018 SF Violence — Bruises, Broken Phone, Smashed Laptop (Jan 2022)</span>
           <span class="hero-reliability">Sworn testimony under oath</span>
         </a>
-        <a href="../evidence.html?search=EB1_P049" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB1_P049" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB1_P049</span>
           <span class="hero-exhibit-title">Book 1 Image 24/69 — Tara fake crying selfie — performative distress, lying on co</span>
           <span class="hero-reliability">Document</span>
@@ -616,31 +616,27 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=LEGAL-DVRO-APPEASE-LYING" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-DVRO-APPEASE-LYING" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-DVRO-APPEASE-LYING</span>
           <span class="exhibit-title">Tara Under Oath: &#39;I Intentionally Was Telling Him Things to Appease Him&#39; (Aug 29, 2018)</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-DVRO-BRIENNE-BEATEN-UNCONSCIOUS</span>
           <span class="exhibit-title">Tara on Brienne&#39;s Statement: &#39;Beautifully Written&#39; But Steve Never Beat Her Unconscious (Aug 29, 2018)</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-INQUEST-NO-POLICE-REPORT" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-NO-POLICE-REPORT" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-INQUEST-NO-POLICE-REPORT</span>
           <span class="exhibit-title">March 2018 Violence: No Police Report, No Photos in Evidence (Jan 2022)</span>
         </a>
-        <a href="../evidence.html?search=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018" class="exhibit-chip">
           <span class="exhibit-id">PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018</span>
           <span class="exhibit-title">Email, Matan Gavish ↔ Tara Walsh, March 9, 2018 (duplicate of ExB_02)</span>
         </a>
-        <a href="../evidence.html?search=ExA_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExA_01" class="exhibit-chip">
           <span class="exhibit-id">ExA_01</span>
           <span class="exhibit-title">Works for us — archived email reproduction, June 8, 2018</span>
         </a>
-        <a href="../evidence.html?search=PDF_DV_TRIAL_TRANSCRIPT" class="exhibit-chip">
-          <span class="exhibit-id">PDF_DV_TRIAL_TRANSCRIPT</span>
-          <span class="exhibit-title">DV Trial Day 1 Transcript — Russell v Walsh (Aug 29, 2018)</span>
-        </a>
-        <a href="../evidence.html?search=LEGAL-INQUEST-TRANSCRIPT" class="exhibit-chip">
+        <a href="../evidence.html?id=LEGAL-INQUEST-TRANSCRIPT" class="exhibit-chip">
           <span class="exhibit-id">LEGAL-INQUEST-TRANSCRIPT</span>
           <span class="exhibit-title">Inquest Transcript — Westchester Family Court, January 5, 2022</span>
         </a>
@@ -3943,7 +3939,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3957,9 +3953,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

@@ -540,12 +540,12 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=C-6" class="evidence-hero-chip">
+        <a href="../evidence.html?id=C-6" class="evidence-hero-chip">
           <span class="hero-exhibit-id">C-6</span>
           <span class="hero-exhibit-title">Tara Walsh’s DV-120 response and attachment — signed August 7, 2018</span>
           <span class="hero-reliability">Sworn Under Oath</span>
         </a>
-        <a href="../evidence.html?search=ExMM_UBER_04" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExMM_UBER_04" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExMM_UBER_04</span>
           <span class="hero-exhibit-title">Audio Recording — Uber Departure, June 4, 2018 (file metadata 2018-06-04T20:26Z)</span>
           <span class="hero-reliability">Media Record</span>
@@ -553,43 +553,43 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=IMESSAGE_DB_TARA_2017_2018" class="exhibit-chip">
+        <a href="../evidence.html?id=IMESSAGE_DB_TARA_2017_2018" class="exhibit-chip">
           <span class="exhibit-id">IMESSAGE_DB_TARA_2017_2018</span>
           <span class="exhibit-title">Tara Walsh Complete iMessage Database — Mar 2017 to Mar 2018 (24,312 messages)</span>
         </a>
-        <a href="../evidence.html?search=DEPO_TARA_WINE_BOTTLE_THROWN" class="exhibit-chip">
+        <a href="../evidence.html?id=DEPO_TARA_WINE_BOTTLE_THROWN" class="exhibit-chip">
           <span class="exhibit-id">DEPO_TARA_WINE_BOTTLE_THROWN</span>
           <span class="exhibit-title">Stephen Russell testimony about the wine-bottle incident — August 29, 2018</span>
         </a>
-        <a href="../evidence.html?search=PHOTO_TARA_KNIFE_SELFIE" class="exhibit-chip">
+        <a href="../evidence.html?id=PHOTO_TARA_KNIFE_SELFIE" class="exhibit-chip">
           <span class="exhibit-id">PHOTO_TARA_KNIFE_SELFIE</span>
           <span class="exhibit-title">Tara Holding Knife - Selfie</span>
         </a>
-        <a href="../evidence.html?search=EX_21_BPD_TEXTS" class="exhibit-chip">
+        <a href="../evidence.html?id=EX_21_BPD_TEXTS" class="exhibit-chip">
           <span class="exhibit-id">EX_21_BPD_TEXTS</span>
           <span class="exhibit-title">Tara Texts: BPD and Prism Calls</span>
         </a>
-        <a href="../evidence.html?search=DEPO_TARA_SEROQUEL_SWORN" class="exhibit-chip">
+        <a href="../evidence.html?id=DEPO_TARA_SEROQUEL_SWORN" class="exhibit-chip">
           <span class="exhibit-id">DEPO_TARA_SEROQUEL_SWORN</span>
           <span class="exhibit-title">Tara Walsh hearing testimony about Seroquel and her text to Dr. Gopal — August 29, 2018</span>
         </a>
-        <a href="../evidence.html?search=ExO_06" class="exhibit-chip">
+        <a href="../evidence.html?id=ExO_06" class="exhibit-chip">
           <span class="exhibit-id">ExO_06</span>
           <span class="exhibit-title">Linda Russell letter to Hon. Michelle Schauer re grandmother visits (sent June 27, 2021, about the June 24 visit)</span>
         </a>
-        <a href="../evidence.html?search=EX_34_DROPPED_BABY" class="exhibit-chip">
+        <a href="../evidence.html?id=EX_34_DROPPED_BABY" class="exhibit-chip">
           <span class="exhibit-id">EX_34_DROPPED_BABY</span>
           <span class="exhibit-title">Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.”</span>
         </a>
-        <a href="../evidence.html?search=ExTR_19" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_19" class="exhibit-chip">
           <span class="exhibit-id">ExTR_19</span>
           <span class="exhibit-title">Walsh trial testimony about Seroquel — February 17, 2022, pages 13–15</span>
         </a>
-        <a href="../evidence.html?search=SCREENSHOT_TARA_FAKE_CRYING_ZAR" class="exhibit-chip">
+        <a href="../evidence.html?id=SCREENSHOT_TARA_FAKE_CRYING_ZAR" class="exhibit-chip">
           <span class="exhibit-id">SCREENSHOT_TARA_FAKE_CRYING_ZAR</span>
           <span class="exhibit-title">Tara Admits Fake Crying to Zar (iChat 2017-05-23)</span>
         </a>
-        <a href="../evidence.html?search=ExG_05" class="exhibit-chip">
+        <a href="../evidence.html?id=ExG_05" class="exhibit-chip">
           <span class="exhibit-id">ExG_05</span>
           <span class="exhibit-title">Court of Appeal opinion, A165356, filed September 15, 2023</span>
         </a>
@@ -3892,7 +3892,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3906,9 +3906,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

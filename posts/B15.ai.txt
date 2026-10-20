@@ -70,7 +70,7 @@ He was very far from the house on Vermont Street where the fog came in over the 
 
 ## Evidence references
 
-- ExI_03 Redwood Toxicology urine report — collected March 7, 2018 Laboratory report: https://chappaquapoison.com/evidence.html?search=ExI_03
-- B-2 2018-07-10 Respondent's Declaration ISO Response to Petitioner's Ex Parte Reques Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=B-2
-- D-31 Russell email Ackerman Security Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=D-31
+- ExI_03 Redwood Toxicology urine report — collected March 7, 2018 Laboratory report: https://chappaquapoison.com/evidence.html?id=ExI_03
+- B-2 2018-07-10 Respondent's Declaration ISO Response to Petitioner's Ex Parte Reques Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=B-2
+- D-31 Russell email Ackerman Security Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=D-31
 - Explore all 51 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B15

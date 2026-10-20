@@ -555,12 +555,12 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=B-4" class="evidence-hero-chip">
+        <a href="../evidence.html?id=B-4" class="evidence-hero-chip">
           <span class="hero-exhibit-id">B-4</span>
           <span class="hero-exhibit-title">Temporary Order of Protection document — core of the double default narrative</span>
           <span class="hero-reliability">Court Record</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-HUMPHREY-RECUSAL" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-HUMPHREY-RECUSAL" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-HUMPHREY-RECUSAL</span>
           <span class="hero-exhibit-title">Judge Humphrey Recusal — Trashes DiFabio While Granting His Motion (Apr 2021)</span>
           <span class="hero-reliability">Official court order — Notice of Entry</span>
@@ -568,47 +568,47 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=ExTR_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_03" class="exhibit-chip">
           <span class="exhibit-id">ExTR_03</span>
           <span class="exhibit-title">Humphrey hearing transcript, January 26, 2021 (White Plains Family Court)</span>
         </a>
-        <a href="../evidence.html?search=ExTR_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_01" class="exhibit-chip">
           <span class="exhibit-id">ExTR_01</span>
           <span class="exhibit-title">Schauer hearing transcript, August 27, 2021 (Yonkers Family Court)</span>
         </a>
-        <a href="../evidence.html?search=ExTR_02" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_02" class="exhibit-chip">
           <span class="exhibit-id">ExTR_02</span>
           <span class="exhibit-title">Schauer hearing transcript, November 5, 2021 (Yonkers Family Court)</span>
         </a>
-        <a href="../evidence.html?search=ExO_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExO_01" class="exhibit-chip">
           <span class="exhibit-id">ExO_01</span>
           <span class="exhibit-title">Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021</span>
         </a>
-        <a href="../evidence.html?search=B-12" class="exhibit-chip">
+        <a href="../evidence.html?id=B-12" class="exhibit-chip">
           <span class="exhibit-id">B-12</span>
           <span class="exhibit-title">Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced</span>
         </a>
-        <a href="../evidence.html?search=B-3" class="exhibit-chip">
+        <a href="../evidence.html?id=B-3" class="exhibit-chip">
           <span class="exhibit-id">B-3</span>
           <span class="exhibit-title">3-family offense petition abuse 8-27-21</span>
         </a>
-        <a href="../evidence.html?search=DOCX_RUSSELL_AFFIDAVIT" class="exhibit-chip">
+        <a href="../evidence.html?id=DOCX_RUSSELL_AFFIDAVIT" class="exhibit-chip">
           <span class="exhibit-id">DOCX_RUSSELL_AFFIDAVIT</span>
           <span class="exhibit-title">Russell Affidavit v2 — August 7, 2018</span>
         </a>
-        <a href="../evidence.html?search=PDF_DEMAND_PROSECUTION" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_DEMAND_PROSECUTION" class="exhibit-chip">
           <span class="exhibit-id">PDF_DEMAND_PROSECUTION</span>
           <span class="exhibit-title">Demand for Prosecution — DA Letter (74 pages)</span>
         </a>
-        <a href="../evidence.html?search=SLE-096" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-096" class="exhibit-chip">
           <span class="exhibit-id">SLE-096</span>
           <span class="exhibit-title">Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.</span>
         </a>
-        <a href="../evidence.html?search=G-27" class="exhibit-chip">
+        <a href="../evidence.html?id=G-27" class="exhibit-chip">
           <span class="exhibit-id">G-27</span>
           <span class="exhibit-title">OASAS Stipulation of Settlement — Raymond Griffin, August 2019</span>
         </a>
-        <a href="../evidence.html?search=ExOO_14" class="exhibit-chip">
+        <a href="../evidence.html?id=ExOO_14" class="exhibit-chip">
           <span class="exhibit-id">ExOO_14</span>
           <span class="exhibit-title">ExOO 14 AFC Jackman Griffin Exchange</span>
         </a>
@@ -3911,7 +3911,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3925,9 +3925,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

@@ -51,8 +51,7 @@ The court had ordered the blog erased. The family was already erasing everything
 
 ## Evidence references
 
-- ExMM_11 Walsh Voicemail Threat Media Record: https://chappaquapoison.com/evidence.html?search=ExMM_11
-- INT-003_04 INT-003-004 petrella Documented Record: https://chappaquapoison.com/evidence.html?search=INT-003_04
-- ExOO_31 Walsh Sr Threatened Two Lawyers Audio: https://chappaquapoison.com/evidence.html?search=ExOO_31
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=ExG_01
+- ExMM_11 Walsh Voicemail Threat Media Record: https://chappaquapoison.com/evidence.html?id=ExMM_11
+- ExOO_31 Walsh Sr Threatened Two Lawyers Audio: https://chappaquapoison.com/evidence.html?id=ExOO_31
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?id=ExG_01
 - Explore all 58 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B39

@@ -68,8 +68,8 @@ The distance between the act and its consequence — that, in his reading, was t
 
 ## Evidence references
 
-- LAB-MYCOPHENOLIC-ACID Great Plains Laboratory MycoTOX urine report — Stephen Russell, collected July 31, 2019 Separate urine result, collected July 31, 2019. Not a bottle analysis; it does not establish the source of the Reno illness. Laboratory report: https://chappaquapoison.com/evidence.html?search=LAB-MYCOPHENOLIC-ACID
-- EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K Documented Record: https://chappaquapoison.com/evidence.html?search=EMAIL_9755
-- ExI_02 Doctor's Data Urine Elements Report — March 9, 2017 March 2017 urine report: lithium result and post-provocation qualification, distinct from the later Reno account.: https://chappaquapoison.com/evidence.html?search=ExI_02
-- DOC-027 MycophenolicAcidTest: https://chappaquapoison.com/evidence.html?search=DOC-027
+- LAB-MYCOPHENOLIC-ACID Great Plains Laboratory MycoTOX urine report — Stephen Russell, collected July 31, 2019 Separate urine result, collected July 31, 2019. Not a bottle analysis; it does not establish the source of the Reno illness. Laboratory report: https://chappaquapoison.com/evidence.html?id=LAB-MYCOPHENOLIC-ACID
+- EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K Documented Record: https://chappaquapoison.com/evidence.html?id=EMAIL_9755
+- ExI_02 Doctor's Data Urine Elements Report — March 9, 2017 March 2017 urine report: lithium result and post-provocation qualification, distinct from the later Reno account.: https://chappaquapoison.com/evidence.html?id=ExI_02
+- DOC-027 MycophenolicAcidTest: https://chappaquapoison.com/evidence.html?id=DOC-027
 - Explore all 8 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B31

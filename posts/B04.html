@@ -540,12 +540,12 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=EB3_MASTER_024" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB3_MASTER_024" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB3_MASTER_024</span>
           <span class="hero-exhibit-title">Book 3 Image 24/92 — Walsh family on Tara Knoll porch — cherry blossoms, American</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=ExQQ_06" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExQQ_06" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExQQ_06</span>
           <span class="hero-exhibit-title">Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy</span>
           <span class="hero-reliability">Published Personal Account</span>
@@ -553,51 +553,51 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=FRAUD-1" class="exhibit-chip">
+        <a href="../evidence.html?id=FRAUD-1" class="exhibit-chip">
           <span class="exhibit-id">FRAUD-1</span>
           <span class="exhibit-title">Counsel/author compilation — selected text messages with argument (&#34;Ms. Walsh&#39;s motivations&#34;)</span>
         </a>
-        <a href="../evidence.html?search=QUOTE-TARA-LEAVE-COMPOUND" class="exhibit-chip">
+        <a href="../evidence.html?id=QUOTE-TARA-LEAVE-COMPOUND" class="exhibit-chip">
           <span class="exhibit-id">QUOTE-TARA-LEAVE-COMPOUND</span>
           <span class="exhibit-title">&#39;Things Get Bad When I Say I Want to Leave&#39; — Tara on the Walsh Compound</span>
         </a>
-        <a href="../evidence.html?search=BLOG-034" class="exhibit-chip">
+        <a href="../evidence.html?id=BLOG-034" class="exhibit-chip">
           <span class="exhibit-id">BLOG-034</span>
           <span class="exhibit-title">Brienne Walsh — Life is Not Fair Except If You’re Caleb (May 17, 2019)</span>
         </a>
-        <a href="../evidence.html?search=PDF_BRIENNE_COURT_LETTER" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_BRIENNE_COURT_LETTER" class="exhibit-chip">
           <span class="exhibit-id">PDF_BRIENNE_COURT_LETTER</span>
           <span class="exhibit-title">Brienne Walsh Letter to Court (#2)</span>
         </a>
-        <a href="../evidence.html?search=VIDEO_DEPO_BRENDAN_WALSH" class="exhibit-chip">
+        <a href="../evidence.html?id=VIDEO_DEPO_BRENDAN_WALSH" class="exhibit-chip">
           <span class="exhibit-id">VIDEO_DEPO_BRENDAN_WALSH</span>
           <span class="exhibit-title">Brendan Walsh Deposition Video (April 23, 2021)</span>
         </a>
-        <a href="../evidence.html?search=VIDEO_DEPO_MAURA_WALSH" class="exhibit-chip">
+        <a href="../evidence.html?id=VIDEO_DEPO_MAURA_WALSH" class="exhibit-chip">
           <span class="exhibit-id">VIDEO_DEPO_MAURA_WALSH</span>
           <span class="exhibit-title">Maura Walsh Deposition Video (April 23, 2021)</span>
         </a>
-        <a href="../evidence.html?search=EX_18_PHYSICAL_FIGHTS" class="exhibit-chip">
+        <a href="../evidence.html?id=EX_18_PHYSICAL_FIGHTS" class="exhibit-chip">
           <span class="exhibit-id">EX_18_PHYSICAL_FIGHTS</span>
           <span class="exhibit-title">Tara Texts: Physical Fights at Home</span>
         </a>
-        <a href="../evidence.html?search=EX_24_TARA_CANT_STAND_LIVING" class="exhibit-chip">
+        <a href="../evidence.html?id=EX_24_TARA_CANT_STAND_LIVING" class="exhibit-chip">
           <span class="exhibit-id">EX_24_TARA_CANT_STAND_LIVING</span>
           <span class="exhibit-title">Tara to Linda: Cannot Stand Living at Parents&#39;</span>
         </a>
-        <a href="../evidence.html?search=EMAIL_6432" class="exhibit-chip">
+        <a href="../evidence.html?id=EMAIL_6432" class="exhibit-chip">
           <span class="exhibit-id">EMAIL_6432</span>
           <span class="exhibit-title">Abuse at Walsh Household (Summary) — To Dr. Hymowitz</span>
         </a>
-        <a href="../evidence.html?search=SCREENSHOT_BRIENNE_THREAT_TO_SUE" class="exhibit-chip">
+        <a href="../evidence.html?id=SCREENSHOT_BRIENNE_THREAT_TO_SUE" class="exhibit-chip">
           <span class="exhibit-id">SCREENSHOT_BRIENNE_THREAT_TO_SUE</span>
           <span class="exhibit-title">Brienne Walsh Blog: Tara Threat to Sue (Oct 15, 2018)</span>
         </a>
-        <a href="../evidence.html?search=SLE-113" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-113" class="exhibit-chip">
           <span class="exhibit-id">SLE-113</span>
           <span class="exhibit-title">“It’s important to have a meeting of the minds of how we are going to bring our daughter into the world and raise her”</span>
         </a>
-        <a href="../evidence.html?search=EB3_SPREAD_IMG023-024" class="exhibit-chip">
+        <a href="../evidence.html?id=EB3_SPREAD_IMG023-024" class="exhibit-chip">
           <span class="exhibit-id">EB3_SPREAD_IMG023-024</span>
           <span class="exhibit-title">Book 3 Spread pp.23-24 — Brienne Walsh blog CPS confession beside Walsh family o</span>
         </a>
@@ -3900,7 +3900,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3914,9 +3914,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

@@ -528,12 +528,12 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=QUOTE-TARA-FAMILY-CUSTODY-THREAT" class="evidence-hero-chip">
+        <a href="../evidence.html?id=QUOTE-TARA-FAMILY-CUSTODY-THREAT" class="evidence-hero-chip">
           <span class="hero-exhibit-id">QUOTE-TARA-FAMILY-CUSTODY-THREAT</span>
           <span class="hero-exhibit-title">&#39;They Will Take Legal Action Against Steve and I for Custody of Evie If We Leave&#39; — Walsh Parents&#39; Custody Threat (Jul 2018)</span>
           <span class="hero-reliability">iMessage to Linda Russell — Tara&#39;s own words, preserved on StevieLovesEvie</span>
         </a>
-        <a href="../evidence.html?search=PDF_WALSH_ABUSE_MOTION_02" class="evidence-hero-chip">
+        <a href="../evidence.html?id=PDF_WALSH_ABUSE_MOTION_02" class="evidence-hero-chip">
           <span class="hero-exhibit-id">PDF_WALSH_ABUSE_MOTION_02</span>
           <span class="hero-exhibit-title">Counsel draft letter to Judge Gordon-Oliver with exhibits, November 7, 2019 (marked DRAFT; filing status unverified)</span>
           <span class="hero-reliability">Counsel draft with exhibits</span>
@@ -541,33 +541,25 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=PDF_WALSH_ABUSE_MOTION_W_EXHIBITS" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_WALSH_ABUSE_MOTION_W_EXHIBITS" class="exhibit-chip">
           <span class="exhibit-id">PDF_WALSH_ABUSE_MOTION_W_EXHIBITS</span>
           <span class="exhibit-title">Counsel draft letter to Judge Gordon-Oliver with exhibits, November 7, 2019 (duplicate)</span>
         </a>
-        <a href="../evidence.html?search=ExOO_42" class="exhibit-chip">
+        <a href="../evidence.html?id=ExOO_42" class="exhibit-chip">
           <span class="exhibit-id">ExOO_42</span>
           <span class="exhibit-title">Superseded Editorial Deposition Summary</span>
         </a>
-        <a href="../evidence.html?search=SCREENSHOT_SGT_CARAWAY_COURT_ORDER" class="exhibit-chip">
+        <a href="../evidence.html?id=SCREENSHOT_SGT_CARAWAY_COURT_ORDER" class="exhibit-chip">
           <span class="exhibit-id">SCREENSHOT_SGT_CARAWAY_COURT_ORDER</span>
           <span class="exhibit-title">Sgt. Caraway Text — &#39;I was provided court order by a party of this investigation&#39;</span>
         </a>
-        <a href="../evidence.html?search=EB3_MASTER_055" class="exhibit-chip">
+        <a href="../evidence.html?id=EB3_MASTER_055" class="exhibit-chip">
           <span class="exhibit-id">EB3_MASTER_055</span>
           <span class="exhibit-title">Walsh Sr. Letter to Judge Gordon-Oliver — Complains About Subpoena (Aug 2019)</span>
         </a>
-        <a href="../evidence.html?search=ExQQ_06" class="exhibit-chip">
+        <a href="../evidence.html?id=ExQQ_06" class="exhibit-chip">
           <span class="exhibit-id">ExQQ_06</span>
           <span class="exhibit-title">Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy</span>
-        </a>
-        <a href="../evidence.html?search=MSG-LINDA" class="exhibit-chip">
-          <span class="exhibit-id">MSG-LINDA</span>
-          <span class="exhibit-title">Tara–Linda Russell (Steve&#39;s Mother) Full iMessage Conversation (Mar 2017 – Mar 2</span>
-        </a>
-        <a href="../evidence.html?search=D-2" class="exhibit-chip">
-          <span class="exhibit-id">D-2</span>
-          <span class="exhibit-title">Stephen Russell family-offense petition concerning Evie — copy with exhibits</span>
         </a>
       </div>
 
@@ -3868,7 +3860,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3882,9 +3874,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

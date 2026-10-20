@@ -567,27 +567,27 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=LEGAL-RUSSELL-AFFIDAVIT-DEFAULT" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-RUSSELL-AFFIDAVIT-DEFAULT" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-RUSSELL-AFFIDAVIT-DEFAULT</span>
           <span class="hero-exhibit-title">Stephen Russell — Signed Affidavit in Support of Motion to Reargue and Vacate, January 14, 2021</span>
 <span class="evidence-context">Signed January 14, 2021 affidavit, ¶¶3–4: telephone-appearance denial and flight. The previously linked August 2018 affidavit was a different document.</span>          <span class="hero-reliability">Signed Under Penalty of Perjury</span>
         </a>
-        <a href="../evidence.html?search=ExO_01" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExO_01" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExO_01</span>
           <span class="hero-exhibit-title">Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021</span>
           <span class="hero-reliability">Letter to the court</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-OP-2020-02-06" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-OP-2020-02-06" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-OP-2020-02-06</span>
           <span class="hero-exhibit-title">Order of Protection, Upon Default — Order No. 2020-000846, Docket O-12635-19, Hon. Nilda Morales Horowitz, February 6, 2020</span>
 <span class="evidence-context">The February 6, 2020 order itself (redacted public copy), replacing B-4_014 — the August 27, 2021 order protecting Steve — as the displayed 2020 instrument. In force to February 6, 2022. The custody disposition is a separate instrument; the drafting, ex parte and non-service account is Aunt K&#39;s May 10, 2021 letter (ExO_01), in her words.</span>          <span class="hero-reliability">Court Record</span>
         </a>
-        <a href="../evidence.html?search=B-7_020" class="evidence-hero-chip">
+        <a href="../evidence.html?id=B-7_020" class="evidence-hero-chip">
           <span class="hero-exhibit-id">B-7_020</span>
           <span class="hero-exhibit-title">Walsh v. Russell — Signed Order Motion Schedule</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=A-7_02" class="evidence-hero-chip">
+        <a href="../evidence.html?id=A-7_02" class="evidence-hero-chip">
           <span class="hero-exhibit-id">A-7_02</span>
           <span class="hero-exhibit-title">Court-Office Acknowledgment of Correspondence — May 12, 2021</span>
           <span class="hero-reliability">Court-office correspondence</span>
@@ -595,29 +595,25 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=ExO_04" class="exhibit-chip">
+        <a href="../evidence.html?id=ExO_04" class="exhibit-chip">
           <span class="exhibit-id">ExO_04</span>
           <span class="exhibit-title">Kelly Turnure letter to Hon. Esther Furman re interim support (February 2021)</span>
         </a>
-        <a href="../evidence.html?search=ExTR_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_01" class="exhibit-chip">
           <span class="exhibit-id">ExTR_01</span>
           <span class="exhibit-title">Schauer hearing transcript, August 27, 2021 (Yonkers Family Court)</span>
 <span class="evidence-context">August27 2021, pp10,12–13 and44: vacated default orders and reinstated petition.</span>        </a>
-        <a href="../evidence.html?search=ExTR_02" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_02" class="exhibit-chip">
           <span class="exhibit-id">ExTR_02</span>
           <span class="exhibit-title">Schauer hearing transcript, November 5, 2021 (Yonkers Family Court)</span>
 <span class="evidence-context">November5 2021, p19: interim custody after vacatur.</span>        </a>
-        <a href="../evidence.html?search=ExTR_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_03" class="exhibit-chip">
           <span class="exhibit-id">ExTR_03</span>
           <span class="exhibit-title">Humphrey hearing transcript, January 26, 2021 (White Plains Family Court)</span>
         </a>
-        <a href="../evidence.html?search=ExTR_05_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_05_03" class="exhibit-chip">
           <span class="exhibit-id">ExTR_05_03</span>
           <span class="exhibit-title">Humphrey Decision and Order (recusal), April 6, 2021</span>
-        </a>
-        <a href="../evidence.html?search=B-7" class="exhibit-chip">
-          <span class="exhibit-id">B-7</span>
-          <span class="exhibit-title">O 03599 20 Temporary Order of Protection Extended Order Order 2021 005878 OPType</span>
         </a>
       </div>
 
@@ -3918,7 +3914,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3932,9 +3928,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

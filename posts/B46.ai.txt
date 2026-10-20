@@ -45,8 +45,8 @@ Evie was five. She had never seen a courtroom. She did not know that two appella
 
 ## Evidence references
 
-- B-13 Domestication Affidavit — California Judgment to New York Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=B-13
-- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137 Court Record: https://chappaquapoison.com/evidence.html?search=B-10
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=ExG_01
-- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?search=ExG_05
+- B-13 Domestication Affidavit — California Judgment to New York Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=B-13
+- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137 Court Record: https://chappaquapoison.com/evidence.html?id=B-10
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?id=ExG_01
+- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?id=ExG_05
 - Explore all 17 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B46

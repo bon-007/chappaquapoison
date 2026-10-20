@@ -590,27 +590,27 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=EB2_MASTER_033" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_033" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_033</span>
           <span class="hero-exhibit-title">Book 2 Image 33/134 — Russell affidavit: Farquharson invited Tara to visits, dismi</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_036" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_036" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_036</span>
           <span class="hero-exhibit-title">Book 2 Image 36/134 — Russell affidavit: &#39;Farquharson had Tara attend the bulk of </span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_026" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_026" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_026</span>
           <span class="hero-exhibit-title">Book 2 Image 26/134 — Delia Farquharson VOTE FOR MAYOR campaign poster — &#39;I promis</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_032" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_032" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_032</span>
           <span class="hero-exhibit-title">Book 2 Image 32/134 — Handwritten court order: &#39;Father shall have visitation super</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_041" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_041" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_041</span>
           <span class="hero-exhibit-title">Book 2 Image 41/134 — Court transcript: &#39;THE COURT: Counsel, I wanted Mr. Russell </span>
           <span class="hero-reliability">Documented Record</span>
@@ -618,23 +618,23 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=EB2_MASTER_011" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_011" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_011</span>
           <span class="exhibit-title">Book 2 Image 11/134 — Jason Advocate letter: &#39;You are making excuse after excuse t</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_012" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_012" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_012</span>
           <span class="exhibit-title">Book 2 Image 12/134 — Steve email to Walsh Sr. and Maura: &#39;Visits Today and This W</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_027" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_027" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_027</span>
           <span class="exhibit-title">Book 2 Image 27/134 — Chappaqua rental cottage interior — white kitchen, cream wal</span>
         </a>
-        <a href="../evidence.html?search=EB3_MASTER_053" class="exhibit-chip">
+        <a href="../evidence.html?id=EB3_MASTER_053" class="exhibit-chip">
           <span class="exhibit-id">EB3_MASTER_053</span>
           <span class="exhibit-title">Book 3 Image 53/92 — Court order with handwritten annotations: supervised visitat</span>
         </a>
-        <a href="../evidence.html?search=ExL_03" class="exhibit-chip">
+        <a href="../evidence.html?id=ExL_03" class="exhibit-chip">
           <span class="exhibit-id">ExL_03</span>
           <span class="exhibit-title">Transcript before Hon. Arlene Gordon-Oliver, November 29, 2018</span>
         </a>
@@ -3937,7 +3937,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3951,9 +3951,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

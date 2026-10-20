@@ -56,7 +56,7 @@ The question was about a child who was begging to see her father, and what the p
 
 ## Evidence references
 
-- KEY-TEXT-MESSAGES-D1-D11 Text-message screenshot compilation — exhibits D-1 through D-11 Screenshot compilation: https://chappaquapoison.com/evidence.html?search=KEY-TEXT-MESSAGES-D1-D11
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=ExG_01
-- PDF_INCIDENT_REPORT_180415167 SFPD Incident Report 180415167 — narrative page, June 4, 2018: https://chappaquapoison.com/evidence.html?search=PDF_INCIDENT_REPORT_180415167
+- KEY-TEXT-MESSAGES-D1-D11 Text-message screenshot compilation — exhibits D-1 through D-11 Screenshot compilation: https://chappaquapoison.com/evidence.html?id=KEY-TEXT-MESSAGES-D1-D11
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?id=ExG_01
+- PDF_INCIDENT_REPORT_180415167 SFPD Incident Report 180415167 — narrative page, June 4, 2018: https://chappaquapoison.com/evidence.html?id=PDF_INCIDENT_REPORT_180415167
 - Explore all 8 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B50

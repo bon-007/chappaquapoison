@@ -66,12 +66,12 @@ That is enough.
 
 ## Evidence references
 
-- CORR-TURNURE-FURMAN Kelly Turnure letter to Hon. Esther Furman re interim support (duplicate of ExO_04) Letter to the court: https://chappaquapoison.com/evidence.html?search=CORR-TURNURE-FURMAN
-- SLE-010 About Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-010
-- CORR-TURNURE-EGITTO Kelly Turnure letter to Hon. Joseph Egitto, May 10, 2021 (duplicate of ExO_01) Letter to the court: https://chappaquapoison.com/evidence.html?search=CORR-TURNURE-EGITTO
-- ExO_05 Kelly Turnure letter to Hon. Kathie M. Davidson, Westchester County Family Court, March 23, 2021: https://chappaquapoison.com/evidence.html?search=ExO_05
-- CORR-TURNURE-DAVIDSON Aunt K Letter to Judge Davidson: https://chappaquapoison.com/evidence.html?search=CORR-TURNURE-DAVIDSON
-- EMAIL_1424 Book 1 Notes — Aunt K Research: https://chappaquapoison.com/evidence.html?search=EMAIL_1424
-- ExO_04 Kelly Turnure letter to Hon. Esther Furman re interim support (February 2021): https://chappaquapoison.com/evidence.html?search=ExO_04
-- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021: https://chappaquapoison.com/evidence.html?search=ExO_01
+- CORR-TURNURE-FURMAN Kelly Turnure letter to Hon. Esther Furman re interim support (duplicate of ExO_04) Letter to the court: https://chappaquapoison.com/evidence.html?id=CORR-TURNURE-FURMAN
+- SLE-010 About Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-010
+- CORR-TURNURE-EGITTO Kelly Turnure letter to Hon. Joseph Egitto, May 10, 2021 (duplicate of ExO_01) Letter to the court: https://chappaquapoison.com/evidence.html?id=CORR-TURNURE-EGITTO
+- ExO_05 Kelly Turnure letter to Hon. Kathie M. Davidson, Westchester County Family Court, March 23, 2021: https://chappaquapoison.com/evidence.html?id=ExO_05
+- CORR-TURNURE-DAVIDSON Aunt K Letter to Judge Davidson: https://chappaquapoison.com/evidence.html?id=CORR-TURNURE-DAVIDSON
+- EMAIL_1424 Book 1 Notes — Aunt K Research: https://chappaquapoison.com/evidence.html?id=EMAIL_1424
+- ExO_04 Kelly Turnure letter to Hon. Esther Furman re interim support (February 2021): https://chappaquapoison.com/evidence.html?id=ExO_04
+- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021: https://chappaquapoison.com/evidence.html?id=ExO_01
 - Explore all 29 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B30

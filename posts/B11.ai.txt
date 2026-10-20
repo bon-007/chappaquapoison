@@ -77,10 +77,9 @@ The screwdriver was still in his jacket pocket.
 
 ## Evidence references
 
-- G-34 Russell Supplemental Declaration ISO DVRO — Surreptitious Recordings, Blackmail, Sweet Revenge (July 2019) Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=G-34
-- MSG-BRIENNE-013 Evie's Birth Through Brienne's Lens — Hospital Plea (Jan 26-27, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?search=MSG-BRIENNE-013
-- D-31 Russell email Ackerman Security: https://chappaquapoison.com/evidence.html?search=D-31
-- EB1_P065 Book 1 Image 32/69 — Brooklyn apartment interior — dark velvet sectional sofa, ma: https://chappaquapoison.com/evidence.html?search=EB1_P065
-- EB1_P129 Book 1 Image 64/69 — JetBlue boarding pass screenshot — SFO to JFK, Terminal Inte: https://chappaquapoison.com/evidence.html?search=EB1_P129
-- MSG-BRIENNE Tara–Brienne Walsh (Sister) Full iMessage Conversation (Mar 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-BRIENNE
+- G-34 Russell Supplemental Declaration ISO DVRO — Surreptitious Recordings, Blackmail, Sweet Revenge (July 2019) Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=G-34
+- MSG-BRIENNE-013 Evie's Birth Through Brienne's Lens — Hospital Plea (Jan 26-27, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-BRIENNE-013
+- D-31 Russell email Ackerman Security: https://chappaquapoison.com/evidence.html?id=D-31
+- EB1_P065 Book 1 Image 32/69 — Brooklyn apartment interior — dark velvet sectional sofa, ma: https://chappaquapoison.com/evidence.html?id=EB1_P065
+- EB1_P129 Book 1 Image 64/69 — JetBlue boarding pass screenshot — SFO to JFK, Terminal Inte: https://chappaquapoison.com/evidence.html?id=EB1_P129
 - Explore all 34 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B11

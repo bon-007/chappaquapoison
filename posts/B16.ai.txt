@@ -83,14 +83,13 @@ The house on Vermont Street would not be quiet much longer.
 
 ## Evidence references
 
-- SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE Tara Texts — Walsh Household Abuse: 'It's honestly horrible living here,' Physical Fights, Brendan Controls WiFi Primary Source — iPhone Screenshots (Multiple): https://chappaquapoison.com/evidence.html?search=SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE
-- TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL Tara Walsh Text — Miscarriage Sympathy Pivot to Conditional Evie Access (Jul 21) Screenshot copy: https://chappaquapoison.com/evidence.html?search=TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL
-- MSG-JESSE-001 The Rules List — Pre-SF Move Demands (Feb 18, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=MSG-JESSE-001
-- MSG-MATAN-006 Tara Walsh and Matan Gavish messages, February 20, 2018 Rendered message-export page; native extraction not verified in this review: https://chappaquapoison.com/evidence.html?search=MSG-MATAN-006
-- ExA_01 Works for us — archived email reproduction, June 8, 2018: https://chappaquapoison.com/evidence.html?search=ExA_01
-- MSG-JESSE-005 Jesse Confronts the Cycle — 'You manipulate me into thinking you're making progress' (Dec 29, 2017): https://chappaquapoison.com/evidence.html?search=MSG-JESSE-005
-- MSG-WALSHSR-004 Valentine's Day Office Visit — Tara Brings Steve and Baby to Walsh Sr. (Feb 14, 2018): https://chappaquapoison.com/evidence.html?search=MSG-WALSHSR-004
-- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137: https://chappaquapoison.com/evidence.html?search=B-10
-- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?search=MSG-JESSE
-- MSG-MATAN Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-MATAN
+- SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE Tara Texts — Walsh Household Abuse: 'It's honestly horrible living here,' Physical Fights, Brendan Controls WiFi Primary Source — iPhone Screenshots (Multiple): https://chappaquapoison.com/evidence.html?id=SCREENSHOT_TARA_WALSH_HOUSEHOLD_ABUSE
+- TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL Tara Walsh Text — Miscarriage Sympathy Pivot to Conditional Evie Access (Jul 21) Screenshot copy: https://chappaquapoison.com/evidence.html?id=TEXT_TARA_JUL21_MISCARRIAGE_CONDITIONAL
+- MSG-JESSE-001 The Rules List — Pre-SF Move Demands (Feb 18, 2018) Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=MSG-JESSE-001
+- MSG-MATAN-006 Tara Walsh and Matan Gavish messages, February 20, 2018 Rendered message-export page; native extraction not verified in this review: https://chappaquapoison.com/evidence.html?id=MSG-MATAN-006
+- ExA_01 Works for us — archived email reproduction, June 8, 2018: https://chappaquapoison.com/evidence.html?id=ExA_01
+- MSG-JESSE-005 Jesse Confronts the Cycle — 'You manipulate me into thinking you're making progress' (Dec 29, 2017): https://chappaquapoison.com/evidence.html?id=MSG-JESSE-005
+- MSG-WALSHSR-004 Valentine's Day Office Visit — Tara Brings Steve and Baby to Walsh Sr. (Feb 14, 2018): https://chappaquapoison.com/evidence.html?id=MSG-WALSHSR-004
+- B-10 Second Amended Judgment on Jury Verdict, CGC-18-570137: https://chappaquapoison.com/evidence.html?id=B-10
+- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?id=MSG-JESSE
 - Explore all 42 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B16

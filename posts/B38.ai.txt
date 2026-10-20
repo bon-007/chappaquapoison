@@ -85,10 +85,10 @@ The volcano was centered in the frame. The lagoon held its color. The fish did n
 
 ## Evidence references
 
-- LEGAL-INQUEST-TRANSCRIPT Inquest Transcript — Westchester Family Court, January 5, 2022 Official court transcript — digitally recorded proceeding: https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-TRANSCRIPT
-- D-12 Genovese service letter with proposed orders — November 8, 2021: https://chappaquapoison.com/evidence.html?search=D-12
-- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_01
-- ExTR_10_03 Schauer hearing transcript, June 1, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_10_03
-- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?search=B-12
-- LEGAL-INQUEST-RULING Judge Schauer Ruling: Sole Custody to Walsh, Websites Must Be Deleted (Jan 2022): https://chappaquapoison.com/evidence.html?search=LEGAL-INQUEST-RULING
+- LEGAL-INQUEST-TRANSCRIPT Inquest Transcript — Westchester Family Court, January 5, 2022 Official court transcript — digitally recorded proceeding: https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-TRANSCRIPT
+- D-12 Genovese service letter with proposed orders — November 8, 2021: https://chappaquapoison.com/evidence.html?id=D-12
+- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_01
+- ExTR_10_03 Schauer hearing transcript, June 1, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_10_03
+- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?id=B-12
+- LEGAL-INQUEST-RULING Judge Schauer Ruling: Sole Custody to Walsh, Websites Must Be Deleted (Jan 2022): https://chappaquapoison.com/evidence.html?id=LEGAL-INQUEST-RULING
 - Explore all 22 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B38

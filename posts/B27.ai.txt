@@ -85,13 +85,13 @@ The body diagram does not argue. It marks two locations on an outline of a child
 
 ## Evidence references
 
-- ExX_01 Guttridge & Cambareri letter to Advocate and Carlin re police report, April 10, 2019 Counsel letter: https://chappaquapoison.com/evidence.html?search=ExX_01
-- SLE-051-DIAGRAM Bruise Location Diagram — Visit 15 Media Record: https://chappaquapoison.com/evidence.html?search=SLE-051-DIAGRAM
-- EB2_MASTER_100 Talia Kleiman email screenshot — Visits with Evie 3/30 and 3/31 Documented Record: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_100
-- G-2 45) Jennifer Jackman email 4.16.19 copy 2 Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=G-2
-- EB2_MASTER_087 Book 2 Image 87/134 — Steve email March 29, 2019: Evie's doctor found no illness, Documented Record: https://chappaquapoison.com/evidence.html?search=EB2_MASTER_087
-- SLE-053 Visit 15 (Part 3) Steve Walsh had been warned by police twice not to be present at Evie's pickups and drop-offs Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-053
-- SLE-054 Evie arrived for Visit 15 (Part 1) with strange bruises on her right leg: https://chappaquapoison.com/evidence.html?search=SLE-054
-- EB2_MASTER_101 Book 2 Image 101/134 — Brienne Walsh Childhood Abuse Excerpt: 'I never talk about my childhood being abusive, which it was': https://chappaquapoison.com/evidence.html?search=EB2_MASTER_101
-- ExP_01 Source not yet located — injury photograph/report to AFC Jackman: https://chappaquapoison.com/evidence.html?search=ExP_01
+- ExX_01 Guttridge & Cambareri letter to Advocate and Carlin re police report, April 10, 2019 Counsel letter: https://chappaquapoison.com/evidence.html?id=ExX_01
+- SLE-051-DIAGRAM Bruise Location Diagram — Visit 15 Media Record: https://chappaquapoison.com/evidence.html?id=SLE-051-DIAGRAM
+- EB2_MASTER_100 Talia Kleiman email screenshot — Visits with Evie 3/30 and 3/31 Documented Record: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_100
+- G-2 45) Jennifer Jackman email 4.16.19 copy 2 Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=G-2
+- EB2_MASTER_087 Book 2 Image 87/134 — Steve email March 29, 2019: Evie's doctor found no illness, Documented Record: https://chappaquapoison.com/evidence.html?id=EB2_MASTER_087
+- SLE-053 Visit 15 (Part 3) Steve Walsh had been warned by police twice not to be present at Evie's pickups and drop-offs Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-053
+- SLE-054 Evie arrived for Visit 15 (Part 1) with strange bruises on her right leg: https://chappaquapoison.com/evidence.html?id=SLE-054
+- EB2_MASTER_101 Book 2 Image 101/134 — Brienne Walsh Childhood Abuse Excerpt: 'I never talk about my childhood being abusive, which it was': https://chappaquapoison.com/evidence.html?id=EB2_MASTER_101
+- ExP_01 Source not yet located — injury photograph/report to AFC Jackman: https://chappaquapoison.com/evidence.html?id=ExP_01
 - Explore all 50 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B27

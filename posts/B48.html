@@ -498,51 +498,51 @@
 
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=TEXT_TARA_EVIE_SLEEPING_GUILT" class="exhibit-chip">
+        <a href="../evidence.html?id=TEXT_TARA_EVIE_SLEEPING_GUILT" class="exhibit-chip">
           <span class="exhibit-id">TEXT_TARA_EVIE_SLEEPING_GUILT</span>
           <span class="exhibit-title">Tara Sends Evie Sleeping Photo — &#39;When you harass and abuse her mother, it affects her&#39;</span>
         </a>
-        <a href="../evidence.html?search=TEXT_THREAD_TARA_2025_JUN_DEC" class="exhibit-chip">
+        <a href="../evidence.html?id=TEXT_THREAD_TARA_2025_JUN_DEC" class="exhibit-chip">
           <span class="exhibit-id">TEXT_THREAD_TARA_2025_JUN_DEC</span>
           <span class="exhibit-title">Collected message screenshots — 26 captures from the January 13 hearing exhibit folder</span>
         </a>
-        <a href="../evidence.html?search=B-10" class="exhibit-chip">
+        <a href="../evidence.html?id=B-10" class="exhibit-chip">
           <span class="exhibit-id">B-10</span>
           <span class="exhibit-title">Second Amended Judgment on Jury Verdict, CGC-18-570137</span>
         </a>
-        <a href="../evidence.html?search=B-12" class="exhibit-chip">
+        <a href="../evidence.html?id=B-12" class="exhibit-chip">
           <span class="exhibit-id">B-12</span>
           <span class="exhibit-title">Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced</span>
         </a>
-        <a href="../evidence.html?search=ExT_01" class="exhibit-chip">
+        <a href="../evidence.html?id=ExT_01" class="exhibit-chip">
           <span class="exhibit-id">ExT_01</span>
           <span class="exhibit-title">Claudette LaMelle supervisor report to the court, September 2019 (under penalty of perjury)</span>
         </a>
-        <a href="../evidence.html?search=E-7_03" class="exhibit-chip">
+        <a href="../evidence.html?id=E-7_03" class="exhibit-chip">
           <span class="exhibit-id">E-7_03</span>
           <span class="exhibit-title">Supervised visitation order — provisions 1–9, page image</span>
         </a>
-        <a href="../evidence.html?search=ExTR_02" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_02" class="exhibit-chip">
           <span class="exhibit-id">ExTR_02</span>
           <span class="exhibit-title">Schauer hearing transcript, November 5, 2021 (Yonkers Family Court)</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_122" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_122" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_122</span>
           <span class="exhibit-title">Book 2 Image 122/134 — Brendan Walsh and Brian Meenan in SUV at night — through dir</span>
         </a>
-        <a href="../evidence.html?search=B-4" class="exhibit-chip">
+        <a href="../evidence.html?id=B-4" class="exhibit-chip">
           <span class="exhibit-id">B-4</span>
           <span class="exhibit-title">Temporary Order of Protection document — core of the double default narrative</span>
         </a>
-        <a href="../evidence.html?search=ExTR_04" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_04" class="exhibit-chip">
           <span class="exhibit-id">ExTR_04</span>
           <span class="exhibit-title">Morales-Horowitz hearing transcript, February 6, 2020 (White Plains)</span>
         </a>
-        <a href="../evidence.html?search=TEXT_TARA_SPERM_DONOR_BLOCK" class="exhibit-chip">
+        <a href="../evidence.html?id=TEXT_TARA_SPERM_DONOR_BLOCK" class="exhibit-chip">
           <span class="exhibit-id">TEXT_TARA_SPERM_DONOR_BLOCK</span>
           <span class="exhibit-title">Tara Walsh — &#39;You&#39;re nothing more than a sperm donor&#39; / &#39;I&#39;m blocking you&#39;</span>
         </a>
-        <a href="../evidence.html?search=TEXT_TARA_DEC2025_MATAN_ADMISSION" class="exhibit-chip">
+        <a href="../evidence.html?id=TEXT_TARA_DEC2025_MATAN_ADMISSION" class="exhibit-chip">
           <span class="exhibit-id">TEXT_TARA_DEC2025_MATAN_ADMISSION</span>
           <span class="exhibit-title">Tara Walsh Message — Matan, Depression and Request to Keep Communications Outside Courts and Family</span>
         </a>
@@ -3845,7 +3845,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3859,9 +3859,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

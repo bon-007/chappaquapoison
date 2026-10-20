@@ -70,14 +70,13 @@ Steve was in the room. The recliner. The monitor beeping. His daughter’s finge
 
 ## Evidence references
 
-- D-13_05 Steve Russell with Toddler Evie — Father-Daughter Photograph Media Record: https://chappaquapoison.com/evidence.html?search=D-13_05
-- EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K Documented Record: https://chappaquapoison.com/evidence.html?search=EMAIL_9755
-- SLE-109 Evie is Born Jan 27, 2018 after a high risk pregnancy in emergency procedure after Mom's blood pressure skyrockets Archived family blog: https://chappaquapoison.com/evidence.html?search=SLE-109
-- MSG-BRIENNE-013 Evie's Birth Through Brienne's Lens — Hospital Plea (Jan 26-27, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?search=MSG-BRIENNE-013
-- MSG-MATAN-007 Matan as Domestic Infrastructure — Apartment Keys, Dog Care, Steve Avoidance (Jan 2018): https://chappaquapoison.com/evidence.html?search=MSG-MATAN-007
-- MSG-MATAN-003 'No signs of withdrawal from my drugs' — Newborn Evie (Jan 27, 2018): https://chappaquapoison.com/evidence.html?search=MSG-MATAN-003
-- MSG-WALSHSR-001 Walsh Sr. Blocks Steve from Carriage House — 'Not a chance' (Jan 24, 2018): https://chappaquapoison.com/evidence.html?search=MSG-WALSHSR-001
-- MSG-BRENDAN-006 Seroquel Dependency at Hospital on Birth Day (Jan 27, 2018): https://chappaquapoison.com/evidence.html?search=MSG-BRENDAN-006
-- MSG-RHODES-002 Dr. Rhodes: 'I want you knocked out' — Seroquel as Sedation (Jan 27, 2018): https://chappaquapoison.com/evidence.html?search=MSG-RHODES-002
-- MSG-BRIENNE Tara–Brienne Walsh (Sister) Full iMessage Conversation (Mar 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-BRIENNE
+- D-13_05 Steve Russell with Toddler Evie — Father-Daughter Photograph Media Record: https://chappaquapoison.com/evidence.html?id=D-13_05
+- EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K Documented Record: https://chappaquapoison.com/evidence.html?id=EMAIL_9755
+- SLE-109 Evie is Born Jan 27, 2018 after a high risk pregnancy in emergency procedure after Mom's blood pressure skyrockets Archived family blog: https://chappaquapoison.com/evidence.html?id=SLE-109
+- MSG-BRIENNE-013 Evie's Birth Through Brienne's Lens — Hospital Plea (Jan 26-27, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-BRIENNE-013
+- MSG-MATAN-007 Matan as Domestic Infrastructure — Apartment Keys, Dog Care, Steve Avoidance (Jan 2018): https://chappaquapoison.com/evidence.html?id=MSG-MATAN-007
+- MSG-MATAN-003 'No signs of withdrawal from my drugs' — Newborn Evie (Jan 27, 2018): https://chappaquapoison.com/evidence.html?id=MSG-MATAN-003
+- MSG-WALSHSR-001 Walsh Sr. Blocks Steve from Carriage House — 'Not a chance' (Jan 24, 2018): https://chappaquapoison.com/evidence.html?id=MSG-WALSHSR-001
+- MSG-BRENDAN-006 Seroquel Dependency at Hospital on Birth Day (Jan 27, 2018): https://chappaquapoison.com/evidence.html?id=MSG-BRENDAN-006
+- MSG-RHODES-002 Dr. Rhodes: 'I want you knocked out' — Seroquel as Sedation (Jan 27, 2018): https://chappaquapoison.com/evidence.html?id=MSG-RHODES-002
 - Explore all 55 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B12

@@ -685,42 +685,42 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=MSG-JESSE-001" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-JESSE-001" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-JESSE-001</span>
           <span class="hero-exhibit-title">The Rules List — Pre-SF Move Demands (Feb 18, 2018)</span>
           <span class="hero-reliability">Device Backup / Digital Record</span>
         </a>
-        <a href="../evidence.html?search=MSG-MATAN-006" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-MATAN-006" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-MATAN-006</span>
           <span class="hero-exhibit-title">Tara Walsh and Matan Gavish messages, February 20, 2018</span>
           <span class="hero-reliability">Rendered message-export page; native extraction not verified in this review</span>
         </a>
-        <a href="../evidence.html?search=QUOTE-TARA-LEAVE-COMPOUND" class="evidence-hero-chip">
+        <a href="../evidence.html?id=QUOTE-TARA-LEAVE-COMPOUND" class="evidence-hero-chip">
           <span class="hero-exhibit-id">QUOTE-TARA-LEAVE-COMPOUND</span>
           <span class="hero-exhibit-title">&#39;Things Get Bad When I Say I Want to Leave&#39; — Tara on the Walsh Compound</span>
           <span class="hero-reliability">Social media post / text message — Tara&#39;s own words</span>
         </a>
-        <a href="../evidence.html?search=MSG-MATAN-005" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-MATAN-005" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-MATAN-005</span>
           <span class="hero-exhibit-title">&#39;Kidnap Me and Evie So We Don&#39;t Have to Leave&#39; — Night Before SF (Mar 2, 2018)</span>
           <span class="hero-reliability">Device forensic extraction</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE-002" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-JESSE-002" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-JESSE-002</span>
           <span class="hero-exhibit-title">Exit Planning Before Arrival — &#39;I could never leave in a court&#39; (Mar 3, 2018)</span>
           <span class="hero-reliability">Device Backup / Digital Record</span>
         </a>
-        <a href="../evidence.html?search=MSG-WALSHSR-003" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-WALSHSR-003" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-WALSHSR-003</span>
           <span class="hero-exhibit-title">Walsh Sr. Requests Evie&#39;s SSN on Private Jet Departure Day (Mar 3, 2018)</span>
           <span class="hero-reliability">Device forensic extraction</span>
         </a>
-        <a href="../evidence.html?search=SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP</span>
           <span class="hero-exhibit-title">Walsh message exchange — Photos memory and Steve’s reply</span>
           <span class="hero-reliability">Primary Source — iPhone Screenshot</span>
         </a>
-        <a href="../evidence.html?search=TEXT_TARA_HINDSIGHT_ADMISSION" class="evidence-hero-chip">
+        <a href="../evidence.html?id=TEXT_TARA_HINDSIGHT_ADMISSION" class="evidence-hero-chip">
           <span class="hero-exhibit-id">TEXT_TARA_HINDSIGHT_ADMISSION</span>
           <span class="hero-exhibit-title">Tara Walsh Admission — &#39;I wish I hadn&#39;t left the way I did. I was not in my right mind&#39;</span>
           <span class="hero-reliability">Direct — Authenticated iMessage</span>
@@ -728,25 +728,9 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=MSG-JESSE" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-JESSE" class="exhibit-chip">
           <span class="exhibit-id">MSG-JESSE</span>
           <span class="exhibit-title">Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled</span>
-        </a>
-        <a href="../evidence.html?search=MSG-MATAN" class="exhibit-chip">
-          <span class="exhibit-id">MSG-MATAN</span>
-          <span class="exhibit-title">Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018)</span>
-        </a>
-        <a href="../evidence.html?search=F-036" class="exhibit-chip">
-          <span class="exhibit-id">F-036</span>
-          <span class="exhibit-title">Attic Confinement</span>
-        </a>
-        <a href="../evidence.html?search=MSG-WALSHSR" class="exhibit-chip">
-          <span class="exhibit-id">MSG-WALSHSR</span>
-          <span class="exhibit-title">Tara–Steve Walsh Sr. (Dad) Full iMessage Conversation</span>
-        </a>
-        <a href="../evidence.html?search=MSG-STEVE" class="exhibit-chip">
-          <span class="exhibit-id">MSG-STEVE</span>
-          <span class="exhibit-title">Tara–Steve Russell Full iMessage Conversation (Mar 2017 – Mar 2018)</span>
         </a>
       </div>
 
@@ -4047,7 +4031,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -4061,9 +4045,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

@@ -116,20 +116,19 @@ A jury of twelve would eventually agree.
 
 ## Evidence references
 
-- G-20 Exhibit G-20: Tara Admits to Dr. Gopal to Drugging Steve Documented Record: https://chappaquapoison.com/evidence.html?search=G-20
-- EMAIL_TARA_DEATH_WARRANT Tara Email to Attorney: 'Signing Her Death Warrant' Direct Communication: https://chappaquapoison.com/evidence.html?search=EMAIL_TARA_DEATH_WARRANT
-- SCREENSHOT_TARA_FAKE_CRYING_ZAR Tara Admits Fake Crying to Zar (iChat 2017-05-23) Direct Admission: https://chappaquapoison.com/evidence.html?search=SCREENSHOT_TARA_FAKE_CRYING_ZAR
-- VIDEO_FAKE_CRYING Tara's Fake Crying Video (sent to Zar) Primary Video: https://chappaquapoison.com/evidence.html?search=VIDEO_FAKE_CRYING
-- MSG-MATAN-006 Tara Walsh and Matan Gavish messages, February 20, 2018 Rendered message-export page; native extraction not verified in this review: https://chappaquapoison.com/evidence.html?search=MSG-MATAN-006
-- G-20_02 Ex. 6 Text between Tara and Brianne re Tara letting Briane's baby eat Tara's add: https://chappaquapoison.com/evidence.html?search=G-20_02
-- E-5_02 Exhibit E-5: Summary Walsh Admissions to Drugging 11: https://chappaquapoison.com/evidence.html?search=E-5_02
-- MSG-JESSE-004 Brendan Walsh 'go take ur medicine' — Medication as Weapon Within Family (Jul 2, 2017): https://chappaquapoison.com/evidence.html?search=MSG-JESSE-004
-- MSG-BRIENNE-010 Abortion Conversation — 'My One Shot to Have a Child' (Jun 10, 2017): https://chappaquapoison.com/evidence.html?search=MSG-BRIENNE-010
-- MSG-BRIENNE-011 Steve-Texting Blowup — Brienne Threatens Parents (Jun 24, 2017): https://chappaquapoison.com/evidence.html?search=MSG-BRIENNE-011
-- MSG-JESSE-007 Fabricated Quote — Tara Tells Steve What Jesse 'Said' (Aug 1, 2017): https://chappaquapoison.com/evidence.html?search=MSG-JESSE-007
-- DEPO_STILL_MATAN_GAVISH Matan Gavish Deposition Still (9:03:07 PM): https://chappaquapoison.com/evidence.html?search=DEPO_STILL_MATAN_GAVISH
-- SCREENSHOT_MATAN_MANIPULATION Matan to Tara: 'You Are Losing to Him Already': https://chappaquapoison.com/evidence.html?search=SCREENSHOT_MATAN_MANIPULATION
-- EX_24_TARA_CANT_STAND_LIVING Tara to Linda: Cannot Stand Living at Parents': https://chappaquapoison.com/evidence.html?search=EX_24_TARA_CANT_STAND_LIVING
-- PDF_SF_DVRO_JUL2018 San Francisco DVRO/RFO packet, July 2018 (DV-130 Restraining Order After Hearing; FL-300 Request for Order; Lerner Poole): https://chappaquapoison.com/evidence.html?search=PDF_SF_DVRO_JUL2018
-- MSG-MATAN Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018): https://chappaquapoison.com/evidence.html?search=MSG-MATAN
+- G-20 Exhibit G-20: Tara Admits to Dr. Gopal to Drugging Steve Documented Record: https://chappaquapoison.com/evidence.html?id=G-20
+- EMAIL_TARA_DEATH_WARRANT Tara Email to Attorney: 'Signing Her Death Warrant' Direct Communication: https://chappaquapoison.com/evidence.html?id=EMAIL_TARA_DEATH_WARRANT
+- SCREENSHOT_TARA_FAKE_CRYING_ZAR Tara Admits Fake Crying to Zar (iChat 2017-05-23) Direct Admission: https://chappaquapoison.com/evidence.html?id=SCREENSHOT_TARA_FAKE_CRYING_ZAR
+- VIDEO_FAKE_CRYING Tara's Fake Crying Video (sent to Zar) Primary Video: https://chappaquapoison.com/evidence.html?id=VIDEO_FAKE_CRYING
+- MSG-MATAN-006 Tara Walsh and Matan Gavish messages, February 20, 2018 Rendered message-export page; native extraction not verified in this review: https://chappaquapoison.com/evidence.html?id=MSG-MATAN-006
+- G-20_02 Ex. 6 Text between Tara and Brianne re Tara letting Briane's baby eat Tara's add: https://chappaquapoison.com/evidence.html?id=G-20_02
+- E-5_02 Exhibit E-5: Summary Walsh Admissions to Drugging 11: https://chappaquapoison.com/evidence.html?id=E-5_02
+- MSG-JESSE-004 Brendan Walsh 'go take ur medicine' — Medication as Weapon Within Family (Jul 2, 2017): https://chappaquapoison.com/evidence.html?id=MSG-JESSE-004
+- MSG-BRIENNE-010 Abortion Conversation — 'My One Shot to Have a Child' (Jun 10, 2017): https://chappaquapoison.com/evidence.html?id=MSG-BRIENNE-010
+- MSG-BRIENNE-011 Steve-Texting Blowup — Brienne Threatens Parents (Jun 24, 2017): https://chappaquapoison.com/evidence.html?id=MSG-BRIENNE-011
+- MSG-JESSE-007 Fabricated Quote — Tara Tells Steve What Jesse 'Said' (Aug 1, 2017): https://chappaquapoison.com/evidence.html?id=MSG-JESSE-007
+- DEPO_STILL_MATAN_GAVISH Matan Gavish Deposition Still (9:03:07 PM): https://chappaquapoison.com/evidence.html?id=DEPO_STILL_MATAN_GAVISH
+- SCREENSHOT_MATAN_MANIPULATION Matan to Tara: 'You Are Losing to Him Already': https://chappaquapoison.com/evidence.html?id=SCREENSHOT_MATAN_MANIPULATION
+- EX_24_TARA_CANT_STAND_LIVING Tara to Linda: Cannot Stand Living at Parents': https://chappaquapoison.com/evidence.html?id=EX_24_TARA_CANT_STAND_LIVING
+- PDF_SF_DVRO_JUL2018 San Francisco DVRO/RFO packet, July 2018 (DV-130 Restraining Order After Hearing; FL-300 Request for Order; Lerner Poole): https://chappaquapoison.com/evidence.html?id=PDF_SF_DVRO_JUL2018
 - Explore all 82 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B09

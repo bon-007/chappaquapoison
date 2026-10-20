@@ -517,12 +517,12 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=EMAIL_9330" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EMAIL_9330" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EMAIL_9330</span>
           <span class="hero-exhibit-title">Lithium in My System — To SFPD and Attorneys</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=ExI_03" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExI_03" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExI_03</span>
           <span class="hero-exhibit-title">Redwood Toxicology urine report — collected March 7, 2018</span>
           <span class="hero-reliability">Laboratory report</span>
@@ -530,15 +530,15 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=EMAIL_9755" class="exhibit-chip">
+        <a href="../evidence.html?id=EMAIL_9755" class="exhibit-chip">
           <span class="exhibit-id">EMAIL_9755</span>
           <span class="exhibit-title">Walsh v. Russell — Drugging Summary to Aunt K</span>
         </a>
-        <a href="../evidence.html?search=EMAIL_9243" class="exhibit-chip">
+        <a href="../evidence.html?id=EMAIL_9243" class="exhibit-chip">
           <span class="exhibit-id">EMAIL_9243</span>
           <span class="exhibit-title">Lithium in My System — To Attorney Katherine Chesnut</span>
         </a>
-        <a href="../evidence.html?search=SLE-096" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-096" class="exhibit-chip">
           <span class="exhibit-id">SLE-096</span>
           <span class="exhibit-title">Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.</span>
         </a>
@@ -3841,7 +3841,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3855,9 +3855,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

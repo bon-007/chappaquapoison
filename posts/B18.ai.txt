@@ -104,16 +104,15 @@ And in the kitchen in North Beach, the one with the pendant lights and the grani
 
 ## Evidence references
 
-- EB1_P107 Book 1 Image 53/69 — Shattered iPhone screen — multiple impact points, spider-web Document: https://chappaquapoison.com/evidence.html?search=EB1_P107
-- TRIAL-BATTERY-PHONE-STABBING Russell Battery Trial Testimony: Phone Stabbing with Knife Sharpener (Feb 17, 2022) Sworn testimony under oath — plaintiff, before jury: https://chappaquapoison.com/evidence.html?search=TRIAL-BATTERY-PHONE-STABBING
-- MSG-JESSE-008 SF Suicidal Ideation — 'I Want to Fall Asleep and Not Wake Up' (Mar 7, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?search=MSG-JESSE-008
-- EB1_P105 Book 1 Image 52/69 — Steve with Evie diptych — LEFT: kissing baby, glasses, patte Document: https://chappaquapoison.com/evidence.html?search=EB1_P105
-- C-4 Linda Russell Sworn Declaration — Eyewitness to Phone Destruction and Household Violence (June 2018): https://chappaquapoison.com/evidence.html?search=C-4
-- EB1_P111 Book 1 Image 55/69 — Modern kitchen interior — pendant lights, granite island wit: https://chappaquapoison.com/evidence.html?search=EB1_P111
-- PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018 Email, Matan Gavish ↔ Tara Walsh, March 9, 2018 (duplicate of ExB_02): https://chappaquapoison.com/evidence.html?search=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018
-- ExI_03 Redwood Toxicology urine report — collected March 7, 2018: https://chappaquapoison.com/evidence.html?search=ExI_03
-- ExH_03 Reporter's transcript, SF Superior Court, DVRO hearing before Judge Roger Chan, August 29, 2018 (FPT-18-377425) Employment context: August 29, 2018 testimony, pp. 106–107. Tedla gives her hiring date and work schedule; these pages do not establish her presence at each reconstructed scene.: https://chappaquapoison.com/evidence.html?search=ExH_03
-- EB1_SPREAD_P105-107 Book 1 Spread pp.105-107 — Steve holding baby Evie diptych beside shattered iPho: https://chappaquapoison.com/evidence.html?search=EB1_SPREAD_P105-107
-- ExTR_23 Civil battery trial document: https://chappaquapoison.com/evidence.html?search=ExTR_23
-- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?search=MSG-JESSE
+- EB1_P107 Book 1 Image 53/69 — Shattered iPhone screen — multiple impact points, spider-web Document: https://chappaquapoison.com/evidence.html?id=EB1_P107
+- TRIAL-BATTERY-PHONE-STABBING Russell Battery Trial Testimony: Phone Stabbing with Knife Sharpener (Feb 17, 2022) Sworn testimony under oath — plaintiff, before jury: https://chappaquapoison.com/evidence.html?id=TRIAL-BATTERY-PHONE-STABBING
+- MSG-JESSE-008 SF Suicidal Ideation — 'I Want to Fall Asleep and Not Wake Up' (Mar 7, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-JESSE-008
+- EB1_P105 Book 1 Image 52/69 — Steve with Evie diptych — LEFT: kissing baby, glasses, patte Document: https://chappaquapoison.com/evidence.html?id=EB1_P105
+- C-4 Linda Russell Sworn Declaration — Eyewitness to Phone Destruction and Household Violence (June 2018): https://chappaquapoison.com/evidence.html?id=C-4
+- EB1_P111 Book 1 Image 55/69 — Modern kitchen interior — pendant lights, granite island wit: https://chappaquapoison.com/evidence.html?id=EB1_P111
+- PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018 Email, Matan Gavish ↔ Tara Walsh, March 9, 2018 (duplicate of ExB_02): https://chappaquapoison.com/evidence.html?id=PDF_TARA_EMAIL_MATAN_GAVISH_MAR2018
+- ExI_03 Redwood Toxicology urine report — collected March 7, 2018: https://chappaquapoison.com/evidence.html?id=ExI_03
+- ExH_03 Reporter's transcript, SF Superior Court, DVRO hearing before Judge Roger Chan, August 29, 2018 (FPT-18-377425) Employment context: August 29, 2018 testimony, pp. 106–107. Tedla gives her hiring date and work schedule; these pages do not establish her presence at each reconstructed scene.: https://chappaquapoison.com/evidence.html?id=ExH_03
+- EB1_SPREAD_P105-107 Book 1 Spread pp.105-107 — Steve holding baby Evie diptych beside shattered iPho: https://chappaquapoison.com/evidence.html?id=EB1_SPREAD_P105-107
+- MSG-JESSE Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled: https://chappaquapoison.com/evidence.html?id=MSG-JESSE
 - Explore all 38 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B18

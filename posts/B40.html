@@ -525,27 +525,27 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=ExQQ_06" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExQQ_06" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExQQ_06</span>
           <span class="hero-exhibit-title">Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy</span>
           <span class="hero-reliability">Published Personal Account</span>
         </a>
-        <a href="../evidence.html?search=SLE-042" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-042" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-042</span>
           <span class="hero-exhibit-title">Grimma punched me; Denied me food</span>
           <span class="hero-reliability">Archived family blog</span>
         </a>
-        <a href="../evidence.html?search=ExQQ_04" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExQQ_04" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExQQ_04</span>
           <span class="hero-exhibit-title">Brienne Walsh Deposition Noshow</span>
           <span class="hero-reliability">Sworn Under Oath</span>
         </a>
-        <a href="../evidence.html?search=DOC-019" class="evidence-hero-chip">
+        <a href="../evidence.html?id=DOC-019" class="evidence-hero-chip">
           <span class="hero-exhibit-id">DOC-019</span>
           <span class="hero-exhibit-title">Brienne Walsh Deposition Excerpt — September 28, 2020</span>
           <span class="hero-reliability">Sworn deposition excerpt</span>
         </a>
-        <a href="../evidence.html?search=SLE-028" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-028" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-028</span>
           <span class="hero-exhibit-title">Grumpa throws subpoenas into the trash; Rages at Aunt Brie to do the same</span>
           <span class="hero-reliability">Archived family blog</span>
@@ -553,15 +553,15 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=SLE-018" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-018" class="exhibit-chip">
           <span class="exhibit-id">SLE-018</span>
           <span class="exhibit-title">We were abused. Grumpa told us to throw Court Orders in the trash. And other revelations from Aunt Brie&#39;s deposition</span>
         </a>
-        <a href="../evidence.html?search=BLOG-007" class="exhibit-chip">
+        <a href="../evidence.html?id=BLOG-007" class="exhibit-chip">
           <span class="exhibit-id">BLOG-007</span>
           <span class="exhibit-title">Brienne Walsh blog post — &#34;Families Are Worse Than Lawyers&#34; (saved Mar 22, 2020)</span>
         </a>
-        <a href="../evidence.html?search=BLOG-046" class="exhibit-chip">
+        <a href="../evidence.html?id=BLOG-046" class="exhibit-chip">
           <span class="exhibit-id">BLOG-046</span>
           <span class="exhibit-title">Brie’s Blog: Mother’s Nails</span>
         </a>
@@ -3864,7 +3864,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3878,9 +3878,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

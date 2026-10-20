@@ -104,19 +104,18 @@ The kitchen was quiet again.
 
 ## Evidence references
 
-- C-6_03 Russell Affidavit — Supervised Visit Excerpt Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=C-6_03
-- QUOTE-TARA-CRAZY-TOO-TOGETHER 'I Thought If You Were Crazy Too, We Could All Be Together' — Tara's Confession After Being Caught (B21) Verbal statement witnessed by Linda Russell and Abrehet Tedla: https://chappaquapoison.com/evidence.html?search=QUOTE-TARA-CRAZY-TOO-TOGETHER
-- LEGAL-DVRO-GOPAL-TEXT Tara Reads Dr. Gopal Text Into Record: 'I Put Seroquel in His Wine' (May 22, 2018) Text message read into sworn record: https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-GOPAL-TEXT
-- C-6 Tara Walsh’s DV-120 response and attachment — signed August 7, 2018 Sworn Under Oath: https://chappaquapoison.com/evidence.html?search=C-6
-- ExQQ_05 Deposition of Abrehet Tedla (CGC-18-570137) Court-reporter record: https://chappaquapoison.com/evidence.html?search=ExQQ_05
-- LEGAL-TEDLA-DECLARATION Abrehet Tedla — Sworn Declaration Declaration ¶7 (pp. 2–3) and ¶9 (p. 3): Tedla's account of drugging, the request to lie, and her treatment and dismissal. Signed Under Penalty of Perjury: https://chappaquapoison.com/evidence.html?search=LEGAL-TEDLA-DECLARATION
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?search=ExG_01
-- G-20 Exhibit G-20: Tara Admits to Dr. Gopal to Drugging Steve: https://chappaquapoison.com/evidence.html?search=G-20
-- DOC_RUSSELL_AFFIDAVIT_AUG2018 Russell Affidavit — August 6, 2018: https://chappaquapoison.com/evidence.html?search=DOC_RUSSELL_AFFIDAVIT_AUG2018
-- EMAIL_1921 EMAIL - Tara Seroquel Admission via Settlement Correspondence: https://chappaquapoison.com/evidence.html?search=EMAIL_1921
-- ExH_03 Reporter's transcript, SF Superior Court, DVRO hearing before Judge Roger Chan, August 29, 2018 (FPT-18-377425) August 29, 2018 testimony, pp. 110–114 and 125: pills in wine, food, and dismissal. This is the 2018 DVRO hearing, not a live appearance at the 2022 jury trial.: https://chappaquapoison.com/evidence.html?search=ExH_03
-- LEGAL-DVRO-TEDLA-EYEWITNESS Tedla Under Oath: Saw Walsh Put Pills in Russell's Drink, Walsh Said 'I Do It All the Time' (Aug 29, 2018) August 29, 2018 testimony, pp. 110–114: Tedla's account of pills and wine.: https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-TEDLA-EYEWITNESS
-- LEGAL-DVRO-TEDLA-FOOD-SAFETY Tedla Worried About Food After 'All the Time': Told Bryan to Throw It Away (Aug 29, 2018) August 29, 2018 testimony, pp. 110–114: the food account, in the witness's words.: https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-TEDLA-FOOD-SAFETY
-- LEGAL-DVRO-TEDLA-FIRED-TWICE Tedla: Walsh Fired Her Twice — Once for Revealing the Drugging (Aug 29, 2018) August 29, 2018 testimony, p. 125: dismissal after telling Steve.: https://chappaquapoison.com/evidence.html?search=LEGAL-DVRO-TEDLA-FIRED-TWICE
-- PDF_DV_TRIAL_TRANSCRIPT DV Trial Day 1 Transcript — Russell v Walsh (Aug 29, 2018): https://chappaquapoison.com/evidence.html?search=PDF_DV_TRIAL_TRANSCRIPT
+- C-6_03 Russell Affidavit — Supervised Visit Excerpt Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=C-6_03
+- QUOTE-TARA-CRAZY-TOO-TOGETHER 'I Thought If You Were Crazy Too, We Could All Be Together' — Tara's Confession After Being Caught (B21) Verbal statement witnessed by Linda Russell and Abrehet Tedla: https://chappaquapoison.com/evidence.html?id=QUOTE-TARA-CRAZY-TOO-TOGETHER
+- LEGAL-DVRO-GOPAL-TEXT Tara Reads Dr. Gopal Text Into Record: 'I Put Seroquel in His Wine' (May 22, 2018) Text message read into sworn record: https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-GOPAL-TEXT
+- C-6 Tara Walsh’s DV-120 response and attachment — signed August 7, 2018 Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=C-6
+- ExQQ_05 Deposition of Abrehet Tedla (CGC-18-570137) Court-reporter record: https://chappaquapoison.com/evidence.html?id=ExQQ_05
+- LEGAL-TEDLA-DECLARATION Abrehet Tedla — Sworn Declaration Declaration ¶7 (pp. 2–3) and ¶9 (p. 3): Tedla's account of drugging, the request to lie, and her treatment and dismissal. Signed Under Penalty of Perjury: https://chappaquapoison.com/evidence.html?id=LEGAL-TEDLA-DECLARATION
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1: https://chappaquapoison.com/evidence.html?id=ExG_01
+- G-20 Exhibit G-20: Tara Admits to Dr. Gopal to Drugging Steve: https://chappaquapoison.com/evidence.html?id=G-20
+- DOC_RUSSELL_AFFIDAVIT_AUG2018 Russell Affidavit — August 6, 2018: https://chappaquapoison.com/evidence.html?id=DOC_RUSSELL_AFFIDAVIT_AUG2018
+- EMAIL_1921 EMAIL - Tara Seroquel Admission via Settlement Correspondence: https://chappaquapoison.com/evidence.html?id=EMAIL_1921
+- ExH_03 Reporter's transcript, SF Superior Court, DVRO hearing before Judge Roger Chan, August 29, 2018 (FPT-18-377425) August 29, 2018 testimony, pp. 110–114 and 125: pills in wine, food, and dismissal. This is the 2018 DVRO hearing, not a live appearance at the 2022 jury trial.: https://chappaquapoison.com/evidence.html?id=ExH_03
+- LEGAL-DVRO-TEDLA-EYEWITNESS Tedla Under Oath: Saw Walsh Put Pills in Russell's Drink, Walsh Said 'I Do It All the Time' (Aug 29, 2018) August 29, 2018 testimony, pp. 110–114: Tedla's account of pills and wine.: https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-TEDLA-EYEWITNESS
+- LEGAL-DVRO-TEDLA-FOOD-SAFETY Tedla Worried About Food After 'All the Time': Told Bryan to Throw It Away (Aug 29, 2018) August 29, 2018 testimony, pp. 110–114: the food account, in the witness's words.: https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-TEDLA-FOOD-SAFETY
+- LEGAL-DVRO-TEDLA-FIRED-TWICE Tedla: Walsh Fired Her Twice — Once for Revealing the Drugging (Aug 29, 2018) August 29, 2018 testimony, p. 125: dismissal after telling Steve.: https://chappaquapoison.com/evidence.html?id=LEGAL-DVRO-TEDLA-FIRED-TWICE
 - Explore all 42 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B21

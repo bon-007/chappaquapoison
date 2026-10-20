@@ -64,13 +64,11 @@ It filed them.
 
 ## Evidence references
 
-- QUOTE-TARA-FAMILY-CUSTODY-THREAT 'They Will Take Legal Action Against Steve and I for Custody of Evie If We Leave' — Walsh Parents' Custody Threat (Jul 2018) iMessage to Linda Russell — Tara's own words, preserved on StevieLovesEvie: https://chappaquapoison.com/evidence.html?search=QUOTE-TARA-FAMILY-CUSTODY-THREAT
-- PDF_WALSH_ABUSE_MOTION_02 Counsel draft letter to Judge Gordon-Oliver with exhibits, November 7, 2019 (marked DRAFT; filing status unverified) Counsel draft with exhibits: https://chappaquapoison.com/evidence.html?search=PDF_WALSH_ABUSE_MOTION_02
-- PDF_WALSH_ABUSE_MOTION_W_EXHIBITS Counsel draft letter to Judge Gordon-Oliver with exhibits, November 7, 2019 (duplicate): https://chappaquapoison.com/evidence.html?search=PDF_WALSH_ABUSE_MOTION_W_EXHIBITS
-- ExOO_42 Superseded Editorial Deposition Summary: https://chappaquapoison.com/evidence.html?search=ExOO_42
-- SCREENSHOT_SGT_CARAWAY_COURT_ORDER Sgt. Caraway Text — 'I was provided court order by a party of this investigation': https://chappaquapoison.com/evidence.html?search=SCREENSHOT_SGT_CARAWAY_COURT_ORDER
-- EB3_MASTER_055 Walsh Sr. Letter to Judge Gordon-Oliver — Complains About Subpoena (Aug 2019): https://chappaquapoison.com/evidence.html?search=EB3_MASTER_055
-- ExQQ_06 Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy: https://chappaquapoison.com/evidence.html?search=ExQQ_06
-- MSG-LINDA Tara–Linda Russell (Steve's Mother) Full iMessage Conversation (Mar 2017 – Mar 2: https://chappaquapoison.com/evidence.html?search=MSG-LINDA
-- D-2 Stephen Russell family-offense petition concerning Evie — copy with exhibits: https://chappaquapoison.com/evidence.html?search=D-2
+- QUOTE-TARA-FAMILY-CUSTODY-THREAT 'They Will Take Legal Action Against Steve and I for Custody of Evie If We Leave' — Walsh Parents' Custody Threat (Jul 2018) iMessage to Linda Russell — Tara's own words, preserved on StevieLovesEvie: https://chappaquapoison.com/evidence.html?id=QUOTE-TARA-FAMILY-CUSTODY-THREAT
+- PDF_WALSH_ABUSE_MOTION_02 Counsel draft letter to Judge Gordon-Oliver with exhibits, November 7, 2019 (marked DRAFT; filing status unverified) Counsel draft with exhibits: https://chappaquapoison.com/evidence.html?id=PDF_WALSH_ABUSE_MOTION_02
+- PDF_WALSH_ABUSE_MOTION_W_EXHIBITS Counsel draft letter to Judge Gordon-Oliver with exhibits, November 7, 2019 (duplicate): https://chappaquapoison.com/evidence.html?id=PDF_WALSH_ABUSE_MOTION_W_EXHIBITS
+- ExOO_42 Superseded Editorial Deposition Summary: https://chappaquapoison.com/evidence.html?id=ExOO_42
+- SCREENSHOT_SGT_CARAWAY_COURT_ORDER Sgt. Caraway Text — 'I was provided court order by a party of this investigation': https://chappaquapoison.com/evidence.html?id=SCREENSHOT_SGT_CARAWAY_COURT_ORDER
+- EB3_MASTER_055 Walsh Sr. Letter to Judge Gordon-Oliver — Complains About Subpoena (Aug 2019): https://chappaquapoison.com/evidence.html?id=EB3_MASTER_055
+- ExQQ_06 Brienne Walsh — Another Uncomfortably Candid Post About Pregnancy: https://chappaquapoison.com/evidence.html?id=ExQQ_06
 - Explore all 18 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B29

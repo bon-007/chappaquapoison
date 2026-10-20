@@ -84,8 +84,8 @@ The record is open. Anyone can read it.
 
 ## Evidence references
 
-- ExJJ_05 Draft motion to vacate all prior orders — counsel-captioned draft, February 2026 (unfiled) Unfiled draft: https://chappaquapoison.com/evidence.html?search=ExJJ_05
-- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1 Court record: https://chappaquapoison.com/evidence.html?search=ExG_01
-- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?search=ExG_05
-- G-27 OASAS Stipulation of Settlement — Raymond Griffin, August 2019: https://chappaquapoison.com/evidence.html?search=G-27
+- ExJJ_05 Draft motion to vacate all prior orders — counsel-captioned draft, February 2026 (unfiled) Unfiled draft: https://chappaquapoison.com/evidence.html?id=ExJJ_05
+- ExG_01 Second Amended Judgment on Jury Verdict, CGC-18-570137 — as filed NYSCEF 55523/2023 Doc 1 Court record: https://chappaquapoison.com/evidence.html?id=ExG_01
+- ExG_05 Court of Appeal opinion, A165356, filed September 15, 2023: https://chappaquapoison.com/evidence.html?id=ExG_05
+- G-27 OASAS Stipulation of Settlement — Raymond Griffin, August 2019: https://chappaquapoison.com/evidence.html?id=G-27
 - Explore all 40 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B47

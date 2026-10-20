@@ -72,13 +72,13 @@ The protection was not protecting him. It never had been.
 
 ## Evidence references
 
-- ExMM_10 Gas From Light Fixture Media Record: https://chappaquapoison.com/evidence.html?search=ExMM_10
-- D-11 Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.” Message reproduction: https://chappaquapoison.com/evidence.html?search=D-11
-- D-31 Russell email Ackerman Security Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?search=D-31
-- MSG-WALSHSR-002 'Steve Is Out of Control' — Narrative of Madness Deployed to Father (Jan 30, 2018): https://chappaquapoison.com/evidence.html?search=MSG-WALSHSR-002
-- C-4 Linda Russell Sworn Declaration — Eyewitness to Phone Destruction and Household Violence (June 2018): https://chappaquapoison.com/evidence.html?search=C-4
-- DOCX_RUSSELL_AFFIDAVIT Russell Affidavit v2 — August 7, 2018: https://chappaquapoison.com/evidence.html?search=DOCX_RUSSELL_AFFIDAVIT
-- ExI_03 Redwood Toxicology urine report — collected March 7, 2018: https://chappaquapoison.com/evidence.html?search=ExI_03
-- LEGAL-CRUTCHER-DECL Crutcher declaration, page 5 — observations and reported statements: https://chappaquapoison.com/evidence.html?search=LEGAL-CRUTCHER-DECL
-- A-6 Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.”: https://chappaquapoison.com/evidence.html?search=A-6
+- ExMM_10 Gas From Light Fixture Media Record: https://chappaquapoison.com/evidence.html?id=ExMM_10
+- D-11 Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.” Message reproduction: https://chappaquapoison.com/evidence.html?id=D-11
+- D-31 Russell email Ackerman Security Device Backup / Digital Record: https://chappaquapoison.com/evidence.html?id=D-31
+- MSG-WALSHSR-002 'Steve Is Out of Control' — Narrative of Madness Deployed to Father (Jan 30, 2018): https://chappaquapoison.com/evidence.html?id=MSG-WALSHSR-002
+- C-4 Linda Russell Sworn Declaration — Eyewitness to Phone Destruction and Household Violence (June 2018): https://chappaquapoison.com/evidence.html?id=C-4
+- DOCX_RUSSELL_AFFIDAVIT Russell Affidavit v2 — August 7, 2018: https://chappaquapoison.com/evidence.html?id=DOCX_RUSSELL_AFFIDAVIT
+- ExI_03 Redwood Toxicology urine report — collected March 7, 2018: https://chappaquapoison.com/evidence.html?id=ExI_03
+- LEGAL-CRUTCHER-DECL Crutcher declaration, page 5 — observations and reported statements: https://chappaquapoison.com/evidence.html?id=LEGAL-CRUTCHER-DECL
+- A-6 Steve Russell texts to Steve Walsh — “Tara just dropped the baby on the floor.”: https://chappaquapoison.com/evidence.html?id=A-6
 - Explore all 67 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B14

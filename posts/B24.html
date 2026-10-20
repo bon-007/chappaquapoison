@@ -559,17 +559,17 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=EB2_MASTER_019" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_019" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_019</span>
           <span class="hero-exhibit-title">Steve Russell email to the Walsh grandparents — visits, September 8, 2018</span>
           <span class="hero-reliability">Documented Record</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_020" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_020" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_020</span>
           <span class="hero-exhibit-title">Statement excerpt attributed to Abby Tedla and Aunt K — Crabtree’s visit</span>
           <span class="hero-reliability">Unsigned excerpt; execution not established</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_001" class="evidence-hero-chip">
+        <a href="../evidence.html?id=EB2_MASTER_001" class="evidence-hero-chip">
           <span class="hero-exhibit-id">EB2_MASTER_001</span>
           <span class="hero-exhibit-title">Book 2 Image 1/134 — Steve playing with toddler Evie — stuffed elephant, she reac</span>
           <span class="hero-reliability">Documented Record</span>
@@ -577,39 +577,39 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=EB2_MASTER_002" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_002" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_002</span>
           <span class="exhibit-title">Book 2 Image 2/134 — Steve and Evie — she holds green toy phone, laughing. Same r</span>
         </a>
-        <a href="../evidence.html?search=EB2_MASTER_075" class="exhibit-chip">
+        <a href="../evidence.html?id=EB2_MASTER_075" class="exhibit-chip">
           <span class="exhibit-id">EB2_MASTER_075</span>
           <span class="exhibit-title">Book 2 Image 75/134 — Walsh compound front gate — black wrought iron gates, ADT si</span>
         </a>
-        <a href="../evidence.html?search=ExL_04" class="exhibit-chip">
+        <a href="../evidence.html?id=ExL_04" class="exhibit-chip">
           <span class="exhibit-id">ExL_04</span>
           <span class="exhibit-title">Gordon-Oliver temporary visitation order — 2018</span>
         </a>
-        <a href="../evidence.html?search=ExTR_08" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_08" class="exhibit-chip">
           <span class="exhibit-id">ExTR_08</span>
           <span class="exhibit-title">Gordon-Oliver hearing transcript, September 11, 2018</span>
         </a>
-        <a href="../evidence.html?search=SLE-069" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-069" class="exhibit-chip">
           <span class="exhibit-id">SLE-069</span>
           <span class="exhibit-title">Mom ordered by the court to live with Grimma &amp; Grumpa for Evie’s safety</span>
         </a>
-        <a href="../evidence.html?search=PHOTO_WALSH_COMPOUND_DRIVEWAY" class="exhibit-chip">
+        <a href="../evidence.html?id=PHOTO_WALSH_COMPOUND_DRIVEWAY" class="exhibit-chip">
           <span class="exhibit-id">PHOTO_WALSH_COMPOUND_DRIVEWAY</span>
           <span class="exhibit-title">Walsh Compound — Long Gated Driveway, Brienne&#39;s Children in Toy Car</span>
         </a>
-        <a href="../evidence.html?search=ExOO_41" class="exhibit-chip">
+        <a href="../evidence.html?id=ExOO_41" class="exhibit-chip">
           <span class="exhibit-id">ExOO_41</span>
           <span class="exhibit-title">July 2018 Gordon-Oliver order to show cause and Walsh custody petition</span>
         </a>
-        <a href="../evidence.html?search=B-10" class="exhibit-chip">
+        <a href="../evidence.html?id=B-10" class="exhibit-chip">
           <span class="exhibit-id">B-10</span>
           <span class="exhibit-title">Second Amended Judgment on Jury Verdict, CGC-18-570137</span>
         </a>
-        <a href="../evidence.html?search=ExTR_06" class="exhibit-chip">
+        <a href="../evidence.html?id=ExTR_06" class="exhibit-chip">
           <span class="exhibit-id">ExTR_06</span>
           <span class="exhibit-title">Gordon/Oliver Hearing — July 15, 2019</span>
         </a>
@@ -3912,7 +3912,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3926,9 +3926,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

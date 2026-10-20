@@ -639,47 +639,47 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=ExMM_UBER_04" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExMM_UBER_04" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExMM_UBER_04</span>
           <span class="hero-exhibit-title">Audio Recording — Uber Departure, June 4, 2018 (file metadata 2018-06-04T20:26Z)</span>
           <span class="hero-reliability">Media Record</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-CRUTCHER-UBER-SFPD" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-CRUTCHER-UBER-SFPD" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-CRUTCHER-UBER-SFPD</span>
           <span class="hero-exhibit-title">Crutcher declaration, page 4 — the June 4, 2018 Uber ride</span>
           <span class="hero-reliability">Declaration page image</span>
         </a>
-        <a href="../evidence.html?search=DOCX_HYMOWITZ_DISCREPANCIES" class="evidence-hero-chip">
+        <a href="../evidence.html?id=DOCX_HYMOWITZ_DISCREPANCIES" class="evidence-hero-chip">
           <span class="hero-exhibit-id">DOCX_HYMOWITZ_DISCREPANCIES</span>
           <span class="hero-exhibit-title">Author analysis — comparison of two versions of Walsh&#39;s narrative to Dr. Hymowitz (v4.0)</span>
           <span class="hero-reliability">Author analysis</span>
         </a>
-        <a href="../evidence.html?search=SLE-088" class="evidence-hero-chip">
+        <a href="../evidence.html?id=SLE-088" class="evidence-hero-chip">
           <span class="hero-exhibit-id">SLE-088</span>
           <span class="hero-exhibit-title">&#34;Works for us&#34; Dad, Mom and her father Steve Walsh agree to a two-three week supervised vacation to NY</span>
           <span class="hero-reliability">Archived family blog</span>
         </a>
-        <a href="../evidence.html?search=ExF_01" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExF_01" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExF_01</span>
           <span class="hero-exhibit-title">Tara Walsh–Matan Gavish email chain — June 6–7, 2018</span>
           <span class="hero-reliability">Bates-stamped discovery copy</span>
         </a>
-        <a href="../evidence.html?search=ExQQ_01c" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExQQ_01c" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExQQ_01c</span>
           <span class="hero-exhibit-title">Stephen Walsh deposition, April 26, 2021 — excerpt (NDT 50631)</span>
           <span class="hero-reliability">Court-reporter record</span>
         </a>
-        <a href="../evidence.html?search=INT-002" class="evidence-hero-chip">
+        <a href="../evidence.html?id=INT-002" class="evidence-hero-chip">
           <span class="hero-exhibit-id">INT-002</span>
           <span class="hero-exhibit-title">Hamptons Turtle Pond — Steve, Tara, Chris Ochoa, Riley (August 2015)</span>
           <span class="hero-reliability">Author Account</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE-002" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-JESSE-002" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-JESSE-002</span>
           <span class="hero-exhibit-title">Exit Planning Before Arrival — &#39;I could never leave in a court&#39; (Mar 3, 2018)</span>
           <span class="hero-reliability">Device Backup / Digital Record</span>
         </a>
-        <a href="../evidence.html?search=MSG-MATAN-005" class="evidence-hero-chip">
+        <a href="../evidence.html?id=MSG-MATAN-005" class="evidence-hero-chip">
           <span class="hero-exhibit-id">MSG-MATAN-005</span>
           <span class="hero-exhibit-title">&#39;Kidnap Me and Evie So We Don&#39;t Have to Leave&#39; — Night Before SF (Mar 2, 2018)</span>
           <span class="hero-reliability">Device forensic extraction</span>
@@ -687,21 +687,17 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=F-013" class="exhibit-chip">
+        <a href="../evidence.html?id=F-013" class="exhibit-chip">
           <span class="exhibit-id">F-013</span>
           <span class="exhibit-title">Site summary: SLE F-013 — &#34;What do you think of my abuse journal? Spent all day writing it.&#34;</span>
         </a>
-        <a href="../evidence.html?search=PDF_INCIDENT_REPORT_180415167" class="exhibit-chip">
+        <a href="../evidence.html?id=PDF_INCIDENT_REPORT_180415167" class="exhibit-chip">
           <span class="exhibit-id">PDF_INCIDENT_REPORT_180415167</span>
           <span class="exhibit-title">SFPD Incident Report 180415167 — narrative page, June 4, 2018</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-JESSE" class="exhibit-chip">
           <span class="exhibit-id">MSG-JESSE</span>
           <span class="exhibit-title">Tara Walsh–Jesse Ozeri iMessage export, March 24, 2017 – March 7, 2018 (compiled</span>
-        </a>
-        <a href="../evidence.html?search=MSG-MATAN" class="exhibit-chip">
-          <span class="exhibit-id">MSG-MATAN</span>
-          <span class="exhibit-title">Tara–Matan Gavish Full iMessage Conversation (Dec 2017 – Mar 2018)</span>
         </a>
       </div>
 
@@ -4002,7 +3998,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -4016,9 +4012,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

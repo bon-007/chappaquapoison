@@ -91,17 +91,17 @@ That sentence is about February 2022. Steve’s attorney had been at the table i
 
 ## Evidence references
 
-- B-4 Temporary Order of Protection document — core of the double default narrative Court Record: https://chappaquapoison.com/evidence.html?search=B-4
-- LEGAL-HUMPHREY-RECUSAL Judge Humphrey Recusal — Trashes DiFabio While Granting His Motion (Apr 2021) Official court order — Notice of Entry: https://chappaquapoison.com/evidence.html?search=LEGAL-HUMPHREY-RECUSAL
-- ExTR_03 Humphrey hearing transcript, January 26, 2021 (White Plains Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_03
-- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_01
-- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?search=ExTR_02
-- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021: https://chappaquapoison.com/evidence.html?search=ExO_01
-- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?search=B-12
-- B-3 3-family offense petition abuse 8-27-21: https://chappaquapoison.com/evidence.html?search=B-3
-- DOCX_RUSSELL_AFFIDAVIT Russell Affidavit v2 — August 7, 2018: https://chappaquapoison.com/evidence.html?search=DOCX_RUSSELL_AFFIDAVIT
-- PDF_DEMAND_PROSECUTION Demand for Prosecution — DA Letter (74 pages): https://chappaquapoison.com/evidence.html?search=PDF_DEMAND_PROSECUTION
-- SLE-096 Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.: https://chappaquapoison.com/evidence.html?search=SLE-096
-- G-27 OASAS Stipulation of Settlement — Raymond Griffin, August 2019: https://chappaquapoison.com/evidence.html?search=G-27
-- ExOO_14 ExOO 14 AFC Jackman Griffin Exchange: https://chappaquapoison.com/evidence.html?search=ExOO_14
+- B-4 Temporary Order of Protection document — core of the double default narrative Court Record: https://chappaquapoison.com/evidence.html?id=B-4
+- LEGAL-HUMPHREY-RECUSAL Judge Humphrey Recusal — Trashes DiFabio While Granting His Motion (Apr 2021) Official court order — Notice of Entry: https://chappaquapoison.com/evidence.html?id=LEGAL-HUMPHREY-RECUSAL
+- ExTR_03 Humphrey hearing transcript, January 26, 2021 (White Plains Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_03
+- ExTR_01 Schauer hearing transcript, August 27, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_01
+- ExTR_02 Schauer hearing transcript, November 5, 2021 (Yonkers Family Court): https://chappaquapoison.com/evidence.html?id=ExTR_02
+- ExO_01 Kelly Turnure letter to Hon. Joseph Egitto, Supervising Judge, May 10, 2021: https://chappaquapoison.com/evidence.html?id=ExO_01
+- B-12 Appellate Division Decision, 214 A.D.3d 890 (2d Dep’t, March 22, 2023) — order not on default; deletion provision replaced: https://chappaquapoison.com/evidence.html?id=B-12
+- B-3 3-family offense petition abuse 8-27-21: https://chappaquapoison.com/evidence.html?id=B-3
+- DOCX_RUSSELL_AFFIDAVIT Russell Affidavit v2 — August 7, 2018: https://chappaquapoison.com/evidence.html?id=DOCX_RUSSELL_AFFIDAVIT
+- PDF_DEMAND_PROSECUTION Demand for Prosecution — DA Letter (74 pages): https://chappaquapoison.com/evidence.html?id=PDF_DEMAND_PROSECUTION
+- SLE-096 Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.: https://chappaquapoison.com/evidence.html?id=SLE-096
+- G-27 OASAS Stipulation of Settlement — Raymond Griffin, August 2019: https://chappaquapoison.com/evidence.html?id=G-27
+- ExOO_14 ExOO 14 AFC Jackman Griffin Exchange: https://chappaquapoison.com/evidence.html?id=ExOO_14
 - Explore all 55 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B33

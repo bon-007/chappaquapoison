@@ -116,10 +116,10 @@ The evidence had always been there. It just needed someone to put the pieces nex
 
 ## Evidence references
 
-- ExI_02 Doctor's Data Urine Elements Report — March 9, 2017 Laboratory Analysis: https://chappaquapoison.com/evidence.html?search=ExI_02
-- LEGAL-TEDLA-DECLARATION Abrehet Tedla — Sworn Declaration Signed Under Penalty of Perjury: https://chappaquapoison.com/evidence.html?search=LEGAL-TEDLA-DECLARATION
-- LAB-MYCOPHENOLIC-ACID Great Plains Laboratory MycoTOX urine report — Stephen Russell, collected July 31, 2019 Laboratory report: https://chappaquapoison.com/evidence.html?search=LAB-MYCOPHENOLIC-ACID
-- QUOTE-TARA-CRAZY-TOO-TOGETHER 'I Thought If You Were Crazy Too, We Could All Be Together' — Tara's Confession After Being Caught (B21) Verbal statement witnessed by Linda Russell and Abrehet Tedla: https://chappaquapoison.com/evidence.html?search=QUOTE-TARA-CRAZY-TOO-TOGETHER
-- ExEMAIL_SEROQUEL_ADMISSION Tara Walsh Email — Seroquel Admission (January 2020) Documented Record: https://chappaquapoison.com/evidence.html?search=ExEMAIL_SEROQUEL_ADMISSION
-- DOC-027 MycophenolicAcidTest: https://chappaquapoison.com/evidence.html?search=DOC-027
+- ExI_02 Doctor's Data Urine Elements Report — March 9, 2017 Laboratory Analysis: https://chappaquapoison.com/evidence.html?id=ExI_02
+- LEGAL-TEDLA-DECLARATION Abrehet Tedla — Sworn Declaration Signed Under Penalty of Perjury: https://chappaquapoison.com/evidence.html?id=LEGAL-TEDLA-DECLARATION
+- LAB-MYCOPHENOLIC-ACID Great Plains Laboratory MycoTOX urine report — Stephen Russell, collected July 31, 2019 Laboratory report: https://chappaquapoison.com/evidence.html?id=LAB-MYCOPHENOLIC-ACID
+- QUOTE-TARA-CRAZY-TOO-TOGETHER 'I Thought If You Were Crazy Too, We Could All Be Together' — Tara's Confession After Being Caught (B21) Verbal statement witnessed by Linda Russell and Abrehet Tedla: https://chappaquapoison.com/evidence.html?id=QUOTE-TARA-CRAZY-TOO-TOGETHER
+- ExEMAIL_SEROQUEL_ADMISSION Tara Walsh Email — Seroquel Admission (January 2020) Documented Record: https://chappaquapoison.com/evidence.html?id=ExEMAIL_SEROQUEL_ADMISSION
+- DOC-027 MycophenolicAcidTest: https://chappaquapoison.com/evidence.html?id=DOC-027
 - Explore all 52 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B34

@@ -526,7 +526,7 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=D-7" class="evidence-hero-chip">
+        <a href="../evidence.html?id=D-7" class="evidence-hero-chip">
           <span class="hero-exhibit-id">D-7</span>
           <span class="hero-exhibit-title">Twenty-eight iChat message threads between Tara Walsh and an individual identifi</span>
           <span class="hero-reliability">Media Record</span>
@@ -534,23 +534,23 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=D-2_03" class="exhibit-chip">
+        <a href="../evidence.html?id=D-2_03" class="exhibit-chip">
           <span class="exhibit-id">D-2_03</span>
           <span class="exhibit-title">&#39;I\&#39;m Better Pretending&#39; — Tara Admits Con Architecture to Friend (Feb 20, 2018)</span>
         </a>
-        <a href="../evidence.html?search=SLE-031" class="exhibit-chip">
+        <a href="../evidence.html?id=SLE-031" class="exhibit-chip">
           <span class="exhibit-id">SLE-031</span>
           <span class="exhibit-title">&#34;I think he knows I am not ACTUALLY pregnant&#34;</span>
         </a>
-        <a href="../evidence.html?search=MSG-JESSE-006" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-JESSE-006" class="exhibit-chip">
           <span class="exhibit-id">MSG-JESSE-006</span>
           <span class="exhibit-title">Jesse Warns Tara: &#39;It&#39;s a Trap for You&#39; (May 26, 2017)</span>
         </a>
-        <a href="../evidence.html?search=MSG-RASHMI-003" class="exhibit-chip">
+        <a href="../evidence.html?id=MSG-RASHMI-003" class="exhibit-chip">
           <span class="exhibit-id">MSG-RASHMI-003</span>
           <span class="exhibit-title">Pregnancy Discovery and Miscarriage Wish (May 25, 2017)</span>
         </a>
-        <a href="../evidence.html?search=TARA-JOURNAL" class="exhibit-chip">
+        <a href="../evidence.html?id=TARA-JOURNAL" class="exhibit-chip">
           <span class="exhibit-id">TARA-JOURNAL</span>
           <span class="exhibit-title">Tara Walsh&#39;s journal about Steve (&#34;SR Abuse log&#34;, Ex. 28), entries from December 2016 into 2018</span>
         </a>
@@ -3853,7 +3853,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3867,9 +3867,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

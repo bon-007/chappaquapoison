@@ -605,27 +605,27 @@
       
 
       <div class="evidence-hero-list">
-        <a href="../evidence.html?search=ExI_02" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExI_02" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExI_02</span>
           <span class="hero-exhibit-title">Doctor&#39;s Data Urine Elements Report — March 9, 2017</span>
           <span class="hero-reliability">Laboratory Analysis</span>
         </a>
-        <a href="../evidence.html?search=LEGAL-TEDLA-DECLARATION" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LEGAL-TEDLA-DECLARATION" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LEGAL-TEDLA-DECLARATION</span>
           <span class="hero-exhibit-title">Abrehet Tedla — Sworn Declaration</span>
           <span class="hero-reliability">Signed Under Penalty of Perjury</span>
         </a>
-        <a href="../evidence.html?search=LAB-MYCOPHENOLIC-ACID" class="evidence-hero-chip">
+        <a href="../evidence.html?id=LAB-MYCOPHENOLIC-ACID" class="evidence-hero-chip">
           <span class="hero-exhibit-id">LAB-MYCOPHENOLIC-ACID</span>
           <span class="hero-exhibit-title">Great Plains Laboratory MycoTOX urine report — Stephen Russell, collected July 31, 2019</span>
           <span class="hero-reliability">Laboratory report</span>
         </a>
-        <a href="../evidence.html?search=QUOTE-TARA-CRAZY-TOO-TOGETHER" class="evidence-hero-chip">
+        <a href="../evidence.html?id=QUOTE-TARA-CRAZY-TOO-TOGETHER" class="evidence-hero-chip">
           <span class="hero-exhibit-id">QUOTE-TARA-CRAZY-TOO-TOGETHER</span>
           <span class="hero-exhibit-title">&#39;I Thought If You Were Crazy Too, We Could All Be Together&#39; — Tara&#39;s Confession After Being Caught (B21)</span>
           <span class="hero-reliability">Verbal statement witnessed by Linda Russell and Abrehet Tedla</span>
         </a>
-        <a href="../evidence.html?search=ExEMAIL_SEROQUEL_ADMISSION" class="evidence-hero-chip">
+        <a href="../evidence.html?id=ExEMAIL_SEROQUEL_ADMISSION" class="evidence-hero-chip">
           <span class="hero-exhibit-id">ExEMAIL_SEROQUEL_ADMISSION</span>
           <span class="hero-exhibit-title">Tara Walsh Email — Seroquel Admission (January 2020)</span>
           <span class="hero-reliability">Documented Record</span>
@@ -633,7 +633,7 @@
       </div>
 
       <div class="evidence-exhibits">
-        <a href="../evidence.html?search=DOC-027" class="exhibit-chip">
+        <a href="../evidence.html?id=DOC-027" class="exhibit-chip">
           <span class="exhibit-id">DOC-027</span>
           <span class="exhibit-title">MycophenolicAcidTest</span>
         </a>
@@ -3936,7 +3936,7 @@
     var caption = embed.querySelector('.embed-caption');
     if (caption) {
       var link = document.createElement('a');
-      link.href = '../evidence.html?search=' + encodeURIComponent(exhibitId);
+      link.href = '../evidence.html?id=' + encodeURIComponent(exhibitId);
       link.textContent = 'View in evidence archive →';
       link.className = 'embed-archive-link';
       link.style.cssText = 'display:block; margin-top:8px; font-size:12px; color:var(--color-muted-amber); text-decoration:none; font-family:var(--font-ui); letter-spacing:0.02em;';
@@ -3950,9 +3950,11 @@
   // Footer chips already link to evidence.html — add secondary scroll-to-embed behavior
   document.querySelectorAll('.evidence-hero-chip, .exhibit-chip').forEach(function(chip) {
     var href = chip.getAttribute('href') || '';
-    var match = href.match(/search=([^&]+)/);
-    if (!match) return;
-    var exhibitId = decodeURIComponent(match[1]);
+    var params;
+    try { params = new URL(href, window.location.href).searchParams; }
+    catch (_) { return; }
+    var exhibitId = params.has('id') ? params.get('id') : (params.get('search') || params.get('q'));
+    if (!exhibitId) return;
     var embedAnchor = 'embed-' + exhibitId.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     var embedEl = document.getElementById(embedAnchor);
     if (!embedEl) return;

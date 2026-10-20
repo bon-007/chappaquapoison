@@ -118,22 +118,22 @@ In ten months, a jury will hear the evidence this case never reached. But the ju
 
 ## Evidence references
 
-- LEGAL-KIDNAP-MAURA-TENNIS-PHOTO Russell pro per motion for default with exhibits, CGC-20-588105 (Exhibit I: service photograph) Party motion with exhibits: https://chappaquapoison.com/evidence.html?search=LEGAL-KIDNAP-MAURA-TENNIS-PHOTO
-- LEGAL-KIDNAP-SHERIFF-LIE Walsh Sr. Tells Sheriff Maura and Tara Don't Live There — They Do (Jan 2021) Official Sheriff process return: https://chappaquapoison.com/evidence.html?search=LEGAL-KIDNAP-SHERIFF-LIE
-- LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT PI Saavedra Affidavit: Tara Takes Child Away, Turns Off Lights (Feb 2021) Sworn affidavit by licensed PI: https://chappaquapoison.com/evidence.html?search=LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT
-- LEGAL-KIDNAP-COMPLAINT Kidnapping Case — First Amended Complaint with 8 Causes of Action (Dec 2020) Court filing — verified filing stamp: https://chappaquapoison.com/evidence.html?search=LEGAL-KIDNAP-COMPLAINT
-- LEGAL-KIDNAP-SERVICE-PROOF Kidnapping Proof of Service — Certified Mail + Email to All Three Walshes (Mar 2022) Attorney declaration under penalty of perjury: https://chappaquapoison.com/evidence.html?search=LEGAL-KIDNAP-SERVICE-PROOF
-- ExOO_34 Rssb Law Withdrawal Davies Robison Prepared summary — not a record: https://chappaquapoison.com/evidence.html?search=ExOO_34
-- LEGAL-KIDNAP-DEFAULT-REJECT Kidnapping Default Entry Rejected — 'Original Proof of Service Not Filed' (Jan 2024) Official court document: https://chappaquapoison.com/evidence.html?search=LEGAL-KIDNAP-DEFAULT-REJECT
-- ExMM_11 Walsh Voicemail Threat Media Record: https://chappaquapoison.com/evidence.html?search=ExMM_11
-- LEGAL-RUSSELL-AFFIDAVIT-DEFAULT Stephen Russell — Signed Affidavit in Support of Motion to Reargue and Vacate, January 14, 2021: https://chappaquapoison.com/evidence.html?search=LEGAL-RUSSELL-AFFIDAVIT-DEFAULT
-- ExTR_04 Morales-Horowitz hearing transcript, February 6, 2020 (White Plains): https://chappaquapoison.com/evidence.html?search=ExTR_04
-- SLE-024 The Abuse - A battery and kidnapping case in San Francisco reveals a disturbing pattern of mental illness, druggings, and abuse by Mom's Westchester family: https://chappaquapoison.com/evidence.html?search=SLE-024
-- SLE-025 The Courts: Three judges, six lawyers, and five court appointed experts are fired, delicensed, or recuse themselves over a three year period where a custody battle without a single hearing ensues: https://chappaquapoison.com/evidence.html?search=SLE-025
-- ExOO_31 Walsh Sr Threatened Two Lawyers Audio: https://chappaquapoison.com/evidence.html?search=ExOO_31
-- ExOO_08 Enenstein Withdrawal Conflict Malpractice: https://chappaquapoison.com/evidence.html?search=ExOO_08
-- ExOO_33 ExOO 33 Enenstein Withdrawal Depositions HandOff Feb2020: https://chappaquapoison.com/evidence.html?search=ExOO_33
-- ExOO_32 Westchester Sheriff service return and certificate — January 8, 2020: https://chappaquapoison.com/evidence.html?search=ExOO_32
-- SLE-013 Grumpa's Deposition: His family is super-duper honest...except when they are talking about him: https://chappaquapoison.com/evidence.html?search=SLE-013
-- ExKK_01 Complaint letter to the FBI New York Field Office — extortion, coercion and harassment (2025): https://chappaquapoison.com/evidence.html?search=ExKK_01
+- LEGAL-KIDNAP-MAURA-TENNIS-PHOTO Russell pro per motion for default with exhibits, CGC-20-588105 (Exhibit I: service photograph) Party motion with exhibits: https://chappaquapoison.com/evidence.html?id=LEGAL-KIDNAP-MAURA-TENNIS-PHOTO
+- LEGAL-KIDNAP-SHERIFF-LIE Walsh Sr. Tells Sheriff Maura and Tara Don't Live There — They Do (Jan 2021) Official Sheriff process return: https://chappaquapoison.com/evidence.html?id=LEGAL-KIDNAP-SHERIFF-LIE
+- LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT PI Saavedra Affidavit: Tara Takes Child Away, Turns Off Lights (Feb 2021) Sworn affidavit by licensed PI: https://chappaquapoison.com/evidence.html?id=LEGAL-KIDNAP-SAAVEDRA-AFFIDAVIT
+- LEGAL-KIDNAP-COMPLAINT Kidnapping Case — First Amended Complaint with 8 Causes of Action (Dec 2020) Court filing — verified filing stamp: https://chappaquapoison.com/evidence.html?id=LEGAL-KIDNAP-COMPLAINT
+- LEGAL-KIDNAP-SERVICE-PROOF Kidnapping Proof of Service — Certified Mail + Email to All Three Walshes (Mar 2022) Attorney declaration under penalty of perjury: https://chappaquapoison.com/evidence.html?id=LEGAL-KIDNAP-SERVICE-PROOF
+- ExOO_34 Rssb Law Withdrawal Davies Robison Prepared summary — not a record: https://chappaquapoison.com/evidence.html?id=ExOO_34
+- LEGAL-KIDNAP-DEFAULT-REJECT Kidnapping Default Entry Rejected — 'Original Proof of Service Not Filed' (Jan 2024) Official court document: https://chappaquapoison.com/evidence.html?id=LEGAL-KIDNAP-DEFAULT-REJECT
+- ExMM_11 Walsh Voicemail Threat Media Record: https://chappaquapoison.com/evidence.html?id=ExMM_11
+- LEGAL-RUSSELL-AFFIDAVIT-DEFAULT Stephen Russell — Signed Affidavit in Support of Motion to Reargue and Vacate, January 14, 2021: https://chappaquapoison.com/evidence.html?id=LEGAL-RUSSELL-AFFIDAVIT-DEFAULT
+- ExTR_04 Morales-Horowitz hearing transcript, February 6, 2020 (White Plains): https://chappaquapoison.com/evidence.html?id=ExTR_04
+- SLE-024 The Abuse - A battery and kidnapping case in San Francisco reveals a disturbing pattern of mental illness, druggings, and abuse by Mom's Westchester family: https://chappaquapoison.com/evidence.html?id=SLE-024
+- SLE-025 The Courts: Three judges, six lawyers, and five court appointed experts are fired, delicensed, or recuse themselves over a three year period where a custody battle without a single hearing ensues: https://chappaquapoison.com/evidence.html?id=SLE-025
+- ExOO_31 Walsh Sr Threatened Two Lawyers Audio: https://chappaquapoison.com/evidence.html?id=ExOO_31
+- ExOO_08 Enenstein Withdrawal Conflict Malpractice: https://chappaquapoison.com/evidence.html?id=ExOO_08
+- ExOO_33 ExOO 33 Enenstein Withdrawal Depositions HandOff Feb2020: https://chappaquapoison.com/evidence.html?id=ExOO_33
+- ExOO_32 Westchester Sheriff service return and certificate — January 8, 2020: https://chappaquapoison.com/evidence.html?id=ExOO_32
+- SLE-013 Grumpa's Deposition: His family is super-duper honest...except when they are talking about him: https://chappaquapoison.com/evidence.html?id=SLE-013
+- ExKK_01 Complaint letter to the FBI New York Field Office — extortion, coercion and harassment (2025): https://chappaquapoison.com/evidence.html?id=ExKK_01
 - Explore all 29 evidence items for this chapter →: https://chappaquapoison.com/evidence.html?post=B42
