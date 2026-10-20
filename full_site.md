@@ -5108,7 +5108,7 @@ The system had a special relationship with someone. It was not with the father.
 
 Tags: Chappaqua, Custody, Evie, Institutional, Supervised Visitation, Crabtree's Kittle House, Walsh Sr., Franceska Anilus, Horowitz, Disappearing Record, Body Speaks, Elias Gootzeit, Delia Farquharson, Mount Vernon, Corruption
 
-Selected evidence references: 44
+Selected evidence references: 45
   - EB2_MASTER_090
   - EB2_MASTER_110
   - SLE-065
@@ -5124,6 +5124,7 @@ Selected evidence references: 44
   - EB2_MASTER_027
   - EB2_MASTER_057
   - EB2_MASTER_132
+  - ExTR_13
   - EB2_MASTER_024
   - EB2_MASTER_029
   - EB2_MASTER_030
@@ -9830,4 +9831,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: bc556fc24d27
+- Content hash: 84db5f22cd26
