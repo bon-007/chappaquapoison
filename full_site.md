@@ -34,7 +34,7 @@ Crabtree's Kittle House sat at 11 Kittle Road, a building that had stood since 1
 
 Stephen Russell arrived early. He always arrived early. He had learned that arriving early meant fifteen minutes of sitting in the car with the engine off, watching the road, confirming that no one was already positioned at the entrance.
 
-The visit was with his daughter, Evie. She was nearly twenty months old. He had not held her unsupervised since she was taken to New York fifteen months earlier, removed from California in violation of an automatic temporary restraining order issued by the San Francisco Superior Court, transported across the country by members of her mother's family, and installed in the Walsh compound on a hill above Chappaqua.
+The visit was with his daughter, Evie. She was nearly twenty months old. He had not held her unsupervised since she was taken to New York fifteen months earlier, on a visit of two to three weeks that he had agreed to in writing, under a San Francisco restraining order that barred either parent from taking her out of California without the other's consent. She was never brought back. She was installed instead in the Walsh compound on a hill above Chappaqua.
 
 ---
 
@@ -1878,7 +1878,7 @@ Two years after the hospital, Tara would explain to Steve's own attorney what le
   </div>
   <div class="email-caption">
     <span class="embed-exhibit-id">Tara Walsh to Max Di Fabio, Esq., March 25, 2020</span>
-    <span class="embed-caption-text">Correspondence file. The man who had been drugged, committed, and released by a doctor who said he shouldn't have been there — described by the woman who put him there as a death sentence for his own daughter.</span>
+    <span class="embed-caption-text">Correspondence file. The man who had been drugged, held in a psychiatric ward, and released by a doctor who said he shouldn't have been there — described by the woman who put him there as a death sentence for his own daughter.</span>
   </div>
 </div>
 
@@ -1999,7 +1999,7 @@ What came next was systematic. Jamie began telling third parties, potential inve
 
 Steve would later describe it simply: Jamie talked about it in a way that was a death blow to the company. Potential acquirers who had been interested stopped returning calls. The technology was the same. The conversations were not.
 
-Steve formed a new entity, Prism.AI, to continue work on the platform architecture. But the company that Ring had been built on was gone, and Jamie had the Kleiner money and the Amazon interest and the team of a thousand in Ukraine, and Steve had a termination agreement and a stack of patent assignments that Ring kept sending via DocuSign, unsigned and ignored. The architecture he had designed was running inside a product that was about to sell for over a billion dollars, and the architect had been told his work was worthless by the man who was selling it.
+Steve formed a new entity, Prism.AI, to continue work on the platform architecture. But the company that Ring had been built on was gone, and Jamie had the Kleiner money and the Amazon interest and the team of a thousand in Ukraine, and Steve had a termination agreement and a stack of patent assignments that Ring wanted signed and sent back. The architecture he had designed was running inside a product that was about to sell for over a billion dollars, and the architect had been told his work was worthless by the man who was selling it.
 
 He had built the system. The system had been taken. He would build another one.
 
@@ -2094,7 +2094,7 @@ The man who built things and the man who received the truth, both under oath, bo
 Tags: Brooklyn, Bryan Crutcher, Documentation, Joe Prendergast, Legacy Protection, Tamper Screws
 
 Selected evidence references: 14
-  - G-34
+  - PDF_SF_DVRO_JUL2018
   - MSG-BRIENNE-013
   - D-31
   - EB1_P065
@@ -2167,20 +2167,20 @@ It was not the look of someone who thought the screws were paranoid. It was the 
 
 "That's good," Bryan said. "Keep doing that."
 
-<div class="evidence-embed embed-document" data-exhibit="G-34" data-type="court-filing">
+<div class="evidence-embed embed-document" data-exhibit="PDF_SF_DVRO_JUL2018" data-type="court-filing">
   <div class="embed-header">
     <span class="embed-type">SWORN DECLARATION</span>
     <span class="embed-date">July 2018</span>
-    <span class="embed-source">Court Filing — Russell v. Walsh</span>
+    <span class="embed-source">San Francisco Superior Court — Russell and Walsh, FPT-18-377425</span>
   </div>
   <div class="embed-body">
     <div class="document-text">
-      <p>Bryan Crutcher's sworn declaration documenting the security operation he ran for Steve Russell in New York — former NYPD drivers on rotating shifts, communication protocols, the infrastructure built around a man who believed his environment was not safe and was spending what it cost to make it safer.</p>
+      <p>Steve's own declaration, filed in San Francisco in July 2018. After learning Tara was pregnant, he writes, he paid for an apartment in Brooklyn, upgraded her medical insurance and found a specialist for her high-risk pregnancy; he went to her appointments, was present at the birth, and slept in a chair at the hospital through four days of recovery after the C-section. It names Bryan Crutcher as his chief of staff and the lead of his security team, a retired Vallejo police officer, and points the court to a declaration by Crutcher.</p>
     </div>
   </div>
   <div class="embed-caption">
-    <span class="embed-exhibit-id">Bryan Crutcher Declaration, July 2018</span>
-    <span class="embed-caption-text">The sworn account of the man who sat in the quiet and said "Keep doing that." Filed in custody proceedings.</span>
+    <span class="embed-exhibit-id">Stephen Russell Declaration, July 2018</span>
+    <span class="embed-caption-text">Steve's sworn account of the pregnancy and the birth. Crutcher's own declaration, filed the same day, concerns San Francisco in May and June 2018; the New York routine in this chapter is Steve's own recollection.</span>
   </div>
 </div>
 
@@ -2200,7 +2200,7 @@ Four days.
 
 ---
 
-On January 26, Tara texted Brienne from the hospital.
+On January 26, Tara texted her brother from the hospital.
 
 "At hospital! Blood pressure was too high, in triage waiting to be seen."
 
@@ -2213,14 +2213,14 @@ Then, at 10:07 PM: "C section tonight!"
     <div class="status-notch"></div>
   </div>
   <div class="imessage-header">
-    <span class="contact-name">Brienne</span>
+    <span class="contact-name">Brendan</span>
     <span class="contact-label">iMessage</span>
   </div>
   <div class="imessage-thread">
     <div class="msg-timestamp">Friday, January 26, 2018</div>
     <div class="msg-sender-label">Tara</div>
     <div class="msg-bubble msg-incoming">At hospital! Blood pressure was too high- in triage waiting to be seen</div>
-    <div class="msg-sender-label msg-label-right">Brienne</div>
+    <div class="msg-sender-label msg-label-right">Brendan</div>
     <div class="msg-bubble msg-secondary">Wow</div>
     <div class="msg-sender-label">Tara</div>
     <div class="msg-bubble msg-incoming">They said most likely they will section me today</div>
@@ -2228,7 +2228,7 @@ Then, at 10:07 PM: "C section tonight!"
     <div class="msg-bubble msg-incoming">C section tonight! Mom and Dad coming to hospital</div>
     <div class="msg-bubble msg-incoming">It's crazy I will have a baby on a few hours</div>
     <div class="msg-bubble msg-incoming">I'm honestly so stressed out with you and Brie fighting with Steve and this is the most important moment of my life. I just wish you could put aside your difference for a short while for the sake of me and my daughter.</div>
-    <div class="msg-sender-label msg-label-right">Brienne</div>
+    <div class="msg-sender-label msg-label-right">Brendan</div>
     <div class="msg-bubble msg-secondary">K. I will be coming</div>
     <div class="msg-sender-label">Tara</div>
     <div class="msg-bubble msg-incoming">Ok I love you very much &#10084;&#128420;</div>
@@ -2238,8 +2238,8 @@ Then, at 10:07 PM: "C section tonight!"
   </div>
 </div>
 <div class="imessage-caption">
-  <span class="embed-exhibit-id">Tara Walsh to Brienne Walsh, January 26–27, 2018</span>
-  <span class="embed-caption-text">Evie's birth in real time. The Backup archive, Russell v. Walsh.</span>
+  <span class="embed-exhibit-id">Tara Walsh to her brother, January 26–27, 2018</span>
+  <span class="embed-caption-text">Evie's birth in real time, from Tara's iMessage archive. The export files this thread under Brienne's name; in these messages the other sibling asks Tara whether she has heard from Brienne.</span>
 </div>
 
 Evie was born on January 27, 2018. Steve was there. The tamper screws were still set to eleven o'clock. Bryan was downstairs. The driver was in the car. The security infrastructure that had been built to protect a man from the woman carrying his child now surrounded the hospital where that child entered the world.
@@ -2466,7 +2466,7 @@ It was.
 
 ---
 
-In February 2018, Amazon acquired Ring for more than a billion dollars.
+In February 2018, Amazon agreed to buy Ring for more than a billion dollars.
 
 Jamie Siminoff personally netted roughly three hundred million.
 
@@ -2529,9 +2529,8 @@ Aunt K's hand in his was real. The painter of cottages was dead but the ranch wa
 
 Tags: Brooklyn, Escalation, Legacy Protection, Tamper Screws, Triangulation, Walsh Sr.
 
-Selected evidence references: 40
+Selected evidence references: 38
   - ExMM_10
-  - D-11
   - D-31
   - MSG-WALSHSR-002
   - C-4
@@ -2540,7 +2539,6 @@ Selected evidence references: 40
   - LEGAL-CRUTCHER-DECL
   - ExC_03
   - C-4_02
-  - D-11_02
   - D-11_03
   - DOCX_CHILD_ENDANGERMENT
   - DOCX_RECORD_RELATIONSHIP
@@ -2630,23 +2628,6 @@ Tara and Steve never saw the Walshes. In the entire relationship, years, they ha
 
 Steve tried to show him. The screws. The fumes. The contamination visible on the fixtures he had already begun boxing. Walsh Sr. stood in the doorway and did not step inside and did not look at what Steve was pointing toward. He had not come to investigate. He had come to deliver a sentence.
 
-<div class="evidence-embed embed-document" data-exhibit="D-11" data-type="device-record">
-  <div class="embed-header">
-    <span class="embed-type">TEXT MESSAGE RECORD</span>
-    <span class="embed-date">January 2018</span>
-    <span class="embed-source">Device Backup — Russell iPhone</span>
-  </div>
-  <div class="embed-body">
-    <div class="document-text">
-      <p>Steve Russell's text messages to Steve Walsh during and after the confrontation at the Brooklyn apartment. The texts document the eviction in real time — a father trying to communicate with the man who just told him to leave the home where his newborn daughter lives.</p>
-    </div>
-  </div>
-  <div class="embed-caption">
-    <span class="embed-exhibit-id">Steve Russell to Steve Walsh, January 2018</span>
-    <span class="embed-caption-text">Contemporaneous messages during the forced departure from the Brooklyn apartment. Device backup, Russell v. Walsh.</span>
-  </div>
-</div>
-
 He left.
 
 His cognitive function was compromised. His face was covered in adhesive. Steve Walsh was in the doorway. He left because the fumes were real, because his brain was not working correctly, because the alternative was a confrontation he was not capable of having.
@@ -2722,8 +2703,7 @@ The protection was not protecting him. It never had been.
 
 Tags: Accusation-Reversal, Disappearing Record, Don Ackerman, Legacy Protection
 
-Selected evidence references: 9
-  - ExI_03
+Selected evidence references: 8
   - B-2
   - D-31
   - IMESSAGE_DB_TARA_2017_2018
@@ -2739,20 +2719,6 @@ This was itself information. The fog that had settled over his thinking, the dis
 
 Symptoms in the environment. Symptoms absent from it. The place itself seemed to be the variable.
 
-<div class="evidence-embed embed-document" data-exhibit="ExI_03">
-  <div class="embed-header">
-      <span class="embed-type">Laboratory Analysis</span>
-      <span class="embed-date">2018</span>
-      <span class="embed-source">Redwood Toxicology</span>
-  </div>
-  <div class="embed-body">
-    <div class="document-text"><p>Redwood Toxicology urine report, collected March 7, 2018: the final result summary records carboxyzolpidem detected at 2360 ng/mL and zolpidem detected at 1 ng/mL.</p></div>
-  </div>
-  <div class="embed-caption">
-    <span class="embed-exhibit-id">Redwood Toxicology Drug Screen (Zolpidem), 2018</span>
-    <span class="embed-caption-text">Laboratory confirmation of the substance his body was already telling him about.</span>
-  </div>
-</div>
 
 The body had known before the mind could name it. Every hour away from the apartment was another degree of clarity, the sedation receding, the cognitive edges sharpening, the looseness of reality tightening back into something he could trust. His impairment had a chemical source, and that source was in the apartment he had been told to leave. The departure was the diagnostic no one had thought to run.
 
@@ -3311,9 +3277,9 @@ He did not know about the Rules List. He did not know about the exit planning, o
 
 ---
 
-Within days of the landing, Tara shared an iCloud photo album called "My Life in San Francisco."
+In January 2019, ten months after the landing, the Photos app on Steve's phone was showing him a memory: "My Life in San Francisco, 2016 – 2017."
 
-It arrived on Steve's phone because she had sent it, her album, her photos, her decision to share. Steve's response, in a message back to her: "Well you sent them so, it's a big whatever. Prob some auto sharing thing, but way to be dramatic."
+On Sunday, January 6, he told Tara it was very weird: a full set of photos from their trips had come to him. Her answer came the next morning. His reply was a screenshot of the memory and a line: "Well you sent them so, it's a big whatever. Prob some auto sharing thing, but way to be dramatic."
 
 <div class="imessage-embed" data-exhibit="SCREENSHOT_TARA_MY_LIFE_SF_TOP_TRAP">
   <div class="imessage-statusbar">
@@ -3337,12 +3303,12 @@ It arrived on Steve's phone because she had sent it, her album, her photos, her 
 </div>
 <div class="imessage-caption">
   <span class="embed-exhibit-id">Message screenshot, Walsh conversation</span>
-  <span class="embed-caption-text">Her message, then his screenshot of the Photos memory and his reply. The screenshot gives no year for the exchange. Tara sent the album. Then built a case from the fact that it arrived.</span>
+  <span class="embed-caption-text">Her message, then his screenshot of the Photos memory and his reply. The screenshot is headed Monday, January 7, and shows no year; the original file is dated January 7, 2019. In Steve's account, she sent the photographs, then built a case out of the screenshot he sent back.</span>
 </div>
 
-The album would later appear in court filings — not as evidence that Tara had shared her own photos, but as evidence that Steve had violated the Temporary Order of Protection by receiving them. She manufactured the contact, then weaponized it. The scheme was running before the first week in San Francisco was over.
+Eleven weeks later, on March 27, 2019, January 7 was in her family-offense petition: on or about that day, it said, he had messaged her photographs of herself. No contested hearing came before the two-year order that followed it in February 2020, which was entered on default. To Steve, she had manufactured the contact, then weaponized it.
 
-Months later, after everything that would happen in the North Beach townhouse, the poisoning, the confession, the departure, Tara sent Steve a text that said the truest thing she would ever tell him about the jet.
+Months after the landing, after everything that would happen in the North Beach townhouse, the poisoning, the confession, the departure, Tara sent Steve a text that said the truest thing she would ever tell him about the jet.
 
 <div class="evidence-embed embed-pull-quote" data-exhibit="TEXT_TARA_HINDSIGHT_ADMISSION">
   <div class="embed-header">
@@ -3404,7 +3370,7 @@ Two members of the Israeli security team lived nearby. Close enough to be availa
   <img src="../Evidence/photos/evie_books/book_1/EB1_p105.jpg" alt="Diptych — LEFT: Steve in Nordic sweater kissing newborn Evie. RIGHT: Steve asleep on sofa with baby Evie in pink stripes on his chest." loading="lazy">
   <div class="photo-card-caption">
     <span class="embed-exhibit-id">Evie Story Book 1, p. 105</span>
-    <span class="embed-caption-text">Valentine's Day, 2018. The father the court called dangerous.</span>
+    <span class="embed-caption-text">Valentine's Day, 2018. Seven months later, he could see her only under supervision.</span>
   </div>
 </div>
 
@@ -3770,9 +3736,8 @@ In the fall of 2018, the case sat in the system, and the building leaned, and bo
 
 Tags: Abby Tedla, Discovery, Narrative Inversion, Poisoning, San Francisco, Tara Walsh
 
-Selected evidence references: 5
+Selected evidence references: 4
   - EMAIL_9330
-  - ExI_03
   - EMAIL_9755
   - EMAIL_9243
   - SLE-096
@@ -3809,7 +3774,7 @@ He called his security team.
 Tara was present. She was at the event. And she was recording.
 
 
-The recording captured the episode as it unfolded: the redness, the confusion, Steve standing and moving toward the exit. What the phone's camera recorded—what Tara would have seen on the screen as she filmed—was a man responding to something exterior: a man whose body was reacting to something in the wine or the food or the room itself, something she had access to, something his body registered before his mind could name it. The frame was steady enough. The documentation was clear. What the camera appeared to document was a medical crisis; what it actually documented was a woman aiming a phone at a man who was responding to something she had arranged.
+The recording captured the episode as it unfolded: the redness, the confusion, Steve standing and moving toward the exit. What the phone's camera recorded—what Tara would have seen on the screen as she filmed—was a man responding to something exterior: a man whose body was reacting to something in the wine or the food or the room itself, something she had access to, something his body registered before his mind could name it. The frame was steady enough. The documentation was clear. What the camera appeared to document was a medical crisis; it also documented a woman aiming a phone at a man in the middle of one.
 
 Tara texted multiple people while the episode was happening. The texts described what she was seeing. They went out in real time.
 
@@ -3820,41 +3785,23 @@ But in the car, moving through the city, Steve recognized the feeling. They were
 
 He knew this sensation. Not from poison. Not from drugs. From exercise supplements. Niacin. A B vitamin that, in high doses, causes exactly this, the flushing, the redness, the heat, the racing heart. It is temporary. It is terrifying to someone who doesn't know what it is. The redness pattern was identical. In a supplement capsule, taken deliberately, the flush lasted twenty minutes and was merely unpleasant. In a drink, unannounced, it was indistinguishable from a medical emergency.
 
-<div class="evidence-embed embed-document" data-exhibit="ExI_03">
-  <div class="embed-header">
-      <span class="embed-type">Laboratory Report</span>
-      <span class="embed-source">Scientific Analysis</span>
-  </div>
-  <div class="embed-body">
-    <div class="document-text">
-      <p><strong>Patient:</strong> Stephen Russell Per M. Hatcher | <strong>Specimen Type:</strong> Urine</p>
-      <p><strong>Collected:</strong> 03/07/2018 | <strong>Received:</strong> 03/09/2018 4:52 PM</p>
-      <p><strong>Final Result Summary:</strong></p>
-      <p>Carboxyzolpidem detected by LC/MS/MS (2360 ng/mL)<br>Zolpidem detected by LC/MS/MS (1 ng/mL)</p>
-    </div>
-  </div>
-  <div class="embed-caption">
-    <span class="embed-exhibit-id">Redwood Toxicology Drug Screen, March 7, 2018</span>
-    <span class="embed-caption-text">Zolpidem and Carboxyzolpidem detected. Collected the night of the niacin flush. The body was keeping its own record.</span>
-  </div>
-</div>
 
-He told the driver to turn around.
+They reached the hospital, but he turned around before he was seen.
 
-They did not go to the hospital. The flush subsided over the next hour. The redness faded. The heart rate normalized. By the time they reached the Millennium Tower, Steve looked and felt approximately normal.
+The flush subsided over the next hour. The redness faded. The heart rate normalized. By the time they reached the Millennium Tower, Steve looked and felt approximately normal.
 
 But the recording existed. The texts existed. The next day, Tara emailed the videos to Matan Gavish with two words:
 
 > "Listen. Save."
 > — Tara Walsh, email to Matan Gavish (April 2018)
 
-Tara had not caused the flush. Or she had. The mechanism was unclear, niacin could have been in the wine or in the food or in the glass before either was poured. Steve did not know.
+The mechanism was never established: niacin could have been in the wine or in the food or in the glass before either was poured. Steve did not know which.
 
 What he knew was that the episode had been documented. And the documentation had been distributed. And that this was not the first time his body had registered something that should not have been there.
 
 Months passed. The pattern that had revealed itself only when Steve began searching backward through the synced backups, digging through years of photographs, looking for the moment something had shifted, presented itself in the archive: a conversation between Tara and her sister about a doctor prescribing lithium.
 
-Four and a half months later, Steve sent an email to Sergeant Brendan Caraway at the San Francisco Police Department, his family law attorneys, and, blind-copied, Dr. Gopal. The email described what he had found while preparing for court: a March 2017 urine result he described as six times the reference range. The specimen was collected after provocation; the lab’s printed intervals were for non-provoked populations, and its commentary called the result unexpectedly high. He had never taken lithium. He had never been prescribed lithium. He had asked Tara at the time and she had denied access to any. Now, going through synced family photos, he found a fragment of a conversation between Tara and her twelve-year-old sister Kiara, discussing Dr. Faedda, the family psychiatrist, providing lithium scripts to the mother and now to the child.
+On July 23, 2018, Steve sent an email to Sergeant Brendan Caraway at the San Francisco Police Department, his family law attorneys, and, blind-copied, Dr. Gopal. The email described what he had found while preparing for court: a March 2017 urine result he described as six times the reference range. The specimen was collected after provocation; the lab’s printed intervals were for non-provoked populations, and its commentary called the result unexpectedly high. He had never taken lithium. He had never been prescribed lithium. He had asked Tara at the time and she had denied access to any. Now, going through synced family photos, he found a fragment of a conversation between Tara and her twelve-year-old sister Kiara, discussing Dr. Faedda, the family psychiatrist, providing lithium scripts to the mother and now to the child.
 
 <div class="email-facsimile" data-exhibit="EMAIL_9330">
   <div class="email-header">
@@ -4086,6 +4033,8 @@ Weeks later, when Tara filed her sworn response to Steve's domestic violence res
 </div>
 
 
+Three and a half years later, a jury heard her account and found it was battery. Affirming in 2023, the Court of Appeal held that his lack of consent followed from the testimony "that he was ignorant of Walsh's conduct and panicked upon feeling the drug's effects."
+
 In Tara's sworn version, the number was two. Two incidents. Both in May 2018. Both during "psychotic episodes" where Steve was "clearly out of touch with reality." The nanny had helped. The security guard had helped. That was not Abby's account at the August 29, 2018 hearing. Asked whether she had ever assisted Tara in putting the drug into Steve's alcoholic drink, Abby answered: "No." Asked whether Steve had been threatening her, Tara or anyone else in the room just before the drug was administered: "No." Asked whether she had been concerned for her safety: "No, I was not concerned."
 
 But the text to Dr. Gopal said "sometimes." The admission to Dan and Abby said "all the time." And in February 2020, in an email to Steve's attorneys proposing settlement, Tara would write: "The two times I have openly admitted to putting Seroquel in his wine, Steve was not even working." The confession that began as "all the time" had become "twice." The woman who had crushed pills into powder and dissolved them in red wine was asking what damages he could possibly have suffered.
@@ -4147,9 +4096,9 @@ The kitchen was quiet again.
 
 ---
 
-# [B22] "You Almost Made Me Abandon Our Daughter"
+# [B22] "You Almost Made Me Leave My Daughter"
 
-> A message arrives from Tara. Dramatic, accusatory, the kind of thing she sends often enough that it reads like noise. The phrase about abandoning their daughter is a warning. Steve doesn't recognize it yet.
+> A message arrives from Tara. Dramatic, accusatory, the kind of thing she sends often enough that it reads like noise. The phrase about leaving her daughter is a warning. Steve doesn't recognize it yet.
 
 **Phase III | The Crime | May 2018**
 
@@ -4270,7 +4219,7 @@ The antipsychotic medication Tara had been crushing into Steve's wine, the drug 
 
 The scheme was circular. The drug created the symptoms. The symptoms became the evidence. The evidence supported the narrative. The narrative justified the drug. And the bruises the drug left on Steve's body became the bruises Tara told the court he had put on hers.
 
-Two months before the kitchen disclosure, on March 8, Tara had gone to Steve's bedroom and stabbed his phone with a knife sharpener. The next day, March 9, 2018, at 6:23 PM, she sent an email from her Vital Branding account to Matan Gavish. The subject line: "Keep these important." Attached: photographs, sent from her iPhone. Matan replied at 3:26 PM: "Okay."
+Two months before the kitchen disclosure, on March 8, Tara had stood over the butcher block in the kitchen and stabbed his phone with a knife sharpener. The next day, March 9, 2018, at 6:23 PM, she sent an email from her Vital Branding account to Matan Gavish. The subject line: "Keep these important." Attached: photographs, sent from her iPhone. Matan replied: "Okay."
 
 The photographs were not introduced as evidence in any proceeding. The police report was never filed. The bruise narrative survived without the bruises because the narrative did not need them, it only needed to be told. The accusation was the evidence. The repetition was the proof. And the drug that created the real bruises on Steve's body, the ones his doctor could see but not explain, continued to be administered by the woman who was simultaneously telling people he was the one causing harm.
 
@@ -4291,7 +4240,9 @@ The photographs were not introduced as evidence in any proceeding. The police re
 
 Four years later, in a courtroom in Westchester, Tara would deliver the version that survived: Steve had broken her phone. Smashed her around the kitchen. Banged her against walls. Bruises all over her body. She wanted to call the police but the security guards told her not to. She ran into the bedroom with Evie and locked the door.
 
-The retired police officer who had been in the adjacent apartment, who had watched Tara push Steve, kick his shin, who had confirmed under oath that Steve was calm and nothing aggressive, was not present in the Westchester courtroom. No one in the Westchester courtroom heard from Patrick Williams. No one heard from Bryan Crutcher. No one heard from Abby Tedla. The court that heard the bruises story never heard from the people who had been in the apartment. It heard from the person who had not been there.
+The judge called the hearing an inquest. She went ahead because Steve had not appeared, and she refused his lawyer's request that he take part by telephone or video: he "needs to be here, in person, and under control," she said, "so that I can be sure he's not recording." His lawyer cross-examined Tara; no witness was called for Steve. The Appellate Division later held that the order that followed was not entered on his default, because his lawyer had appeared and taken part.
+
+The retired police officer who had been in the adjacent apartment, who had watched Tara push Steve, kick his shin, who had confirmed under oath that Steve was calm and nothing aggressive, was not present in the Westchester courtroom. No one in the Westchester courtroom heard from Patrick Williams. No one heard from Bryan Crutcher. No one heard from Abby Tedla. The court that heard the bruises story never heard from the other people who had been in the apartment. It heard only from Tara.
 
 ---
 
@@ -4333,9 +4284,9 @@ Steve had been reading Tara's messages for years. He knew the cadence: the emoti
 
 One message was different.
 
-It arrived on a Tuesday. It was long, the kind of message Tara sent when her grievances had accumulated past the capacity of a single sentence. It moved through complaints about him, about the apartment, about the situation, about money, about the security team. Words piled on words the way they always did, each clause carrying the specific weight of someone who has decided that the volume of the complaint is more important than its precision.
+It arrived in May. It was long, the kind of message Tara sent when her grievances had accumulated past the capacity of a single sentence. It moved through complaints about him, about the apartment, about the situation, about money, about the security team. Words piled on words the way they always did, each clause carrying the specific weight of someone who has decided that the volume of the complaint is more important than its precision.
 
-Buried in the middle, a sentence:
+At the end, a sentence:
 
 <div class="evidence-embed embed-document" data-exhibit="SLE-094" data-type="blog-archive">
   <div class="embed-header">
@@ -4345,20 +4296,20 @@ Buried in the middle, a sentence:
   </div>
   <div class="embed-body">
     <div class="document-text">
-      <blockquote><p>"You almost made me abandon our daughter."</p></blockquote>
+      <blockquote><p>"You almost made me leave my daughter- I love here more than myself I would do anything for her"</p></blockquote>
     </div>
   </div>
   <div class="embed-caption">
-    <span class="embed-exhibit-id">Tara Walsh text to Steve Russell, May 2018</span>
-    <span class="embed-caption-text">It was not theater. It was a plan. StevieLovesEvie, Aunt K.</span>
+    <span class="embed-exhibit-id">Tara Walsh to Steve Russell, May 2018, as archived by Aunt K</span>
+    <span class="embed-caption-text">The archived image shows the message without a date or sender line; the blog attributes it to Tara, sent on the drive home after she was talked out of flying to New York.</span>
   </div>
 </div>
 
-*You almost made me abandon our daughter.*
+*You almost made me leave my daughter.*
 
 He read the sentence twice. His hands went very still. The words registered in the body before the mind could process them — the slight acceleration in the chest, the way the eyes wanted to stop moving, to hold the sentence in place. The body reading what the sentence meant before the conscious mind could catch up.
 
-The sentence was dramatic in the way Tara's sentences were always dramatic, weighted with accusation, structured to make the listener responsible for whatever Tara was about to do. The word "almost" suggested restraint. The word "abandon" suggested sacrifice. The construction of the sentence, "you made me," was the grammar of every message she had ever sent: whatever I do, you caused it. Whatever happens next, it is your fault.
+The sentence was dramatic in the way Tara's sentences were always dramatic, weighted with accusation, structured to make the listener responsible for whatever Tara was about to do. The word "almost" suggested restraint. The construction of the sentence, "you made me," was the grammar of every message she had ever sent: whatever I do, you caused it. Whatever happens next, it is your fault.
 
 Steve had heard this grammar before. He had heard it when she threw the wine bottle. He had heard it when she claimed he had frightened her with a gun that did not exist. He had heard it when she explained that she put Seroquel in his wine because he "wouldn't be crazy" without it. The language of blame was the language of the household, and Steve had lived inside it long enough that the sentences had lost their ability to make him stop.
 
@@ -4370,7 +4321,7 @@ Evie made a sound in the next room, the small, contented sound of a baby who is 
 
 Steve went to see his daughter.
 
-The message sat on the counter where he had left it. The screen dimmed, then went dark. The sentence — *you almost made me abandon our daughter* — remained inside the phone the way all of Tara's sentences remained inside the phone, indistinguishable from the hundreds of messages that had come before it, carrying no more weight than any of the others.
+The message sat on the counter where he had left it. The screen dimmed, then went dark. The sentence — *you almost made me leave my daughter* — remained inside the phone the way all of Tara's sentences remained inside the phone, indistinguishable from the hundreds of messages that had come before it, carrying no more weight than any of the others.
 
 It was not theater. It was a plan.
 
@@ -4378,13 +4329,13 @@ It was not theater. It was a plan.
 
 # [B23] The Uber
 
-> Three months before the departure, Tara texts a friend asking to be kidnapped. On June 4, 2018, she walks out with Evie and calls an Uber to a bus zone. Bryan Crutcher enters the front passenger seat. The recording captures everything — including Tara telling her father that police will arrest her for poisoning Steve. Walsh Sr. tells her to come home. Then agrees to conditions he later admits, under oath, he was never genuine about. Tara flies to New York and never returns.
+> Three months before the departure, Tara texts a friend asking to be kidnapped. On June 4, 2018, she walks out with Evie and calls an Uber to a bus zone. Bryan Crutcher enters the front passenger seat. The recording captures everything — including Tara telling her father that police will arrest her for poisoning Steve. Walsh Sr. tells her to come home. Four days later he agrees to the conditions for a visit to New York. Tara flies there with Evie and never returns; under oath, she later admits she lied about coming back.
 
 **Phase IV | The Flight | June 4, 2018**
 
 Tags: Bryan Crutcher, Custody, Escalation, Evie, Family System, Jesse, Matan Gavish, Maura Walsh, Millennium Tower, Tara Walsh, Text Messages, Walsh Sr.
 
-Selected evidence references: 21
+Selected evidence references: 22
   - ExMM_UBER_04
   - LEGAL-CRUTCHER-UBER-SFPD
   - DOCX_HYMOWITZ_DISCREPANCIES
@@ -4396,6 +4347,7 @@ Selected evidence references: 21
   - MSG-MATAN-005
   - F-013
   - PDF_INCIDENT_REPORT_180415167
+  - ExQQ_01
   - ExB_02
   - ExMM_UBER_03
   - ExMM_UBER_05
@@ -4531,11 +4483,11 @@ Walsh Sr. replied that day.
   </div>
 </div>
 
-The next day, Walsh followed up: "Yes I'll talk to her, will be in touch."
+The next day, Steve thanked him for agreeing and asked him to get Tara to send a short note acknowledging the conditions. She had agreed verbally, Steve wrote, but it was important for her to have something in writing, so she would not be in violation of the restraining order. Walsh replied: "Yes I'll talk to her - will be in touch."
 
-Steve asked Walsh to get Tara to send a short note acknowledging the conditions in writing, so she would not be in violation of the restraining order. Walsh said he would talk to her. No written acknowledgment ever came.
+A few days later, Tara sent Steve a text. Steve told his attorney he thought it was sufficient; he did not want to be provocative.
 
-Three years later, under oath at his deposition on April 26, 2021, Walsh Sr. was asked about this exchange, the emails where he thanked Steve Russell for "timely updates" and expressed appreciation for his "flexibility," all while believing none of it. His testimony:
+Three years later, under oath at his deposition on April 26, 2021, Walsh Sr. was shown the texts he had exchanged with Steve in 2018. In one of them he had written: "Excellent. Thank you Steve, we appreciate your assistance and understanding. And thank you for the timely updates." He testified that he had taken "both sides with a grain of salt," that he "certainly didn't take Stephen Russell's correspondences as — as factual or accurate either," and that he never told Steve so. His testimony:
 
 <div class="court-facsimile" data-exhibit="ExQQ_01c">
   <div class="court-header">
@@ -4545,22 +4497,53 @@ Three years later, under oath at his deposition on April 26, 2021, Walsh Sr. was
   </div>
   <div class="witness-block">
     <div class="witness-name">STEPHEN WALSH SR., Deponent</div>
-    <p>"I would say I was not entirely genuine."</p>
-    <div class="qa-pair">
-      <div class="question">Q: [Asked why he responded warmly to communications he did not believe were factual or accurate]</div>
-      <div class="answer">A: "To kind of defray the situation and — and make sure that Tara and the baby were safe and keep the lines of communication open for that purpose."</div>
+    <div class="court-qa">
+      <div class="qa-line">
+        <span class="qa-label">Q:</span>
+        <span class="qa-text">Would you say you were not being genuine when you thanked Steve Russell for the timely updates then?</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">I would say —</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">MR. MOORE:</span>
+        <span class="qa-text">Objection —</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">— I — I would be less than 100 percent genuine, yes.</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">Q:</span>
+        <span class="qa-text">And what was your reason for responding to Steve Russell in that way?</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">To kind of defray the situation and — and make sure that Tara and the baby were safe and keep the lines of communication open for that purpose.</span>
+      </div>
     </div>
-    <div class="qa-pair">
-      <div class="answer">A: "I would — I would — I would humor him because I — I — you know, I viewed him as unstable and dangerous."</div>
+    <p style="margin: 1em 0; font-style: italic; color: #8a8070; font-size: 0.92em;">[ . . . intervening passages omitted . . . ]</p>
+    <div class="court-qa">
+      <div class="qa-line">
+        <span class="qa-label">Q:</span>
+        <span class="qa-text">And — sorry. This same text message, you state that — you texted Steve Russell, &ldquo;Hopefully some solutions exist.&rdquo; What did you mean by that?</span>
+      </div>
+      <div class="qa-line">
+        <span class="qa-label">A:</span>
+        <span class="qa-text">I — I don&rsquo;t know. I don&rsquo;t know. Again, in — in many of these interactions and — and correspondences, I would — I would — I would humor him because I — I — you know, I viewed him as unstable and dangerous.</span>
+      </div>
     </div>
   </div>
   <div class="court-caption">
     <span class="embed-exhibit-id">Stephen Walsh Sr. Deposition, April 26, 2021</span>
-    <span class="embed-caption-text">Sworn under oath. The man who wrote "I appreciate your flexibility Steve" admitted he meant none of it.</span>
+    <span class="embed-caption-text">Sworn testimony. Printed pages 49&ndash;50 and 67, in transcript order; omissions marked; hesitations as transcribed. The questions concern texts he exchanged with Steve in 2018. The other deposition passages quoted in this chapter are in the <a href="../Evidence/pdf/depositions/ExQQ_01_Stephen_Walsh_Deposition_Apr2021.pdf">full transcript</a>.</span>
   </div>
 </div>
 
-The agreement was a production. Walsh Sr. knew when he wrote "works for us" that it did not work for them. He knew the conditions would not be honored, that the two-to-three-week visit would become a permanent relocation. He admitted this under oath. He used the word *humor.* He said he was managing a man he considered unstable — not by confronting him, not by calling the police, not by filing a protective order — but by writing warm emails and agreeing to conditions he had no intention of enforcing.
+He used the word *humor.* In the same string of texts, Steve had written that the first order of business was to get Tara to agree to let her father act as her advocate, and Walsh Sr. had answered: "I agree — let me know how and when I need to be involved." Asked whether that answer had been genuine, or whether he was "again humoring him," he said: "I was not — I would say I was not entirely genuine. And again, I — I was trying to defray what — what I viewed as a caustic situation."
+
+He read aloud another of his texts: "Steve — I'm very happy to hear she'll be coming to visit — we are all very excited about seeing Evie — all set up at our house to accommodate." Asked whether he had confirmed that Tara and Evie were going to New York for a visit only, and would return to San Francisco, he said: "No, that's not accurate." Whether Tara came to New York, he said, was her decision. He testified that he had "no idea that there was any restraining order." The email he had answered with "works for us" was titled "Restraining Order and Vacation to New York." Asked whether he had lied to make Steve believe he was encouraging her return to San Francisco, he said: "I didn't lie about anything."
 
 ---
 
@@ -4642,21 +4625,21 @@ She had provided Bryan Crutcher's team with a copy of a round-trip ticket showin
 
 By June 22, it was clear she was not. Steve's conversations with Tara made it plain: she was staying in New York, she was not returning with their daughter, and the conditions of the agreement were not going to be honored. On June 25, she emailed the Millennium Tower concierge asking to be removed from building notifications. She would no longer be staying there.
 
-Steve texted Walsh Sr. The reply he received reframed the entire history. Walsh Sr. told Steve that Tara had gone to San Francisco "against our wishes" and that they were "disappointed and angry with her for going out there in the first place." The patriarch who had written "works for us" four days before the departure now positioned himself as having opposed the trip. The father who told his daughter to come home from the Uber now pretended he had been against her going to California at all.
+Steve had kept writing to Walsh Sr. On June 20, he reminded him that the permission had been conditioned on a visit of two to three weeks and a return home to California, offered to extend her time in New York if Tara would agree in writing to the other conditions, and told him that Tara had said she might ignore the restraining order and try to establish residency for herself and Evie in Brooklyn. Walsh Sr. answered: "Understood Steve - I have advised her to stick to the original plan/agreement." Under oath three years later, he could not say what he had meant: "I — I have no idea what — what — what I was referring to there." By then he said Tara had gone to San Francisco "against our wishes." He testified: "I never — I never wanted her to go to San Francisco." The father who told his daughter to come home from the Uber, and who had written "works for us" the day before the departure, now positioned himself as having opposed her going to San Francisco at all.
 
 ---
 
 Years later, at the Battery trial in San Francisco, Tara was asked under oath about the vacation agreement and her departure.
 
-Her testimony was two sentences: "I lied... I had no intention to come back."
+On February 16, 2022, Steve's lawyer put it to her that all Steve had wanted was an assurance that she would bring Evie back in a few weeks. She answered: "He did, but I was willing to lie — say anything to him just to get out of there. So I will admit I lied to him about that. I had no intentions of coming back, but that was the only way I could get out of there."
 
-She said it plainly. The woman who had agreed to conditions, whose father had written "works for us," who had shown the security team a round-trip ticket and asked them to watch her dogs, she acknowledged, under oath, that every element of the vacation agreement was a deception. The conditions were theater. The return ticket was a prop. The dogs were a detail that made the performance believable.
+She said it plainly. The woman who had agreed to the conditions, whose father had written "works for us," who had shown the security team a round-trip ticket and asked them to watch her dogs, acknowledged under oath that she had lied about coming back.
 
-The Uber recording captured the first attempt — the moment the mask slipped, when Tara told her father on a recorded line that police would arrest her for poisoning Steve and he told her to come home. The vacation agreement was the second attempt, five days later, the one that worked, because this time the departure was dressed in the language of cooperation and signed off by a father who would later describe his own agreement as not entirely genuine.
+The Uber recording captured the first attempt — the moment the mask slipped, when Tara told her father on a recorded line that police would arrest her for poisoning Steve and he told her to come home. The vacation agreement was the second attempt, five days later, the one that worked, because this time the departure was dressed in the language of cooperation and signed off by a father who would later call one of his own written agreements with Steve "not entirely genuine."
 
 The Uber driver had been certain she understood the situation. A woman in distress. A man who wouldn't leave her alone. A baby caught in the middle. She spent the ride coaching Tara not to mention mental health issues and advising her on how to handle being served at the airport. She had no way of knowing that the woman she was helping had, three months earlier, texted a friend at 11:56 on a Friday night: "Maybe you can kidnap me and Evie so we don't have to leave."
 
-She didn't need Matan to kidnap her. She needed an Uber to the airport, a father who would say "works for us" while meaning something else entirely, and a family system that would spend the next four years insisting the departure was a rescue.
+She didn't need Matan to kidnap her. She needed an Uber to the airport, a father who would say "works for us" and later testify that in many of his exchanges with Steve he would "humor him," and a family system that would spend the next four years insisting the departure was a rescue.
 
 The recording answered that question on June 4, 2018. It took the courts until January 2022 to hear it.
 
@@ -4718,11 +4701,11 @@ She asked the question that would determine the next four years of Steve's life:
 
 "Is anyone objecting to this Court having jurisdiction? If you do object, then I'll set it down for an evidentiary hearing, but do you really want to spend time doing that?"
 
-The question offered both paths as though they were equivalent. Steve's attorney, Jason Advocate, asked for a moment to speak with his client. The calculation was this: challenge New York jurisdiction and potentially spend months in procedural litigation while Evie remained at the Walsh compound in Chappaqua, unreachable. Or accept jurisdiction, surrender California's courts, its public record, and see his daughter now.
+The question offered a hearing and, in the same sentence, asked whether anyone really wanted to spend the time on one. Steve's attorney, Jason Advocate, asked for a moment to speak with his client. The calculation, as Steve weighed it, was this: challenge New York jurisdiction and potentially spend months in procedural litigation while Evie remained at the Walsh compound in Chappaqua and his time with her stayed short and supervised. Or accept jurisdiction, give up California's courts on custody, and move sooner toward ordinary time with his daughter.
 
 Steve chose Evie.
 
-The choice had cost something: Steve was giving up his challenge to New York deciding custody. The California civil battery case was a separate proceeding; accepting New York custody jurisdiction did not surrender that case or its later jury trial. To keep that court would have meant losing months of the small hours with his daughter, all the days of infancy that do not return. He made the choice knowing it. He accepted New York jurisdiction over custody. The case would be decided in White Plains by a judge who later recused herself.
+The choice had cost something: Steve was giving up his challenge to New York deciding custody. The California civil battery case was a separate proceeding; accepting New York custody jurisdiction did not surrender that case or its later jury trial. As Steve saw it, keeping that court would have meant months more of short, supervised visits, the small hours of his daughter's infancy that do not return. When the case was called again that afternoon, his lawyer first offered to drop the objection if Steve could have more time with her: overnights, with his mother and the nanny in a house rented near the Walshes. The attorney for the child said there were "serious safety concern issues" and that anything more, without a report to the court, would jeopardize the child's safety. The judge declined the trade — "it's really not a deal for me" — saying the jurisdiction hearing could stay on. His lawyer answered that Steve was still willing to drop the objection, and asked to come back in about three weeks, if the supervisor's reports were good, to seek unsupervised time. The supervision, he told the court, rested "to a large extent" on "uncorroborated allegations"; no evidentiary basis had been established, and there had been no trial on the issue. The judge made no promises, and she would not order overnights for a seven-month-old: "It's not because of this dad before me," she said. He accepted New York jurisdiction over custody. The case would be decided in White Plains by a judge who later recused herself.
 
 ---
 
@@ -4820,25 +4803,25 @@ On September 11, the attorneys convened before Judge Gordon-Oliver.
 
 The hearing transcript reveals the court Steve had entered. His attorney, Chestnut, explained that Walsh Sr. had expressed "disdain" for Steve and refused to supervise. Tara's attorney, Antoncic, told the judge that Steve had "shown up and expected everyone to drop everything." The judge agreed: "That's how I feel, to be honest with you."
 
-The court's concern was not with what had happened at the visit, the grandmother's refusal, the child's distress, the tears at the sight of Maura. The court's concern was procedure. Steve had arranged a visit through a stipulation rather than filing an emergency access request. "That's not how we do emergencies in this Court."
+The court's concern was not with what had happened at the visit, the grandmother's refusal, the child's distress, the tears at the sight of Maura. The court's concern was procedure. The judge said a breakdown should have come to her as an emergency access request: "Emergency access is always the way to go." When Tara's lawyer acknowledged that Chestnut had asked for a telephone conference, the judge said that was not "how we do emergencies in this Court."
 
-Steve's attorney tried to explain: "His number one priority is to see this child."
+Steve's attorney had already told the court: "His number one priority is to see this child."
 
-The judge appointed a supervisor. She said the name quickly, as if it had been waiting on the tip of her tongue: Delia Farquharson.
+Earlier that afternoon, before the jurisdiction question, the court had settled supervision. The judge would not accept Steve's nanny as the supervisor because Steve paid her. Steve's lawyer asked that whoever supervised also observe Tara's household; the judge agreed "100 percent," and Tara's lawyer did not object. The judge said she was thinking of an individual supervisor rather than an agency, and proposed Delia Farquharson.
 
-The Attorney for the Child — a court-appointed lawyer whose sole obligation is to represent the child's interests, independent of either parent — Jennifer Jackman, agreed immediately. She had a name ready too.
+Jennifer Jackman was already the attorney for the child — a court-appointed lawyer whose obligation is to represent the child's interests, independent of either parent. Asked by Steve's lawyer whether she had any suggestions, she said no. When the judge proposed Farquharson, she agreed.
 
 Jackman had spent five years in the Bronx prosecuting child abuse cases, not as a private attorney but as Special Assistant Corporation Counsel for the city's child welfare agency, the person who stood in Family Court and presented evidence that children were being harmed and asked judges to act on it. She had conducted numerous trials and hearings. She had seen bruises. She had seen neglect. She had been trained to recognize abuse in all its forms and to document it with the particular rigor that the law requires before it will remove a child from a dangerous household.
 
 After the Bronx she had moved to Westchester, where the courtrooms were quieter and the families behind them were wealthier. She had served as court attorney to a Family Court judge, joined Miller Zeiderman, and landed on the Attorney for the Child panel. By a November 29 order, the appointment to Evie's case came with a fifteen-thousand-dollar retainer at four hundred dollars an hour. For five months of services she would seek an outstanding balance of forty-six thousand nine hundred and twenty dollars, after credited payments, representing a child who was approximately one year old.
 
-The appointment happened in minutes — the casual efficiency of a courthouse where certain people are always available and certain names are always suggested.
+Jackman's appointment had come earlier, from the State. Near the end of the first session, with the parties out of the room, she raised moving the case to private pay: both parties had private counsel, she said, and she believed Steve was "of significant means."
 
 ---
 
-The judge also addressed jurisdiction. After Steve accepted New York, the judge moved to the next concern: she wanted Tara to stay put. Steve's attorney had raised the possibility that Tara might leave the grandparents' home, that she might take Evie somewhere else, somewhere further from Steve's reach.
+Before the jurisdiction question there had been one more request, and it came from Steve's side. Steve's attorney had raised the possibility that Tara might leave the grandparents' home, that she might take Evie somewhere else, somewhere further from Steve's reach. He asked for an order that she not relocate without the court's authority, and repeated the request at the end of the day. The judge thought it a good idea, "just to make sure that there's status quo."
 
-The order was entered: the mother shall continue to reside with her parents and shall not relocate without court approval or written agreement of both parties.
+The written temporary order set out the arrangement. Steve's visits would be supervised by Farquharson at least three days a week, for at least two hours each; she would also observe Tara at her residence at least twice a week and send written reports to the court and counsel every two weeks. The parties would stay away from each other except at visit pickups and drop-offs, and communicate only about the child. The mother shall continue to reside with her parents and shall not relocate without court approval or written agreement of both parties. Tara would withdraw her temporary orders of protection in New York and her violation petitions, and Steve his order of protection in California and any violation petition he had. Steve would also tell the California police that he did not wish to press criminal charges against Tara; in court, Tara's lawyer had said she believed those charges were already dismissed but wanted the assurance as part of the agreement. And the parties consented to New York's jurisdiction. The order says what was agreed; it does not show what was later done.
 
 The order assumed that the Walsh compound was safe. It assumed that the grandparents were stable. It assumed that the family dynamics visible at Easter dinner, the controlled table, the performing children, the patriarch who counted change, were not themselves a form of confinement.
 
@@ -4866,13 +4849,13 @@ After this, the system would make it complicated.
 
 # [B25] A Special Relationship
 
-> The court appoints a supervisor who promises integrity and transparency. She meets privately with Tara before the first visit, invites her to attend in violation of the court order, dismisses Steve's concerns about being poisoned, and tells him she has a special relationship with the judge. She charges $250 an hour. The judge who appointed her later admits on the record that she wanted Steve to die on his own sword.
+> The court appoints a supervisor who promises integrity and transparency. She meets privately with Tara before the first visit, invites her to attend in violation of the court order, dismisses Steve's concerns about being poisoned, and tells him she has a special relationship with the judge. She charges $250 an hour. The judge who appointed her later says on the record that she never wanted Tara at the visits and wanted Steve to die on his own sword, so the court would know.
 
 **Phase V | The Cover | October–November 2018**
 
 Tags: Abby Tedla, Chappaqua, Corruption, Custody, Delia Farquharson, Elias Gootzeit, Evie, Family System, Jason Advocate, Jennifer Jackman, Judge Gordon-Oliver, Katherine Chestnut, Maura Walsh, Mount Vernon, NY Family Court, Pontius Pilate, Supervised Visitation, Tara Knoll, Walsh Sr., Westchester
 
-Selected evidence references: 41
+Selected evidence references: 43
   - EB2_MASTER_033
   - EB2_MASTER_036
   - EB2_MASTER_026
@@ -4881,8 +4864,10 @@ Selected evidence references: 41
   - EB2_MASTER_011
   - EB2_MASTER_012
   - EB2_MASTER_027
+  - LEGAL-GORDONOLIVER-2018-10-23-SWORD-EXCERPT
   - EB3_MASTER_053
   - ExL_03
+  - ExTR_08
   - CF-014
   - DOC-006
   - DOC-007
@@ -4935,7 +4920,9 @@ The order was handwritten. Judge Gordon-Oliver's pen moved across the page in cl
 </div>
 
 
-Father shall have visitation with the child, supervised by Delia Farquharson, at a minimum of three days per week for at least two hours per visit. Ms. Farquharson shall also conduct visits and observations with the Mother at her residence at least two times per week. She will issue written reports every two weeks to the court and all counsel. The parties agree to stay away from each other except for pickup and drop-off.
+The parties agree that Father shall have visitation with the child, supervised by Delia Farquharson, at a minimum of three days per week for at least two hours per visit. Ms. Farquharson shall also conduct visits and observations with the Mother at her residence at least two times per week. She will issue written reports every two weeks to the court and all counsel. The parties agree to stay away from each other except for pickup and drop-off.
+
+The order was written as an agreement, and Steve's side had agreed to it, because it was the way to see his daughter while the case went on. At the September 11 hearing his attorney, Jason Advocate, asked for as many visits as the supervisor could do, for observations of Tara's household as well as Steve's, and for a household near Chappaqua with Steve's mother and his nanny, where he could have more time and overnights. He accepted supervision for a short period, so that reports could go back to the court, and asked to return in about three weeks for unsupervised access if the reports were favorable. There had been no trial, he argued, and no evidentiary basis established in court, only her unsubstantiated claims. The Attorney for the Child, citing safety concerns, opposed any more access before a report. The judge would promise nothing. She would not do overnights for so young a baby, she said, adding: "It's not because of this dad before me."
 
 The order contained provisions for balance, observation of both parents, written reports every two weeks, the machinery of accountability. It contained no mechanism to enforce any of it. No consequence for a supervisor who ignored its terms. No remedy for the parent who discovered the violation. No teeth.
 
@@ -4965,9 +4952,9 @@ She was also an elected member of the Mount Vernon City Council. She had run for
 </div>
 
 
-Judge Gordon-Oliver had suggested Farquharson by name at the September 11 hearing. Jennifer Jackman, the Attorney for the Child, had agreed immediately. The appointment happened in minutes. Farquharson was called, was available, and was ready to begin. The system had a name on the tip of its tongue, and the name was Delia. At the same hearing, the court ordered a substance abuse evaluation of the father — the man who had been drugged — and assigned it to Raymond Griffin, a credentialed counselor from White Plains whose name appeared on the court's roster of available evaluators the way Farquharson's had: immediately, without question, as if the roster had been waiting for the call.
+Judge Gordon-Oliver had suggested Farquharson by name at the September 11 hearing. Jennifer Jackman, the Attorney for the Child, had agreed immediately. Before the hearing ended, after a break in the record, Jackman reported that she had reached her: Farquharson could do two or three visits a week and could start immediately once there was an order. The system had a name on the tip of its tongue, and the name was Delia. At the same hearing, Tara's attorney asked for drug and substance abuse testing, saying Tara herself would agree to it; the testing agreed that day was of both parents, and Steve's attorney consented. The substance abuse evaluation of the father — the man who had been drugged — came later. The order assigning it to Raymond Griffin, a credentialed counselor from White Plains, was filed in early November and handed up for signature on November 29, presented by Tara's attorney as on consent.
 
-The court was now paying this woman, Columbia-educated, trauma specialist, foster care director, elected official, integrity-promising mayoral candidate, two hundred and fifty dollars per hour to supervise a father's contact with his daughter. Typical court-appointed supervisors in Westchester County charged approximately seventy-five dollars per hour. Steve was expected to pay. Three visits per week, two hours each: the minimum cost of supervised contact with his own daughter was fifteen hundred dollars per week. Six thousand per month. The arithmetic of access, charged to the person being denied it.
+The court had now put this woman, Columbia-educated, trauma specialist, foster care director, elected official, integrity-promising mayoral candidate, in charge of a father's contact with his daughter, at two hundred and fifty dollars per hour. Typical court-appointed supervisors in Westchester County charged approximately seventy-five dollars per hour. Steve was expected to pay. Three visits per week, two hours each: the minimum cost of supervised contact with his own daughter was fifteen hundred dollars per week. Six thousand per month. The arithmetic of access, charged to the person being denied it.
 
 ---
 
@@ -4998,7 +4985,7 @@ Farquharson dismissed his concerns.
   </div>
   <div class="embed-body">
     <img src="../Evidence/photos/evidence/Book2_033_documentexcerpt_brienne-blog-someone-wants-to-sue-me.jpg" alt="Russell Affidavit: 'Ms. Farquharson invited Tara to be present at the visitation and initially wanted the visit to be at Tara's parent's house. Not only do I believe that this is a violation of the Court's Orders, as Tara and I had mutually agreed in court to stay away from each other (except for pick-up and drop off), but having Tara present significantly impeded my visitation with my daughter as I am not comfortable being around Tara given that she has admitted to poisoning me with her medications when we lived together. When I tried to address my concerns with Ms. Farquharson, she quickly dismissed my concerns and said she had a special relationship with the Judge and could change the Court Order if she felt this might be better for Evie.'" loading="lazy">
-    <p class="photo-description">The father tells the court-appointed supervisor that the mother poisoned him. The supervisor tells the father she has a special relationship with the judge. The father puts this in an affidavit. No one acts on it.</p>
+    <p class="photo-description">The father tells the court-appointed supervisor that the mother poisoned him. The supervisor tells the father she has a special relationship with the judge. The father puts this in an affidavit.</p>
   </div>
   <div class="photo-card-caption">
     <span class="embed-exhibit-id">Russell Affidavit — Farquharson First Visit</span>
@@ -5009,9 +4996,9 @@ Farquharson dismissed his concerns.
 
 She said she had a special relationship with the Judge and could change the Court Order if she felt this might be better for Evie.
 
-The sentence is worth reading twice. The court-appointed supervisor, the person whose neutrality was the only check on a system that had already stripped a father of unsupervised contact with his child, told the father that her relationship with the judge was special, that the court order was flexible in her hands, and that she could alter it at her discretion.
+The sentence is worth reading twice. The court-appointed supervisor, the person whose neutrality was the only check on a system that already let a father see his child only under supervision, told the father that her relationship with the judge was special, that the court order was flexible in her hands, and that she could alter it at her discretion.
 
-Steve filed this in an affidavit. No one acted on it.
+Steve filed this in an affidavit. The supervision went on.
 
 ---
 
@@ -5047,6 +5034,8 @@ Steve filed a motion.
 
 The motion documented Farquharson's statement about her "special relationship with the judge," the private pre-visit meeting with Tara and Maura, the invitation for Tara to attend visits in violation of the court order, and the absence of any observation of the mother's household. He documented the billing: two hundred and fifty dollars per hour for supervision that violated its own terms. He refused to pay.
 
+On November 29, with Steve on the phone, the court took up the supervision. After a conference about a letter he had sent Farquharson, telling her, as the judge described it, that she would no longer be paid by him or be his supervisor, the judge kept supervised visits in place for both parents and told the lawyers and the Attorney for the Child to agree on a new supervisor. Advocate put on the record what he had argued for and been refused: to let go of the supervisor completely and have Steve supervised the way Tara was, by her parents or a nanny. Farquharson was gone. The supervision was not.
+
 Steve had rented a cottage in Chappaqua, a small house down the street from the Walsh compound, close enough to be present for visits, close enough that the transitions would be short for Evie. The cottage was white inside, with a chandelier over the kitchen, an orange throw on the sofa, a painting of birch trees on the wall. It was the kind of place a person rents when they are building a temporary life around a permanent priority.
 
 The proximity, a father living within walking distance of his daughter, was not received as devotion. The Walsh family was furious. They saw it as surveillance, as harassment, as an intolerable transgression of the boundary between Steve's world and theirs. The town of Chappaqua, designed for privacy, had accommodated the Walshes for decades. It was not designed for a father from California who refused to go away.
@@ -5059,7 +5048,7 @@ Farquharson was not an anomaly. She was an appointment. Her campaign materials w
 
 ---
 
-Years later, a transcript from a hearing before Judge Gordon-Oliver would surface in discovery. The judge was speaking to Tara's attorney, Antoncic. The subject was Steve's motions, his filings, his objections, his refusal to accept the system's terms without question.
+Years later, the transcript of an October 23, 2018 hearing before Judge Gordon-Oliver would surface in discovery. The subject was the first supervised visits, and the judge had wanted to see Steve with the baby alone. She was speaking to Tara's attorney, Antoncic.
 
 The judge said:
 
@@ -5067,16 +5056,16 @@ The judge said:
 <div class="court-facsimile" data-exhibit="EB2_MASTER_041">
   <div class="embed-header">
       <span class="embed-type">Court Transcript</span>
-      <span class="embed-date">2019</span>
+      <span class="embed-date">2018-10-23</span>
       <span class="embed-source">Westchester Family Court</span>
   </div>
   <div class="embed-body">
     <img src="../Evidence/photos/evidence/Book2_041_documentscreenshot_farquharson-afc-appointed.jpg" alt="Court transcript, lines 23-25. THE COURT: Counsel, I wanted Mr. Russell to die on his own sword. If he could die on his own sword -- MS. ANTONCIC: Understood." loading="lazy">
-    <p class="photo-description">A judge tells an attorney — on the record — that her strategy for the father was to let him destroy himself. The attorney for the woman who poisoned him responds with a single word: "Understood."</p>
+    <p class="photo-description">October 23, 2018. Moments earlier, the judge had said of Tara, "I didn't want her there." Then this. The attorney for the woman who poisoned him responds with a single word: "Understood."</p>
   </div>
   <div class="photo-card-caption">
-    <span class="embed-exhibit-id">Gordon-Oliver — Court Transcript</span>
-    <span class="embed-caption-text">Hon. Arlene Gordon-Oliver &mdash; Court Transcript</span>
+    <span class="embed-exhibit-id">Gordon-Oliver — Hearing Transcript, October 23, 2018</span>
+    <span class="embed-caption-text">Hon. Arlene Gordon-Oliver &mdash; October 23, 2018, page 12, lines 23&ndash;25</span>
   </div>
 </div>
 
@@ -5085,19 +5074,27 @@ The judge said:
 
 "Understood," said Antoncic.
 
-The judge who had appointed Farquharson, who had suggested her by name, who had agreed immediately when the Attorney for the Child nodded, was telling Tara's attorney that her strategy for the father was to let him destroy himself. The father who had filed a motion documenting corruption. The father who had objected to his court-appointed supervisor meeting privately with the mother. The father who had refused to pay two hundred and fifty dollars an hour — though refusal, in a family court, is never merely refusal; it becomes the record — for visits designed to fail.
+"— then we would know."
 
-The sword the judge wanted him to die on was the system itself — the one she had built, the one she had staffed, the one she had funded with his money and observed through a supervisor who answered to her.
+"Understood," Antoncic said again.
 
-Evie was eleven months old. She was learning to pull herself up on furniture. She was beginning to make sounds that were almost words. She was doing these things inside the Walsh compound, behind the hedgerows, on the schedule the grandparents kept, in the household Brienne would later describe under oath. The system that surrounded her father was elaborate and expensive and it produced hearings and orders and billing disputes. It did not produce a single additional hour with his daughter.
+Just before, the judge had said of Tara: "I didn't want her there. I did not want her there. I wanted to see what would happen." Just after, she said the visit she wanted had not happened on day one, and so: "I don't know now whether or not dad's really capable or he's not capable. I don't know."
+
+To Steve, the judge who had appointed Farquharson, who had suggested her by name, whose suggestion the Attorney for the Child had taken at once, was telling Tara's attorney that her strategy for the father was to let him destroy himself. The father who had filed a motion documenting corruption. The father who had objected to his court-appointed supervisor meeting privately with the mother. The father who had refused to pay two hundred and fifty dollars an hour — though refusal, in a family court, is never merely refusal; it becomes the record — for visits designed to fail.
+
+In Steve's reading, the sword the judge wanted him to die on was the system itself — the one she had built, the one she had staffed, the one she had funded with his money and observed through a supervisor who answered to her.
+
+At the same hearing, the observation was set to run one way. Tara's attorney raised "the only other issue": whether Farquharson's continued supervision of her client was necessary. Her client was "absolutely willing to comply," she said. "It's just the fee issue." The judge answered: "My scanning of the report, Ms. Farquharson, I was anticipating, would say that mom is an appropriate person to be with the child. If there is an issue with payment, then I'm not going to have Ms. Farquharson supervise mom at this point. Just leave it alone. She's being supervised by her parents." Farquharson's supervision, the judge said, was now "just with dad only," with the nanny there if Steve wanted her. But Farquharson, she said, "needs to observe."
+
+By the end of that year, Evie was eleven months old. She was learning to pull herself up on furniture. She was beginning to make sounds that were almost words. She was doing these things inside the Walsh compound, behind the hedgerows, on the schedule the grandparents kept, in the household Brienne would later describe under oath. The system that surrounded her father was elaborate and expensive and it produced hearings and orders and billing disputes. It did not produce a single additional hour with his daughter.
 
 ---
 
 Farquharson would not be the last supervisor. She was the first of six. After her came others, each with their own complications, their own allegiances, their own reasons for not seeing what was in front of them. The supervision system that began in this Westchester courtroom would produce sixteen visits over the next year, conducted under six different supervisors, before ending permanently on a dark road in Chappaqua with two men in camouflage and what appeared to be baseball bats.
 
-The court appointed a supervisor. The supervisor met privately with one parent. The supervisor violated the court order. The father documented the violation. No one acted on it.
+The court appointed a supervisor. The supervisor met privately with one parent. The supervisor violated the court order. The father documented the violation. The supervision stayed.
 
-The woman who promised no backroom deals conducted one before the first visit began. The judge who appointed her wanted the father to die on his own sword. The attorney who represented the woman who poisoned him said: "Understood."
+The woman who promised no backroom deals conducted one before the first visit began. The judge who appointed her wanted the father to die on his own sword — "then we would know." The attorney who represented the woman who poisoned him said: "Understood."
 
 The system had a special relationship with someone. It was not with the father.
 
@@ -5105,7 +5102,7 @@ The system had a special relationship with someone. It was not with the father.
 
 # [B26] Sixteen Visits
 
-> Sixteen visits. Six supervisors. Every observer reports the same thing: Steve is attentive, Evie is happy. The supervisors keep changing. The reports keep disappearing. The visits stop for five months. The court grants sole custody anyway.
+> Sixteen visits. Six supervisors. Every observer reports the same thing: Steve is attentive, Evie is happy. The supervisors keep changing. The court declines to read a favorable report. The visits stop for five months. The court grants sole custody anyway.
 
 **Phase V | The Cover | January–September 2019**
 
@@ -5207,13 +5204,13 @@ Between the agency-assigned observers, the court added another name to the file.
 
 The Mount Vernon Exposed blog, run by the Black Political Caucus of Westchester, Inc., had published a post in 2014 naming both of them. The headline: "SCHOOL BOARD TRUSTEE SETS UP PHONY NON PROFIT TO FUNNEL FUNDS." Beneath the headline, their photographs. Beneath the photographs, the word CORRUPT in red capital letters. Gootzeit had founded the Mount Vernon Board Action Committee, a 501(c)(4), while serving as a sitting school board trustee. Farquharson had been appointed its president. The allegations were specific: funneling funds through the nonprofit to political candidates.
 
-Once was a bad appointment. The court that had stripped a father of unsupervised contact with his daughter was now staffing its supervision system with a second person from the same corruption investigation, named in the same blog post, photographed beside the same headline. The reader of that blog would have recognized the pattern. The court did not require its readers to check.
+Once was a bad appointment. The court that kept a father's visits with his daughter under supervision was now staffing its supervision system with a second person named in the same blog post, photographed beside the same headline. The reader of that blog would have recognized the pattern. The court did not require its readers to check.
 
 Six supervisors. One finding. Every observer in the room arrived independently at the same conclusion: this father was not dangerous to his child. This child was not afraid of her father. The supervised visit system — designed to detect precisely this kind of risk — found no risk at all.
 
 The reports said so.
 
-Then the reports began to disappear from the court file.
+On March 7, 2019, Judge Gordon-Oliver declined to read one of them. One of Steve's lawyers had sent the supervising agency's coordinator a background note on the case, copied to everyone, asking that the supervisor simply observe and draw no conclusions. Tara's new lawyer raised the note in court. Steve's lawyer objected that, the day after the note, the attorney for the child and Tara's previous lawyer had insisted on a conference call with the coordinator, without the parties. The attorney for the child said all the lawyers had agreed to that call and that it was about getting the visits started; Steve's lawyer said it had not been just about setting up a time. The judge did not treat the call as a violation. The note, she said, was a violation of her order. She agreed with Tara's lawyer that the supervisor was now tainted and ordered a new one, though she said she did not know what had been relayed to the supervisor. Steve's lawyers answered that the agency's report, which they called superb, contained none of the history. "I'm not reading it," the judge said. "I'm not letting it come in." She let the visits already scheduled for that week go ahead so that he could see his daughter.
 
 ---
 
@@ -5278,11 +5275,13 @@ No one else came down from the estate nearly a quarter-mile up the private road.
 
 She wrote her report to the court. A police report was filed. The officer told Steve he had warned Walsh Sr. not to be present at future pickups and dropoffs.
 
-Walsh Sr.'s response was to demand that his daughter file a Temporary Order of Protection — a court order restraining contact, issued on petition alone, without a hearing — against Steve, though she had not been present and was almost a quarter-mile away, her filing described events she had not witnessed, written in language her father provided. The court granted a temporary order. No hearing was ever held. Walsh Sr. refused to appear and corroborate the claims. The matter was left to expire.
+Walsh Sr.'s response was to demand that his daughter file for a Temporary Order of Protection — a court order restraining contact, issued on petition alone, without a hearing — against Steve, though she had not been present and was almost a quarter-mile away, and her filing described events she had not witnessed. She filed the petition on March 27, 2019, four days after the gate, with the assistance of the Pace Women's Justice Center. The court granted a temporary order the same day. Walsh Sr. refused to appear and corroborate the claims. Ten months later, on February 6, 2020, with Steve not in the room and no contested hearing before it, it became a two-year order of protection, entered on default.
 
-The campaign was not limited to the gates. Steve's credit cards had been sabotaged during this period — accounts compromised, transactions failing without explanation — and Aunt K had rented a car under her own name so they could get to court. A silver Toyota Highlander, Florida plates. On the morning of February 7, she walked out to the parking area at the Kittle House and found the front driver-side tire deflated. Not punctured. The tread was intact, no damage visible. The air had been let out.
+The campaign was not limited to the gates. Steve's credit cards had been sabotaged during this period — accounts compromised, transactions failing without explanation — and Aunt K had rented a car under her own name so they could get to court. A silver Toyota Highlander, Florida plates. On the morning of February 7, she went out to move it from the parking area at the Kittle House and found the front driver-side tire flat.
 
-She filed a police report. NC-001256-19. She told the officer she was reporting it "in case a pattern evolves." There were no cameras at the Kittle House lot. They took an Uber to court. Had Aunt K not checked the tire before leaving, Steve would have missed his hearing. The court that treated absence as forfeiture would have had another default to enter.
+They took an Uber to court. Had Aunt K not checked the tire before leaving, Steve might have missed his hearing, in the court that would later treat his absence as forfeiture.
+
+The rental went to a shop, which found that the tire had not been punctured but could not say how it had gone flat. There was no camera where the car had been parked overnight. Five weeks later, on March 13, she reported it to the New Castle police, NC-001256-19, so that it would be on record, the officer wrote, "in case a pattern evolves." The officer also wrote that nothing suggested malice.
 
 But the visits stopped.
 
@@ -5317,7 +5316,7 @@ The system that had produced six supervisors and sixteen visits and a unanimous 
   <div class="embed-description">Six months after the last visit. Tara writes that Delia Farquharson — the supervisor who had a "special relationship with the judge" — is "unable" to supervise. She suggests the YMCA. She adds: "I will also be as flexible as possible given you have not seen her for six months." Steve replies: "I am open [to] any signed written proposal you and Jennifer agree on." The visits never resumed.</div>
 </div>
 
-Farquharson, the corrupted supervisor from the previous chapter, was now "unable" to do it. Tara suggested the YMCA. Steve agreed to anything. The visits never resumed.
+Farquharson, the first supervisor from the previous chapter, was now "unable" to do it. Tara suggested the YMCA. Steve agreed to anything. The visits never resumed.
 
 ---
 
@@ -5331,7 +5330,7 @@ The court's response: "It happens once, it happens twice. Let's go three times. 
 
 DiFabio: "My client had no problem with the supervisors."
 
-The court entered a default — the legal mechanism by which a court treats absence as forfeiture, ruling against a party who did not appear as though silence were the same as concession. It awarded Tara sole legal and physical custody. It issued a two-year order of protection, expiring February 6, 2022, at a visitation conference rather than a contested custody trial. No testimony was taken. No supervisor reports were reviewed. No evidence was heard regarding the sixteen visits and what the six supervisors had observed.
+The court entered a default — the legal mechanism by which a court treats absence as forfeiture, ruling against a party who did not appear as though silence were the same as concession. It awarded Tara sole legal and physical custody. The proceeding opened as a conference. Tara was sworn and gave brief responses, while counsel argued; there was no completed examination of the competing visitation evidence in this transcript. Her counsel requested a two-year protection order. The located order upon default ends February 6, 2022. The court also continued supervised access at the Y or through an agreed individual or agency and directed that Steve receive information about major decisions concerning Evie.
 
 Then the court turned to Tara and offered advice about the father she had just been given sole control over.
 
@@ -5343,7 +5342,7 @@ Then the court turned to Tara and offered advice about the father she had just b
   </div>
 </div>
 
-Carrier pigeons. The court was instructing Tara Walsh — who had blocked visits for five months, cancelled visits citing fabricated health issues, directed Walsh Sr. to deny court-ordered access, arranged for a corrupted supervisor to be the first observer, and met privately with that supervisor before any visit occurred — to flood Steve with information.
+Carrier pigeons. The court was instructing Tara Walsh — who had blocked visits for five months, cancelled visits citing fabricated health issues, directed Walsh Sr. to deny court-ordered access, and met privately with the first supervisor before any visit occurred — to flood Steve with information.
 
 The court had six supervisor reports in its file. Each one said the same thing. Each one had been produced by a professional with no stake in the outcome, no prior relationship with either party, and no reason to misrepresent what they observed.
 
@@ -5485,7 +5484,7 @@ Two years later, under oath at her deposition in the California civil case, Maur
 
 ---
 
-A week passed. Steve learned something that reframed everything. Tara had also reported the bruises to Jennifer Jackman, the Attorney for the Child, the same day Steve had. Tara told Jackman that Evie returned from a visit with a big bruise on her shin that was not there when she left for the visit. Steve received the reframing in silence — the discovery that the woman who had created the bruises was preemptively reporting them as if Steve had created them, that the documentation he had carefully assembled was being weaponized by its predicate act. The vertigo of understanding that the child's body carried the evidence of harm and that same body was being used to point at the wrong person.
+A week passed. Steve learned something that reframed everything. Tara had also reported the bruises to Jennifer Jackman, the Attorney for the Child, the same day Steve had. Tara told Jackman that Evie returned from a visit with a big bruise on her shin that was not there when she left for the visit. Steve received the reframing in silence — the discovery that Tara was preemptively reporting the bruises as if Steve had caused them, that the documentation he had carefully assembled was being turned against him. The vertigo of understanding that the child's body carried the evidence of harm and that same body was being used to point at the wrong person.
 
 Tara was pointing at Steve. She was telling the AFC that the bruises appeared during the visit, that the injuries happened in Steve's care.
 
@@ -5778,7 +5777,7 @@ The court order had been violated three ways in a single evening: family members
 
 The visits stopped.
 
-Guttridge, Tara's attorney, eventually discovered what he had been used to cover up. Months earlier, on April 10, he had written to Steve's lawyers calling Steve's report of Evie's documented bruises "utterly untrue." When he realized he had been used to facilitate a cover-up of deliberate child abuse, he recused himself from the case.
+Guttridge, Tara's attorney, would later ask to be relieved. Months earlier, on April 10, he had written to Steve's lawyers calling Steve's report of Evie's documented bruises "utterly untrue." Steve believed Guttridge had come to see what that letter had been used to cover, and that this was why he left.
 
 
 <div class="evidence-embed embed-document" data-exhibit="LETTER_GUTTRIDGE_FALSE_POLICE_REPORTS">
@@ -5800,7 +5799,7 @@ Her replacement, Judge Morales-Horowitz, eventually recused as well. Then the th
 
 Gordon-Oliver was the first judge to recuse. She would not be the last.
 
-LaMelle had not looked away. She had walked toward a dark car carrying a child, been screamed at by two men she did not know, filed a sworn affidavit, and cooperated with police. For this she was removed from the case by phone.
+LaMelle had not looked away. She had walked toward a dark car carrying a child and been screamed at by two men she did not know. Two days later she was removed from the case by phone. She cooperated with police and filed a sworn affidavit anyway.
 
 ---
 
@@ -5917,7 +5916,7 @@ He had been punished once, in federal court, for the crime of naming names. He h
 
 Now, in 2019, he was writing to a judge to silence someone else.
 
-Before the recusal, Walsh Sr. had written to Gordon-Oliver directly. The letter — addressed "Dear Judge Gordon-Oliver," typed single-spaced, the format of a man accustomed to addressing authority as a peer — described a process server arriving at his home on a Friday afternoon. His wife had been in the kitchen. She turned around to find a man on the back deck. She was frightened, the letter noted, and with their granddaughter Evie in her arms. Walsh Sr. characterized the subpoena as "yet another effort to harass and threaten my family" — though *family*, in the letter's usage, meant something closer to *perimeter*: a boundary to be defended against legal process, not a household to be examined under oath. He asked the judge to require Steve Russell to seek court permission before issuing further subpoenas — to make the instruments of discovery subject to the approval of the family being discovered. He added, near the bottom, that he had been hospitalized over the weekend and was unable to attend court on Tuesday. The man who had positioned two men in camouflage at a custody exchange, who had denied a court-ordered visit at his own gate while shaking and red-faced, who had followed Steve's car and blocked his exit on a Sunday evening while claiming to be returning from school, was writing to a judge to describe himself as the one being harassed.
+Before the recusal, Walsh Sr. had written to Gordon-Oliver directly. The letter — addressed "Dear Judge Gordon-Oliver," typed single-spaced, the format of a man accustomed to addressing authority as a peer — described a process server arriving at his home on a Friday afternoon. His wife had been in the kitchen. She turned around to find a man on the back deck. She was frightened, the letter noted, and with their granddaughter Evie in her arms. Walsh Sr. characterized the subpoena as "yet another effort to harass and threaten my family" — though *family*, in the letter's usage, meant something closer to *perimeter*: a boundary to be defended against legal process, not a household to be examined under oath. He asked the judge to require Steve Russell to seek court permission before issuing further subpoenas — to make the instruments of discovery subject to the approval of the family being discovered. He added, near the bottom, that he had been hospitalized over the weekend and was unable to attend court on Tuesday. The man whose son, Brendan, and Tara's cousin, Brian Meenan, had waited in camouflage at a custody exchange, who had denied a court-ordered visit at his own gate while shaking and red-faced, who had followed Steve's car and blocked his exit on a Sunday evening while claiming to be returning from school, was writing to a judge to describe himself as the one being harassed.
 
 Gordon-Oliver had been the judge longest. She had seen the jurisdiction dispute. She had watched the supervisory record accumulate. She had the memorandum in front of her, the ambush, the manipulation, the abuse, Brienne's own words.
 
@@ -5929,7 +5928,7 @@ Claudette LaMelle, the supervisor who had documented the ambush, who had witness
 
 Her removal was not announced as punishment. It did not need to be. The administration did not argue with LaMelle's documentation. It did not dispute what she had seen. It simply removed the person who had seen it and continued without her.
 
-The supervisory file LaMelle created still existed in the record. The ambush she documented still had a case number. The reports she filed about Evie's bruises still sat in the folder. But the person who had created that record was gone.
+The supervisory file LaMelle created still existed in the record. The ambush she documented still had a case number. But the person who had created that record was gone.
 
 This was the institution's first clean answer to the question the memorandum had posed: what happens when documentation reaches the building and the building does not want to read it? The answer was administrative. The evidence survived. The documenter was removed. The folder continued to grow, the context erased, the file thickening while the only person who held the context disappeared. It was the first instance of a pattern the institution would repeat: the evidence survives, the person who made it does not. The pattern would recur in other forms — the transcript that lived on after the judge who issued it recused, the deposition that remained on the record after the witness was coached to deny it, the blog that preserved the evidence after the person who built it was condemned for building it. But here, with LaMelle, was the pattern in its clearest form: documentation as an act that survives its documenter.
 
@@ -6401,7 +6400,7 @@ On January 26, 2021, the case came before Judge Humphrey for the first time. The
 
 The court officer repeated it — "Mr. Russell, Judge asked you to put your current address on the record" — and then, to the bench: "It appears Respondent's ignoring you, Judge." The next lines of the transcript are DiFabio calling into the line, "Mr. Russell, can you hear me? Steve? Hello?", and Steve's answer coming back as "(Inaudible) you, Max." DiFabio explained that with no order of confidentiality filed, "the law requires that you put your address on the record." "Okay," Steve said. "Please provide him my address." The officer: "He wants you to put it on the record, sir, now." DiFabio: "Judge, I'm sorry, I'm not hearing completely well." The officer told him Steve wanted to provide it to the court separately, and that he had just advised Steve the judge wanted it on the record "right now in open court." "Steve, I can't do that for you. The judge wants you to do it." "Still nothing, Judge." "Mr. Russell, do you hear the Court?"
 
-He did. He read the address — [my California address] — into the open record, spelling the street and the town, and added that it "should be kept confidential per my (inaudible) restraining order."
+He did. He read his address into the open record, spelling the street and the town, and added that it "should be kept confidential per my (inaudible) restraining order."
 
 "Sir —" and, over an inaudible word from Steve, "— sir, don't tell me why (inaudible), please. Sir, don't tell me what's inappropriate."
 
@@ -6449,7 +6448,7 @@ Aunt K's letter to Egitto ran four pages. She described six attorneys recusing o
 
 She described a second default, Tara's. On March 10, 2021, Tara had failed to appear at an actual hearing. Her attorney had not appeared. She had been properly served. Judge Humphrey rescheduled. On March 24, Tara defaulted again. Same hearing. Same proper service. Same absence.
 
-Two defaults. One manufactured by the court to produce a permanent custody order against a represented father. One genuine, by the mother, twice, on the same matter, rescheduled without consequence.
+Two absences, two outcomes. One manufactured into a default, and a permanent custody order, against a represented father. One by the mother, twice, on the same matter, rescheduled without consequence.
 
 ---
 
@@ -6479,7 +6478,7 @@ Steve had an attorney. His attorney had appeared at the conference. His attorney
 
 # [B33] Two Defaults
 
-> Steve seeks recognition in New York of the protection he won against Tara after a San Francisco hearing. Humphrey warns Steve about nonappearance, but gives him no ruling after Tara and her attorney miss two hearings. Humphrey then recuses. Aunt K investigates the court's evaluator.
+> Steve seeks recognition in New York of the protection he won against Tara after a San Francisco hearing. Humphrey warns Steve about nonappearance, but gives him no ruling after Tara misses two hearings. Humphrey then recuses. Aunt K investigates the court's evaluator.
 
 **Phase VII | The Jury | 2020–2021**
 
@@ -6553,7 +6552,7 @@ The judge was not persuaded.
 
 "Sir, I'm in New York. I'm not in California. Please put your name and your address on the record, sir."
 
-Steve understood that the judge was stating a fact about geography and a fact about jurisdiction at the same time. He understood that the judge was telling him that a California court's protective orders had no purchase in Westchester, that this file would not inherit the findings of the San Francisco file, that he was in a new room with a new set of rules and the new rules did not carry the protections the old ones had established. He complied. He read the address into the virtual courtroom — [my California address] — and the number and the street and the ZIP code went into the open transcript, where anyone with access to the court file could read them.
+Steve understood that the judge was stating a fact about geography and a fact about jurisdiction at the same time. He understood that the judge was telling him that a California court's protective orders had no purchase in Westchester, that this file would not inherit the findings of the San Francisco file, that he was in a new room with a new set of rules and the new rules did not carry the protections the old ones had established. He complied. He read his address into the virtual courtroom, and the number and the street and the ZIP code went into the open transcript, where anyone with access to the court file could read them.
 
 A few minutes later, Tara asked for her address to be kept confidential. She said she had been "recently" granted address confidentiality from New York State. She said she had filed an affidavit at the end of the prior week. The judge asked her when she had filed it. He said he did not have the filing yet. He said they could not do much with it today. The tone of that exchange was different. The tone was patient. The tone was accommodating. When the hearing adjourned, Tara's address would remain confidential. Steve's had already been entered.
 
@@ -6561,17 +6560,21 @@ Then Humphrey turned to the matter of scheduling. The next appearance would be A
 
 "Mr. Russell, you need to make sure on the next date that you have access to a computer or Apple, Mac, whatever, some way so you can appear remotely on these proceedings. Okay? Do you understand that, sir?"
 
-Steve said he understood.
+His answer did not carry on the recording. The judge warned him that if he failed to be present on the return date, the court could proceed in his absence, and asked again whether he understood.
+
+"Yep, yep, I understand that," Steve said.
 
 The judge went further. He stated, with the clarity of a rule announced before it will be applied, what the consequence of failure to appear would be:
 
-"If you fail to appear on the return date, this Court can issue judgment, dismiss your petitions just like Judge Horowitz did in the past."
+"So that means that if you fail to appear on the return date, this Court can issue judgment, dismiss your petitions just like Judge Horowitz did in the past. Do you understand that, sir?"
 
 Steve knew what Judge Horowitz had done. He knew it the way you know something you have lived through. In February 2020, the afternoon before a visitation conference in White Plains, the court had denied his request to appear by telephone. He was in California. His signed January 14, 2021 affidavit describes booking the next available flight, at 6:20 a.m., and his counsel telling the court why he could not arrive in time. The court proceeded and held him in default. The January 26, 2021 transcript records the continuing dispute: DiFabio said he had failed to appear but had not defaulted; Humphrey described Horowitz's dismissal for nonappearance.
 
 Now Humphrey was citing that disaster as the rule. If Steve failed to appear on April 27, the same thing would happen.
 
-"Yep, yep, I understand that," Steve said into the microphone.
+"If that's the law, I'll be available," Steve said.
+
+"That's the law of this case, sir," the judge answered.
 
 The exchange was recorded. The transcript was filed. The rule was on the record: fail to appear, the court dismisses the petitions. Judge Horowitz was the precedent. Judge Humphrey was the enforcer. The date was set.
 
@@ -6582,30 +6585,30 @@ The exchange was recorded. The transcript was filed. The rule was on the record:
       <span class="embed-source">Westchester Family Court — Part 2 — Judge Wayne A. Humphrey</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>THE COURT: "Sir, I'm in New York. I'm not in California. Please put your name and your address on the record, sir." Later in the same hearing, setting the next appearance date: "If you fail to appear on the return date, this Court can issue judgment, dismiss your petitions just like Judge Horowitz did in the past. Do you understand that, sir?" MR. RUSSELL: "Yep, yep, I understand that."</p></div>
+    <div class="document-text"><p>THE COURT: "Sir, I'm in New York. I'm not in California. Please put your name and your address on the record, sir." Later in the same hearing, setting the next appearance date: "… if you fail to be present on the return date, this Court can proceed in your absence. Do you understand that?" … MR. RUSSELL: "Yep, yep, I understand that." THE COURT: "All right. So that means that if you fail to appear on the return date, this Court can issue judgment, dismiss your petitions just like Judge Horowitz did in the past. Do you understand that, sir?" … MR. RUSSELL: "If that's the law, I'll be available." THE COURT: "That's the law of this case, sir."</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Hearing Transcript, Walsh v. Russell, January 26, 2021</span><span class="embed-caption-text">Humphrey stated the fail-to-appear rule on the record and named Horowitz as precedent. Three months later, Tara and her attorneys failed to appear — twice — and the rule was not applied.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Hearing Transcript, Walsh v. Russell, January 26, 2021</span><span class="embed-caption-text">Humphrey stated the fail-to-appear rule on the record and named Horowitz as precedent. Within two months, Tara failed to appear on Steve's petition — twice — and the rule was not applied.</span></div>
 </div>
 
-A full evidentiary hearing was scheduled. Steve's legal team prepared. Max DiFabio, who had taken over from the string of prior attorneys, assembled witnesses and organized exhibits. The case for a permanent order was built from the same evidence that had persuaded the California court, supplemented by everything that had happened since: the Reno bottle, the bruise fabrication, the Guttridge letter, the two defaults on the kidnapping case.
+Steve had also reapplied for protection: a new family-offense petition against Tara. On February 24 the clerk summoned her for it through the state's address-confidentiality program, and the lawyer assigned to her on the other petitions agreed to accept service of it on her behalf.
 
-The hearing date arrived.
+The petition was on Judge Humphrey's calendar on March 10, 2021.
 
-Tara and her attorneys did not appear.
+Tara did not appear.
 
-The courtroom had the particular quality of a room arranged for a proceeding that is not going to happen: the tables set, the files prepared, the clerk waiting, the judge on the bench, and the opposing chairs empty. A default was entered. The hearing was rescheduled.
+There was no ruling. The matter was put over to March 24.
 
-The second hearing date arrived.
+On March 24 the court sat on a Microsoft Teams link. Steve was in California.
 
-Tara and her attorneys did not appear.
+Tara did not appear again. The lawyer assigned to her on the other petitions had not been assigned to this one and had not received a link.
 
-A second default. The same empty chairs. The same clerk recording the absence. The same quiet courtroom absorbing the fact that the person accused of poisoning, of bruise fabrication, of custody manipulation, of fleeing jurisdiction, had simply chosen not to engage with the process designed to evaluate those accusations.
+The next day the Attorney for the Child wrote to the judge that Tara "was properly served and had notice of the pending petition but failed to appear." She added that she could not conclude the failure was willful, because no affidavit of service had been filed to show that Tara received the Teams link. The matter was set down for a conference on April 6. The person accused of poisoning, of bruise fabrication, of custody manipulation, of fleeing jurisdiction, had not appeared to answer any of it.
 
-Steve's default had been manufactured through a five o'clock denial and an overnight flight. He had appeared, just barely too late. Tara's defaults came from not showing up at all.
+Steve's default had come from a telephone request denied late the afternoon before and a 6:20 a.m. flight; his attorney had been at the table. Tara's absences came from not showing up at all.
 
 On January 26, in this same file, before this same judge, the rule had been stated and the precedent had been named. If a party failed to appear on the return date, the Court could issue judgment, dismiss the petitions, just like Judge Horowitz did in the past. Steve had acknowledged the rule on the record. He had not failed to appear. Tara had. Twice. The rule Humphrey had announced in January was not applied. No judgment was issued. The petitions were not dismissed. The hearings were rescheduled.
 
-Steve understood, sitting in the courtroom on each of those empty mornings, that the mechanism was not a matter of interpretation and it was not the work of an unstated assumption. The rule had been stated. The same judge who had stated it chose not to apply it. The word "default" was available in both directions, and the court used it in one. His default had resulted in a custody ruling. Her defaults resulted in a rescheduling. The court had one definition of absence for the father and another for the mother, and the document establishing that the definitions were the same had been filed three months earlier in the same courtroom by the same judge.
+Steve understood, watching from California on each of those days, that the mechanism was not a matter of interpretation and it was not the work of an unstated assumption. The rule had been stated. The same judge who had stated it chose not to apply it. The word "default" was available in both directions, and the court used it in one. His default had resulted in a custody ruling. Her absences resulted in a rescheduling. The court had one definition of absence for the father and another for the mother, and the record establishing that the definitions were the same had been made two months earlier, in the same file, by the same judge.
 
 ---
 
@@ -6628,11 +6631,11 @@ The recusal was granted — and the order itself became an attack on the attorne
 
 The recusal was granted. The criticism was preserved in the permanent record. The next judge assigned to the case would inherit a file that now included not just the poisoning evidence and the double default, but a judicial opinion describing the petitioner's attorney as borderline unethical — written by the judge who, three months earlier, had stated the fail-to-appear rule on the record and then chosen not to apply it to the other side.
 
-Two judges gone. Tara's defaults absorbed. The Temporary Order of Protection remained in place. The permanent hearing had not occurred.
+Two judges gone. Tara's absences absorbed. The order of protection against Steve remained in place. The permanent hearing had not occurred.
 
 ---
 
-While the judges rotated and the defaults accumulated and the motions went undecided, Aunt K investigated.
+While the judges rotated and the absences accumulated and the motions went undecided, Aunt K investigated.
 
 She had been tracking Raymond Griffin since November 2019, when Steve first raised concerns about the court-appointed evaluator to AFC Jennifer Jackman. Jackman had deflected: "Please ask Max to read the report." The Attorney for the Child, whose fiduciary duty was to the child, sent the father's concerns about the evaluator back to the father's own attorney. No investigation. No independent review. The system's response to a question about one of its instruments was to tell the person asking to consult his own lawyer.
 
@@ -6670,9 +6673,7 @@ Evie was learning colors and animals. She knew her father's name. She was being 
 
 ---
 
-Aunt K drove with Steve to the Westchester courthouse for these hearings.
-
-She had been writing up every visit, every observation, every detail of what she witnessed during supervised time with Evie. She wrote letters to the judicial review board. She documented patterns. She sent the documentation into the system and the system did not respond. She wrote more. She sent more. The silence on the other end was not the silence of consideration. It was the silence of a machine that does not have an input for what she was sending.
+Aunt K had been writing up every visit, every observation, every detail of what she witnessed during supervised time with Evie. She wrote letters to the judicial review board. She documented patterns. She sent the documentation into the system and the system did not respond. She wrote more. She sent more. The silence on the other end was not the silence of consideration. It was the silence of a machine that does not have an input for what she was sending.
 
 The case file grew thicker. The number of judges who had handled it grew longer. The distance between Evie and her father remained the same.
 
@@ -7178,7 +7179,7 @@ Aunt K's letters continued that season — addressed to yet another judge, CC'd 
 
 # [B36] Grandma's Letter
 
-> Steve asks the court to let his mother visit Evie instead. Linda Russell — a retired nurse who raised two sons who attended Stanford — drives thirteen hours round trip to Chappaqua. Walsh Sr. turns her away at the door. She persists. She gets the visits. She writes a letter to Judge Schauer documenting what she sees. Aunt K publishes it on StevieLovesEvie.com.
+> Steve asks the court to let his mother visit Evie instead. Linda Russell — a retired nurse who raised two sons who attended Stanford — drives thirteen hours round trip to Chappaqua. Walsh Sr. turns her away by phone. She persists. She gets the visits. She writes a letter to Judge Schauer documenting what she sees. Aunt K publishes it on StevieLovesEvie.com.
 
 **Phase VII | The Jury | May–August 2021**
 
@@ -7201,26 +7202,11 @@ The court granted it. Schauer ordered visitation, three remote visits per week f
 
 ---
 
-Linda hit the road.
+Linda hit the road. Punxsutawney to Chappaqua was about six and a half hours each way. She rented a hotel room near the town and prepared for the visit, with toys and videos of Evie with her father ready to play.
 
-Punxsutawney to Chappaqua was six and a half hours — Interstate 80 across the width of Pennsylvania, the George Washington Bridge, then north through Westchester on the Saw Mill River Parkway as the suburbs thickened and the property lots widened. Linda was seventy-three years old. A retired nurse, driving alone, carrying an iPad with videos, carrying a court order, carrying the knowledge of what a grandmother could do even when a father could not.
+According to Aunt K's May 24 account, Tara went silent during the drive, then called the visit off after Linda arrived. Linda called Walsh Sr.'s cell phone. In the blog's paraphrase of that call, he said that he and Maura needed two weeks' notice, that the court order did not affect them, and that he was not comfortable letting visits happen while Steve's lawsuit continued. He would not meet her for lunch or dinner; he would call her if he ever needed to talk to her.
 
-The iPad was waiting on the hotel room bed, already charged, the videos cued and ready to play. She had made the videos herself from the clips she had collected — Evie laughing, Steve's voice off-camera: "Look at me, Ev. I love you." A grandmother who drove six hours was not the same as a father, but a grandmother who showed up mattered. The miles were becoming the argument. She drove.
-
-She rented a hotel room near the town and set it up for the visit. An iPad loaded with videos of Evie and her father — bath time, park walks, the supervised visits that had been documented before the visits stopped. A room where a grandmother could show a three-year-old that her father existed and loved her and had not chosen to disappear.
-
-On her first trip, she drove to the Walsh compound on Whippoorwill Road. The driveway was long. The house sat back from the road on several wooded acres.
-
-She parked. She walked to the door. Walsh Sr. opened it, holding the frame at a width that told her immediately she would not be entering. He was tall. He was angry. He stood in his own doorway like it was a gate.
-
-"You can't just show up," he said. "Grimma and I need two weeks' notice." He informed her that the court order did not affect him. He told her he would call her if he ever needed to talk to her. Linda was standing on a driveway that was not hers, facing a man who was telling her that a judge's words meant nothing in his house, and she understood that she was not the intended audience for his anger.
-
-She left the property.
-
-Linda stood on the property of a man who had just told her that a court order went in the trash. Half a mile away, at the hotel, the iPad was charged and the videos were queued — a room prepared for a child who was somewhere inside this house, behind this man, beyond what a grandmother's presence could reach. She had driven six and a half hours to stand on a driveway and be told to leave.
-
-She did not leave Chappaqua.
-
+The appointment passed without the visit. Linda packed up and drove home. She later wrote to Judge Schauer: "The first week, I was made to turn around by Stephen Walsh and head home without seeing Evie."
 
 <div class="evidence-embed embed-document" data-exhibit="SLE-008" data-type="blog-archive">
   <div class="embed-header">
@@ -7229,13 +7215,13 @@ She did not leave Chappaqua.
       <span class="embed-source">StevieLovesEvie.com</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>Aunt K's account: "Grandma Linda drives thirteen hours trying to see Evie; Grumpa tells her to turn around, doesn't need to follow court orders." Linda arrived in Chappaqua, rented a hotel room. Tara went silent. When Linda called Walsh Sr., he picked up: "You can't just drop in unannounced. Grimma and I need two weeks notice. I don't care what the court order says." He refused lunch. He refused dinner. He would call her if he ever needed to. Half a mile away, Linda had set up a baby paradise with videos of Evie and Daddy ready to play on the TV. Everything got packed up and Grandma Linda headed home. Another six-and-a-half-hour drive.</p></div>
+    <div class="document-text"><p>Aunt K's account: "Grandma Linda drives thirteen hours trying to see Evie; Grumpa tells her to turn around, doesn't need to follow court orders." Tara went silent during the drive; after Linda arrived in Chappaqua and rented a hotel room, Tara called the visit off. Linda called Walsh Sr., and he picked up. The blog gives the call as a paraphrase: "You can't just drop in unannounced. Grimma and I need two weeks notice. I don't care what the court order says." He refused lunch. He refused dinner. He would call her if he ever needed to. Half a mile away, Linda had set up a baby paradise with videos of Evie and Daddy ready to play on the TV. Everything got packed up and Grandma Linda headed home. Another six-and-a-half-hour drive.</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie, "Grandma Linda Drives Thirteen Hours"</span><span class="embed-caption-text">Six and a half hours each way. Walsh Sr. told her to turn around. She didn't.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">StevieLovesEvie, "Grandma Linda Drives Thirteen Hours"</span><span class="embed-caption-text">The visit was called off. Walsh Sr. turned her away by phone, and Linda drove home.</span></div>
 </div>
 
 
-Tara offered an alternative. Linda could drive back that same day, another thirteen hours round trip, and see Evie for twenty minutes. She delivered the offer from the house where she and Evie lived, her father's property, on her father's schedule.
+Aunt K wrote that after Linda reached home, Tara offered a twenty-minute visit if she drove back that day — another thirteen hours round trip.
 
 The message was clear. The court had ordered visitation. The Walsh family had decided what visitation meant.
 
@@ -7243,14 +7229,14 @@ Linda did not stop. She drove to Chappaqua four times in a single month. She kep
 
 ---
 
-The visit that mattered most lasted eight hours.
+Then came the visit that mattered most.
 
-Linda picked up Evie from the Walsh compound early in the morning. The child arrived the way she would arrive at every visit — unfed, tired, the residue of a household that treated the transfer as an inconvenience rather than an obligation. Linda fed her. They went to the park. They went to the beach. Evie found a crab and crouched over it with the focused intensity of a three-year-old encountering something alive and small and unafraid of her. She did not want to leave. She said no when Tara called early to pick her up. For eight hours, a grandmother and a granddaughter did what grandmothers and granddaughters do, they played, they ate, they walked, they explored.
-Steve watched the entire visit through an iPad. He was three thousand miles away, in California, where the court orders and the geography of the case had placed him. He could see his daughter. He could hear her. He could not hold her. He watched his mother do what he could not, sit with Evie on a bench, hand her a sandwich, point at the water.
+Tara was late that day. Linda got Evie something to eat. They went to the park. They went to the beach. They found a crab and, as Linda wrote, had "a ton of fun." She did not want to leave. She said no when Tara called early to pick her up. Tara came anyway, at about four instead of five-thirty. That day, a grandmother and a granddaughter did what grandmothers and granddaughters do, they played, they ate, they walked, they explored.
+On the earlier visits that month, Linda wrote, Evie had spent all day with her father, and no one recorded anything, because the court had said not to. Steve watched through an iPad. He was three thousand miles away, in California, where the court orders and the geography of the case had placed him. He could see his daughter. He could hear her. He could not hold her. He watched his mother do what he could not, sit with Evie on a bench, hand her a sandwich, point at the water.
 
 What Linda saw during the visit was not ordinary.
 
-Evie arrived unfed. She was tired. She was crying. Walsh Sr. attributed the crying to Evie not wanting to see her grandmother. The actual cause, Linda observed, was that the child had not been fed.
+Linda reported that Evie arrived unfed, tired and crying. She wrote that Tara attributed the crying to Evie not wanting to see her grandmother. Linda instead connected it to hunger: the crying stopped when Evie learned they would get her food.
 
 Evie was not potty trained. She was three. Linda made significant progress in a single day, progress that should have been made a year earlier.
 
@@ -7337,7 +7323,7 @@ Selected evidence references: 9
   - ExR_02
   - B-10
 
-Jennifer Jackman had asked to be relieved on August 27, 2021. She had been the Attorney for the Child since the case arrived in Westchester — across four judges, three courthouses, the bruises, the ambush, the defaults, the revolving supervisors. She had seen the laboratory reports. She had received Steve's correspondence about the poisoning evidence. She had watched the case file grow into the largest Schauer had ever encountered.
+On August 27, 2021, Schauer addressed Jennifer Jackman's application to be relieved, which the court said had been filed the night before. She had been the Attorney for the Child since the case arrived in Westchester — across four judges, three courthouses, the bruises, the ambush, the defaults, the revolving supervisors. She had seen the laboratory reports. She had received Steve's correspondence about the poisoning evidence. She had watched the case file grow into the largest Schauer had ever encountered.
 
 
 <div class="evidence-embed embed-document" data-exhibit="ExTR_01" data-type="hearing-transcript">
@@ -7347,19 +7333,19 @@ Jennifer Jackman had asked to be relieved on August 27, 2021. She had been the A
       <span class="embed-source">Yonkers Family Court</span>
   </div>
   <div class="embed-body">
-    <div class="document-text"><p>THE COURT: "So Ms. Jackman's Order to Show Cause is granted on consent. You are relieved, Ms. Jackman." MS. JACKMAN: "Thank you, Your Honor. May I be excused?" THE COURT: "That leaves us without an attorney for the child, so there will be limited progress we can make with today's proceeding until I assign a new attorney to represent the child."</p></div>
+    <div class="document-text"><p>THE COURT: "So Ms. Jackman's Order to Show Cause is granted on consent. You are relieved, Ms. Jackman. That leaves us without an attorney for the child, so there will be limited progress we can make with today's proceeding until I assign a new attorney to represent the child." MS. JACKMAN: "Thank you, Your Honor. May I be excused?"</p></div>
   </div>
-  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, August 27, 2021</span><span class="embed-caption-text">Five sentences. The woman charged with representing a child's interests excused herself without documenting any of it.</span></div>
+  <div class="embed-caption"><span class="embed-exhibit-id">Schauer Hearing Transcript, August 27, 2021</span><span class="embed-caption-text">Jackman was relieved on consent. The court said a new attorney for the child would be assigned.</span></div>
 </div>
 
 
-DiFabio did not object. Weddle did not object. The court granted the motion on consent. Jackman gathered her file from the counsel table and walked out. No final report. No memorandum. The door closed and the room was quieter by one attorney and the absence of everything she had declined to say.
+DiFabio had already been relieved from representing Steve and Linda and had left the virtual proceeding. Steve did not object; he said he appreciated her services and thought she was making the right decision. Weddle had no objection. The court granted the application on consent. Jackman asked to be excused, and the court agreed. The transcript does not record her reasons for seeking release or what her written application said.
 
-The case now had no attorney for the child. Schauer noted that limited progress could be made until a replacement was assigned. Seventy days would pass without an attorney for the child — seventy days in which no one was designated to ask what the child wanted.
+The case now had no attorney for the child. Schauer noted that limited progress could be made until a replacement was assigned.
 
 ---
 
-Donna Genovese was appointed as the replacement Attorney for the Child.
+By October 2021, Donna Genovese had been appointed as the replacement Attorney for the Child.
 
 Genovese had spent thirty-five years in Westchester family law. She was a Fellow of the American Academy of Matrimonial Lawyers and certified for the Attorney for the Child Panel by the Appellate Division, Second Department — the same panel that Cambareri screened, the same roster that had produced Jackman. The pipeline did not pause when one of its attorneys departed. It produced the next one from the same inventory.
 
@@ -7377,9 +7363,9 @@ The document did not explain how the depositions could be both irrelevant and ha
 
 ---
 
-November 5, 2021. 131 Warburton Avenue, Third Floor. The same courtroom, the same fluorescent lights, the same bench.
+November 5, 2021. 131 Warburton Avenue, Third Floor. This time the proceeding was in person.
 
-The proceeding opened at 3:38 PM. Weddle appeared for Tara. DiFabio appeared for Linda — not for Steve, for Linda — who was present in court. She had driven from Punxsutawney again, six and a half hours each way, and she was sitting in the gallery in a courtroom in Yonkers because the case had consumed her family and there was no version of being a good mother and grandmother that did not include being in the room where the decisions were made. Genovese appeared for the child.
+The proceeding opened at 3:38 PM. Weddle appeared for Tara. DiFabio appeared for Linda — not for Steve, for Linda — who was present in court. She had driven from Punxsutawney again, six and a half hours each way, and she was present in a courtroom in Yonkers because the case had consumed her family and there was no version of being a good mother and grandmother that did not include being in the room where the decisions were made. Genovese appeared for the child.
 
 Steve was not present. He was in California, three thousand miles from the courtroom. He had told this judge on August 27 where he would and would not be: "I won't be present at any further conferences. And you're welcome to make a ruling and take negative inference for that. I will be present with an attorney at trial." The same day he had asked when that trial would be — "I'm looking forward to the trial, Your Honor" — and, now representing himself, for a copy of the court file. The answer was that files are not sent: "You sit in the Clerk's Office and, under supervision, you can review the court file." The orders to suppress his documentation were about to be granted from the bench. The written orders would come later.
 
@@ -9559,13 +9545,13 @@ Selected evidence references: 19
 <p>Stephen Walsh is not difficult to describe. He is a former bond trader from the Drexel Burnham Lambert era who lives on a seven-acre estate on Whippoorwill Road in Chappaqua. He raised four children. He exercises authority the way certain men do — not by demanding silence but by occupying the room so completely that silence is offered. He can be charming. He can be warm. He can deploy both qualities with the precision of instruments. He would say — and there is no reason to doubt he believes it — that he was protecting his family. That the man from San Francisco was unstable. That the courts had confirmed it. That a grandfather who keeps a dangerous person away from his grandchild is not a coward but a guardian. Under oath he went further: he said he took Tara&rsquo;s own claims with a grain of salt, that he was disappointed and angry with her for going to San Francisco in the first place, that he was not going to allow her to play the victim. He saw through the narrative. He used it anyway. The coward&rsquo;s clarity is not the absence of insight. It is insight deployed only where deploying it costs nothing.</p>
 <p>What he cannot do is remain in a room where the cost of what he has permitted is about to arrive.</p>
 <hr />
-<p>At Visit 15, a Sunday in 2019, Walsh Sr. followed Steve&rsquo;s car up Bedford Road and blocked access to the compound. He exited his vehicle, red-faced and shaking, and told Steve he was taking the girls home from school. It was Sunday. There were no girls to take home. But when he noticed the nanny in the passenger seat — Talia, a witness who could document what she saw — he stopped. He got back in his car. He left.</p>
+<p>Twice before, by Aunt K&rsquo;s account, Walsh Sr. had followed Steve&rsquo;s car or blocked access to the compound, red-faced and shaking. At Visit 15, on Sunday, March 31, 2019, he waited until the supervisor had walked Evie up the long driveway toward the house. Then he pulled up at the top of the driveway, got out, and strode toward Steve&rsquo;s parked car. The nanny in the passenger seat — Talia, a witness who could document what she saw — wrote afterwards that he was rude and said he was &ldquo;bringing his kids back home from school.&rdquo; It was Sunday. By Aunt K&rsquo;s account, he stopped short when he noticed her, stammered, and stepped back toward his own car, where his two youngest daughters sat. Steve stayed in the car, calm, until the supervisor came back; then they drove off the property.</p>
 <p>The man who had confronted a father in a public roadway could not hold his position in the presence of a witness who might write it down.</p>
 <p>On the night of September 21, the compound&rsquo;s electronic gate opened for the supervised visit and closed behind the court-appointed supervisor. Walsh Sr. was inside the house. His son was in a blacked-out car parked among the bushes at the bottom of the driveway with what appeared to be a bat between his legs. His compound. His gate. His son. His absence from the car was not incidental. It was the design.</p>
-<p>When Tara was in San Francisco and the apartment was becoming dangerous and Steve was texting for help, Walsh Sr. emailed from Chappaqua: <em>I am giving Tara permission to leave.</em> An adult father granting permission for his adult daughter to travel with her own child — conditioning, framing, authorizing, managing. He did not arrive. Under oath in April 2021, he was asked whether anyone in his family had gone to San Francisco to help Tara. &ldquo;No. Nobody in our family went to San Francisco.&rdquo; Asked why: &ldquo;Why not? San Francisco is a six-hour flight, right, from New York. It&rsquo;s not something you just go and do.&rdquo;</p>
+<p>When Tara was in San Francisco and the apartment was becoming dangerous and Steve was texting for help, it was Steve who set the terms of her trip. On June 8, 2018, he wrote to Tara and Walsh Sr.: <em>I am giving Tara permission to leave CA to visit you in NY under the following conditions.</em> She would stay at her parents&rsquo; home, return to California with the baby within two to three weeks and take no step to delay that, and seek the advice of her family and her New York therapist. Walsh Sr. answered from Chappaqua: <em>Works for us - I appreciate your flexibility Steve.</em> He did not come to San Francisco. Under oath in April 2021, he was asked whether anyone in his family had gone to San Francisco to help Tara. &ldquo;No. Nobody in our family went to San Francisco.&rdquo; Asked why: &ldquo;Why not? San Francisco is a six-hour flight, right, from New York. It&rsquo;s not something you just go and do.&rdquo;</p>
 <p>Linda Russell drove six and a half hours from Punxsutawney, Pennsylvania, to Chappaqua. Four times in a single month. Linda Russell is a retired nurse from a small town. Walsh Sr. purchased a seven-acre estate with proceeds from an era when the proceeds were substantial. The resources were not the issue. The movement toward the child was the issue. One person moved. The other managed.</p>
-<p>When Linda arrived at the compound, Walsh Sr. met her at the door. He informed her she could not see Evie. He required two weeks&rsquo; notice. He told her the court order did not apply to him and his wife. He refused lunch. He refused dinner. He would call her if he ever needed to talk to her. A grandmother who had driven thirteen hours round-trip, alone, was told to turn around by a man standing in his own doorway on his own property — a man who would not have said any of it if someone with institutional power had been standing beside her.</p>
-<p>He was brave against Linda because Linda was alone. He retreated from the nanny because the nanny could write a letter. The word <em>brave</em> is doing too much work in that sentence — what he showed at the door was not courage but the specific confidence of a man who knows no one is watching. The pattern holds across every scene in which Walsh Sr. appears in this story: he confronts when he has power and anonymity; he retreats the instant he might be observed by someone who can document what she sees.</p>
+<p>When Linda reached Chappaqua the first time, the visit was called off, and she called Walsh Sr. In Aunt K&rsquo;s paraphrase of that call, he required two weeks&rsquo; notice, said the court order did not affect him and his wife, refused lunch and dinner, and said he would call her if he ever needed to talk to her. Linda later wrote to the judge that she &ldquo;was made to turn around by Stephen Walsh and head home without seeing Evie.&rdquo; A grandmother who had driven thirteen hours round-trip, alone, was told to turn around by a man on the phone — a man who would not have said any of it if someone with institutional power had been standing beside her.</p>
+<p>He was brave against Linda because Linda was alone. He retreated from the nanny because the nanny could write a letter. The word <em>brave</em> is doing too much work in that sentence — what he showed on the phone was not courage but the specific confidence of a man who knows no one is watching. The pattern holds across every scene in which Walsh Sr. appears in this story: he confronts when he has power and anonymity; he retreats the instant he might be observed by someone who can document what she sees.</p>
 <hr />
 <p>Under oath, the pattern became audible.</p>
 <p>&ldquo;I — I — I — I — I&rdquo; — the stammer arrived whenever the questioning approached the truth. But when asked whether he had psychiatric credentials to diagnose Steve, Walsh Sr. delivered a line that sounded rehearsed to Steve: &ldquo;Well, if — if I was to see a man walking down Fifth Avenue naked playing a violin, I wouldn&rsquo;t need psychiatric counseling to think that there was something wrong.&rdquo; The answer contained a street name, a musical instrument and a finished rhetorical turn. To Steve it was performance — prepared in advance, deployed on cue, designed to sound like common sense while accomplishing the work of a clinical diagnosis he was not qualified to make. And when pressed for specifics, the performance continued: drilling holes in walls, running wires, painting mirrors, hearing voices, Ukrainians trying to kill him. A catalog of claims delivered with the confidence of a man who knows that the claims themselves do not need to be verified — only repeated, in the right room, to the right people.</p>
@@ -9668,7 +9654,7 @@ Selected evidence references: 7
 <p>In another message, Tara told Evie that her father was &ldquo;trying to take our house.&rdquo; The child who was begging to see her father was being told a story about him that bore no relationship to what the evidence showed.</p>
 <hr />
 <p>On June 4, 2018, Tara had told a San Francisco police officer, in the officer&rsquo;s summary of her statement, that &ldquo;she is not the victim of a crime and that her and her baby were in good health&rdquo; (<a href="../Evidence/sorted_tara_letters/Doc_29_02_20_16_55_36.pdf">SFPD Incident Report 180415167</a>). She refused shelter and any other services.</p>
-<p>Steve Walsh and Maura Walsh said nothing publicly. The broader institutions involved remained silent. The Family Court had received the motion to vacate. The six grounds were before it. The record was complete.</p>
+<p>Steve Walsh and Maura Walsh said nothing publicly. The broader institutions involved remained silent. In December 2025, Steve Russell asked the Family Court to vacate the prior determination and restore his parental rights.</p>
 <p>The demand remained on the table: drop the judgment, pay the money, stop the court actions, and show the Walsh family respect.</p>
 <p>The judgment remained in the record.</p>
 <p>The child remained in Chappaqua.</p>
@@ -9844,4 +9830,4 @@ This is the Evidence Archive Edition — a documentary narrative with linked rec
 
 ## Generation Stats
 - Posts included: 54/54
-- Content hash: dcaaf08c6da1
+- Content hash: bc556fc24d27

@@ -22,35 +22,20 @@ His heart rate climbed. The feeling of it accelerating—the awareness of his ow
 The sensation was intense — not painful exactly, but overwhelming in the way that a physiological reaction is overwhelming when it arrives without warning and without explanation. Steve pushed back from the table.
 He called his security team.
 Tara was present. She was at the event. And she was recording.
-The recording captured the episode as it unfolded: the redness, the confusion, Steve standing and moving toward the exit. What the phone’s camera recorded—what Tara would have seen on the screen as she filmed—was a man responding to something exterior: a man whose body was reacting to something in the wine or the food or the room itself, something she had access to, something his body registered before his mind could name it. The frame was steady enough. The documentation was clear. What the camera appeared to document was a medical crisis; what it actually documented was a woman aiming a phone at a man who was responding to something she had arranged.
+The recording captured the episode as it unfolded: the redness, the confusion, Steve standing and moving toward the exit. What the phone’s camera recorded—what Tara would have seen on the screen as she filmed—was a man responding to something exterior: a man whose body was reacting to something in the wine or the food or the room itself, something she had access to, something his body registered before his mind could name it. The frame was steady enough. The documentation was clear. What the camera appeared to document was a medical crisis; it also documented a woman aiming a phone at a man in the middle of one.
 Tara texted multiple people while the episode was happening. The texts described what she was seeing. They went out in real time.
 The driver arrived. Steve got in the car. The plan was the hospital.
 But in the car, moving through the city, Steve recognized the feeling. They were passing through downtown, lights from the buildings and the traffic streaking the windows, and he sat in the back seat with his hands on his thighs and his heart rate still climbing and something in the acceleration and the blur outside registered as familiar, not the panic—the panic was new—but the sensation beneath it, the one his body had encountered before. The mind was still catching up, still trying to make sense of the chaos in the chest, but the body already knew.
 He knew this sensation. Not from poison. Not from drugs. From exercise supplements. Niacin. A B vitamin that, in high doses, causes exactly this, the flushing, the redness, the heat, the racing heart. It is temporary. It is terrifying to someone who doesn’t know what it is. The redness pattern was identical. In a supplement capsule, taken deliberately, the flush lasted twenty minutes and was merely unpleasant. In a drink, unannounced, it was indistinguishable from a medical emergency.
-Laboratory Report
-Scientific Analysis
-Patient:
-Stephen Russell Per M. Hatcher |
-Specimen Type:
-Urine
-Collected:
-03/07/2018 |
-Received:
-03/09/2018 4:52 PM
-Final Result Summary:
-Carboxyzolpidem detected by LC/MS/MS (2360 ng/mL)
-Zolpidem detected by LC/MS/MS (1 ng/mL)
-Redwood Toxicology Drug Screen, March 7, 2018
-Zolpidem and Carboxyzolpidem detected. Collected the night of the niacin flush. The body was keeping its own record.
-He told the driver to turn around.
-They did not go to the hospital. The flush subsided over the next hour. The redness faded. The heart rate normalized. By the time they reached the Millennium Tower, Steve looked and felt approximately normal.
+They reached the hospital, but he turned around before he was seen.
+The flush subsided over the next hour. The redness faded. The heart rate normalized. By the time they reached the Millennium Tower, Steve looked and felt approximately normal.
 But the recording existed. The texts existed. The next day, Tara emailed the videos to Matan Gavish with two words:
 “Listen. Save.”
 — Tara Walsh, email to Matan Gavish (April 2018)
-Tara had not caused the flush. Or she had. The mechanism was unclear, niacin could have been in the wine or in the food or in the glass before either was poured. Steve did not know.
+The mechanism was never established: niacin could have been in the wine or in the food or in the glass before either was poured. Steve did not know which.
 What he knew was that the episode had been documented. And the documentation had been distributed. And that this was not the first time his body had registered something that should not have been there.
 Months passed. The pattern that had revealed itself only when Steve began searching backward through the synced backups, digging through years of photographs, looking for the moment something had shifted, presented itself in the archive: a conversation between Tara and her sister about a doctor prescribing lithium.
-Four and a half months later, Steve sent an email to Sergeant Brendan Caraway at the San Francisco Police Department, his family law attorneys, and, blind-copied, Dr. Gopal. The email described what he had found while preparing for court: a March 2017 urine result he described as six times the reference range. The specimen was collected after provocation; the lab’s printed intervals were for non-provoked populations, and its commentary called the result unexpectedly high. He had never taken lithium. He had never been prescribed lithium. He had asked Tara at the time and she had denied access to any. Now, going through synced family photos, he found a fragment of a conversation between Tara and her twelve-year-old sister Kiara, discussing Dr. Faedda, the family psychiatrist, providing lithium scripts to the mother and now to the child.
+On July 23, 2018, Steve sent an email to Sergeant Brendan Caraway at the San Francisco Police Department, his family law attorneys, and, blind-copied, Dr. Gopal. The email described what he had found while preparing for court: a March 2017 urine result he described as six times the reference range. The specimen was collected after provocation; the lab’s printed intervals were for non-provoked populations, and its commentary called the result unexpectedly high. He had never taken lithium. He had never been prescribed lithium. He had asked Tara at the time and she had denied access to any. Now, going through synced family photos, he found a fragment of a conversation between Tara and her twelve-year-old sister Kiara, discussing Dr. Faedda, the family psychiatrist, providing lithium scripts to the mother and now to the child.
 From:
 Steve Russell <[personal email withheld]>
 To:
@@ -69,7 +54,6 @@ The event was not just experienced. It was produced.
 ## Evidence references
 
 - EMAIL_9330 Lithium in My System — To SFPD and Attorneys Documented Record: https://chappaquapoison.com/evidence.html?id=EMAIL_9330
-- ExI_03 Redwood Toxicology urine report — collected March 7, 2018 Laboratory report: https://chappaquapoison.com/evidence.html?id=ExI_03
 - EMAIL_9755 Walsh v. Russell — Drugging Summary to Aunt K: https://chappaquapoison.com/evidence.html?id=EMAIL_9755
 - EMAIL_9243 Lithium in My System — To Attorney Katherine Chesnut: https://chappaquapoison.com/evidence.html?id=EMAIL_9243
 - SLE-096 Nanny catches Mom “putting pills” in Dad’s wine. Testifies that Mom fired her for alerting him to the situation.: https://chappaquapoison.com/evidence.html?id=SLE-096

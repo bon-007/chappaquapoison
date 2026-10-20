@@ -38,10 +38,10 @@ It was not the look of someone who thought the screws were paranoid. It was the 
 “That’s good,” Bryan said. “Keep doing that.”
 SWORN DECLARATION
 July 2018
-Court Filing — Russell v. Walsh
-Bryan Crutcher's sworn declaration documenting the security operation he ran for Steve Russell in New York — former NYPD drivers on rotating shifts, communication protocols, the infrastructure built around a man who believed his environment was not safe and was spending what it cost to make it safer.
-Bryan Crutcher Declaration, July 2018
-The sworn account of the man who sat in the quiet and said "Keep doing that." Filed in custody proceedings.
+San Francisco Superior Court — Russell and Walsh, FPT-18-377425
+Steve's own declaration, filed in San Francisco in July 2018. After learning Tara was pregnant, he writes, he paid for an apartment in Brooklyn, upgraded her medical insurance and found a specialist for her high-risk pregnancy; he went to her appointments, was present at the birth, and slept in a chair at the hospital through four days of recovery after the C-section. It names Bryan Crutcher as his chief of staff and the lead of his security team, a retired Vallejo police officer, and points the court to a declaration by Crutcher.
+Stephen Russell Declaration, July 2018
+Steve's sworn account of the pregnancy and the birth. Crutcher's own declaration, filed the same day, concerns San Francisco in May and June 2018; the New York routine in this chapter is Steve's own recollection.
 They sat in the quiet for a while.
 Tara had texted Steve’s mother the month before, December 21, the winter solstice. She told Linda Russell that Steve could not be listed as the father on the birth certificate if he was not at the hospital.
 The statement arrived as information. The implication arrived later: paternity itself was conditional. Not on biology, not on love, not on the nine months of flights and doctor’s appointments and wire transfers and worry, but on physical compliance. Be there or lose the name. The condition accomplished what effective coercion always accomplishes — it made the demand indistinguishable from a gift. Be present for your daughter’s birth. Who would refuse? Who would notice that the invitation carried a leash?
@@ -49,16 +49,16 @@ He was there.
 He was already there, in a cold apartment in Brooklyn with a retired cop and a precision screwdriver and fourteen screws set to a position on a clock that meant nothing to anyone but him.
 The city hummed outside the window. The radiator clicked. Bryan turned a page.
 Four days.
-On January 26, Tara texted Brienne from the hospital.
+On January 26, Tara texted her brother from the hospital.
 “At hospital! Blood pressure was too high, in triage waiting to be seen.”
 Then, half an hour later: “They said most likely they will section me today.”
 Then, at 10:07 PM: “C section tonight!”
-Brienne
+Brendan
 iMessage
 Friday, January 26, 2018
 Tara
 At hospital! Blood pressure was too high- in triage waiting to be seen
-Brienne
+Brendan
 Wow
 Tara
 They said most likely they will section me today
@@ -66,19 +66,19 @@ Ouch Iv needle killing me
 C section tonight! Mom and Dad coming to hospital
 It's crazy I will have a baby on a few hours
 I'm honestly so stressed out with you and Brie fighting with Steve and this is the most important moment of my life. I just wish you could put aside your difference for a short while for the sake of me and my daughter.
-Brienne
+Brendan
 K. I will be coming
 Tara
 Ok I love you very much ❤🖤
-Tara Walsh to Brienne Walsh, January 26–27, 2018
-Evie's birth in real time. The Backup archive, Russell v. Walsh.
+Tara Walsh to her brother, January 26–27, 2018
+Evie's birth in real time, from Tara's iMessage archive. The export files this thread under Brienne's name; in these messages the other sibling asks Tara whether she has heard from Brienne.
 Evie was born on January 27, 2018. Steve was there. The tamper screws were still set to eleven o’clock. Bryan was downstairs. The driver was in the car. The security infrastructure that had been built to protect a man from the woman carrying his child now surrounded the hospital where that child entered the world.
 The screwdriver was still in his jacket pocket.
 
 ## Evidence references
 
-- G-34 Russell Supplemental Declaration ISO DVRO — Surreptitious Recordings, Blackmail, Sweet Revenge (July 2019) Sworn Under Oath: https://chappaquapoison.com/evidence.html?id=G-34
-- MSG-BRIENNE-013 Evie's Birth Through Brienne's Lens — Hospital Plea (Jan 26-27, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-BRIENNE-013
+- PDF_SF_DVRO_JUL2018 San Francisco DVRO/RFO packet, July 2018 (DV-130 Restraining Order After Hearing; FL-300 Request for Order; Lerner Poole) Court forms packet: https://chappaquapoison.com/evidence.html?id=PDF_SF_DVRO_JUL2018
+- MSG-BRIENNE-013 Evie's Birth in Real Time — Tara's Hospital Messages to Her Brother (Jan 26-27, 2018) Device forensic extraction: https://chappaquapoison.com/evidence.html?id=MSG-BRIENNE-013
 - D-31 Russell email Ackerman Security: https://chappaquapoison.com/evidence.html?id=D-31
 - EB1_P065 Book 1 Image 32/69 — Brooklyn apartment interior — dark velvet sectional sofa, ma: https://chappaquapoison.com/evidence.html?id=EB1_P065
 - EB1_P129 Book 1 Image 64/69 — JetBlue boarding pass screenshot — SFO to JFK, Terminal Inte: https://chappaquapoison.com/evidence.html?id=EB1_P129
